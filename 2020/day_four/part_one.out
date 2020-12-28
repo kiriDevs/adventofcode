@@ -1,0 +1,599 @@
+001.:   Valid
+
+002.:   Valid
+
+003.: Missing byr
+003.: Missing eyr
+003.: Invalid
+
+004.:   Valid
+
+005.:   Valid
+
+006.:   Valid
+
+007.: Missing hgt
+007.: Invalid
+
+008.:   Valid
+
+009.:   Valid
+
+010.:   Valid
+
+011.:   Valid
+
+012.:   Valid
+
+013.:   Valid
+
+014.:   Valid
+
+015.:   Valid
+
+016.:   Valid
+
+017.:   Valid
+
+018.:   Valid
+
+019.:   Valid
+
+020.:   Valid
+
+021.:   Valid
+
+022.:   Valid
+
+023.:   Valid
+
+024.: Missing eyr
+024.: Invalid
+
+025.:   Valid
+
+026.:   Valid
+
+027.:   Valid
+
+028.:   Valid
+
+029.:   Valid
+
+030.:   Valid
+
+031.:   Valid
+
+032.:   Valid
+
+033.: Missing eyr
+033.: Invalid
+
+034.:   Valid
+
+035.:   Valid
+
+036.: Missing byr
+036.: Invalid
+
+037.:   Valid
+
+038.:   Valid
+
+039.:   Valid
+
+040.: Missing ecl
+040.: Invalid
+
+041.:   Valid
+
+042.: Missing pid
+042.: Invalid
+
+043.:   Valid
+
+044.:   Valid
+
+045.:   Valid
+
+046.:   Valid
+
+047.:   Valid
+
+048.:   Valid
+
+049.:   Valid
+
+050.:   Valid
+
+051.:   Valid
+
+052.:   Valid
+
+053.: Missing hgt
+053.: Invalid
+
+054.:   Valid
+
+055.:   Valid
+
+056.:   Valid
+
+057.: Missing iyr
+057.: Invalid
+
+058.:   Valid
+
+059.:   Valid
+
+060.:   Valid
+
+061.: Missing ecl
+061.: Invalid
+
+062.:   Valid
+
+063.:   Valid
+
+064.:   Valid
+
+065.:   Valid
+
+066.:   Valid
+
+067.:   Valid
+
+068.:   Valid
+
+069.:   Valid
+
+070.:   Valid
+
+071.:   Valid
+
+072.:   Valid
+
+073.:   Valid
+
+074.:   Valid
+
+075.:   Valid
+
+076.:   Valid
+
+077.:   Valid
+
+078.:   Valid
+
+079.:   Valid
+
+080.:   Valid
+
+081.:   Valid
+
+082.:   Valid
+
+083.:   Valid
+
+084.: Missing ecl
+084.: Invalid
+
+085.:   Valid
+
+086.:   Valid
+
+087.:   Valid
+
+088.:   Valid
+
+089.: Missing hgt
+089.: Invalid
+
+090.:   Valid
+
+091.: Missing hcl
+091.: Invalid
+
+092.: Missing hcl
+092.: Invalid
+
+093.:   Valid
+
+094.:   Valid
+
+095.:   Valid
+
+096.:   Valid
+
+097.:   Valid
+
+098.: Missing iyr
+098.: Invalid
+
+099.:   Valid
+
+100.:   Valid
+
+101.:   Valid
+
+102.:   Valid
+
+103.:   Valid
+
+104.:   Valid
+
+105.:   Valid
+
+106.:   Valid
+
+107.:   Valid
+
+108.:   Valid
+
+109.:   Valid
+
+110.:   Valid
+
+111.:   Valid
+
+112.:   Valid
+
+113.:   Valid
+
+114.:   Valid
+
+115.:   Valid
+
+116.: Missing hgt
+116.: Invalid
+
+117.:   Valid
+
+118.:   Valid
+
+119.:   Valid
+
+120.: Missing eyr
+120.: Invalid
+
+121.:   Valid
+
+122.: Missing iyr
+122.: Invalid
+
+123.:   Valid
+
+124.:   Valid
+
+125.:   Valid
+
+126.:   Valid
+
+127.:   Valid
+
+128.:   Valid
+
+129.:   Valid
+
+130.:   Valid
+
+131.:   Valid
+
+132.: Missing hcl
+132.: Invalid
+
+133.:   Valid
+
+134.:   Valid
+
+135.:   Valid
+
+136.:   Valid
+
+137.:   Valid
+
+138.:   Valid
+
+139.:   Valid
+
+140.:   Valid
+
+141.:   Valid
+
+142.: Missing pid
+142.: Invalid
+
+143.:   Valid
+
+144.:   Valid
+
+145.:   Valid
+
+146.:   Valid
+
+147.:   Valid
+
+148.:   Valid
+
+149.:   Valid
+
+150.:   Valid
+
+151.:   Valid
+
+152.:   Valid
+
+153.: Missing ecl
+153.: Invalid
+
+154.:   Valid
+
+155.:   Valid
+
+156.:   Valid
+
+157.:   Valid
+
+158.:   Valid
+
+159.:   Valid
+
+160.:   Valid
+
+161.:   Valid
+
+162.:   Valid
+
+163.:   Valid
+
+164.: Missing byr
+164.: Missing eyr
+164.: Invalid
+
+165.:   Valid
+
+166.:   Valid
+
+167.:   Valid
+
+168.:   Valid
+
+169.:   Valid
+
+170.:   Valid
+
+171.:   Valid
+
+172.:   Valid
+
+173.:   Valid
+
+174.:   Valid
+
+175.:   Valid
+
+176.:   Valid
+
+177.: Missing iyr
+177.: Invalid
+
+178.:   Valid
+
+179.:   Valid
+
+180.:   Valid
+
+181.:   Valid
+
+182.:   Valid
+
+183.:   Valid
+
+184.:   Valid
+
+185.:   Valid
+
+186.:   Valid
+
+187.:   Valid
+
+188.:   Valid
+
+189.:   Valid
+
+190.:   Valid
+
+191.:   Valid
+
+192.:   Valid
+
+193.:   Valid
+
+194.:   Valid
+
+195.:   Valid
+
+196.:   Valid
+
+197.:   Valid
+
+198.:   Valid
+
+199.:   Valid
+
+200.:   Valid
+
+201.:   Valid
+
+202.:   Valid
+
+203.:   Valid
+
+204.:   Valid
+
+205.:   Valid
+
+206.: Missing ecl
+206.: Invalid
+
+207.:   Valid
+
+208.:   Valid
+
+209.:   Valid
+
+210.:   Valid
+
+211.:   Valid
+
+212.:   Valid
+
+213.:   Valid
+
+214.:   Valid
+
+215.:   Valid
+
+216.:   Valid
+
+217.: Missing eyr
+217.: Invalid
+
+218.:   Valid
+
+219.: Missing eyr
+219.: Invalid
+
+220.:   Valid
+
+221.:   Valid
+
+222.:   Valid
+
+223.:   Valid
+
+224.:   Valid
+
+225.:   Valid
+
+226.:   Valid
+
+227.:   Valid
+
+228.:   Valid
+
+229.: Missing iyr
+229.: Invalid
+
+230.:   Valid
+
+231.:   Valid
+
+232.:   Valid
+
+233.:   Valid
+
+234.:   Valid
+
+235.:   Valid
+
+236.:   Valid
+
+237.:   Valid
+
+238.:   Valid
+
+239.:   Valid
+
+240.:   Valid
+
+241.:   Valid
+
+242.:   Valid
+
+243.:   Valid
+
+244.:   Valid
+
+245.:   Valid
+
+246.:   Valid
+
+247.:   Valid
+
+248.:   Valid
+
+249.:   Valid
+
+250.:   Valid
+
+251.:   Valid
+
+252.:   Valid
+
+253.:   Valid
+
+254.:   Valid
+
+255.: Missing pid
+255.: Invalid
+
+256.:   Valid
+
+257.: Missing iyr
+257.: Invalid
+
+258.:   Valid
+
+259.:   Valid
+
+260.:   Valid
+
+261.:   Valid
+
+262.:   Valid
+
+263.:   Valid
+
+264.: Missing hcl
+264.: Invalid
+
+265.:   Valid
+
+266.:   Valid
+
+267.:   Valid
+
+268.:   Valid
+
+269.:   Valid
+
+270.:   Valid
+
+271.:   Valid
+
+272.:   Valid
+
+273.:   Valid
+
+274.:   Valid
+
+275.:   Valid
+
+276.: Missing ecl
+276.: Invalid
+
+277.:   Valid
+
+278.:   Valid
+
+279.:   Valid
+
+280.:   Valid
+
+281.: Missing ecl
+281.: Invalid
+
+282.:   Valid
+
+Validated a total of 282, of which 250 were valid!
