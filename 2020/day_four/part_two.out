@@ -1,0 +1,987 @@
+001.:   Valid
+
+002.:   Valid
+
+003.: Missing byr
+003.: Missing eyr
+003.: Invalid
+
+004.:   Valid
+
+005.:   Valid
+
+006.:   Valid
+
+007.: Missing hgt
+007.: Invalid
+
+008.:   Valid
+
+009.:   Valid
+
+010.:   Valid
+
+011.: Invalid Birth Year
+011.: Invalid Issue Year
+011.: Invalid Expiration Year
+011.: Invalid Height
+011.: Invalid Hair Color
+011.: Invalid Eye color
+011.: Invalid Passport ID
+011.: Invalid Passport ID
+011.: Invalid
+
+012.:   Valid
+
+013.: Invalid Birth Year
+013.: Invalid Issue Year
+013.: Invalid Eye color
+013.: Invalid
+
+014.: Invalid Birth Year
+014.: Invalid Issue Year
+014.: Invalid Expiration Year
+014.: Invalid Height
+014.: Invalid Hair Color
+014.: Invalid Eye color
+014.: Invalid Passport ID
+014.: Invalid Passport ID
+014.: Invalid
+
+015.: Invalid Birth Year
+015.: Invalid Issue Year
+015.: Invalid Expiration Year
+015.: Invalid Height
+015.: Invalid Hair Color
+015.: Invalid Eye color
+015.: Invalid Passport ID
+015.: Invalid Passport ID
+015.: Invalid
+
+016.: Invalid Birth Year
+016.: Invalid Issue Year
+016.: Invalid Height
+016.: Invalid Hair Color
+016.: Invalid Eye color
+016.: Invalid Passport ID
+016.: Invalid
+
+017.: Invalid Birth Year
+017.: Invalid Issue Year
+017.: Invalid Eye color
+017.: Invalid Passport ID
+017.: Invalid
+
+018.: Invalid Birth Year
+018.: Invalid Issue Year
+018.: Invalid Expiration Year
+018.: Invalid Hair Color
+018.: Invalid Eye color
+018.: Invalid Passport ID
+018.: Invalid Passport ID
+018.: Invalid
+
+019.:   Valid
+
+020.: Invalid Expiration Year
+020.: Invalid Height
+020.: Invalid Eye color
+020.: Invalid
+
+021.:   Valid
+
+022.:   Valid
+
+023.:   Valid
+
+024.: Missing eyr
+024.: Invalid
+
+025.: Invalid Birth Year
+025.: Invalid Issue Year
+025.: Invalid Expiration Year
+025.: Invalid Height
+025.: Invalid Hair Color
+025.: Invalid Eye color
+025.: Invalid Passport ID
+025.: Invalid Passport ID
+025.: Invalid
+
+026.: Invalid Birth Year
+026.: Invalid Issue Year
+026.: Invalid Expiration Year
+026.: Invalid Height
+026.: Invalid Hair Color
+026.: Invalid Eye color
+026.: Invalid Passport ID
+026.: Invalid
+
+027.:   Valid
+
+028.: Invalid Birth Year
+028.: Invalid Issue Year
+028.: Invalid Expiration Year
+028.: Invalid Height
+028.: Invalid Hair Color
+028.: Invalid Eye color
+028.: Invalid Passport ID
+028.: Invalid Passport ID
+028.: Invalid
+
+029.: Invalid Birth Year
+029.: Invalid Height
+029.: Invalid
+
+030.: Invalid Birth Year
+030.: Invalid Height
+030.: Invalid Passport ID
+030.: Invalid Passport ID
+030.: Invalid
+
+031.: Invalid Height
+031.: Invalid Eye color
+031.: Invalid
+
+032.:   Valid
+
+033.: Missing eyr
+033.: Invalid
+
+034.:   Valid
+
+035.:   Valid
+
+036.: Missing byr
+036.: Invalid
+
+037.: Invalid Birth Year
+037.: Invalid Issue Year
+037.: Invalid Expiration Year
+037.: Invalid Height
+037.: Invalid Eye color
+037.: Invalid
+
+038.: Invalid Hair Color
+038.: Invalid Passport ID
+038.: Invalid Passport ID
+038.: Invalid
+
+039.: Invalid Birth Year
+039.: Invalid Expiration Year
+039.: Invalid Height
+039.: Invalid
+
+040.: Missing ecl
+040.: Invalid
+
+041.: Invalid Hair Color
+041.: Invalid
+
+042.: Missing pid
+042.: Invalid
+
+043.: Invalid Expiration Year
+043.: Invalid Height
+043.: Invalid Eye color
+043.: Invalid Passport ID
+043.: Invalid Passport ID
+043.: Invalid
+
+044.:   Valid
+
+045.:   Valid
+
+046.:   Valid
+
+047.:   Valid
+
+048.:   Valid
+
+049.:   Valid
+
+050.:   Valid
+
+051.:   Valid
+
+052.: Invalid Issue Year
+052.: Invalid Expiration Year
+052.: Invalid Eye color
+052.: Invalid
+
+053.: Missing hgt
+053.: Invalid
+
+054.:   Valid
+
+055.:   Valid
+
+056.:   Valid
+
+057.: Missing iyr
+057.: Invalid
+
+058.: Invalid Eye color
+058.: Invalid
+
+059.:   Valid
+
+060.:   Valid
+
+061.: Missing ecl
+061.: Invalid
+
+062.:   Valid
+
+063.:   Valid
+
+064.:   Valid
+
+065.:   Valid
+
+066.:   Valid
+
+067.: Invalid Hair Color
+067.: Invalid Eye color
+067.: Invalid
+
+068.: Invalid Hair Color
+068.: Invalid Eye color
+068.: Invalid
+
+069.:   Valid
+
+070.:   Valid
+
+071.:   Valid
+
+072.: Invalid Expiration Year
+072.: Invalid
+
+073.:   Valid
+
+074.: Invalid Birth Year
+074.: Invalid Expiration Year
+074.: Invalid Height
+074.: Invalid Hair Color
+074.: Invalid
+
+075.:   Valid
+
+076.: Invalid Issue Year
+076.: Invalid Expiration Year
+076.: Invalid Height
+076.: Invalid Hair Color
+076.: Invalid Eye color
+076.: Invalid Passport ID
+076.: Invalid Passport ID
+076.: Invalid
+
+077.: Invalid Eye color
+077.: Invalid
+
+078.:   Valid
+
+079.: Invalid Birth Year
+079.: Invalid Issue Year
+079.: Invalid Expiration Year
+079.: Invalid Height
+079.: Invalid Hair Color
+079.: Invalid Eye color
+079.: Invalid
+
+080.:   Valid
+
+081.: Invalid Passport ID
+081.: Invalid Passport ID
+081.: Invalid
+
+082.:   Valid
+
+083.:   Valid
+
+084.: Missing ecl
+084.: Invalid
+
+085.: Invalid Birth Year
+085.: Invalid Issue Year
+085.: Invalid Expiration Year
+085.: Invalid Height
+085.: Invalid Hair Color
+085.: Invalid Passport ID
+085.: Invalid
+
+086.:   Valid
+
+087.:   Valid
+
+088.:   Valid
+
+089.: Missing hgt
+089.: Invalid
+
+090.:   Valid
+
+091.: Missing hcl
+091.: Invalid
+
+092.: Missing hcl
+092.: Invalid
+
+093.:   Valid
+
+094.: Invalid Birth Year
+094.: Invalid Issue Year
+094.: Invalid Expiration Year
+094.: Invalid Height
+094.: Invalid Hair Color
+094.: Invalid Eye color
+094.: Invalid Passport ID
+094.: Invalid Passport ID
+094.: Invalid
+
+095.:   Valid
+
+096.:   Valid
+
+097.: Invalid Passport ID
+097.: Invalid
+
+098.: Missing iyr
+098.: Invalid
+
+099.: Invalid Birth Year
+099.: Invalid Issue Year
+099.: Invalid Expiration Year
+099.: Invalid Eye color
+099.: Invalid
+
+100.:   Valid
+
+101.:   Valid
+
+102.:   Valid
+
+103.:   Valid
+
+104.: Invalid Issue Year
+104.: Invalid Expiration Year
+104.: Invalid Hair Color
+104.: Invalid Passport ID
+104.: Invalid
+
+105.: Invalid Expiration Year
+105.: Invalid Height
+105.: Invalid Eye color
+105.: Invalid
+
+106.: Invalid Height
+106.: Invalid
+
+107.:   Valid
+
+108.: Invalid Birth Year
+108.: Invalid Issue Year
+108.: Invalid Expiration Year
+108.: Invalid Height
+108.: Invalid Hair Color
+108.: Invalid Eye color
+108.: Invalid Passport ID
+108.: Invalid Passport ID
+108.: Invalid
+
+109.: Invalid Height
+109.: Invalid Hair Color
+109.: Invalid
+
+110.: Invalid Issue Year
+110.: Invalid Expiration Year
+110.: Invalid Height
+110.: Invalid Hair Color
+110.: Invalid Eye color
+110.: Invalid Passport ID
+110.: Invalid
+
+111.: Invalid Height
+111.: Invalid
+
+112.:   Valid
+
+113.:   Valid
+
+114.: Invalid Birth Year
+114.: Invalid Expiration Year
+114.: Invalid Height
+114.: Invalid Hair Color
+114.: Invalid Eye color
+114.: Invalid Passport ID
+114.: Invalid Passport ID
+114.: Invalid
+
+115.: Invalid Birth Year
+115.: Invalid Issue Year
+115.: Invalid Expiration Year
+115.: Invalid Height
+115.: Invalid Eye color
+115.: Invalid Passport ID
+115.: Invalid
+
+116.: Missing hgt
+116.: Invalid
+
+117.:   Valid
+
+118.: Invalid Birth Year
+118.: Invalid Issue Year
+118.: Invalid Expiration Year
+118.: Invalid Hair Color
+118.: Invalid Passport ID
+118.: Invalid Passport ID
+118.: Invalid
+
+119.:   Valid
+
+120.: Missing eyr
+120.: Invalid
+
+121.:   Valid
+
+122.: Missing iyr
+122.: Invalid
+
+123.: Invalid Expiration Year
+123.: Invalid Passport ID
+123.: Invalid
+
+124.:   Valid
+
+125.:   Valid
+
+126.:   Valid
+
+127.: Invalid Birth Year
+127.: Invalid Issue Year
+127.: Invalid Expiration Year
+127.: Invalid Height
+127.: Invalid Hair Color
+127.: Invalid Eye color
+127.: Invalid Passport ID
+127.: Invalid
+
+128.: Invalid Passport ID
+128.: Invalid
+
+129.:   Valid
+
+130.:   Valid
+
+131.:   Valid
+
+132.: Missing hcl
+132.: Invalid
+
+133.: Invalid Issue Year
+133.: Invalid Expiration Year
+133.: Invalid Height
+133.: Invalid Hair Color
+133.: Invalid Eye color
+133.: Invalid
+
+134.: Invalid Birth Year
+134.: Invalid Height
+134.: Invalid
+
+135.:   Valid
+
+136.:   Valid
+
+137.:   Valid
+
+138.: Invalid Hair Color
+138.: Invalid Eye color
+138.: Invalid
+
+139.:   Valid
+
+140.:   Valid
+
+141.: Invalid Birth Year
+141.: Invalid Issue Year
+141.: Invalid Expiration Year
+141.: Invalid Height
+141.: Invalid Hair Color
+141.: Invalid Eye color
+141.: Invalid
+
+142.: Missing pid
+142.: Invalid
+
+143.:   Valid
+
+144.: Invalid Birth Year
+144.: Invalid Issue Year
+144.: Invalid Expiration Year
+144.: Invalid Height
+144.: Invalid Hair Color
+144.: Invalid Eye color
+144.: Invalid Passport ID
+144.: Invalid
+
+145.:   Valid
+
+146.:   Valid
+
+147.:   Valid
+
+148.:   Valid
+
+149.:   Valid
+
+150.:   Valid
+
+151.: Invalid Issue Year
+151.: Invalid Expiration Year
+151.: Invalid Eye color
+151.: Invalid Passport ID
+151.: Invalid Passport ID
+151.: Invalid
+
+152.:   Valid
+
+153.: Missing ecl
+153.: Invalid
+
+154.:   Valid
+
+155.:   Valid
+
+156.: Invalid Birth Year
+156.: Invalid Issue Year
+156.: Invalid Expiration Year
+156.: Invalid Height
+156.: Invalid Hair Color
+156.: Invalid Passport ID
+156.: Invalid
+
+157.:   Valid
+
+158.: Invalid Birth Year
+158.: Invalid Expiration Year
+158.: Invalid Eye color
+158.: Invalid
+
+159.: Invalid Issue Year
+159.: Invalid Expiration Year
+159.: Invalid Eye color
+159.: Invalid
+
+160.:   Valid
+
+161.: Invalid Issue Year
+161.: Invalid Expiration Year
+161.: Invalid Height
+161.: Invalid Hair Color
+161.: Invalid Eye color
+161.: Invalid Passport ID
+161.: Invalid
+
+162.:   Valid
+
+163.:   Valid
+
+164.: Missing byr
+164.: Missing eyr
+164.: Invalid
+
+165.: Invalid Birth Year
+165.: Invalid Issue Year
+165.: Invalid Expiration Year
+165.: Invalid Eye color
+165.: Invalid Passport ID
+165.: Invalid Passport ID
+165.: Invalid
+
+166.:   Valid
+
+167.:   Valid
+
+168.:   Valid
+
+169.:   Valid
+
+170.: Invalid Birth Year
+170.: Invalid Issue Year
+170.: Invalid Expiration Year
+170.: Invalid Height
+170.: Invalid Hair Color
+170.: Invalid Eye color
+170.: Invalid
+
+171.: Invalid Birth Year
+171.: Invalid Issue Year
+171.: Invalid Expiration Year
+171.: Invalid Height
+171.: Invalid Hair Color
+171.: Invalid Eye color
+171.: Invalid Passport ID
+171.: Invalid
+
+172.: Invalid Birth Year
+172.: Invalid Issue Year
+172.: Invalid Expiration Year
+172.: Invalid Height
+172.: Invalid Hair Color
+172.: Invalid Eye color
+172.: Invalid Passport ID
+172.: Invalid Passport ID
+172.: Invalid
+
+173.:   Valid
+
+174.:   Valid
+
+175.: Invalid Expiration Year
+175.: Invalid Height
+175.: Invalid Hair Color
+175.: Invalid Eye color
+175.: Invalid Passport ID
+175.: Invalid Passport ID
+175.: Invalid
+
+176.:   Valid
+
+177.: Missing iyr
+177.: Invalid
+
+178.:   Valid
+
+179.:   Valid
+
+180.:   Valid
+
+181.:   Valid
+
+182.:   Valid
+
+183.:   Valid
+
+184.:   Valid
+
+185.:   Valid
+
+186.: Invalid Birth Year
+186.: Invalid Issue Year
+186.: Invalid Expiration Year
+186.: Invalid Height
+186.: Invalid Hair Color
+186.: Invalid Eye color
+186.: Invalid Passport ID
+186.: Invalid
+
+187.:   Valid
+
+188.: Invalid Birth Year
+188.: Invalid Height
+188.: Invalid
+
+189.:   Valid
+
+190.:   Valid
+
+191.: Invalid Birth Year
+191.: Invalid Issue Year
+191.: Invalid Hair Color
+191.: Invalid Eye color
+191.: Invalid Passport ID
+191.: Invalid Passport ID
+191.: Invalid
+
+192.: Invalid Birth Year
+192.: Invalid
+
+193.:   Valid
+
+194.: Invalid Issue Year
+194.: Invalid Expiration Year
+194.: Invalid Height
+194.: Invalid
+
+195.: Invalid Issue Year
+195.: Invalid Expiration Year
+195.: Invalid Eye color
+195.: Invalid Passport ID
+195.: Invalid
+
+196.: Invalid Birth Year
+196.: Invalid Issue Year
+196.: Invalid Expiration Year
+196.: Invalid Height
+196.: Invalid Eye color
+196.: Invalid Passport ID
+196.: Invalid
+
+197.:   Valid
+
+198.:   Valid
+
+199.: Invalid Birth Year
+199.: Invalid Expiration Year
+199.: Invalid Hair Color
+199.: Invalid Eye color
+199.: Invalid
+
+200.: Invalid Hair Color
+200.: Invalid
+
+201.:   Valid
+
+202.:   Valid
+
+203.:   Valid
+
+204.:   Valid
+
+205.:   Valid
+
+206.: Missing ecl
+206.: Invalid
+
+207.:   Valid
+
+208.:   Valid
+
+209.:   Valid
+
+210.:   Valid
+
+211.:   Valid
+
+212.: Invalid Issue Year
+212.: Invalid Expiration Year
+212.: Invalid Hair Color
+212.: Invalid
+
+213.:   Valid
+
+214.:   Valid
+
+215.: Invalid Issue Year
+215.: Invalid Eye color
+215.: Invalid
+
+216.:   Valid
+
+217.: Missing eyr
+217.: Invalid
+
+218.: Invalid Issue Year
+218.: Invalid
+
+219.: Missing eyr
+219.: Invalid
+
+220.: Invalid Birth Year
+220.: Invalid Issue Year
+220.: Invalid Expiration Year
+220.: Invalid Height
+220.: Invalid Hair Color
+220.: Invalid Eye color
+220.: Invalid Passport ID
+220.: Invalid
+
+221.:   Valid
+
+222.:   Valid
+
+223.:   Valid
+
+224.:   Valid
+
+225.:   Valid
+
+226.: Invalid Issue Year
+226.: Invalid
+
+227.:   Valid
+
+228.: Invalid Height
+228.: Invalid
+
+229.: Missing iyr
+229.: Invalid
+
+230.: Invalid Issue Year
+230.: Invalid Height
+230.: Invalid Passport ID
+230.: Invalid Passport ID
+230.: Invalid
+
+231.:   Valid
+
+232.: Invalid Birth Year
+232.: Invalid Issue Year
+232.: Invalid Expiration Year
+232.: Invalid Height
+232.: Invalid Hair Color
+232.: Invalid Eye color
+232.: Invalid Passport ID
+232.: Invalid Passport ID
+232.: Invalid
+
+233.:   Valid
+
+234.: Invalid Height
+234.: Invalid Hair Color
+234.: Invalid Eye color
+234.: Invalid
+
+235.:   Valid
+
+236.:   Valid
+
+237.:   Valid
+
+238.: Invalid Birth Year
+238.: Invalid Issue Year
+238.: Invalid Hair Color
+238.: Invalid Eye color
+238.: Invalid Passport ID
+238.: Invalid Passport ID
+238.: Invalid
+
+239.:   Valid
+
+240.: Invalid Birth Year
+240.: Invalid Issue Year
+240.: Invalid Expiration Year
+240.: Invalid Height
+240.: Invalid
+
+241.:   Valid
+
+242.:   Valid
+
+243.:   Valid
+
+244.:   Valid
+
+245.:   Valid
+
+246.: Invalid Passport ID
+246.: Invalid Passport ID
+246.: Invalid
+
+247.: Invalid Birth Year
+247.: Invalid Issue Year
+247.: Invalid Height
+247.: Invalid Hair Color
+247.: Invalid Eye color
+247.: Invalid Passport ID
+247.: Invalid Passport ID
+247.: Invalid
+
+248.: Invalid Birth Year
+248.: Invalid Issue Year
+248.: Invalid Height
+248.: Invalid Passport ID
+248.: Invalid
+
+249.:   Valid
+
+250.:   Valid
+
+251.: Invalid Birth Year
+251.: Invalid Expiration Year
+251.: Invalid Hair Color
+251.: Invalid Eye color
+251.: Invalid
+
+252.:   Valid
+
+253.:   Valid
+
+254.: Invalid Issue Year
+254.: Invalid Expiration Year
+254.: Invalid Height
+254.: Invalid Passport ID
+254.: Invalid
+
+255.: Missing pid
+255.: Invalid
+
+256.:   Valid
+
+257.: Missing iyr
+257.: Invalid
+
+258.: Invalid Birth Year
+258.: Invalid Hair Color
+258.: Invalid Passport ID
+258.: Invalid
+
+259.:   Valid
+
+260.:   Valid
+
+261.:   Valid
+
+262.:   Valid
+
+263.: Invalid Birth Year
+263.: Invalid Issue Year
+263.: Invalid Height
+263.: Invalid Hair Color
+263.: Invalid Eye color
+263.: Invalid Passport ID
+263.: Invalid
+
+264.: Missing hcl
+264.: Invalid
+
+265.: Invalid Birth Year
+265.: Invalid Eye color
+265.: Invalid
+
+266.:   Valid
+
+267.:   Valid
+
+268.:   Valid
+
+269.:   Valid
+
+270.:   Valid
+
+271.:   Valid
+
+272.: Invalid Birth Year
+272.: Invalid Hair Color
+272.: Invalid
+
+273.:   Valid
+
+274.: Invalid Issue Year
+274.: Invalid Hair Color
+274.: Invalid Passport ID
+274.: Invalid Passport ID
+274.: Invalid
+
+275.: Invalid Expiration Year
+275.: Invalid
+
+276.: Missing ecl
+276.: Invalid
+
+277.:   Valid
+
+278.:   Valid
+
+279.:   Valid
+
+280.:   Valid
+
+281.: Missing ecl
+281.: Invalid
+
+282.:   Valid
+
+Validated a total of 282, of which 158 were valid!
