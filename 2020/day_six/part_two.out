@@ -1,0 +1,4105 @@
+0.: Pre-Processing...
+0.: Finished preprocessing - total questions:
+[5]: ['c', 'j', 'k', 'u', 'e']
+0.: Post-Processing...
+0.: Finished postprocessing - unanimous questions:
+[1]: ['c']
+(Total: 0 + 1 = 1)
+
+
+1.: Pre-Processing...
+1.: Finished preprocessing - total questions:
+[24]: ['y', ' ', 's', 'j', 'i', 'r', 'c', 'x', 't', 'g', 'f', 'z', 'p', 'b', 'n', 'd', 'u', 'v', 'o', 'l', 'e', 'm', 'h', 'w']
+1.: Post-Processing...
+1.: Finished postprocessing - unanimous questions:
+[10]: ['y', 's', 'i', 'c', 'x', 't', 'g', 'f', 'z', 'p']
+(Total: 1 + 10 = 11)
+
+
+2.: Pre-Processing...
+2.: Finished preprocessing - total questions:
+[16]: ['b', 'a', 'c', 'q', 'd', 'j', 'h', 's', 'f', 't', 'm', 'x', 'l', 'o', 'e', 'g']
+2.: Post-Processing...
+2.: Finished postprocessing - unanimous questions:
+[9]: ['b', 'a', 'c', 'q', 'd', 'j', 'h', 's', 'f']
+(Total: 11 + 9 = 20)
+
+
+3.: Pre-Processing...
+3.: Finished preprocessing - total questions:
+[6]: ['p', 't', 'x', 'z', 'n', 'u']
+3.: Post-Processing...
+3.: Finished postprocessing - unanimous questions:
+[1]: ['t']
+(Total: 20 + 1 = 21)
+
+
+4.: Pre-Processing...
+4.: Finished preprocessing - total questions:
+[3]: ['z', 'j', 'n']
+4.: Post-Processing...
+4.: Finished postprocessing - unanimous questions:
+[3]: ['z', 'j', 'n']
+(Total: 21 + 3 = 24)
+
+
+5.: Pre-Processing...
+5.: Finished preprocessing - total questions:
+[3]: ['h', 'r', 'z']
+5.: Post-Processing...
+5.: Finished postprocessing - unanimous questions:
+[1]: ['h']
+(Total: 24 + 1 = 25)
+
+
+6.: Pre-Processing...
+6.: Finished preprocessing - total questions:
+[22]: ['c', 'f', 'q', 'u', 'r', 'm', 'l', 'x', 'n', 'z', 'h', 'p', 'y', 'w', 'j', 'a', 's', 'g', 'e', 'k', 't', 'o']
+6.: Post-Processing...
+6.: Finished postprocessing - unanimous questions:
+[5]: ['f', 'u', 'm', 'x', 'h']
+(Total: 25 + 5 = 30)
+
+
+7.: Pre-Processing...
+7.: Finished preprocessing - total questions:
+[7]: ['a', 'h', 'e', 't', 'v', 'r', 'q']
+7.: Post-Processing...
+7.: Finished postprocessing - unanimous questions:
+[1]: ['h']
+(Total: 30 + 1 = 31)
+
+
+8.: Pre-Processing...
+8.: Finished preprocessing - total questions:
+[8]: ['a', 'w', 'b', 't', 'e', 'j', 'n', 'u']
+8.: Post-Processing...
+8.: Finished postprocessing - unanimous questions:
+[5]: ['a', 'w', 'b', 't', 'e']
+(Total: 31 + 5 = 36)
+
+
+9.: Pre-Processing...
+9.: Finished preprocessing - total questions:
+[7]: ['v', 'l', 'z', 'r', 'q', 'y', 'e']
+9.: Post-Processing...
+9.: Finished postprocessing - unanimous questions:
+[2]: ['v', 'l']
+(Total: 36 + 2 = 38)
+
+
+10.: Pre-Processing...
+10.: Finished preprocessing - total questions:
+[6]: ['r', 'f', 'u', 'p', 'j', 'z']
+10.: Post-Processing...
+10.: Finished postprocessing - unanimous questions:
+[2]: ['r', 'u']
+(Total: 38 + 2 = 40)
+
+
+11.: Pre-Processing...
+11.: Finished preprocessing - total questions:
+[5]: ['f', 'o', 'n', 'i', 'w']
+11.: Post-Processing...
+11.: Finished postprocessing - unanimous questions:
+[3]: ['f', 'o', 'n']
+(Total: 40 + 3 = 43)
+
+
+12.: Pre-Processing...
+12.: Finished preprocessing - total questions:
+[25]: ['k', 'a', 'u', 'm', 'h', 'j', 'y', 'w', 'g', 't', 'v', 'z', 'n', 'd', 'c', 'i', 'r', 'e', 'q', 'l', 'x', 'o', 'b', 's', 'f']
+12.: Post-Processing...
+12.: Finished postprocessing - unanimous questions:
+[13]: ['k', 'a', 'u', 'm', 'h', 'y', 'g', 't', 'v', 'z', 'n', 'd', 'i']
+(Total: 43 + 13 = 56)
+
+
+13.: Pre-Processing...
+13.: Finished preprocessing - total questions:
+[25]: ['r', 'x', 'm', 'd', 'b', 'g', 'i', 'k', 'a', 'y', 'w', 'e', 'n', 't', 'q', 'v', 'z', 'h', 'f', 'o', 'l', 'c', 'p', 'u', 'j']
+13.: Post-Processing...
+13.: Finished postprocessing - unanimous questions:
+[25]: ['r', 'x', 'm', 'd', 'b', 'g', 'i', 'k', 'a', 'y', 'w', 'e', 'n', 't', 'q', 'v', 'z', 'h', 'f', 'o', 'l', 'c', 'p', 'u', 'j']
+(Total: 56 + 25 = 81)
+
+
+14.: Pre-Processing...
+14.: Finished preprocessing - total questions:
+[25]: ['g', 'd', 'h', 'i', 'q', 'a', 'z', 'w', 'c', 'v', 'm', 'o', 'u', 'p', 'l', 't', 'y', 'f', 'j', 'b', 'e', 'n', 'k', 'x', 'r']
+14.: Post-Processing...
+14.: Finished postprocessing - unanimous questions:
+[5]: ['q', 'a', 'w', 'c', 'v']
+(Total: 81 + 5 = 86)
+
+
+15.: Pre-Processing...
+15.: Finished preprocessing - total questions:
+[9]: ['d', 'm', 't', 'a', 'o', 'w', 'g', 'p', 'i']
+15.: Post-Processing...
+15.: Finished postprocessing - unanimous questions:
+[6]: ['d', 'm', 't', 'a', 'w', 'p']
+(Total: 86 + 6 = 92)
+
+
+16.: Pre-Processing...
+16.: Finished preprocessing - total questions:
+[9]: ['r', 'v', 'p', 'w', 'o', 's', 'h', 'm', 'f']
+16.: Post-Processing...
+16.: Finished postprocessing - unanimous questions:
+[7]: ['r', 'v', 'p', 'w', 's', 'h', 'm']
+(Total: 92 + 7 = 99)
+
+
+17.: Pre-Processing...
+17.: Finished preprocessing - total questions:
+[15]: ['a', 'x', 'm', 'h', 'd', 'q', 'z', 'c', 't', 'f', 's', 'p', 'g', 'e', 'u']
+17.: Post-Processing...
+17.: Finished postprocessing - unanimous questions:
+[14]: ['a', 'x', 'm', 'h', 'd', 'q', 'z', 'c', 't', 'f', 's', 'p', 'e', 'u']
+(Total: 99 + 14 = 113)
+
+
+18.: Pre-Processing...
+18.: Finished preprocessing - total questions:
+[24]: ['p', 't', 'r', 'y', 'j', 'v', 'u', 'f', 'g', 'l', 'a', 'x', 'm', 'q', 'w', 'o', 'n', 'c', 'k', 'b', 'd', 's', 'e', 'h']
+18.: Post-Processing...
+18.: Finished postprocessing - unanimous questions:
+[18]: ['p', 't', 'r', 'y', 'j', 'v', 'u', 'f', 'g', 'l', 'a', 'x', 'm', 'q', 'w', 'n', 'c', 'k']
+(Total: 113 + 18 = 131)
+
+
+19.: Pre-Processing...
+19.: Finished preprocessing - total questions:
+[21]: ['k', 'j', 'l', 'u', 'c', 'p', 'q', 'y', 's', 'r', 'b', 'e', 'o', 't', 'i', 'f', 'g', 'm', 'z', 'd', 'a']
+19.: Post-Processing...
+19.: Finished postprocessing - unanimous questions:
+[8]: ['k', 'l', 'c', 'p', 'q', 's', 'r', 'e']
+(Total: 131 + 8 = 139)
+
+
+20.: Pre-Processing...
+20.: Finished preprocessing - total questions:
+[25]: ['s', 'v', 'j', 'w', 'c', 'i', 'g', 'o', 'p', 'd', 'f', 'l', 'h', 'y', 'r', 'x', 'a', 'b', 'e', 'q', 'z', 'u', 'k', 'm', 't']
+20.: Post-Processing...
+20.: Finished postprocessing - unanimous questions:
+[12]: ['s', 'v', 'j', 'w', 'c', 'i', 'g', 'o', 'f', 'l', 'h', 'y']
+(Total: 139 + 12 = 151)
+
+
+21.: Pre-Processing...
+21.: Finished preprocessing - total questions:
+[15]: ['s', 'x', 'r', 'y', 'n', 'e', 'l', 'g', 'o', 'm', 't', 'u', 'f', 'k', 'b']
+21.: Post-Processing...
+21.: Finished postprocessing - unanimous questions:
+[5]: ['x', 'y', 'e', 'l', 'g']
+(Total: 151 + 5 = 156)
+
+
+22.: Pre-Processing...
+22.: Finished preprocessing - total questions:
+[24]: ['c', 'l', 'j', 's', 'h', 'b', 'x', 'n', 'a', 'e', 'q', 'r', 'i', 'v', 'u', 'p', 'w', 't', 'g', 'z', 'd', 'o', 'm', 'k']
+22.: Post-Processing...
+22.: Finished postprocessing - unanimous questions:
+[19]: ['c', 'l', 's', 'h', 'b', 'x', 'n', 'a', 'e', 'q', 'r', 'i', 'v', 'u', 'p', 'w', 't', 'g', 'z']
+(Total: 156 + 19 = 175)
+
+
+23.: Pre-Processing...
+23.: Finished preprocessing - total questions:
+[13]: ['f', 'n', 'g', 'c', 'r', 'i', 'h', 'y', 'k', 'v', 'p', 'd', 's']
+23.: Post-Processing...
+23.: Finished postprocessing - unanimous questions:
+[10]: ['f', 'n', 'g', 'c', 'r', 'i', 'h', 'y', 'k', 'v']
+(Total: 175 + 10 = 185)
+
+
+24.: Pre-Processing...
+24.: Finished preprocessing - total questions:
+[17]: ['r', 's', 'q', 'm', 'k', 'u', 'f', 'b', 'c', 'v', 'a', 'l', 'y', 'j', 'i', 'h', 'o']
+24.: Post-Processing...
+24.: Finished postprocessing - unanimous questions:
+[2]: ['s', 'k']
+(Total: 185 + 2 = 187)
+
+
+25.: Pre-Processing...
+25.: Finished preprocessing - total questions:
+[18]: ['k', 'n', 's', 'z', 'c', 'l', 'm', 'h', 'r', 'y', 'f', 'v', 'g', 'd', 't', 'w', 'j', 'q']
+25.: Post-Processing...
+25.: Finished postprocessing - unanimous questions:
+[12]: ['z', 'c', 'l', 'h', 'r', 'y', 'f', 'v', 'g', 'd', 'w', 'j']
+(Total: 187 + 12 = 199)
+
+
+26.: Pre-Processing...
+26.: Finished preprocessing - total questions:
+[18]: ['u', 'l', 'b', 'y', 'h', 'i', 'q', 'z', 's', 'm', 'k', 'e', 'n', 'w', 'f', 'c', 'p', 'o']
+26.: Post-Processing...
+26.: Finished postprocessing - unanimous questions:
+[4]: ['u', 'y', 'h', 'i']
+(Total: 199 + 4 = 203)
+
+
+27.: Pre-Processing...
+27.: Finished preprocessing - total questions:
+[25]: ['n', 'q', 'b', 'l', 'o', 'm', 'z', 'h', 'g', 't', 'i', 'k', 'd', 'w', 'j', 'p', 'c', 'a', 's', 'y', 'v', 'u', 'e', 'x', 'f']
+27.: Post-Processing...
+27.: Finished postprocessing - unanimous questions:
+[18]: ['n', 'q', 'b', 'o', 'm', 'z', 'h', 'g', 'i', 'k', 'j', 'c', 'a', 's', 'y', 'v', 'e', 'f']
+(Total: 203 + 18 = 221)
+
+
+28.: Pre-Processing...
+28.: Finished preprocessing - total questions:
+[26]: ['x', 'l', 'e', 'b', 'g', 't', 'j', 'p', 'z', 's', 'v', 'q', 'f', 'w', 'k', 'u', 'a', 'i', 'm', 'c', 'r', 'h', 'n', 'd', 'y', 'o']
+28.: Post-Processing...
+28.: Finished postprocessing - unanimous questions:
+[3]: ['l', 'b', 'p']
+(Total: 221 + 3 = 224)
+
+
+29.: Pre-Processing...
+29.: Finished preprocessing - total questions:
+[14]: ['r', 'z', 'q', 'p', 'a', 's', 'h', 'v', 'w', 'd', 'm', 'l', 'c', 'o']
+29.: Post-Processing...
+29.: Finished postprocessing - unanimous questions:
+[1]: ['q']
+(Total: 224 + 1 = 225)
+
+
+30.: Pre-Processing...
+30.: Finished preprocessing - total questions:
+[4]: ['h', 'k', 'x', 'i']
+30.: Post-Processing...
+30.: Finished postprocessing - unanimous questions:
+[4]: ['h', 'k', 'x', 'i']
+(Total: 225 + 4 = 229)
+
+
+31.: Pre-Processing...
+31.: Finished preprocessing - total questions:
+[20]: ['p', 'l', 'j', 'r', 'a', 'o', 'k', 'd', 'm', 'e', 'c', 'z', 'h', 't', 'q', 'f', 'g', 'b', 'n', 'u']
+31.: Post-Processing...
+31.: Finished postprocessing - unanimous questions:
+[5]: ['l', 'r', 'a', 'd', 'e']
+(Total: 229 + 5 = 234)
+
+
+32.: Pre-Processing...
+32.: Finished preprocessing - total questions:
+[23]: ['p', 'e', 'o', 'f', 'r', 'n', 'k', 'g', 'a', 'u', 'h', 'z', 'c', 't', 'w', 'l', 'd', 'j', 'b', 'm', 's', 'y', 'x']
+32.: Post-Processing...
+32.: Finished postprocessing - unanimous questions:
+[12]: ['o', 'f', 'r', 'n', 'k', 'g', 'u', 'h', 't', 'd', 'j', 'b']
+(Total: 234 + 12 = 246)
+
+
+33.: Pre-Processing...
+33.: Finished preprocessing - total questions:
+[23]: ['b', 'f', 'z', 'q', 'v', 'o', 'l', 'a', 'y', 'm', 's', 'x', 'u', 'e', 'n', 'i', 'j', 'h', 'g', 'c', 'r', 'w', 'p']
+33.: Post-Processing...
+33.: Finished postprocessing - unanimous questions:
+[13]: ['b', 'f', 'z', 'q', 'v', 'o', 'l', 'a', 'y', 's', 'x', 'u', 'e']
+(Total: 246 + 13 = 259)
+
+
+34.: Pre-Processing...
+34.: Finished preprocessing - total questions:
+[21]: ['j', 'i', 'p', 'a', 'v', 'c', 'l', 'b', 'e', 'h', 'x', 'r', 'n', 'g', 'd', 'w', 's', 'k', 'm', 'q', 't']
+34.: Post-Processing...
+34.: Finished postprocessing - unanimous questions:
+[12]: ['j', 'a', 'v', 'l', 'e', 'h', 'x', 'n', 'd', 'w', 's', 'k']
+(Total: 259 + 12 = 271)
+
+
+35.: Pre-Processing...
+35.: Finished preprocessing - total questions:
+[18]: ['i', 'x', 'r', 't', 'j', 'w', 'c', 'm', 'z', 'v', 'g', 'h', 'b', 'd', 'n', 'u', 'q', 's']
+35.: Post-Processing...
+35.: Finished postprocessing - unanimous questions:
+[3]: ['i', 'x', 'j']
+(Total: 271 + 3 = 274)
+
+
+36.: Pre-Processing...
+36.: Finished preprocessing - total questions:
+[18]: ['l', 'r', 'o', 'x', 'e', 's', 'm', 'f', 'q', 'd', 'b', 't', 'y', 'i', 'v', 'n', 'j', 'k']
+36.: Post-Processing...
+36.: Finished postprocessing - unanimous questions:
+[8]: ['l', 'r', 'o', 'e', 'f', 'q', 'd', 't']
+(Total: 274 + 8 = 282)
+
+
+37.: Pre-Processing...
+37.: Finished preprocessing - total questions:
+[4]: ['a', 'k', 'o', 'w']
+37.: Post-Processing...
+37.: Finished postprocessing - unanimous questions:
+[2]: ['a', 'k']
+(Total: 282 + 2 = 284)
+
+
+38.: Pre-Processing...
+38.: Finished preprocessing - total questions:
+[10]: ['p', 'n', 'j', 'k', 'v', 'o', 'x', 'a', 't', 'm']
+38.: Post-Processing...
+38.: Finished postprocessing - unanimous questions:
+[10]: ['p', 'n', 'j', 'k', 'v', 'o', 'x', 'a', 't', 'm']
+(Total: 284 + 10 = 294)
+
+
+39.: Pre-Processing...
+39.: Finished preprocessing - total questions:
+[8]: ['u', 'f', 'e', 'j', 'l', 't', 'w', 'q']
+39.: Post-Processing...
+39.: Finished postprocessing - unanimous questions:
+[8]: ['u', 'f', 'e', 'j', 'l', 't', 'w', 'q']
+(Total: 294 + 8 = 302)
+
+
+40.: Pre-Processing...
+40.: Finished preprocessing - total questions:
+[19]: ['u', 'c', 'o', 'l', 'e', 'q', 'm', 'y', 'x', 'f', 'w', 'z', 'h', 'n', 'r', 'i', 's', 'k', 't']
+40.: Post-Processing...
+40.: Finished postprocessing - unanimous questions:
+[19]: ['u', 'c', 'o', 'l', 'e', 'q', 'm', 'y', 'x', 'f', 'w', 'z', 'h', 'n', 'r', 'i', 's', 'k', 't']
+(Total: 302 + 19 = 321)
+
+
+41.: Pre-Processing...
+41.: Finished preprocessing - total questions:
+[23]: ['f', 'v', 'w', 'a', 'k', 'u', 'o', 'r', 'h', 'p', 'z', 'y', 'j', 'm', 'x', 'l', 't', 'd', 'e', 's', 'n', 'c', 'q']
+41.: Post-Processing...
+41.: Finished postprocessing - unanimous questions:
+[12]: ['f', 'w', 'a', 'k', 'o', 'h', 'p', 'z', 'j', 'm', 'x', 'l']
+(Total: 321 + 12 = 333)
+
+
+42.: Pre-Processing...
+42.: Finished preprocessing - total questions:
+[25]: ['g', 'u', 'o', 'y', 't', 'r', 'a', 'w', 's', 'i', 'e', 'x', 'k', 'n', 'q', 'p', 'z', 'v', 'c', 'j', 'b', 'l', 'm', 'd', 'f']
+42.: Post-Processing...
+42.: Finished postprocessing - unanimous questions:
+[9]: ['g', 'u', 'o', 't', 'a', 's', 'i', 'k', 'n']
+(Total: 333 + 9 = 342)
+
+
+43.: Pre-Processing...
+43.: Finished preprocessing - total questions:
+[6]: ['p', 'd', 't', 's', 'n', 'x']
+43.: Post-Processing...
+43.: Finished postprocessing - unanimous questions:
+[2]: ['s', 'n']
+(Total: 342 + 2 = 344)
+
+
+44.: Pre-Processing...
+44.: Finished preprocessing - total questions:
+[4]: ['i', 'g', 'n', 'd']
+44.: Post-Processing...
+44.: Finished postprocessing - unanimous questions:
+[3]: ['i', 'g', 'n']
+(Total: 344 + 3 = 347)
+
+
+45.: Pre-Processing...
+45.: Finished preprocessing - total questions:
+[16]: ['d', 'h', 'r', 'y', 'g', 'c', 'k', 's', 'n', 'i', 'e', 'b', 'p', 'o', 'q', 'x']
+45.: Post-Processing...
+45.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 347 + 0 = 347)
+
+
+46.: Pre-Processing...
+46.: Finished preprocessing - total questions:
+[21]: ['b', 'a', 'v', 's', 'r', 'f', 'c', 'n', 't', 'm', 'g', 'q', 'x', 'u', 'p', 'o', 'i', 'k', 'h', 'y', 'd']
+46.: Post-Processing...
+46.: Finished postprocessing - unanimous questions:
+[12]: ['b', 'a', 'v', 's', 'f', 'c', 'n', 'm', 'g', 'q', 'x', 'u']
+(Total: 347 + 12 = 359)
+
+
+47.: Pre-Processing...
+47.: Finished preprocessing - total questions:
+[4]: ['k', 'j', 'n', 'h']
+47.: Post-Processing...
+47.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 359 + 0 = 359)
+
+
+48.: Pre-Processing...
+48.: Finished preprocessing - total questions:
+[7]: ['m', 'j', 's', 'f', 'l', 'o', 'i']
+48.: Post-Processing...
+48.: Finished postprocessing - unanimous questions:
+[3]: ['m', 'j', 's']
+(Total: 359 + 3 = 362)
+
+
+49.: Pre-Processing...
+49.: Finished preprocessing - total questions:
+[15]: ['u', 'm', 'd', 'o', 'i', 'q', 'a', 'b', 'c', 'r', 'h', 'l', 'y', 'f', 's']
+49.: Post-Processing...
+49.: Finished postprocessing - unanimous questions:
+[13]: ['u', 'm', 'd', 'o', 'i', 'q', 'a', 'b', 'c', 'h', 'l', 'y', 'f']
+(Total: 362 + 13 = 375)
+
+
+50.: Pre-Processing...
+50.: Finished preprocessing - total questions:
+[19]: ['w', 'u', 'v', 'y', 'm', 'b', 'g', 'h', 'i', 't', 'r', 'e', 'l', 'a', 'z', 'p', 'o', 'k', 's']
+50.: Post-Processing...
+50.: Finished postprocessing - unanimous questions:
+[15]: ['w', 'u', 'v', 'm', 'b', 'g', 'h', 'i', 't', 'r', 'e', 'l', 'z', 'p', 'k']
+(Total: 375 + 15 = 390)
+
+
+51.: Pre-Processing...
+51.: Finished preprocessing - total questions:
+[5]: ['g', 'f', 'd', 'j', 'b']
+51.: Post-Processing...
+51.: Finished postprocessing - unanimous questions:
+[5]: ['g', 'f', 'd', 'j', 'b']
+(Total: 390 + 5 = 395)
+
+
+52.: Pre-Processing...
+52.: Finished preprocessing - total questions:
+[26]: ['j', 'd', 'x', 'g', 'h', 'i', 'p', 'm', 'o', 'r', 'l', 'v', 'f', 'z', 'w', 'q', 'c', 'b', 'e', 'n', 's', 't', 'a', 'u', 'y', 'k']
+52.: Post-Processing...
+52.: Finished postprocessing - unanimous questions:
+[11]: ['j', 'd', 'i', 'p', 'm', 'o', 'r', 'l', 'f', 'z', 'w']
+(Total: 395 + 11 = 406)
+
+
+53.: Pre-Processing...
+53.: Finished preprocessing - total questions:
+[17]: ['l', 'a', 'i', 'e', 'g', 'd', 'k', 'n', 'v', 'h', 'q', 'z', 'x', 's', 'c', 'u', 'f']
+53.: Post-Processing...
+53.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 406 + 0 = 406)
+
+
+54.: Pre-Processing...
+54.: Finished preprocessing - total questions:
+[10]: ['u', 'b', 't', 'd', 'o', 'n', 'g', 'y', 's', 'r']
+54.: Post-Processing...
+54.: Finished postprocessing - unanimous questions:
+[5]: ['u', 'b', 'd', 'n', 'g']
+(Total: 406 + 5 = 411)
+
+
+55.: Pre-Processing...
+55.: Finished preprocessing - total questions:
+[5]: ['n', 'o', 'y', 'c', 'w']
+55.: Post-Processing...
+55.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 411 + 0 = 411)
+
+
+56.: Pre-Processing...
+56.: Finished preprocessing - total questions:
+[22]: ['d', 'm', 'l', 'e', 'w', 't', 'h', 'y', 'r', 'q', 'n', 'k', 'x', 'a', 'g', 'v', 's', 'z', 'b', 'p', 'f', 'j']
+56.: Post-Processing...
+56.: Finished postprocessing - unanimous questions:
+[19]: ['d', 'm', 'l', 'e', 'w', 't', 'h', 'y', 'r', 'q', 'n', 'k', 'x', 'a', 'g', 'v', 's', 'z', 'b']
+(Total: 411 + 19 = 430)
+
+
+57.: Pre-Processing...
+57.: Finished preprocessing - total questions:
+[15]: ['r', 'k', 'o', 'u', 'v', 's', 'p', 'b', 'g', 'q', 'c', 'x', 'n', 'f', 'w']
+57.: Post-Processing...
+57.: Finished postprocessing - unanimous questions:
+[3]: ['r', 'k', 'o']
+(Total: 430 + 3 = 433)
+
+
+58.: Pre-Processing...
+58.: Finished preprocessing - total questions:
+[7]: ['u', 'y', 'v', 'e', 'c', 'k', 'o']
+58.: Post-Processing...
+58.: Finished postprocessing - unanimous questions:
+[4]: ['u', 'y', 'v', 'e']
+(Total: 433 + 4 = 437)
+
+
+59.: Pre-Processing...
+59.: Finished preprocessing - total questions:
+[24]: ['a', 'v', 'g', 'o', 'i', 'n', 'u', 't', 'r', 'x', 'j', 'y', 'm', 'l', 'p', 'b', 'q', 'w', 'h', 's', 'e', 'k', 'd', 'f']
+59.: Post-Processing...
+59.: Finished postprocessing - unanimous questions:
+[22]: ['a', 'v', 'g', 'o', 'i', 'n', 'u', 't', 'r', 'x', 'j', 'y', 'm', 'l', 'p', 'b', 'q', 'w', 'h', 's', 'e', 'k']
+(Total: 437 + 22 = 459)
+
+
+60.: Pre-Processing...
+60.: Finished preprocessing - total questions:
+[6]: ['z', 'b', 'o', 's', 'i', 'a']
+60.: Post-Processing...
+60.: Finished postprocessing - unanimous questions:
+[4]: ['z', 'b', 'o', 's']
+(Total: 459 + 4 = 463)
+
+
+61.: Pre-Processing...
+61.: Finished preprocessing - total questions:
+[7]: ['d', 's', 't', 'i', 'v', 'e', 'o']
+61.: Post-Processing...
+61.: Finished postprocessing - unanimous questions:
+[6]: ['d', 's', 'i', 'v', 'e', 'o']
+(Total: 463 + 6 = 469)
+
+
+62.: Pre-Processing...
+62.: Finished preprocessing - total questions:
+[24]: ['v', 'i', 'm', 'b', 'c', 'y', 't', 'w', 'u', 'z', 'a', 'j', 'l', 'q', 'o', 'g', 'p', 'k', 'f', 'r', 'e', 'x', 'd', 'n']
+62.: Post-Processing...
+62.: Finished postprocessing - unanimous questions:
+[21]: ['v', 'i', 'b', 'c', 'y', 't', 'u', 'z', 'a', 'j', 'l', 'q', 'o', 'g', 'p', 'k', 'f', 'r', 'e', 'x', 'd']
+(Total: 469 + 21 = 490)
+
+
+63.: Pre-Processing...
+63.: Finished preprocessing - total questions:
+[3]: ['d', 'b', 'c']
+63.: Post-Processing...
+63.: Finished postprocessing - unanimous questions:
+[2]: ['d', 'b']
+(Total: 490 + 2 = 492)
+
+
+64.: Pre-Processing...
+64.: Finished preprocessing - total questions:
+[1]: ['k']
+64.: Post-Processing...
+64.: Finished postprocessing - unanimous questions:
+[1]: ['k']
+(Total: 492 + 1 = 493)
+
+
+65.: Pre-Processing...
+65.: Finished preprocessing - total questions:
+[10]: ['w', 'q', 'o', 'c', 'l', 'i', 'k', 'm', 'e', 'f']
+65.: Post-Processing...
+65.: Finished postprocessing - unanimous questions:
+[2]: ['q', 'o']
+(Total: 493 + 2 = 495)
+
+
+66.: Pre-Processing...
+66.: Finished preprocessing - total questions:
+[9]: ['v', 'd', 'f', 'r', 'j', 'n', 'o', 'a', 'm']
+66.: Post-Processing...
+66.: Finished postprocessing - unanimous questions:
+[4]: ['f', 'r', 'j', 'n']
+(Total: 495 + 4 = 499)
+
+
+67.: Pre-Processing...
+67.: Finished preprocessing - total questions:
+[9]: ['i', 'y', 'a', 's', 'h', 'p', 'l', 'x', 'z']
+67.: Post-Processing...
+67.: Finished postprocessing - unanimous questions:
+[8]: ['i', 'y', 'a', 's', 'h', 'p', 'l', 'x']
+(Total: 499 + 8 = 507)
+
+
+68.: Pre-Processing...
+68.: Finished preprocessing - total questions:
+[6]: ['u', 'c', 'd', 'l', 'f', 'x']
+68.: Post-Processing...
+68.: Finished postprocessing - unanimous questions:
+[6]: ['u', 'c', 'd', 'l', 'f', 'x']
+(Total: 507 + 6 = 513)
+
+
+69.: Pre-Processing...
+69.: Finished preprocessing - total questions:
+[26]: ['e', 't', 'f', 'h', 'y', 'l', 'm', 'i', 'a', 'j', 'v', 'c', 'd', 'x', 'n', 'q', 'b', 'p', 's', 'w', 'r', 'u', 'o', 'k', 'g', 'z']
+69.: Post-Processing...
+69.: Finished postprocessing - unanimous questions:
+[16]: ['t', 'f', 'h', 'y', 'l', 'm', 'i', 'a', 'v', 'c', 'd', 'x', 'q', 'b', 'p', 's']
+(Total: 513 + 16 = 529)
+
+
+70.: Pre-Processing...
+70.: Finished preprocessing - total questions:
+[4]: ['j', 'x', 'c', 'b']
+70.: Post-Processing...
+70.: Finished postprocessing - unanimous questions:
+[2]: ['j', 'c']
+(Total: 529 + 2 = 531)
+
+
+71.: Pre-Processing...
+71.: Finished preprocessing - total questions:
+[9]: ['c', 'o', 'w', 'g', 'q', 'x', 'z', 'a', 'j']
+71.: Post-Processing...
+71.: Finished postprocessing - unanimous questions:
+[3]: ['c', 'o', 'w']
+(Total: 531 + 3 = 534)
+
+
+72.: Pre-Processing...
+72.: Finished preprocessing - total questions:
+[22]: ['r', 'y', 'p', 'j', 'n', 't', 'g', 'd', 's', 'l', 'a', 'x', 'u', 'v', 'c', 'k', 'e', 'm', 'z', 'w', 'f', 'o']
+72.: Post-Processing...
+72.: Finished postprocessing - unanimous questions:
+[2]: ['p', 'n']
+(Total: 534 + 2 = 536)
+
+
+73.: Pre-Processing...
+73.: Finished preprocessing - total questions:
+[14]: ['u', 'o', 'w', 'i', 'r', 'd', 'q', 'v', 'c', 'g', 't', 'p', 'm', 'a']
+73.: Post-Processing...
+73.: Finished postprocessing - unanimous questions:
+[3]: ['i', 'r', 'd']
+(Total: 536 + 3 = 539)
+
+
+74.: Pre-Processing...
+74.: Finished preprocessing - total questions:
+[23]: ['h', 'n', 't', 'm', 'u', 'b', 'd', 'l', 'v', 's', 'p', 'a', 'g', 'x', 'q', 'y', 'c', 'f', 'k', 'j', 'r', 'z', 'w']
+74.: Post-Processing...
+74.: Finished postprocessing - unanimous questions:
+[3]: ['n', 'b', 'y']
+(Total: 539 + 3 = 542)
+
+
+75.: Pre-Processing...
+75.: Finished preprocessing - total questions:
+[10]: ['b', 'j', 'v', 'n', 'y', 'a', 'u', 'k', 'x', 'm']
+75.: Post-Processing...
+75.: Finished postprocessing - unanimous questions:
+[4]: ['n', 'y', 'a', 'u']
+(Total: 542 + 4 = 546)
+
+
+76.: Pre-Processing...
+76.: Finished preprocessing - total questions:
+[23]: ['d', 'a', 'n', 'p', 'z', 'l', 'u', 'b', 'y', 'h', 'g', 's', 'f', 'x', 't', 'k', 'v', 'j', 'r', 'i', 'e', 'w', 'o']
+76.: Post-Processing...
+76.: Finished postprocessing - unanimous questions:
+[22]: ['d', 'a', 'n', 'p', 'z', 'l', 'u', 'b', 'y', 'h', 'g', 's', 'f', 'x', 't', 'k', 'v', 'j', 'r', 'i', 'w', 'o']
+(Total: 546 + 22 = 568)
+
+
+77.: Pre-Processing...
+77.: Finished preprocessing - total questions:
+[19]: ['g', 's', 'p', 'x', 'v', 'j', 'o', 'q', 'i', 'z', 'n', 'r', 'u', 'm', 'a', 'h', 'y', 'e', 'b']
+77.: Post-Processing...
+77.: Finished postprocessing - unanimous questions:
+[4]: ['v', 'j', 'o', 'q']
+(Total: 568 + 4 = 572)
+
+
+78.: Pre-Processing...
+78.: Finished preprocessing - total questions:
+[25]: ['g', 'z', 'u', 'o', 'v', 'x', 'l', 'm', 'w', 'h', 'j', 'b', 'e', 's', 'q', 'i', 'p', 'a', 'k', 't', 'c', 'r', 'f', 'n', 'd']
+78.: Post-Processing...
+78.: Finished postprocessing - unanimous questions:
+[10]: ['g', 'u', 'x', 'j', 'b', 'e', 's', 'q', 'a', 'k']
+(Total: 572 + 10 = 582)
+
+
+79.: Pre-Processing...
+79.: Finished preprocessing - total questions:
+[14]: ['x', 'k', 'v', 'g', 'z', 'a', 'q', 'f', 'e', 'i', 'h', 'c', 'y', 'd']
+79.: Post-Processing...
+79.: Finished postprocessing - unanimous questions:
+[10]: ['x', 'k', 'v', 'g', 'z', 'q', 'f', 'e', 'i', 'h']
+(Total: 582 + 10 = 592)
+
+
+80.: Pre-Processing...
+80.: Finished preprocessing - total questions:
+[5]: ['y', 'p', 'a', 'o', 'f']
+80.: Post-Processing...
+80.: Finished postprocessing - unanimous questions:
+[4]: ['y', 'p', 'a', 'o']
+(Total: 592 + 4 = 596)
+
+
+81.: Pre-Processing...
+81.: Finished preprocessing - total questions:
+[15]: ['t', 'i', 'e', 'f', 'w', 'h', 'q', 'y', 'z', 'x', 'r', 'l', 'j', 's', 'p']
+81.: Post-Processing...
+81.: Finished postprocessing - unanimous questions:
+[11]: ['t', 'i', 'e', 'f', 'w', 'h', 'q', 'y', 'z', 'x', 'r']
+(Total: 596 + 11 = 607)
+
+
+82.: Pre-Processing...
+82.: Finished preprocessing - total questions:
+[17]: ['f', 'b', 's', 'c', 'a', 'x', 'r', 'h', 'p', 'd', 'e', 'q', 'z', 'g', 'o', 'k', 't']
+82.: Post-Processing...
+82.: Finished postprocessing - unanimous questions:
+[6]: ['f', 'x', 'r', 'h', 'p', 'e']
+(Total: 607 + 6 = 613)
+
+
+83.: Pre-Processing...
+83.: Finished preprocessing - total questions:
+[26]: ['t', 'y', 'n', 'q', 'h', 'r', 'd', 'u', 'l', 'o', 'm', 'f', 'x', 'a', 'z', 'g', 'i', 'p', 'j', 'b', 'w', 'c', 's', 'v', 'e', 'k']
+83.: Post-Processing...
+83.: Finished postprocessing - unanimous questions:
+[12]: ['t', 'n', 'q', 'r', 'u', 'l', 'o', 'f', 'a', 'i', 'p', 'j']
+(Total: 613 + 12 = 625)
+
+
+84.: Pre-Processing...
+84.: Finished preprocessing - total questions:
+[23]: ['e', 'p', 'b', 'v', 't', 'f', 'l', 'd', 's', 'i', 'x', 'j', 'c', 'n', 'z', 'a', 'm', 'q', 'k', 'o', 'w', 'u', 'h']
+84.: Post-Processing...
+84.: Finished postprocessing - unanimous questions:
+[5]: ['b', 'v', 't', 'd', 'x']
+(Total: 625 + 5 = 630)
+
+
+85.: Pre-Processing...
+85.: Finished preprocessing - total questions:
+[21]: ['u', 'q', 't', 'e', 'w', 'c', 's', 'r', 'd', 'i', 'y', 'p', 'h', 'k', 'x', 'j', 'v', 'b', 'o', 'z', 'n']
+85.: Post-Processing...
+85.: Finished postprocessing - unanimous questions:
+[18]: ['u', 'q', 't', 'e', 'w', 'c', 's', 'r', 'i', 'y', 'p', 'h', 'k', 'x', 'j', 'v', 'o', 'z']
+(Total: 630 + 18 = 648)
+
+
+86.: Pre-Processing...
+86.: Finished preprocessing - total questions:
+[16]: ['b', 'q', 'c', 'k', 'x', 'n', 'v', 't', 'd', 'f', 's', 'p', 'z', 'u', 'a', 'y']
+86.: Post-Processing...
+86.: Finished postprocessing - unanimous questions:
+[14]: ['b', 'q', 'c', 'k', 'x', 'n', 'v', 't', 'd', 'f', 's', 'p', 'z', 'u']
+(Total: 648 + 14 = 662)
+
+
+87.: Pre-Processing...
+87.: Finished preprocessing - total questions:
+[6]: ['h', 'j', 'u', 's', 'o', 'x']
+87.: Post-Processing...
+87.: Finished postprocessing - unanimous questions:
+[4]: ['h', 'j', 'u', 's']
+(Total: 662 + 4 = 666)
+
+
+88.: Pre-Processing...
+88.: Finished preprocessing - total questions:
+[8]: ['b', 'x', 'a', 'i', 't', 'f', 'j', 'w']
+88.: Post-Processing...
+88.: Finished postprocessing - unanimous questions:
+[5]: ['b', 'x', 'a', 'i', 't']
+(Total: 666 + 5 = 671)
+
+
+89.: Pre-Processing...
+89.: Finished preprocessing - total questions:
+[22]: ['g', 'v', 'm', 'd', 'l', 'k', 'f', 'a', 'u', 't', 'p', 'y', 'w', 'q', 'r', 's', 'z', 'n', 'o', 'x', 'i', 'h']
+89.: Post-Processing...
+89.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 671 + 0 = 671)
+
+
+90.: Pre-Processing...
+90.: Finished preprocessing - total questions:
+[16]: ['y', 'd', 'v', 'x', 'q', 't', 'k', 'a', 'r', 'i', 'g', 'h', 'o', 'c', 'z', 's']
+90.: Post-Processing...
+90.: Finished postprocessing - unanimous questions:
+[10]: ['y', 'd', 'x', 'q', 't', 'k', 'r', 'i', 'g', 'h']
+(Total: 671 + 10 = 681)
+
+
+91.: Pre-Processing...
+91.: Finished preprocessing - total questions:
+[15]: ['p', 'z', 'h', 'x', 'o', 'y', 't', 'm', 'a', 'v', 'e', 's', 'i', 'l', 'r']
+91.: Post-Processing...
+91.: Finished postprocessing - unanimous questions:
+[11]: ['p', 'z', 'h', 'x', 'o', 'y', 't', 'm', 'a', 'v', 'e']
+(Total: 681 + 11 = 692)
+
+
+92.: Pre-Processing...
+92.: Finished preprocessing - total questions:
+[5]: ['v', 'd', 'j', 's', 'y']
+92.: Post-Processing...
+92.: Finished postprocessing - unanimous questions:
+[4]: ['v', 'd', 's', 'y']
+(Total: 692 + 4 = 696)
+
+
+93.: Pre-Processing...
+93.: Finished preprocessing - total questions:
+[16]: ['w', 'e', 'd', 'c', 'x', 'p', 't', 'v', 'i', 'a', 'q', 'f', 'o', 's', 'u', 'g']
+93.: Post-Processing...
+93.: Finished postprocessing - unanimous questions:
+[5]: ['w', 'e', 'd', 'c', 'p']
+(Total: 696 + 5 = 701)
+
+
+94.: Pre-Processing...
+94.: Finished preprocessing - total questions:
+[1]: ['u']
+94.: Post-Processing...
+94.: Finished postprocessing - unanimous questions:
+[1]: ['u']
+(Total: 701 + 1 = 702)
+
+
+95.: Pre-Processing...
+95.: Finished preprocessing - total questions:
+[21]: ['u', 'n', 'w', 'k', 'l', 's', 'f', 'a', 'y', 'm', 'e', 'q', 'o', 'r', 'x', 'c', 'g', 'v', 't', 'z', 'h']
+95.: Post-Processing...
+95.: Finished postprocessing - unanimous questions:
+[4]: ['u', 'n', 'k', 'l']
+(Total: 702 + 4 = 706)
+
+
+96.: Pre-Processing...
+96.: Finished preprocessing - total questions:
+[20]: ['w', 'e', 'm', 'b', 'h', 'a', 'y', 'q', 'c', 'k', 's', 'i', 'f', 'o', 'r', 'j', 'l', 'z', 'u', 'p']
+96.: Post-Processing...
+96.: Finished postprocessing - unanimous questions:
+[11]: ['w', 'e', 'm', 'b', 'h', 'a', 'y', 'q', 'c', 'k', 's']
+(Total: 706 + 11 = 717)
+
+
+97.: Pre-Processing...
+97.: Finished preprocessing - total questions:
+[25]: ['k', 'r', 't', 'o', 'h', 'j', 'c', 'v', 'x', 'i', 'd', 'y', 'f', 'm', 's', 'e', 'w', 'g', 'z', 'l', 'p', 'b', 'a', 'u', 'q']
+97.: Post-Processing...
+97.: Finished postprocessing - unanimous questions:
+[1]: ['i']
+(Total: 717 + 1 = 718)
+
+
+98.: Pre-Processing...
+98.: Finished preprocessing - total questions:
+[19]: ['g', 'h', 'p', 'n', 'i', 'c', 'a', 'b', 'e', 'u', 'r', 'o', 'f', 't', 'v', 'k', 'y', 'z', 'm']
+98.: Post-Processing...
+98.: Finished postprocessing - unanimous questions:
+[19]: ['g', 'h', 'p', 'n', 'i', 'c', 'a', 'b', 'e', 'u', 'r', 'o', 'f', 't', 'v', 'k', 'y', 'z', 'm']
+(Total: 718 + 19 = 737)
+
+
+99.: Pre-Processing...
+99.: Finished preprocessing - total questions:
+[5]: ['q', 'h', 'j', 'd', 'g']
+99.: Post-Processing...
+99.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 737 + 0 = 737)
+
+
+100.: Pre-Processing...
+100.: Finished preprocessing - total questions:
+[18]: ['b', 'y', 'k', 'v', 'm', 'p', 'g', 'o', 'j', 'z', 'w', 'l', 'r', 'c', 'e', 'x', 'i', 's']
+100.: Post-Processing...
+100.: Finished postprocessing - unanimous questions:
+[17]: ['b', 'y', 'k', 'v', 'm', 'p', 'g', 'o', 'j', 'z', 'w', 'l', 'r', 'c', 'e', 'x', 'i']
+(Total: 737 + 17 = 754)
+
+
+101.: Pre-Processing...
+101.: Finished preprocessing - total questions:
+[17]: ['u', 'g', 'm', 'a', 'i', 'c', 'q', 't', 'e', 'j', 'k', 'b', 'h', 's', 'x', 'f', 'v']
+101.: Post-Processing...
+101.: Finished postprocessing - unanimous questions:
+[15]: ['u', 'g', 'm', 'a', 'i', 'c', 'q', 't', 'e', 'j', 'k', 'b', 'h', 's', 'x']
+(Total: 754 + 15 = 769)
+
+
+102.: Pre-Processing...
+102.: Finished preprocessing - total questions:
+[15]: ['n', 'r', 'q', 'f', 'd', 'c', 'g', 'h', 'i', 'o', 's', 'l', 'p', 'z', 't']
+102.: Post-Processing...
+102.: Finished postprocessing - unanimous questions:
+[11]: ['n', 'r', 'f', 'd', 'g', 'h', 'i', 'o', 's', 'l', 'p']
+(Total: 769 + 11 = 780)
+
+
+103.: Pre-Processing...
+103.: Finished preprocessing - total questions:
+[10]: ['q', 'f', 'b', 'd', 'z', 'u', 'm', 'a', 'x', 't']
+103.: Post-Processing...
+103.: Finished postprocessing - unanimous questions:
+[1]: ['q']
+(Total: 780 + 1 = 781)
+
+
+104.: Pre-Processing...
+104.: Finished preprocessing - total questions:
+[17]: ['j', 'o', 'u', 'c', 'q', 'n', 'z', 's', 'g', 't', 'y', 'p', 'b', 'e', 'l', 'k', 'w']
+104.: Post-Processing...
+104.: Finished postprocessing - unanimous questions:
+[5]: ['j', 'o', 'u', 'q', 'g']
+(Total: 781 + 5 = 786)
+
+
+105.: Pre-Processing...
+105.: Finished preprocessing - total questions:
+[12]: ['l', 'h', 'c', 'r', 'n', 'x', 'k', 'o', 'g', 'e', 'p', 'w']
+105.: Post-Processing...
+105.: Finished postprocessing - unanimous questions:
+[12]: ['l', 'h', 'c', 'r', 'n', 'x', 'k', 'o', 'g', 'e', 'p', 'w']
+(Total: 786 + 12 = 798)
+
+
+106.: Pre-Processing...
+106.: Finished preprocessing - total questions:
+[19]: ['c', 'h', 'g', 'q', 'i', 'r', 'e', 'k', 'o', 'z', 'b', 'y', 'p', 'j', 's', 't', 'd', 'v', 'u']
+106.: Post-Processing...
+106.: Finished postprocessing - unanimous questions:
+[14]: ['c', 'h', 'g', 'q', 'i', 'r', 'o', 'z', 'b', 'y', 'p', 'j', 's', 't']
+(Total: 798 + 14 = 812)
+
+
+107.: Pre-Processing...
+107.: Finished preprocessing - total questions:
+[16]: ['f', 'y', 'l', 's', 'i', 'm', 't', 'u', 'v', 'a', 'd', 'g', 'h', 'c', 'j', 'p']
+107.: Post-Processing...
+107.: Finished postprocessing - unanimous questions:
+[10]: ['f', 'y', 'l', 'i', 'm', 't', 'u', 'v', 'a', 'd']
+(Total: 812 + 10 = 822)
+
+
+108.: Pre-Processing...
+108.: Finished preprocessing - total questions:
+[23]: ['o', 'b', 'k', 'u', 'c', 'w', 'n', 'm', 'r', 'v', 'g', 'q', 'd', 'a', 'y', 'h', 'j', 't', 'e', 'x', 'p', 'f', 's']
+108.: Post-Processing...
+108.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 822 + 0 = 822)
+
+
+109.: Pre-Processing...
+109.: Finished preprocessing - total questions:
+[12]: ['y', 'r', 'k', 'v', 'd', 't', 'f', 'n', 'e', 'j', 'c', 'w']
+109.: Post-Processing...
+109.: Finished postprocessing - unanimous questions:
+[2]: ['y', 'r']
+(Total: 822 + 2 = 824)
+
+
+110.: Pre-Processing...
+110.: Finished preprocessing - total questions:
+[10]: ['d', 'f', 'q', 'n', 'c', 'h', 'y', 'p', 'g', 'j']
+110.: Post-Processing...
+110.: Finished postprocessing - unanimous questions:
+[9]: ['d', 'f', 'q', 'n', 'c', 'h', 'y', 'p', 'g']
+(Total: 824 + 9 = 833)
+
+
+111.: Pre-Processing...
+111.: Finished preprocessing - total questions:
+[2]: ['b', 't']
+111.: Post-Processing...
+111.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 833 + 0 = 833)
+
+
+112.: Pre-Processing...
+112.: Finished preprocessing - total questions:
+[16]: ['e', 'h', 'a', 'j', 'g', 'w', 's', 'c', 'i', 'b', 'r', 'u', 'd', 'm', 'k', 'n']
+112.: Post-Processing...
+112.: Finished postprocessing - unanimous questions:
+[7]: ['h', 'j', 'w', 'c', 'i', 'b', 'r']
+(Total: 833 + 7 = 840)
+
+
+113.: Pre-Processing...
+113.: Finished preprocessing - total questions:
+[16]: ['g', 'i', 'h', 'c', 'r', 'j', 'a', 'z', 'p', 'l', 'd', 's', 'n', 'x', 'f', 'q']
+113.: Post-Processing...
+113.: Finished postprocessing - unanimous questions:
+[10]: ['g', 'i', 'h', 'r', 'j', 'a', 'z', 'p', 'l', 'd']
+(Total: 840 + 10 = 850)
+
+
+114.: Pre-Processing...
+114.: Finished preprocessing - total questions:
+[14]: ['r', 'z', 'p', 'v', 'j', 'm', 'b', 'u', 'a', 'c', 'q', 'w', 'g', 'f']
+114.: Post-Processing...
+114.: Finished postprocessing - unanimous questions:
+[8]: ['r', 'z', 'p', 'j', 'm', 'b', 'u', 'c']
+(Total: 850 + 8 = 858)
+
+
+115.: Pre-Processing...
+115.: Finished preprocessing - total questions:
+[2]: ['f', 'u']
+115.: Post-Processing...
+115.: Finished postprocessing - unanimous questions:
+[2]: ['f', 'u']
+(Total: 858 + 2 = 860)
+
+
+116.: Pre-Processing...
+116.: Finished preprocessing - total questions:
+[18]: ['t', 'l', 'i', 'w', 'k', 'z', 'c', 'a', 'n', 'y', 'j', 'e', 'b', 'q', 'm', 'o', 'f', 's']
+116.: Post-Processing...
+116.: Finished postprocessing - unanimous questions:
+[12]: ['t', 'l', 'i', 'w', 'z', 'c', 'a', 'n', 'j', 'e', 'b', 'q']
+(Total: 860 + 12 = 872)
+
+
+117.: Pre-Processing...
+117.: Finished preprocessing - total questions:
+[18]: ['e', 'a', 'k', 'b', 'o', 'l', 'c', 'j', 'u', 'g', 'n', 'm', 'w', 'd', 'h', 'r', 'z', 'y']
+117.: Post-Processing...
+117.: Finished postprocessing - unanimous questions:
+[18]: ['e', 'a', 'k', 'b', 'o', 'l', 'c', 'j', 'u', 'g', 'n', 'm', 'w', 'd', 'h', 'r', 'z', 'y']
+(Total: 872 + 18 = 890)
+
+
+118.: Pre-Processing...
+118.: Finished preprocessing - total questions:
+[14]: ['y', 's', 'n', 'a', 'l', 'm', 'r', 'f', 'i', 'b', 'k', 'q', 'w', 'x']
+118.: Post-Processing...
+118.: Finished postprocessing - unanimous questions:
+[5]: ['s', 'n', 'l', 'm', 'r']
+(Total: 890 + 5 = 895)
+
+
+119.: Pre-Processing...
+119.: Finished preprocessing - total questions:
+[15]: ['o', 'z', 'b', 'd', 't', 'c', 'g', 'i', 'f', 'h', 'e', 'm', 'v', 'p', 'l']
+119.: Post-Processing...
+119.: Finished postprocessing - unanimous questions:
+[10]: ['o', 'z', 'd', 't', 'c', 'g', 'i', 'f', 'h', 'e']
+(Total: 895 + 10 = 905)
+
+
+120.: Pre-Processing...
+120.: Finished preprocessing - total questions:
+[17]: ['w', 'u', 'm', 'd', 'i', 'l', 'e', 'a', 'j', 'y', 'h', 'z', 'g', 's', 'p', 'q', 'b']
+120.: Post-Processing...
+120.: Finished postprocessing - unanimous questions:
+[1]: ['a']
+(Total: 905 + 1 = 906)
+
+
+121.: Pre-Processing...
+121.: Finished preprocessing - total questions:
+[8]: ['w', 's', 'o', 'n', 'z', 'r', 'b', 'y']
+121.: Post-Processing...
+121.: Finished postprocessing - unanimous questions:
+[7]: ['w', 's', 'o', 'n', 'z', 'r', 'b']
+(Total: 906 + 7 = 913)
+
+
+122.: Pre-Processing...
+122.: Finished preprocessing - total questions:
+[17]: ['w', 'z', 'u', 'm', 'j', 'f', 'r', 'v', 's', 'c', 'p', 'q', 'l', 'i', 'b', 'e', 'o']
+122.: Post-Processing...
+122.: Finished postprocessing - unanimous questions:
+[10]: ['w', 'z', 'u', 'f', 'r', 'v', 's', 'c', 'p', 'q']
+(Total: 913 + 10 = 923)
+
+
+123.: Pre-Processing...
+123.: Finished preprocessing - total questions:
+[5]: ['d', 't', 'p', 'm', 'r']
+123.: Post-Processing...
+123.: Finished postprocessing - unanimous questions:
+[1]: ['d']
+(Total: 923 + 1 = 924)
+
+
+124.: Pre-Processing...
+124.: Finished preprocessing - total questions:
+[12]: ['v', 'g', 'n', 'p', 'f', 'u', 'k', 'a', 'q', 'i', 'c', 't']
+124.: Post-Processing...
+124.: Finished postprocessing - unanimous questions:
+[3]: ['g', 'p', 'f']
+(Total: 924 + 3 = 927)
+
+
+125.: Pre-Processing...
+125.: Finished preprocessing - total questions:
+[9]: ['p', 'h', 'j', 'l', 'z', 'k', 'u', 'i', 'w']
+125.: Post-Processing...
+125.: Finished postprocessing - unanimous questions:
+[1]: ['p']
+(Total: 927 + 1 = 928)
+
+
+126.: Pre-Processing...
+126.: Finished preprocessing - total questions:
+[22]: ['e', 'd', 's', 'b', 'c', 'n', 'i', 'o', 'x', 'q', 'l', 'a', 'f', 'u', 'p', 'y', 'w', 'k', 'h', 'r', 'j', 'g']
+126.: Post-Processing...
+126.: Finished postprocessing - unanimous questions:
+[17]: ['e', 's', 'b', 'c', 'n', 'i', 'o', 'x', 'q', 'l', 'a', 'f', 'p', 'y', 'w', 'k', 'h']
+(Total: 928 + 17 = 945)
+
+
+127.: Pre-Processing...
+127.: Finished preprocessing - total questions:
+[22]: ['w', 'v', 'c', 'z', 'i', 'k', 'e', 'o', 'b', 'y', 'u', 'a', 'm', 'f', 'p', 'd', 'x', 'r', 'g', 'j', 't', 'n']
+127.: Post-Processing...
+127.: Finished postprocessing - unanimous questions:
+[14]: ['w', 'c', 'z', 'i', 'k', 'e', 'o', 'b', 'y', 'u', 'a', 'm', 'f', 'p']
+(Total: 945 + 14 = 959)
+
+
+128.: Pre-Processing...
+128.: Finished preprocessing - total questions:
+[2]: ['q', 'k']
+128.: Post-Processing...
+128.: Finished postprocessing - unanimous questions:
+[1]: ['q']
+(Total: 959 + 1 = 960)
+
+
+129.: Pre-Processing...
+129.: Finished preprocessing - total questions:
+[14]: ['e', 'i', 'n', 't', 'q', 'z', 'y', 's', 'f', 'x', 'k', 'h', 'm', 'v']
+129.: Post-Processing...
+129.: Finished postprocessing - unanimous questions:
+[3]: ['i', 't', 'q']
+(Total: 960 + 3 = 963)
+
+
+130.: Pre-Processing...
+130.: Finished preprocessing - total questions:
+[15]: ['h', 'd', 't', 'z', 'o', 'y', 'j', 'r', 'q', 'k', 'w', 'p', 'a', 'l', 'v']
+130.: Post-Processing...
+130.: Finished postprocessing - unanimous questions:
+[15]: ['h', 'd', 't', 'z', 'o', 'y', 'j', 'r', 'q', 'k', 'w', 'p', 'a', 'l', 'v']
+(Total: 963 + 15 = 978)
+
+
+131.: Pre-Processing...
+131.: Finished preprocessing - total questions:
+[6]: ['s', 'x', 'g', 'f', 'l', 'e']
+131.: Post-Processing...
+131.: Finished postprocessing - unanimous questions:
+[4]: ['x', 'g', 'f', 'l']
+(Total: 978 + 4 = 982)
+
+
+132.: Pre-Processing...
+132.: Finished preprocessing - total questions:
+[13]: ['n', 't', 'o', 'z', 'c', 'v', 'd', 'q', 'e', 's', 'r', 'u', 'a']
+132.: Post-Processing...
+132.: Finished postprocessing - unanimous questions:
+[10]: ['n', 't', 'o', 'z', 'c', 'v', 'd', 'q', 'e', 's']
+(Total: 982 + 10 = 992)
+
+
+133.: Pre-Processing...
+133.: Finished preprocessing - total questions:
+[26]: ['l', 'c', 'p', 'o', 'i', 'u', 'x', 'n', 'k', 'a', 'e', 'y', 'w', 'j', 'z', 'h', 'q', 'd', 't', 'r', 'm', 'f', 's', 'b', 'g', 'v']
+133.: Post-Processing...
+133.: Finished postprocessing - unanimous questions:
+[3]: ['l', 'o', 'i']
+(Total: 992 + 3 = 995)
+
+
+134.: Pre-Processing...
+134.: Finished preprocessing - total questions:
+[3]: ['m', 'j', 'e']
+134.: Post-Processing...
+134.: Finished postprocessing - unanimous questions:
+[3]: ['m', 'j', 'e']
+(Total: 995 + 3 = 998)
+
+
+135.: Pre-Processing...
+135.: Finished preprocessing - total questions:
+[9]: ['k', 'q', 'u', 'n', 'j', 'o', 'i', 't', 'h']
+135.: Post-Processing...
+135.: Finished postprocessing - unanimous questions:
+[4]: ['n', 'j', 'o', 'i']
+(Total: 998 + 4 = 1002)
+
+
+136.: Pre-Processing...
+136.: Finished preprocessing - total questions:
+[8]: ['o', 'p', 'c', 'g', 'd', 'j', 'i', 's']
+136.: Post-Processing...
+136.: Finished postprocessing - unanimous questions:
+[1]: ['o']
+(Total: 1002 + 1 = 1003)
+
+
+137.: Pre-Processing...
+137.: Finished preprocessing - total questions:
+[25]: ['s', 'q', 'v', 'm', 'o', 'e', 'j', 'd', 'g', 'i', 'b', 'u', 'w', 'y', 'x', 'r', 'k', 'n', 'f', 'z', 'a', 'p', 't', 'c', 'l']
+137.: Post-Processing...
+137.: Finished postprocessing - unanimous questions:
+[11]: ['s', 'v', 'e', 'j', 'w', 'y', 'r', 'f', 'z', 'p', 't']
+(Total: 1003 + 11 = 1014)
+
+
+138.: Pre-Processing...
+138.: Finished preprocessing - total questions:
+[25]: ['y', 'b', 't', 'a', 'f', 'l', 'c', 'o', 'p', 'm', 'i', 'r', 'j', 'd', 'u', 's', 'x', 'z', 'v', 'k', 'h', 'q', 'e', 'g', 'w']
+138.: Post-Processing...
+138.: Finished postprocessing - unanimous questions:
+[20]: ['b', 't', 'a', 'f', 'l', 'c', 'o', 'p', 'm', 'i', 'r', 'j', 'd', 'u', 'x', 'z', 'v', 'k', 'h', 'q']
+(Total: 1014 + 20 = 1034)
+
+
+139.: Pre-Processing...
+139.: Finished preprocessing - total questions:
+[18]: ['w', 'd', 'i', 'v', 'r', 'f', 'z', 't', 'j', 'n', 'e', 'o', 'x', 'q', 'h', 'k', 'y', 's']
+139.: Post-Processing...
+139.: Finished postprocessing - unanimous questions:
+[2]: ['i', 'f']
+(Total: 1034 + 2 = 1036)
+
+
+140.: Pre-Processing...
+140.: Finished preprocessing - total questions:
+[6]: ['g', 'v', 's', 'c', 'm', 'r']
+140.: Post-Processing...
+140.: Finished postprocessing - unanimous questions:
+[2]: ['g', 's']
+(Total: 1036 + 2 = 1038)
+
+
+141.: Pre-Processing...
+141.: Finished preprocessing - total questions:
+[8]: ['v', 'z', 'g', 't', 'w', 'o', 'p', 'd']
+141.: Post-Processing...
+141.: Finished postprocessing - unanimous questions:
+[3]: ['z', 'g', 't']
+(Total: 1038 + 3 = 1041)
+
+
+142.: Pre-Processing...
+142.: Finished preprocessing - total questions:
+[6]: ['r', 'v', 'h', 'z', 'd', 'w']
+142.: Post-Processing...
+142.: Finished postprocessing - unanimous questions:
+[1]: ['r']
+(Total: 1041 + 1 = 1042)
+
+
+143.: Pre-Processing...
+143.: Finished preprocessing - total questions:
+[13]: ['f', 'q', 'k', 'x', 'o', 's', 'b', 'g', 'w', 'y', 'n', 'i', 'c']
+143.: Post-Processing...
+143.: Finished postprocessing - unanimous questions:
+[13]: ['f', 'q', 'k', 'x', 'o', 's', 'b', 'g', 'w', 'y', 'n', 'i', 'c']
+(Total: 1042 + 13 = 1055)
+
+
+144.: Pre-Processing...
+144.: Finished preprocessing - total questions:
+[21]: ['r', 'p', 'z', 's', 'j', 'h', 'l', 'a', 'e', 'f', 'x', 'b', 'v', 'm', 'o', 'd', 'u', 'n', 'i', 'g', 'w']
+144.: Post-Processing...
+144.: Finished postprocessing - unanimous questions:
+[20]: ['r', 'p', 's', 'j', 'h', 'l', 'a', 'e', 'f', 'x', 'b', 'v', 'm', 'o', 'd', 'u', 'n', 'i', 'g', 'w']
+(Total: 1055 + 20 = 1075)
+
+
+145.: Pre-Processing...
+145.: Finished preprocessing - total questions:
+[9]: ['p', 'r', 'g', 'k', 'h', 'e', 'x', 'v', 'i']
+145.: Post-Processing...
+145.: Finished postprocessing - unanimous questions:
+[4]: ['p', 'r', 'g', 'k']
+(Total: 1075 + 4 = 1079)
+
+
+146.: Pre-Processing...
+146.: Finished preprocessing - total questions:
+[26]: ['e', 's', 'f', 'j', 'a', 'n', 'p', 'r', 'v', 'x', 'z', 'u', 'g', 'c', 'q', 'd', 'y', 'o', 'w', 'i', 'm', 'h', 'l', 'k', 't', 'b']
+146.: Post-Processing...
+146.: Finished postprocessing - unanimous questions:
+[20]: ['e', 's', 'a', 'n', 'p', 'r', 'v', 'x', 'z', 'g', 'c', 'q', 'd', 'y', 'o', 'w', 'i', 'm', 'h', 'l']
+(Total: 1079 + 20 = 1099)
+
+
+147.: Pre-Processing...
+147.: Finished preprocessing - total questions:
+[8]: ['c', 'd', 'y', 'k', 'o', 's', 'i', 'l']
+147.: Post-Processing...
+147.: Finished postprocessing - unanimous questions:
+[6]: ['c', 'd', 'y', 'k', 'o', 's']
+(Total: 1099 + 6 = 1105)
+
+
+148.: Pre-Processing...
+148.: Finished preprocessing - total questions:
+[8]: ['c', 'h', 'g', 'z', 'p', 'x', 'y', 'm']
+148.: Post-Processing...
+148.: Finished postprocessing - unanimous questions:
+[8]: ['c', 'h', 'g', 'z', 'p', 'x', 'y', 'm']
+(Total: 1105 + 8 = 1113)
+
+
+149.: Pre-Processing...
+149.: Finished preprocessing - total questions:
+[20]: ['p', 'v', 'k', 'z', 'y', 'g', 'x', 'q', 'u', 'f', 'c', 'l', 'w', 'd', 'm', 'h', 'r', 'e', 'n', 'a']
+149.: Post-Processing...
+149.: Finished postprocessing - unanimous questions:
+[3]: ['p', 'v', 'y']
+(Total: 1113 + 3 = 1116)
+
+
+150.: Pre-Processing...
+150.: Finished preprocessing - total questions:
+[24]: ['t', 'y', 'o', 'b', 'w', 's', 'e', 'h', 'j', 'r', 'f', 'u', 'n', 'z', 'i', 'q', 'm', 'g', 'c', 'p', 'k', 'd', 'v', 'a']
+150.: Post-Processing...
+150.: Finished postprocessing - unanimous questions:
+[10]: ['t', 'o', 'w', 'e', 'j', 'r', 'f', 'u', 'q', 'm']
+(Total: 1116 + 10 = 1126)
+
+
+151.: Pre-Processing...
+151.: Finished preprocessing - total questions:
+[11]: ['r', 'n', 'b', 'c', 'd', 'k', 't', 'y', 'a', 'p', 's']
+151.: Post-Processing...
+151.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1126 + 0 = 1126)
+
+
+152.: Pre-Processing...
+152.: Finished preprocessing - total questions:
+[15]: ['m', 'a', 'q', 'e', 'v', 'w', 't', 'i', 'j', 'b', 'n', 'l', 'p', 'r', 'k']
+152.: Post-Processing...
+152.: Finished postprocessing - unanimous questions:
+[12]: ['m', 'a', 'q', 'v', 'w', 't', 'i', 'j', 'b', 'n', 'l', 'p']
+(Total: 1126 + 12 = 1138)
+
+
+153.: Pre-Processing...
+153.: Finished preprocessing - total questions:
+[14]: ['p', 'h', 'i', 'z', 'a', 'n', 'u', 'o', 'l', 'b', 'f', 'g', 'r', 't']
+153.: Post-Processing...
+153.: Finished postprocessing - unanimous questions:
+[14]: ['p', 'h', 'i', 'z', 'a', 'n', 'u', 'o', 'l', 'b', 'f', 'g', 'r', 't']
+(Total: 1138 + 14 = 1152)
+
+
+154.: Pre-Processing...
+154.: Finished preprocessing - total questions:
+[2]: ['f', 'd']
+154.: Post-Processing...
+154.: Finished postprocessing - unanimous questions:
+[1]: ['d']
+(Total: 1152 + 1 = 1153)
+
+
+155.: Pre-Processing...
+155.: Finished preprocessing - total questions:
+[14]: ['r', 'a', 'z', 'e', 'm', 'j', 't', 'p', 's', 'x', 'g', 'i', 'q', 'w']
+155.: Post-Processing...
+155.: Finished postprocessing - unanimous questions:
+[13]: ['r', 'a', 'z', 'e', 'm', 'j', 't', 'p', 's', 'x', 'g', 'i', 'q']
+(Total: 1153 + 13 = 1166)
+
+
+156.: Pre-Processing...
+156.: Finished preprocessing - total questions:
+[3]: ['i', 'p', 'u']
+156.: Post-Processing...
+156.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1166 + 0 = 1166)
+
+
+157.: Pre-Processing...
+157.: Finished preprocessing - total questions:
+[12]: ['i', 't', 'k', 'x', 'h', 'b', 'u', 'a', 'c', 's', 'd', 'p']
+157.: Post-Processing...
+157.: Finished postprocessing - unanimous questions:
+[4]: ['i', 'k', 'x', 'b']
+(Total: 1166 + 4 = 1170)
+
+
+158.: Pre-Processing...
+158.: Finished preprocessing - total questions:
+[10]: ['q', 'p', 'c', 'z', 'u', 't', 'x', 'g', 'j', 'h']
+158.: Post-Processing...
+158.: Finished postprocessing - unanimous questions:
+[5]: ['q', 'c', 'z', 'u', 't']
+(Total: 1170 + 5 = 1175)
+
+
+159.: Pre-Processing...
+159.: Finished preprocessing - total questions:
+[12]: ['t', 'x', 'q', 'n', 'c', 'b', 'g', 'o', 'v', 'j', 'r', 'a']
+159.: Post-Processing...
+159.: Finished postprocessing - unanimous questions:
+[5]: ['t', 'q', 'c', 'b', 'g']
+(Total: 1175 + 5 = 1180)
+
+
+160.: Pre-Processing...
+160.: Finished preprocessing - total questions:
+[13]: ['e', 'q', 't', 'w', 'v', 'k', 'r', 'n', 'h', 'u', 's', 'y', 'j']
+160.: Post-Processing...
+160.: Finished postprocessing - unanimous questions:
+[8]: ['q', 't', 'w', 'r', 'n', 'h', 'u', 's']
+(Total: 1180 + 8 = 1188)
+
+
+161.: Pre-Processing...
+161.: Finished preprocessing - total questions:
+[6]: ['u', 'a', 'k', 'c', 'q', 'i']
+161.: Post-Processing...
+161.: Finished postprocessing - unanimous questions:
+[1]: ['a']
+(Total: 1188 + 1 = 1189)
+
+
+162.: Pre-Processing...
+162.: Finished preprocessing - total questions:
+[21]: ['m', 'g', 'd', 'c', 'o', 'x', 'r', 'n', 'w', 'v', 'l', 'e', 't', 'p', 'k', 'b', 'u', 's', 'i', 'h', 'y']
+162.: Post-Processing...
+162.: Finished postprocessing - unanimous questions:
+[21]: ['m', 'g', 'd', 'c', 'o', 'x', 'r', 'n', 'w', 'v', 'l', 'e', 't', 'p', 'k', 'b', 'u', 's', 'i', 'h', 'y']
+(Total: 1189 + 21 = 1210)
+
+
+163.: Pre-Processing...
+163.: Finished preprocessing - total questions:
+[18]: ['l', 'f', 'o', 'a', 'z', 'x', 'q', 'y', 'w', 'r', 'p', 'b', 'm', 'n', 'k', 'c', 'e', 'u']
+163.: Post-Processing...
+163.: Finished postprocessing - unanimous questions:
+[1]: ['y']
+(Total: 1210 + 1 = 1211)
+
+
+164.: Pre-Processing...
+164.: Finished preprocessing - total questions:
+[1]: ['j']
+164.: Post-Processing...
+164.: Finished postprocessing - unanimous questions:
+[1]: ['j']
+(Total: 1211 + 1 = 1212)
+
+
+165.: Pre-Processing...
+165.: Finished preprocessing - total questions:
+[24]: ['u', 'w', 'r', 'z', 'p', 'v', 'a', 'x', 'i', 'n', 'd', 'e', 'b', 't', 'l', 'o', 'c', 'h', 'm', 'k', 's', 'g', 'j', 'q']
+165.: Post-Processing...
+165.: Finished postprocessing - unanimous questions:
+[16]: ['u', 'w', 'r', 'z', 'p', 'v', 'a', 'x', 'i', 'n', 'e', 'b', 't', 'o', 'c', 'h']
+(Total: 1212 + 16 = 1228)
+
+
+166.: Pre-Processing...
+166.: Finished preprocessing - total questions:
+[8]: ['m', 's', 'n', 'v', 'f', 'a', 'j', 'x']
+166.: Post-Processing...
+166.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1228 + 0 = 1228)
+
+
+167.: Pre-Processing...
+167.: Finished preprocessing - total questions:
+[21]: ['v', 'g', 'a', 'h', 'u', 'q', 'i', 'm', 'k', 'b', 'l', 'f', 'y', 'j', 'e', 'x', 'o', 't', 'p', 's', 'd']
+167.: Post-Processing...
+167.: Finished postprocessing - unanimous questions:
+[19]: ['v', 'g', 'a', 'h', 'u', 'q', 'i', 'm', 'k', 'b', 'l', 'f', 'y', 'j', 'e', 'x', 'o', 't', 'p']
+(Total: 1228 + 19 = 1247)
+
+
+168.: Pre-Processing...
+168.: Finished preprocessing - total questions:
+[7]: ['x', 'c', 'd', 'v', 'g', 'l', 'u']
+168.: Post-Processing...
+168.: Finished postprocessing - unanimous questions:
+[2]: ['x', 'v']
+(Total: 1247 + 2 = 1249)
+
+
+169.: Pre-Processing...
+169.: Finished preprocessing - total questions:
+[7]: ['k', 'm', 'f', 'c', 'y', 'q', 'w']
+169.: Post-Processing...
+169.: Finished postprocessing - unanimous questions:
+[1]: ['m']
+(Total: 1249 + 1 = 1250)
+
+
+170.: Pre-Processing...
+170.: Finished preprocessing - total questions:
+[22]: ['r', 'a', 'w', 'p', 'h', 'c', 'e', 'q', 't', 'i', 'y', 'l', 'g', 'm', 'j', 'o', 'n', 'z', 'b', 'v', 's', 'u']
+170.: Post-Processing...
+170.: Finished postprocessing - unanimous questions:
+[1]: ['c']
+(Total: 1250 + 1 = 1251)
+
+
+171.: Pre-Processing...
+171.: Finished preprocessing - total questions:
+[4]: ['l', 'w', 'y', 'd']
+171.: Post-Processing...
+171.: Finished postprocessing - unanimous questions:
+[3]: ['l', 'w', 'y']
+(Total: 1251 + 3 = 1254)
+
+
+172.: Pre-Processing...
+172.: Finished preprocessing - total questions:
+[10]: ['c', 'm', 'g', 's', 'i', 'y', 'k', 'f', 'd', 'o']
+172.: Post-Processing...
+172.: Finished postprocessing - unanimous questions:
+[9]: ['c', 'm', 'g', 's', 'i', 'y', 'k', 'f', 'd']
+(Total: 1254 + 9 = 1263)
+
+
+173.: Pre-Processing...
+173.: Finished preprocessing - total questions:
+[18]: ['a', 'v', 'p', 't', 'x', 'r', 'n', 'w', 'u', 'b', 'q', 'i', 'l', 'd', 'z', 'k', 'o', 'c']
+173.: Post-Processing...
+173.: Finished postprocessing - unanimous questions:
+[4]: ['v', 'n', 'w', 'b']
+(Total: 1263 + 4 = 1267)
+
+
+174.: Pre-Processing...
+174.: Finished preprocessing - total questions:
+[20]: ['s', 'v', 'h', 'k', 'j', 'p', 'f', 'm', 'z', 'u', 'd', 'e', 'y', 'c', 'g', 'i', 'x', 't', 'a', 'q']
+174.: Post-Processing...
+174.: Finished postprocessing - unanimous questions:
+[10]: ['v', 'h', 'k', 'j', 'p', 'm', 'z', 'u', 'd', 'e']
+(Total: 1267 + 10 = 1277)
+
+
+175.: Pre-Processing...
+175.: Finished preprocessing - total questions:
+[3]: ['t', 'w', 'z']
+175.: Post-Processing...
+175.: Finished postprocessing - unanimous questions:
+[2]: ['t', 'w']
+(Total: 1277 + 2 = 1279)
+
+
+176.: Pre-Processing...
+176.: Finished preprocessing - total questions:
+[10]: ['b', 'w', 'f', 'j', 'x', 'u', 't', 'v', 'n', 'o']
+176.: Post-Processing...
+176.: Finished postprocessing - unanimous questions:
+[5]: ['b', 'w', 'f', 'j', 'u']
+(Total: 1279 + 5 = 1284)
+
+
+177.: Pre-Processing...
+177.: Finished preprocessing - total questions:
+[11]: ['k', 't', 'n', 'i', 'p', 'j', 'y', 'e', 'q', 'w', 'b']
+177.: Post-Processing...
+177.: Finished postprocessing - unanimous questions:
+[4]: ['k', 't', 'i', 'y']
+(Total: 1284 + 4 = 1288)
+
+
+178.: Pre-Processing...
+178.: Finished preprocessing - total questions:
+[6]: ['w', 'm', 'h', 'q', 'j', 'c']
+178.: Post-Processing...
+178.: Finished postprocessing - unanimous questions:
+[6]: ['w', 'm', 'h', 'q', 'j', 'c']
+(Total: 1288 + 6 = 1294)
+
+
+179.: Pre-Processing...
+179.: Finished preprocessing - total questions:
+[9]: ['h', 'k', 'z', 'j', 'g', 'b', 'x', 'f', 'y']
+179.: Post-Processing...
+179.: Finished postprocessing - unanimous questions:
+[5]: ['h', 'k', 'j', 'g', 'b']
+(Total: 1294 + 5 = 1299)
+
+
+180.: Pre-Processing...
+180.: Finished preprocessing - total questions:
+[23]: ['o', 'f', 'w', 'i', 'n', 'q', 'z', 'b', 'm', 'k', 'j', 'g', 'd', 'x', 'v', 'c', 'l', 't', 'a', 'u', 'p', 'e', 'h']
+180.: Post-Processing...
+180.: Finished postprocessing - unanimous questions:
+[13]: ['o', 'f', 'w', 'i', 'n', 'q', 'z', 'b', 'k', 'j', 'g', 'd', 'v']
+(Total: 1299 + 13 = 1312)
+
+
+181.: Pre-Processing...
+181.: Finished preprocessing - total questions:
+[19]: ['q', 'm', 'd', 'r', 's', 'b', 'j', 'e', 'p', 't', 'g', 'k', 'w', 'n', 'f', 'h', 'l', 'i', 'z']
+181.: Post-Processing...
+181.: Finished postprocessing - unanimous questions:
+[8]: ['q', 'd', 'r', 'e', 'p', 'g', 'k', 'w']
+(Total: 1312 + 8 = 1320)
+
+
+182.: Pre-Processing...
+182.: Finished preprocessing - total questions:
+[14]: ['s', 'g', 'q', 'k', 'u', 'p', 't', 'x', 'l', 'v', 'i', 'c', 'j', 'b']
+182.: Post-Processing...
+182.: Finished postprocessing - unanimous questions:
+[6]: ['s', 'g', 'k', 'p', 't', 'x']
+(Total: 1320 + 6 = 1326)
+
+
+183.: Pre-Processing...
+183.: Finished preprocessing - total questions:
+[19]: ['m', 'v', 'f', 'i', 'k', 'x', 'n', 'l', 'j', 's', 'u', 'e', 'b', 'r', 'p', 'z', 'h', 'c', 'w']
+183.: Post-Processing...
+183.: Finished postprocessing - unanimous questions:
+[1]: ['k']
+(Total: 1326 + 1 = 1327)
+
+
+184.: Pre-Processing...
+184.: Finished preprocessing - total questions:
+[6]: ['q', 'z', 'y', 'v', 'm', 'g']
+184.: Post-Processing...
+184.: Finished postprocessing - unanimous questions:
+[3]: ['q', 'z', 'v']
+(Total: 1327 + 3 = 1330)
+
+
+185.: Pre-Processing...
+185.: Finished preprocessing - total questions:
+[24]: ['v', 'x', 'j', 'b', 'a', 'e', 'i', 'r', 'n', 'y', 'l', 'z', 'h', 'o', 'c', 'p', 'k', 'q', 'w', 's', 't', 'd', 'u', 'g']
+185.: Post-Processing...
+185.: Finished postprocessing - unanimous questions:
+[22]: ['v', 'x', 'j', 'b', 'a', 'e', 'i', 'r', 'n', 'y', 'l', 'z', 'h', 'o', 'c', 'p', 'k', 'q', 'w', 's', 't', 'd']
+(Total: 1330 + 22 = 1352)
+
+
+186.: Pre-Processing...
+186.: Finished preprocessing - total questions:
+[6]: ['b', 'c', 'o', 'x', 'e', 'u']
+186.: Post-Processing...
+186.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1352 + 0 = 1352)
+
+
+187.: Pre-Processing...
+187.: Finished preprocessing - total questions:
+[10]: ['k', 'e', 'x', 'a', 'w', 't', 'f', 'p', 'g', 'u']
+187.: Post-Processing...
+187.: Finished postprocessing - unanimous questions:
+[9]: ['k', 'e', 'x', 'a', 'w', 't', 'f', 'p', 'g']
+(Total: 1352 + 9 = 1361)
+
+
+188.: Pre-Processing...
+188.: Finished preprocessing - total questions:
+[4]: ['t', 'g', 'n', 'r']
+188.: Post-Processing...
+188.: Finished postprocessing - unanimous questions:
+[4]: ['t', 'g', 'n', 'r']
+(Total: 1361 + 4 = 1365)
+
+
+189.: Pre-Processing...
+189.: Finished preprocessing - total questions:
+[9]: ['k', 'l', 'u', 'd', 'g', 'p', 'x', 'i', 'r']
+189.: Post-Processing...
+189.: Finished postprocessing - unanimous questions:
+[5]: ['k', 'd', 'g', 'p', 'x']
+(Total: 1365 + 5 = 1370)
+
+
+190.: Pre-Processing...
+190.: Finished preprocessing - total questions:
+[17]: ['a', 'i', 'b', 'g', 'q', 'y', 'k', 'u', 'v', 's', 'z', 'd', 'w', 'c', 'n', 'j', 'p']
+190.: Post-Processing...
+190.: Finished postprocessing - unanimous questions:
+[8]: ['a', 'i', 'b', 'g', 'q', 'u', 'v', 's']
+(Total: 1370 + 8 = 1378)
+
+
+191.: Pre-Processing...
+191.: Finished preprocessing - total questions:
+[5]: ['w', 'x', 'u', 'k', 'b']
+191.: Post-Processing...
+191.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1378 + 0 = 1378)
+
+
+192.: Pre-Processing...
+192.: Finished preprocessing - total questions:
+[4]: ['u', 'o', 'e', 'i']
+192.: Post-Processing...
+192.: Finished postprocessing - unanimous questions:
+[1]: ['u']
+(Total: 1378 + 1 = 1379)
+
+
+193.: Pre-Processing...
+193.: Finished preprocessing - total questions:
+[6]: ['z', 'o', 'g', 'b', 'e', 's']
+193.: Post-Processing...
+193.: Finished postprocessing - unanimous questions:
+[2]: ['o', 'b']
+(Total: 1379 + 2 = 1381)
+
+
+194.: Pre-Processing...
+194.: Finished preprocessing - total questions:
+[4]: ['c', 's', 'z', 'm']
+194.: Post-Processing...
+194.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1381 + 0 = 1381)
+
+
+195.: Pre-Processing...
+195.: Finished preprocessing - total questions:
+[6]: ['o', 'l', 'e', 'q', 'm', 'i']
+195.: Post-Processing...
+195.: Finished postprocessing - unanimous questions:
+[3]: ['o', 'l', 'q']
+(Total: 1381 + 3 = 1384)
+
+
+196.: Pre-Processing...
+196.: Finished preprocessing - total questions:
+[11]: ['w', 'o', 'x', 'z', 'd', 'c', 's', 'h', 'n', 'l', 'p']
+196.: Post-Processing...
+196.: Finished postprocessing - unanimous questions:
+[7]: ['w', 'o', 'x', 'd', 's', 'h', 'l']
+(Total: 1384 + 7 = 1391)
+
+
+197.: Pre-Processing...
+197.: Finished preprocessing - total questions:
+[25]: ['n', 't', 'k', 'b', 'j', 'x', 'p', 'q', 'w', 'h', 'l', 'm', 'e', 'c', 's', 'r', 'd', 'g', 'a', 'o', 'i', 'z', 'y', 'f', 'u']
+197.: Post-Processing...
+197.: Finished postprocessing - unanimous questions:
+[15]: ['k', 'b', 'j', 'x', 'p', 'q', 'w', 'l', 'm', 'e', 's', 'r', 'd', 'g', 'a']
+(Total: 1391 + 15 = 1406)
+
+
+198.: Pre-Processing...
+198.: Finished preprocessing - total questions:
+[7]: ['m', 'x', 'k', 'y', 'z', 'v', 'b']
+198.: Post-Processing...
+198.: Finished postprocessing - unanimous questions:
+[2]: ['m', 'x']
+(Total: 1406 + 2 = 1408)
+
+
+199.: Pre-Processing...
+199.: Finished preprocessing - total questions:
+[3]: ['n', 'l', 'o']
+199.: Post-Processing...
+199.: Finished postprocessing - unanimous questions:
+[1]: ['n']
+(Total: 1408 + 1 = 1409)
+
+
+200.: Pre-Processing...
+200.: Finished preprocessing - total questions:
+[15]: ['f', 'q', 'l', 'y', 'e', 'z', 'x', 't', 'j', 'g', 'o', 'a', 'h', 'k', 's']
+200.: Post-Processing...
+200.: Finished postprocessing - unanimous questions:
+[6]: ['q', 'y', 'e', 't', 'o', 'a']
+(Total: 1409 + 6 = 1415)
+
+
+201.: Pre-Processing...
+201.: Finished preprocessing - total questions:
+[9]: ['k', 'h', 't', 'j', 'a', 's', 'm', 'u', 'n']
+201.: Post-Processing...
+201.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1415 + 0 = 1415)
+
+
+202.: Pre-Processing...
+202.: Finished preprocessing - total questions:
+[3]: ['t', 'z', 'm']
+202.: Post-Processing...
+202.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1415 + 0 = 1415)
+
+
+203.: Pre-Processing...
+203.: Finished preprocessing - total questions:
+[3]: ['t', 'y', 'z']
+203.: Post-Processing...
+203.: Finished postprocessing - unanimous questions:
+[3]: ['t', 'y', 'z']
+(Total: 1415 + 3 = 1418)
+
+
+204.: Pre-Processing...
+204.: Finished preprocessing - total questions:
+[11]: ['g', 'k', 'm', 'd', 'u', 'b', 'i', 'a', 'c', 'x', 'j']
+204.: Post-Processing...
+204.: Finished postprocessing - unanimous questions:
+[8]: ['g', 'k', 'm', 'd', 'u', 'i', 'c', 'x']
+(Total: 1418 + 8 = 1426)
+
+
+205.: Pre-Processing...
+205.: Finished preprocessing - total questions:
+[25]: ['i', 'y', 's', 'a', 'r', 'm', 'n', 'f', 'p', 'h', 'g', 'c', 't', 'z', 'j', 'o', 'k', 'v', 'u', 'q', 'd', 'b', 'e', 'x', 'l']
+205.: Post-Processing...
+205.: Finished postprocessing - unanimous questions:
+[11]: ['y', 's', 'a', 'm', 'n', 'f', 'p', 'h', 'g', 'z', 'j']
+(Total: 1426 + 11 = 1437)
+
+
+206.: Pre-Processing...
+206.: Finished preprocessing - total questions:
+[25]: ['e', 'd', 'w', 'v', 'r', 'z', 'u', 'l', 'o', 'q', 'f', 's', 'c', 't', 'i', 'm', 'k', 'a', 'n', 'j', 'x', 'y', 'g', 'h', 'p']
+206.: Post-Processing...
+206.: Finished postprocessing - unanimous questions:
+[12]: ['e', 'd', 'w', 'v', 'r', 'o', 'q', 'f', 'c', 't', 'i', 'm']
+(Total: 1437 + 12 = 1449)
+
+
+207.: Pre-Processing...
+207.: Finished preprocessing - total questions:
+[8]: ['i', 'h', 'd', 'r', 'n', 'a', 'k', 'm']
+207.: Post-Processing...
+207.: Finished postprocessing - unanimous questions:
+[7]: ['i', 'd', 'r', 'n', 'a', 'k', 'm']
+(Total: 1449 + 7 = 1456)
+
+
+208.: Pre-Processing...
+208.: Finished preprocessing - total questions:
+[11]: ['o', 'j', 'e', 't', 'c', 'q', 'a', 'u', 'b', 'k', 'l']
+208.: Post-Processing...
+208.: Finished postprocessing - unanimous questions:
+[1]: ['t']
+(Total: 1456 + 1 = 1457)
+
+
+209.: Pre-Processing...
+209.: Finished preprocessing - total questions:
+[18]: ['q', 's', 'y', 'f', 'c', 'h', 'x', 'k', 'v', 'z', 'g', 'e', 'r', 'l', 'w', 'i', 'o', 'j']
+209.: Post-Processing...
+209.: Finished postprocessing - unanimous questions:
+[1]: ['y']
+(Total: 1457 + 1 = 1458)
+
+
+210.: Pre-Processing...
+210.: Finished preprocessing - total questions:
+[26]: ['o', 'd', 'z', 'q', 'b', 'v', 'm', 'l', 'r', 'f', 'k', 'j', 'g', 'y', 'e', 'w', 'a', 'n', 'x', 't', 's', 'h', 'i', 'p', 'u', 'c']
+210.: Post-Processing...
+210.: Finished postprocessing - unanimous questions:
+[10]: ['o', 'd', 'q', 'b', 'v', 'l', 'r', 'k', 'j', 'y']
+(Total: 1458 + 10 = 1468)
+
+
+211.: Pre-Processing...
+211.: Finished preprocessing - total questions:
+[24]: ['k', 'e', 't', 'y', 'o', 'g', 'p', 's', 'a', 'b', 'h', 'z', 'w', 'x', 'i', 'q', 'f', 'l', 'j', 'c', 'u', 'm', 'd', 'n']
+211.: Post-Processing...
+211.: Finished postprocessing - unanimous questions:
+[15]: ['k', 'e', 't', 'o', 'g', 'a', 'b', 'h', 'z', 'w', 'x', 'i', 'q', 'f', 'l']
+(Total: 1468 + 15 = 1483)
+
+
+212.: Pre-Processing...
+212.: Finished preprocessing - total questions:
+[3]: ['p', 'k', 'o']
+212.: Post-Processing...
+212.: Finished postprocessing - unanimous questions:
+[3]: ['p', 'k', 'o']
+(Total: 1483 + 3 = 1486)
+
+
+213.: Pre-Processing...
+213.: Finished preprocessing - total questions:
+[4]: ['w', 'm', 'p', 's']
+213.: Post-Processing...
+213.: Finished postprocessing - unanimous questions:
+[1]: ['m']
+(Total: 1486 + 1 = 1487)
+
+
+214.: Pre-Processing...
+214.: Finished preprocessing - total questions:
+[9]: ['n', 'g', 'h', 'w', 'm', 'd', 'f', 'j', 'v']
+214.: Post-Processing...
+214.: Finished postprocessing - unanimous questions:
+[6]: ['g', 'h', 'w', 'm', 'd', 'f']
+(Total: 1487 + 6 = 1493)
+
+
+215.: Pre-Processing...
+215.: Finished preprocessing - total questions:
+[22]: ['u', 'm', 'n', 'k', 'p', 'z', 'e', 'd', 'g', 'a', 'o', 'q', 'h', 'c', 't', 'b', 'j', 's', 'y', 'f', 'r', 'x']
+215.: Post-Processing...
+215.: Finished postprocessing - unanimous questions:
+[9]: ['u', 'm', 'n', 'k', 'p', 'z', 'e', 'd', 'g']
+(Total: 1493 + 9 = 1502)
+
+
+216.: Pre-Processing...
+216.: Finished preprocessing - total questions:
+[22]: ['b', 'f', 'c', 'd', 'y', 's', 'z', 'i', 'p', 'h', 'q', 'u', 'x', 'v', 'm', 'j', 'a', 'g', 'e', 'n', 't', 'k']
+216.: Post-Processing...
+216.: Finished postprocessing - unanimous questions:
+[20]: ['b', 'f', 'c', 'd', 'y', 's', 'z', 'i', 'p', 'h', 'q', 'u', 'x', 'v', 'm', 'j', 'a', 'g', 'e', 'n']
+(Total: 1502 + 20 = 1522)
+
+
+217.: Pre-Processing...
+217.: Finished preprocessing - total questions:
+[14]: ['h', 'r', 'j', 'l', 'b', 'f', 'w', 'q', 'o', 'k', 'm', 's', 'c', 'u']
+217.: Post-Processing...
+217.: Finished postprocessing - unanimous questions:
+[6]: ['h', 'j', 'l', 'b', 'f', 'q']
+(Total: 1522 + 6 = 1528)
+
+
+218.: Pre-Processing...
+218.: Finished preprocessing - total questions:
+[6]: ['v', 'f', 'j', 'i', 'c', 'x']
+218.: Post-Processing...
+218.: Finished postprocessing - unanimous questions:
+[6]: ['v', 'f', 'j', 'i', 'c', 'x']
+(Total: 1528 + 6 = 1534)
+
+
+219.: Pre-Processing...
+219.: Finished preprocessing - total questions:
+[5]: ['j', 'u', 'c', 'n', 'q']
+219.: Post-Processing...
+219.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1534 + 0 = 1534)
+
+
+220.: Pre-Processing...
+220.: Finished preprocessing - total questions:
+[14]: ['b', 'm', 'r', 'v', 'z', 's', 'a', 'e', 'o', 'q', 'u', 'x', 'n', 'f']
+220.: Post-Processing...
+220.: Finished postprocessing - unanimous questions:
+[5]: ['b', 'm', 'r', 'z', 'a']
+(Total: 1534 + 5 = 1539)
+
+
+221.: Pre-Processing...
+221.: Finished preprocessing - total questions:
+[8]: ['y', 'j', 'n', 'v', 'z', 'e', 'a', 't']
+221.: Post-Processing...
+221.: Finished postprocessing - unanimous questions:
+[6]: ['y', 'j', 'n', 'v', 'z', 'e']
+(Total: 1539 + 6 = 1545)
+
+
+222.: Pre-Processing...
+222.: Finished preprocessing - total questions:
+[3]: ['w', 'f', 'b']
+222.: Post-Processing...
+222.: Finished postprocessing - unanimous questions:
+[1]: ['f']
+(Total: 1545 + 1 = 1546)
+
+
+223.: Pre-Processing...
+223.: Finished preprocessing - total questions:
+[5]: ['b', 'e', 'j', 'p', 'n']
+223.: Post-Processing...
+223.: Finished postprocessing - unanimous questions:
+[5]: ['b', 'e', 'j', 'p', 'n']
+(Total: 1546 + 5 = 1551)
+
+
+224.: Pre-Processing...
+224.: Finished preprocessing - total questions:
+[3]: ['o', 'y', 'c']
+224.: Post-Processing...
+224.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1551 + 0 = 1551)
+
+
+225.: Pre-Processing...
+225.: Finished preprocessing - total questions:
+[13]: ['j', 'w', 'h', 's', 'e', 'n', 'a', 'u', 't', 'c', 'x', 'm', 'v']
+225.: Post-Processing...
+225.: Finished postprocessing - unanimous questions:
+[1]: ['w']
+(Total: 1551 + 1 = 1552)
+
+
+226.: Pre-Processing...
+226.: Finished preprocessing - total questions:
+[24]: ['h', 't', 's', 'q', 'a', 'g', 'w', 'k', 'o', 'l', 'y', 'd', 'z', 'e', 'r', 'x', 'j', 'u', 'n', 'v', 'i', 'f', 'p', 'm']
+226.: Post-Processing...
+226.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1552 + 0 = 1552)
+
+
+227.: Pre-Processing...
+227.: Finished preprocessing - total questions:
+[26]: ['d', 'r', 'u', 'j', 'l', 'e', 'n', 'v', 's', 'w', 'o', 'm', 'y', 't', 'h', 'g', 'k', 'p', 'x', 'a', 'i', 'b', 'c', 'z', 'f', 'q']
+227.: Post-Processing...
+227.: Finished postprocessing - unanimous questions:
+[14]: ['d', 'r', 'u', 'l', 'e', 'n', 's', 'w', 'y', 't', 'h', 'g', 'k', 'p']
+(Total: 1552 + 14 = 1566)
+
+
+228.: Pre-Processing...
+228.: Finished preprocessing - total questions:
+[11]: ['o', 'p', 'z', 'v', 'e', 'f', 'm', 'c', 'g', 's', 't']
+228.: Post-Processing...
+228.: Finished postprocessing - unanimous questions:
+[11]: ['o', 'p', 'z', 'v', 'e', 'f', 'm', 'c', 'g', 's', 't']
+(Total: 1566 + 11 = 1577)
+
+
+229.: Pre-Processing...
+229.: Finished preprocessing - total questions:
+[8]: ['u', 'v', 's', 'i', 'e', 'p', 'g', 'j']
+229.: Post-Processing...
+229.: Finished postprocessing - unanimous questions:
+[1]: ['u']
+(Total: 1577 + 1 = 1578)
+
+
+230.: Pre-Processing...
+230.: Finished preprocessing - total questions:
+[11]: ['s', 'r', 'b', 'p', 'y', 'g', 'w', 'd', 'o', 'e', 'v']
+230.: Post-Processing...
+230.: Finished postprocessing - unanimous questions:
+[4]: ['s', 'b', 'y', 'w']
+(Total: 1578 + 4 = 1582)
+
+
+231.: Pre-Processing...
+231.: Finished preprocessing - total questions:
+[7]: ['w', 'i', 'a', 'c', 'z', 'x', 'p']
+231.: Post-Processing...
+231.: Finished postprocessing - unanimous questions:
+[5]: ['w', 'i', 'a', 'c', 'z']
+(Total: 1582 + 5 = 1587)
+
+
+232.: Pre-Processing...
+232.: Finished preprocessing - total questions:
+[7]: ['v', 'r', 'i', 'a', 'c', 'd', 'h']
+232.: Post-Processing...
+232.: Finished postprocessing - unanimous questions:
+[3]: ['v', 'r', 'a']
+(Total: 1587 + 3 = 1590)
+
+
+233.: Pre-Processing...
+233.: Finished preprocessing - total questions:
+[10]: ['q', 'v', 'l', 'e', 'u', 'b', 'a', 'j', 'x', 'y']
+233.: Post-Processing...
+233.: Finished postprocessing - unanimous questions:
+[9]: ['q', 'v', 'l', 'e', 'u', 'b', 'a', 'j', 'x']
+(Total: 1590 + 9 = 1599)
+
+
+234.: Pre-Processing...
+234.: Finished preprocessing - total questions:
+[17]: ['v', 'e', 'g', 't', 'z', 'm', 'p', 'l', 's', 'n', 'x', 'd', 'o', 'w', 'k', 'y', 'f']
+234.: Post-Processing...
+234.: Finished postprocessing - unanimous questions:
+[3]: ['v', 'g', 'l']
+(Total: 1599 + 3 = 1602)
+
+
+235.: Pre-Processing...
+235.: Finished preprocessing - total questions:
+[6]: ['m', 'p', 'k', 'u', 'b', 'o']
+235.: Post-Processing...
+235.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1602 + 0 = 1602)
+
+
+236.: Pre-Processing...
+236.: Finished preprocessing - total questions:
+[26]: ['j', 'd', 'y', 'm', 'x', 'h', 'q', 'e', 's', 'z', 'r', 'f', 'g', 'o', 'i', 'u', 'k', 'w', 'b', 'n', 'a', 'v', 't', 'p', 'l', 'c']
+236.: Post-Processing...
+236.: Finished postprocessing - unanimous questions:
+[13]: ['j', 'd', 'y', 'm', 'x', 'h', 'e', 's', 'z', 'r', 'f', 'g', 'o']
+(Total: 1602 + 13 = 1615)
+
+
+237.: Pre-Processing...
+237.: Finished preprocessing - total questions:
+[6]: ['p', 'n', 'd', 'c', 's', 'w']
+237.: Post-Processing...
+237.: Finished postprocessing - unanimous questions:
+[4]: ['p', 'd', 'c', 's']
+(Total: 1615 + 4 = 1619)
+
+
+238.: Pre-Processing...
+238.: Finished preprocessing - total questions:
+[23]: ['o', 'c', 'e', 'i', 's', 'h', 'r', 'g', 'q', 'p', 't', 'j', 'z', 'n', 'k', 'u', 'a', 'l', 'x', 'y', 'w', 'f', 'b']
+238.: Post-Processing...
+238.: Finished postprocessing - unanimous questions:
+[5]: ['o', 'e', 's', 'g', 'p']
+(Total: 1619 + 5 = 1624)
+
+
+239.: Pre-Processing...
+239.: Finished preprocessing - total questions:
+[8]: ['p', 'z', 'e', 'j', 'o', 'd', 'v', 'y']
+239.: Post-Processing...
+239.: Finished postprocessing - unanimous questions:
+[8]: ['p', 'z', 'e', 'j', 'o', 'd', 'v', 'y']
+(Total: 1624 + 8 = 1632)
+
+
+240.: Pre-Processing...
+240.: Finished preprocessing - total questions:
+[26]: ['m', 'd', 'j', 'z', 'i', 'b', 'u', 'q', 'r', 'v', 'k', 'e', 'c', 'l', 'a', 'o', 'x', 'g', 'p', 'h', 'y', 'n', 's', 'w', 'f', 't']
+240.: Post-Processing...
+240.: Finished postprocessing - unanimous questions:
+[11]: ['j', 'z', 'i', 'b', 'u', 'q', 'r', 'v', 'e', 'c', 'l']
+(Total: 1632 + 11 = 1643)
+
+
+241.: Pre-Processing...
+241.: Finished preprocessing - total questions:
+[3]: ['n', 'o', 's']
+241.: Post-Processing...
+241.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1643 + 0 = 1643)
+
+
+242.: Pre-Processing...
+242.: Finished preprocessing - total questions:
+[25]: ['w', 'n', 'q', 'f', 't', 'x', 'a', 'u', 'r', 'b', 'l', 'h', 'p', 'i', 'k', 'm', 'z', 'j', 'v', 'y', 'c', 'e', 'd', 'g', 's']
+242.: Post-Processing...
+242.: Finished postprocessing - unanimous questions:
+[18]: ['w', 'n', 'q', 'f', 't', 'x', 'a', 'u', 'r', 'b', 'l', 'h', 'p', 'i', 'k', 'm', 'z', 'j']
+(Total: 1643 + 18 = 1661)
+
+
+243.: Pre-Processing...
+243.: Finished preprocessing - total questions:
+[13]: ['x', 'f', 'r', 't', 'l', 'e', 'h', 'k', 'z', 'i', 'b', 'y', 'j']
+243.: Post-Processing...
+243.: Finished postprocessing - unanimous questions:
+[2]: ['x', 'h']
+(Total: 1661 + 2 = 1663)
+
+
+244.: Pre-Processing...
+244.: Finished preprocessing - total questions:
+[18]: ['v', 'l', 'o', 'i', 'w', 'k', 'e', 'a', 'd', 'b', 'c', 'q', 'r', 'g', 'x', 'y', 'm', 'j']
+244.: Post-Processing...
+244.: Finished postprocessing - unanimous questions:
+[13]: ['v', 'l', 'o', 'i', 'w', 'e', 'a', 'd', 'b', 'q', 'r', 'g', 'x']
+(Total: 1663 + 13 = 1676)
+
+
+245.: Pre-Processing...
+245.: Finished preprocessing - total questions:
+[16]: ['d', 'r', 'y', 'h', 't', 'p', 'o', 'a', 'w', 'v', 'i', 'n', 'b', 'q', 'g', 'l']
+245.: Post-Processing...
+245.: Finished postprocessing - unanimous questions:
+[10]: ['d', 'r', 'y', 'h', 't', 'p', 'o', 'w', 'v', 'i']
+(Total: 1676 + 10 = 1686)
+
+
+246.: Pre-Processing...
+246.: Finished preprocessing - total questions:
+[12]: ['v', 's', 'z', 'u', 'j', 'o', 'm', 'p', 'i', 'h', 'x', 'r']
+246.: Post-Processing...
+246.: Finished postprocessing - unanimous questions:
+[1]: ['j']
+(Total: 1686 + 1 = 1687)
+
+
+247.: Pre-Processing...
+247.: Finished preprocessing - total questions:
+[3]: ['y', 'e', 'a']
+247.: Post-Processing...
+247.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1687 + 0 = 1687)
+
+
+248.: Pre-Processing...
+248.: Finished preprocessing - total questions:
+[6]: ['n', 'p', 'j', 'u', 'e', 'v']
+248.: Post-Processing...
+248.: Finished postprocessing - unanimous questions:
+[3]: ['n', 'j', 'u']
+(Total: 1687 + 3 = 1690)
+
+
+249.: Pre-Processing...
+249.: Finished preprocessing - total questions:
+[19]: ['f', 'g', 'p', 'c', 's', 'w', 'h', 'm', 'd', 'i', 'x', 'y', 'r', 'k', 'o', 't', 'n', 'b', 'u']
+249.: Post-Processing...
+249.: Finished postprocessing - unanimous questions:
+[12]: ['f', 'g', 'p', 'c', 's', 'w', 'h', 'm', 'd', 'i', 'x', 'y']
+(Total: 1690 + 12 = 1702)
+
+
+250.: Pre-Processing...
+250.: Finished preprocessing - total questions:
+[10]: ['a', 'c', 'e', 's', 'g', 'k', 'p', 'v', 'r', 'o']
+250.: Post-Processing...
+250.: Finished postprocessing - unanimous questions:
+[6]: ['a', 'c', 's', 'g', 'p', 'v']
+(Total: 1702 + 6 = 1708)
+
+
+251.: Pre-Processing...
+251.: Finished preprocessing - total questions:
+[6]: ['p', 'c', 'o', 'r', 'f', 'l']
+251.: Post-Processing...
+251.: Finished postprocessing - unanimous questions:
+[5]: ['p', 'c', 'o', 'r', 'f']
+(Total: 1708 + 5 = 1713)
+
+
+252.: Pre-Processing...
+252.: Finished preprocessing - total questions:
+[9]: ['z', 's', 'y', 'm', 'p', 'k', 'b', 'l', 'a']
+252.: Post-Processing...
+252.: Finished postprocessing - unanimous questions:
+[8]: ['z', 's', 'y', 'm', 'p', 'k', 'b', 'l']
+(Total: 1713 + 8 = 1721)
+
+
+253.: Pre-Processing...
+253.: Finished preprocessing - total questions:
+[20]: ['l', 'r', 'd', 'g', 's', 'p', 'o', 'x', 'q', 'a', 'y', 'w', 'v', 'j', 'i', 'u', 'e', 'b', 'm', 'f']
+253.: Post-Processing...
+253.: Finished postprocessing - unanimous questions:
+[14]: ['l', 'r', 'd', 'g', 's', 'p', 'x', 'q', 'a', 'w', 'v', 'j', 'i', 'u']
+(Total: 1721 + 14 = 1735)
+
+
+254.: Pre-Processing...
+254.: Finished preprocessing - total questions:
+[15]: ['p', 'x', 'l', 'f', 'i', 'b', 'd', 'v', 's', 'k', 'n', 'e', 'r', 'h', 'g']
+254.: Post-Processing...
+254.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1735 + 0 = 1735)
+
+
+255.: Pre-Processing...
+255.: Finished preprocessing - total questions:
+[10]: ['q', 's', 'v', 'r', 'm', 'p', 'a', 'g', 'z', 'y']
+255.: Post-Processing...
+255.: Finished postprocessing - unanimous questions:
+[2]: ['q', 's']
+(Total: 1735 + 2 = 1737)
+
+
+256.: Pre-Processing...
+256.: Finished preprocessing - total questions:
+[23]: ['c', 'h', 'p', 'u', 'k', 'a', 'd', 'o', 'm', 'e', 'n', 's', 'g', 'f', 'j', 'l', 'z', 'w', 'q', 't', 'r', 'i', 'b']
+256.: Post-Processing...
+256.: Finished postprocessing - unanimous questions:
+[8]: ['p', 'u', 'k', 'd', 'o', 'e', 'n', 'j']
+(Total: 1737 + 8 = 1745)
+
+
+257.: Pre-Processing...
+257.: Finished preprocessing - total questions:
+[23]: ['a', 'q', 's', 'h', 'x', 't', 'g', 'r', 'u', 'w', 'k', 'z', 'n', 'c', 'o', 'i', 'l', 'b', 'd', 'm', 'e', 'j', 'p']
+257.: Post-Processing...
+257.: Finished postprocessing - unanimous questions:
+[12]: ['a', 'q', 'x', 't', 'u', 'w', 'k', 'z', 'n', 'c', 'o', 'i']
+(Total: 1745 + 12 = 1757)
+
+
+258.: Pre-Processing...
+258.: Finished preprocessing - total questions:
+[18]: ['v', 'z', 'a', 's', 'x', 'e', 'c', 'f', 'd', 'i', 'g', 'k', 'b', 'j', 'y', 'u', 'n', 'o']
+258.: Post-Processing...
+258.: Finished postprocessing - unanimous questions:
+[12]: ['v', 'z', 'a', 's', 'e', 'c', 'f', 'd', 'i', 'k', 'b', 'j']
+(Total: 1757 + 12 = 1769)
+
+
+259.: Pre-Processing...
+259.: Finished preprocessing - total questions:
+[11]: ['m', 'j', 'b', 'd', 'p', 's', 'h', 'y', 'x', 'c', 'f']
+259.: Post-Processing...
+259.: Finished postprocessing - unanimous questions:
+[5]: ['m', 'j', 'b', 'd', 'p']
+(Total: 1769 + 5 = 1774)
+
+
+260.: Pre-Processing...
+260.: Finished preprocessing - total questions:
+[8]: ['c', 'j', 'd', 'v', 'l', 'g', 'z', 'k']
+260.: Post-Processing...
+260.: Finished postprocessing - unanimous questions:
+[8]: ['c', 'j', 'd', 'v', 'l', 'g', 'z', 'k']
+(Total: 1774 + 8 = 1782)
+
+
+261.: Pre-Processing...
+261.: Finished preprocessing - total questions:
+[8]: ['p', 'w', 'u', 's', 'k', 'g', 't', 'c']
+261.: Post-Processing...
+261.: Finished postprocessing - unanimous questions:
+[7]: ['p', 'w', 'u', 'k', 'g', 't', 'c']
+(Total: 1782 + 7 = 1789)
+
+
+262.: Pre-Processing...
+262.: Finished preprocessing - total questions:
+[24]: ['s', 't', 'x', 'g', 'a', 'c', 'j', 'd', 'n', 'b', 'e', 'z', 'w', 'o', 'u', 'k', 'h', 'i', 'v', 'l', 'y', 'p', 'r', 'f']
+262.: Post-Processing...
+262.: Finished postprocessing - unanimous questions:
+[23]: ['s', 't', 'x', 'g', 'a', 'c', 'j', 'd', 'n', 'b', 'e', 'z', 'w', 'o', 'u', 'k', 'h', 'i', 'v', 'l', 'y', 'p', 'r']
+(Total: 1789 + 23 = 1812)
+
+
+263.: Pre-Processing...
+263.: Finished preprocessing - total questions:
+[13]: ['f', 'r', 'q', 'p', 's', 'w', 'z', 'a', 'j', 'g', 'k', 't', 'u']
+263.: Post-Processing...
+263.: Finished postprocessing - unanimous questions:
+[10]: ['f', 'q', 'p', 's', 'w', 'z', 'a', 'j', 'g', 'k']
+(Total: 1812 + 10 = 1822)
+
+
+264.: Pre-Processing...
+264.: Finished preprocessing - total questions:
+[24]: ['y', 'u', 'q', 's', 'j', 'h', 'r', 'w', 'm', 'g', 'v', 'k', 'i', 'a', 'l', 'e', 'n', 'c', 't', 'o', 'p', 'b', 'z', 'd']
+264.: Post-Processing...
+264.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1822 + 0 = 1822)
+
+
+265.: Pre-Processing...
+265.: Finished preprocessing - total questions:
+[21]: ['x', 'u', 'd', 't', 'j', 'l', 'a', 'k', 'f', 'q', 'h', 'e', 'p', 'z', 'm', 'b', 'r', 'o', 'v', 'y', 'n']
+265.: Post-Processing...
+265.: Finished postprocessing - unanimous questions:
+[15]: ['x', 'u', 'd', 't', 'j', 'l', 'a', 'k', 'f', 'q', 'h', 'e', 'p', 'z', 'm']
+(Total: 1822 + 15 = 1837)
+
+
+266.: Pre-Processing...
+266.: Finished preprocessing - total questions:
+[14]: ['l', 't', 'e', 'z', 'f', 'i', 'w', 'c', 's', 'n', 'x', 'y', 'g', 'k']
+266.: Post-Processing...
+266.: Finished postprocessing - unanimous questions:
+[13]: ['l', 't', 'e', 'z', 'f', 'i', 'w', 'c', 's', 'n', 'x', 'y', 'g']
+(Total: 1837 + 13 = 1850)
+
+
+267.: Pre-Processing...
+267.: Finished preprocessing - total questions:
+[16]: ['h', 'm', 'l', 'x', 'o', 'k', 'n', 'a', 'y', 'q', 'w', 'g', 't', 'f', 's', 'd']
+267.: Post-Processing...
+267.: Finished postprocessing - unanimous questions:
+[15]: ['h', 'm', 'l', 'x', 'o', 'k', 'n', 'a', 'y', 'q', 'w', 'g', 't', 'f', 's']
+(Total: 1850 + 15 = 1865)
+
+
+268.: Pre-Processing...
+268.: Finished preprocessing - total questions:
+[7]: ['h', 'p', 'c', 'd', 'u', 'o', 'm']
+268.: Post-Processing...
+268.: Finished postprocessing - unanimous questions:
+[6]: ['h', 'p', 'c', 'd', 'u', 'o']
+(Total: 1865 + 6 = 1871)
+
+
+269.: Pre-Processing...
+269.: Finished preprocessing - total questions:
+[24]: ['v', 'i', 'j', 'e', 'g', 'h', 'u', 'd', 'c', 'a', 's', 'p', 'x', 'o', 'm', 'w', 'k', 'y', 'r', 'z', 'b', 'l', 't', 'q']
+269.: Post-Processing...
+269.: Finished postprocessing - unanimous questions:
+[23]: ['v', 'i', 'j', 'e', 'g', 'h', 'u', 'd', 'c', 'a', 's', 'p', 'x', 'o', 'm', 'w', 'k', 'y', 'r', 'z', 'b', 'l', 't']
+(Total: 1871 + 23 = 1894)
+
+
+270.: Pre-Processing...
+270.: Finished preprocessing - total questions:
+[13]: ['y', 'd', 'r', 'c', 'x', 'h', 'k', 'w', 'b', 'e', 'n', 'q', 'j']
+270.: Post-Processing...
+270.: Finished postprocessing - unanimous questions:
+[11]: ['y', 'd', 'c', 'x', 'h', 'k', 'b', 'e', 'n', 'q', 'j']
+(Total: 1894 + 11 = 1905)
+
+
+271.: Pre-Processing...
+271.: Finished preprocessing - total questions:
+[22]: ['j', 'l', 'q', 'k', 'i', 's', 'f', 't', 'w', 'd', 'a', 'h', 'n', 'p', 'e', 'm', 'c', 'r', 'b', 'u', 'y', 'z']
+271.: Post-Processing...
+271.: Finished postprocessing - unanimous questions:
+[14]: ['j', 'l', 'q', 'k', 'i', 's', 'f', 't', 'w', 'd', 'p', 'e', 'c', 'b']
+(Total: 1905 + 14 = 1919)
+
+
+272.: Pre-Processing...
+272.: Finished preprocessing - total questions:
+[13]: ['v', 'h', 't', 'u', 'm', 'y', 'x', 'r', 'i', 'o', 'c', 'j', 'e']
+272.: Post-Processing...
+272.: Finished postprocessing - unanimous questions:
+[12]: ['v', 'h', 't', 'u', 'm', 'y', 'x', 'r', 'i', 'o', 'c', 'j']
+(Total: 1919 + 12 = 1931)
+
+
+273.: Pre-Processing...
+273.: Finished preprocessing - total questions:
+[18]: ['q', 'l', 'x', 'y', 'm', 'e', 'f', 'u', 'i', 'w', 'v', 'b', 'r', 'g', 'n', 'z', 'j', 'c']
+273.: Post-Processing...
+273.: Finished postprocessing - unanimous questions:
+[15]: ['q', 'l', 'x', 'y', 'm', 'e', 'f', 'u', 'i', 'w', 'v', 'b', 'r', 'g', 'n']
+(Total: 1931 + 15 = 1946)
+
+
+274.: Pre-Processing...
+274.: Finished preprocessing - total questions:
+[22]: ['z', 'n', 'x', 'a', 'd', 'j', 'w', 'c', 'q', 's', 'i', 'h', 'b', 'f', 'o', 'v', 'u', 'p', 't', 'r', 'e', 'g']
+274.: Post-Processing...
+274.: Finished postprocessing - unanimous questions:
+[14]: ['n', 'x', 'a', 'd', 'j', 'c', 'q', 's', 'i', 'f', 'o', 'v', 'u', 't']
+(Total: 1946 + 14 = 1960)
+
+
+275.: Pre-Processing...
+275.: Finished preprocessing - total questions:
+[26]: ['r', 'j', 't', 's', 'f', 'z', 'x', 'h', 'i', 'g', 'd', 'a', 'm', 'k', 'c', 'q', 'p', 'b', 'e', 'n', 'w', 'y', 'u', 'o', 'l', 'v']
+275.: Post-Processing...
+275.: Finished postprocessing - unanimous questions:
+[9]: ['r', 's', 'f', 'x', 'i', 'a', 'm', 'c', 'q']
+(Total: 1960 + 9 = 1969)
+
+
+276.: Pre-Processing...
+276.: Finished preprocessing - total questions:
+[15]: ['l', 'a', 'g', 'i', 'p', 'b', 's', 'w', 'n', 'v', 'm', 'x', 'c', 't', 'r']
+276.: Post-Processing...
+276.: Finished postprocessing - unanimous questions:
+[4]: ['a', 'g', 'i', 'p']
+(Total: 1969 + 4 = 1973)
+
+
+277.: Pre-Processing...
+277.: Finished preprocessing - total questions:
+[22]: ['j', 's', 'n', 'b', 'm', 'w', 'x', 'l', 'i', 'o', 'a', 'q', 'y', 't', 'r', 'v', 'p', 'g', 'h', 'k', 'd', 'u']
+277.: Post-Processing...
+277.: Finished postprocessing - unanimous questions:
+[2]: ['j', 'b']
+(Total: 1973 + 2 = 1975)
+
+
+278.: Pre-Processing...
+278.: Finished preprocessing - total questions:
+[4]: ['d', 'v', 'b', 'h']
+278.: Post-Processing...
+278.: Finished postprocessing - unanimous questions:
+[3]: ['d', 'v', 'b']
+(Total: 1975 + 3 = 1978)
+
+
+279.: Pre-Processing...
+279.: Finished preprocessing - total questions:
+[15]: ['c', 'm', 'f', 'k', 'u', 'b', 's', 'n', 'w', 'h', 'v', 'y', 'd', 'l', 'o']
+279.: Post-Processing...
+279.: Finished postprocessing - unanimous questions:
+[13]: ['c', 'm', 'f', 'k', 'u', 'b', 's', 'n', 'w', 'v', 'y', 'd', 'l']
+(Total: 1978 + 13 = 1991)
+
+
+280.: Pre-Processing...
+280.: Finished preprocessing - total questions:
+[6]: ['w', 'x', 'z', 't', 'g', 'a']
+280.: Post-Processing...
+280.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 1991 + 0 = 1991)
+
+
+281.: Pre-Processing...
+281.: Finished preprocessing - total questions:
+[16]: ['w', 'y', 'i', 'd', 'u', 't', 'g', 'q', 'x', 'c', 'a', 'n', 'k', 'j', 'r', 'p']
+281.: Post-Processing...
+281.: Finished postprocessing - unanimous questions:
+[6]: ['y', 'd', 't', 'g', 'q', 'c']
+(Total: 1991 + 6 = 1997)
+
+
+282.: Pre-Processing...
+282.: Finished preprocessing - total questions:
+[20]: ['p', 'f', 'b', 'd', 'r', 'm', 'w', 't', 'g', 'v', 'l', 'c', 'x', 'e', 'h', 'z', 'n', 'a', 'o', 'q']
+282.: Post-Processing...
+282.: Finished postprocessing - unanimous questions:
+[7]: ['f', 'b', 'd', 'r', 'w', 'g', 'v']
+(Total: 1997 + 7 = 2004)
+
+
+283.: Pre-Processing...
+283.: Finished preprocessing - total questions:
+[20]: ['t', 'd', 's', 'y', 'j', 'b', 'p', 'k', 'z', 'w', 'x', 'l', 'n', 'e', 'a', 'q', 'h', 'r', 'g', 'i']
+283.: Post-Processing...
+283.: Finished postprocessing - unanimous questions:
+[2]: ['d', 's']
+(Total: 2004 + 2 = 2006)
+
+
+284.: Pre-Processing...
+284.: Finished preprocessing - total questions:
+[2]: ['a', 'n']
+284.: Post-Processing...
+284.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2006 + 0 = 2006)
+
+
+285.: Pre-Processing...
+285.: Finished preprocessing - total questions:
+[17]: ['z', 'p', 'r', 'v', 'f', 'q', 'c', 'g', 'i', 'y', 'b', 'd', 'l', 'e', 'w', 'x', 'u']
+285.: Post-Processing...
+285.: Finished postprocessing - unanimous questions:
+[4]: ['z', 'f', 'q', 'i']
+(Total: 2006 + 4 = 2010)
+
+
+286.: Pre-Processing...
+286.: Finished preprocessing - total questions:
+[8]: ['t', 's', 'b', 'a', 'q', 'l', 'k', 'f']
+286.: Post-Processing...
+286.: Finished postprocessing - unanimous questions:
+[4]: ['t', 's', 'a', 'q']
+(Total: 2010 + 4 = 2014)
+
+
+287.: Pre-Processing...
+287.: Finished preprocessing - total questions:
+[11]: ['e', 'w', 'm', 's', 'x', 'i', 'g', 'a', 'r', 'c', 'z']
+287.: Post-Processing...
+287.: Finished postprocessing - unanimous questions:
+[4]: ['w', 'm', 's', 'x']
+(Total: 2014 + 4 = 2018)
+
+
+288.: Pre-Processing...
+288.: Finished preprocessing - total questions:
+[24]: ['w', 'o', 'v', 'x', 'h', 'a', 'n', 'y', 'f', 't', 'g', 'l', 'r', 'k', 'z', 'm', 'i', 's', 'c', 'u', 'q', 'j', 'e', 'b']
+288.: Post-Processing...
+288.: Finished postprocessing - unanimous questions:
+[15]: ['o', 'v', 'x', 'h', 'y', 'f', 't', 'g', 'r', 'z', 'm', 'i', 's', 'c', 'u']
+(Total: 2018 + 15 = 2033)
+
+
+289.: Pre-Processing...
+289.: Finished preprocessing - total questions:
+[3]: ['e', 'm', 'k']
+289.: Post-Processing...
+289.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2033 + 0 = 2033)
+
+
+290.: Pre-Processing...
+290.: Finished preprocessing - total questions:
+[8]: ['a', 'e', 'r', 'g', 'f', 'd', 'p', 'm']
+290.: Post-Processing...
+290.: Finished postprocessing - unanimous questions:
+[3]: ['a', 'e', 'g']
+(Total: 2033 + 3 = 2036)
+
+
+291.: Pre-Processing...
+291.: Finished preprocessing - total questions:
+[14]: ['w', 'r', 'o', 'g', 'h', 'l', 'd', 'e', 'q', 't', 'n', 'c', 'z', 'p']
+291.: Post-Processing...
+291.: Finished postprocessing - unanimous questions:
+[12]: ['w', 'r', 'o', 'g', 'h', 'l', 'd', 'e', 'q', 't', 'n', 'c']
+(Total: 2036 + 12 = 2048)
+
+
+292.: Pre-Processing...
+292.: Finished preprocessing - total questions:
+[23]: ['l', 'r', 'b', 'v', 's', 'g', 'e', 'x', 'a', 'q', 'p', 't', 'n', 'f', 'w', 'j', 'm', 'c', 'd', 'h', 'o', 'u', 'k']
+292.: Post-Processing...
+292.: Finished postprocessing - unanimous questions:
+[22]: ['l', 'r', 'b', 'v', 's', 'g', 'e', 'x', 'a', 'q', 'p', 't', 'n', 'f', 'w', 'j', 'm', 'c', 'h', 'o', 'u', 'k']
+(Total: 2048 + 22 = 2070)
+
+
+293.: Pre-Processing...
+293.: Finished preprocessing - total questions:
+[8]: ['w', 'e', 'x', 'g', 'i', 'n', 'd', 'v']
+293.: Post-Processing...
+293.: Finished postprocessing - unanimous questions:
+[7]: ['w', 'e', 'x', 'g', 'i', 'n', 'd']
+(Total: 2070 + 7 = 2077)
+
+
+294.: Pre-Processing...
+294.: Finished preprocessing - total questions:
+[11]: ['p', 'e', 'j', 'q', 'd', 'c', 'z', 'w', 'v', 'm', 'o']
+294.: Post-Processing...
+294.: Finished postprocessing - unanimous questions:
+[5]: ['e', 'j', 'c', 'z', 'w']
+(Total: 2077 + 5 = 2082)
+
+
+295.: Pre-Processing...
+295.: Finished preprocessing - total questions:
+[18]: ['a', 'b', 'z', 'd', 'g', 'f', 'h', 'k', 'o', 't', 'r', 'v', 's', 'j', 'u', 'q', 'm', 'x']
+295.: Post-Processing...
+295.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2082 + 0 = 2082)
+
+
+296.: Pre-Processing...
+296.: Finished preprocessing - total questions:
+[24]: ['w', 'n', 'x', 'j', 'b', 'c', 'q', 'o', 'g', 'y', 'f', 'd', 'z', 'h', 'i', 't', 'a', 'p', 'k', 'u', 's', 'l', 'e', 'r']
+296.: Post-Processing...
+296.: Finished postprocessing - unanimous questions:
+[15]: ['w', 'n', 'j', 'b', 'c', 'q', 'g', 'y', 'f', 'z', 'i', 't', 'a', 'k', 'u']
+(Total: 2082 + 15 = 2097)
+
+
+297.: Pre-Processing...
+297.: Finished preprocessing - total questions:
+[7]: ['j', 'y', 'i', 'd', 'g', 'h', 'p']
+297.: Post-Processing...
+297.: Finished postprocessing - unanimous questions:
+[7]: ['j', 'y', 'i', 'd', 'g', 'h', 'p']
+(Total: 2097 + 7 = 2104)
+
+
+298.: Pre-Processing...
+298.: Finished preprocessing - total questions:
+[25]: ['v', 'd', 'w', 'r', 'l', 'x', 'q', 'b', 'p', 'h', 'y', 'k', 'j', 'm', 'u', 'z', 'f', 't', 'c', 'i', 'o', 'a', 'n', 'e', 's']
+298.: Post-Processing...
+298.: Finished postprocessing - unanimous questions:
+[16]: ['r', 'x', 'q', 'b', 'p', 'y', 'k', 'j', 'm', 'u', 'z', 'f', 't', 'c', 'i', 'o']
+(Total: 2104 + 16 = 2120)
+
+
+299.: Pre-Processing...
+299.: Finished preprocessing - total questions:
+[25]: ['f', 'w', 'i', 'l', 'd', 'r', 'e', 'j', 't', 'b', 'h', 'z', 's', 'k', 'n', 'x', 'p', 'q', 'y', 'o', 'u', 'v', 'g', 'a', 'm']
+299.: Post-Processing...
+299.: Finished postprocessing - unanimous questions:
+[18]: ['f', 'w', 'i', 'l', 'd', 'r', 'e', 'j', 't', 'h', 'z', 's', 'k', 'n', 'x', 'q', 'y', 'o']
+(Total: 2120 + 18 = 2138)
+
+
+300.: Pre-Processing...
+300.: Finished preprocessing - total questions:
+[19]: ['b', 'i', 'v', 'z', 's', 'u', 't', 'h', 'g', 'r', 'p', 'd', 'n', 'k', 'q', 'w', 'a', 'm', 'j']
+300.: Post-Processing...
+300.: Finished postprocessing - unanimous questions:
+[5]: ['b', 'u', 'h', 'r', 'p']
+(Total: 2138 + 5 = 2143)
+
+
+301.: Pre-Processing...
+301.: Finished preprocessing - total questions:
+[17]: ['n', 'p', 'l', 'k', 'g', 'x', 'f', 'h', 's', 'a', 'o', 'm', 'r', 'j', 'u', 'z', 'e']
+301.: Post-Processing...
+301.: Finished postprocessing - unanimous questions:
+[16]: ['n', 'p', 'l', 'k', 'g', 'x', 'f', 'h', 's', 'a', 'o', 'm', 'r', 'j', 'u', 'z']
+(Total: 2143 + 16 = 2159)
+
+
+302.: Pre-Processing...
+302.: Finished preprocessing - total questions:
+[19]: ['m', 'd', 'h', 'x', 'z', 'n', 'w', 'o', 'e', 'l', 'c', 'k', 'f', 'g', 'a', 'y', 'p', 'b', 'j']
+302.: Post-Processing...
+302.: Finished postprocessing - unanimous questions:
+[15]: ['m', 'h', 'x', 'z', 'n', 'w', 'o', 'e', 'l', 'c', 'k', 'f', 'g', 'a', 'y']
+(Total: 2159 + 15 = 2174)
+
+
+303.: Pre-Processing...
+303.: Finished preprocessing - total questions:
+[2]: ['o', 'g']
+303.: Post-Processing...
+303.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2174 + 0 = 2174)
+
+
+304.: Pre-Processing...
+304.: Finished preprocessing - total questions:
+[8]: ['p', 'y', 'm', 'l', 'd', 'u', 'a', 'k']
+304.: Post-Processing...
+304.: Finished postprocessing - unanimous questions:
+[7]: ['p', 'y', 'm', 'l', 'd', 'u', 'a']
+(Total: 2174 + 7 = 2181)
+
+
+305.: Pre-Processing...
+305.: Finished preprocessing - total questions:
+[6]: ['m', 'h', 'n', 'x', 'j', 'l']
+305.: Post-Processing...
+305.: Finished postprocessing - unanimous questions:
+[4]: ['m', 'h', 'n', 'x']
+(Total: 2181 + 4 = 2185)
+
+
+306.: Pre-Processing...
+306.: Finished preprocessing - total questions:
+[16]: ['z', 'm', 'n', 'i', 'y', 'x', 'u', 'f', 'g', 'b', 't', 'j', 'c', 'v', 'p', 'k']
+306.: Post-Processing...
+306.: Finished postprocessing - unanimous questions:
+[16]: ['z', 'm', 'n', 'i', 'y', 'x', 'u', 'f', 'g', 'b', 't', 'j', 'c', 'v', 'p', 'k']
+(Total: 2185 + 16 = 2201)
+
+
+307.: Pre-Processing...
+307.: Finished preprocessing - total questions:
+[21]: ['f', 'x', 'd', 'b', 'v', 'y', 'm', 't', 'g', 'q', 'n', 'r', 'o', 'z', 'w', 'p', 's', 'k', 'u', 'a', 'l']
+307.: Post-Processing...
+307.: Finished postprocessing - unanimous questions:
+[14]: ['f', 'x', 'b', 'v', 'y', 'm', 't', 'g', 'q', 'n', 'r', 'o', 'z', 'w']
+(Total: 2201 + 14 = 2215)
+
+
+308.: Pre-Processing...
+308.: Finished preprocessing - total questions:
+[11]: ['p', 'k', 'g', 'i', 'm', 'e', 'a', 'v', 'j', 't', 'u']
+308.: Post-Processing...
+308.: Finished postprocessing - unanimous questions:
+[4]: ['p', 'k', 'g', 'i']
+(Total: 2215 + 4 = 2219)
+
+
+309.: Pre-Processing...
+309.: Finished preprocessing - total questions:
+[25]: ['c', 'y', 'g', 'o', 'b', 'h', 'e', 's', 'd', 'x', 'v', 'p', 'i', 'u', 't', 'l', 'a', 'j', 'k', 'n', 'z', 'r', 'w', 'q', 'f']
+309.: Post-Processing...
+309.: Finished postprocessing - unanimous questions:
+[19]: ['c', 'y', 'g', 'b', 'h', 'e', 's', 'd', 'x', 'v', 'p', 'i', 'u', 't', 'l', 'j', 'k', 'n', 'z']
+(Total: 2219 + 19 = 2238)
+
+
+310.: Pre-Processing...
+310.: Finished preprocessing - total questions:
+[13]: ['f', 'l', 'e', 'p', 'q', 'z', 'v', 'c', 'h', 'd', 't', 'x', 'y']
+310.: Post-Processing...
+310.: Finished postprocessing - unanimous questions:
+[8]: ['l', 'e', 'p', 'q', 'z', 'v', 'c', 'h']
+(Total: 2238 + 8 = 2246)
+
+
+311.: Pre-Processing...
+311.: Finished preprocessing - total questions:
+[22]: ['r', 'c', 'h', 'x', 'b', 'l', 't', 'y', 'g', 'z', 'e', 'k', 'm', 'u', 'd', 'o', 'j', 'n', 'a', 'w', 's', 'p']
+311.: Post-Processing...
+311.: Finished postprocessing - unanimous questions:
+[5]: ['r', 'c', 'l', 'g', 'e']
+(Total: 2246 + 5 = 2251)
+
+
+312.: Pre-Processing...
+312.: Finished preprocessing - total questions:
+[18]: ['g', 's', 'b', 't', 'c', 'u', 'i', 'h', 'v', 'e', 'a', 'p', 'd', 'f', 'x', 'r', 'o', 'q']
+312.: Post-Processing...
+312.: Finished postprocessing - unanimous questions:
+[8]: ['g', 's', 'b', 't', 'c', 'u', 'i', 'h']
+(Total: 2251 + 8 = 2259)
+
+
+313.: Pre-Processing...
+313.: Finished preprocessing - total questions:
+[10]: ['b', 'a', 'x', 'q', 'p', 'i', 'r', 'j', 'f', 'w']
+313.: Post-Processing...
+313.: Finished postprocessing - unanimous questions:
+[6]: ['b', 'a', 'x', 'q', 'p', 'i']
+(Total: 2259 + 6 = 2265)
+
+
+314.: Pre-Processing...
+314.: Finished preprocessing - total questions:
+[25]: ['o', 'g', 'p', 'e', 'd', 'v', 'h', 'w', 'u', 'z', 'b', 'c', 'l', 't', 's', 'f', 'r', 'm', 'j', 'i', 'a', 'x', 'q', 'k', 'y']
+314.: Post-Processing...
+314.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2265 + 0 = 2265)
+
+
+315.: Pre-Processing...
+315.: Finished preprocessing - total questions:
+[1]: ['s']
+315.: Post-Processing...
+315.: Finished postprocessing - unanimous questions:
+[1]: ['s']
+(Total: 2265 + 1 = 2266)
+
+
+316.: Pre-Processing...
+316.: Finished preprocessing - total questions:
+[16]: ['t', 'u', 'a', 'b', 'p', 'k', 'q', 'x', 'v', 'r', 'o', 'y', 'h', 'j', 'z', 's']
+316.: Post-Processing...
+316.: Finished postprocessing - unanimous questions:
+[13]: ['t', 'u', 'a', 'b', 'p', 'k', 'q', 'v', 'r', 'o', 'y', 'j', 'z']
+(Total: 2266 + 13 = 2279)
+
+
+317.: Pre-Processing...
+317.: Finished preprocessing - total questions:
+[6]: ['a', 'i', 'z', 'k', 'd', 'v']
+317.: Post-Processing...
+317.: Finished postprocessing - unanimous questions:
+[3]: ['a', 'i', 'z']
+(Total: 2279 + 3 = 2282)
+
+
+318.: Pre-Processing...
+318.: Finished preprocessing - total questions:
+[15]: ['c', 'z', 'p', 'n', 'g', 'u', 'm', 'k', 'y', 'x', 'r', 's', 'e', 't', 'h']
+318.: Post-Processing...
+318.: Finished postprocessing - unanimous questions:
+[2]: ['c', 'g']
+(Total: 2282 + 2 = 2284)
+
+
+319.: Pre-Processing...
+319.: Finished preprocessing - total questions:
+[9]: ['u', 'f', 'z', 'x', 'o', 'i', 'c', 'g', 'j']
+319.: Post-Processing...
+319.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2284 + 0 = 2284)
+
+
+320.: Pre-Processing...
+320.: Finished preprocessing - total questions:
+[9]: ['a', 'b', 't', 'e', 'r', 'g', 'z', 'n', 'w']
+320.: Post-Processing...
+320.: Finished postprocessing - unanimous questions:
+[2]: ['b', 't']
+(Total: 2284 + 2 = 2286)
+
+
+321.: Pre-Processing...
+321.: Finished preprocessing - total questions:
+[12]: ['n', 'd', 'v', 'f', 'c', 'x', 'e', 't', 'i', 'l', 'h', 'b']
+321.: Post-Processing...
+321.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2286 + 0 = 2286)
+
+
+322.: Pre-Processing...
+322.: Finished preprocessing - total questions:
+[26]: ['h', 'v', 'f', 'x', 'e', 'q', 'l', 'w', 'd', 'k', 'p', 'o', 'z', 'u', 'a', 'b', 'm', 'i', 'j', 'c', 'y', 'g', 's', 't', 'n', 'r']
+322.: Post-Processing...
+322.: Finished postprocessing - unanimous questions:
+[26]: ['h', 'v', 'f', 'x', 'e', 'q', 'l', 'w', 'd', 'k', 'p', 'o', 'z', 'u', 'a', 'b', 'm', 'i', 'j', 'c', 'y', 'g', 's', 't', 'n', 'r']
+(Total: 2286 + 26 = 2312)
+
+
+323.: Pre-Processing...
+323.: Finished preprocessing - total questions:
+[14]: ['q', 'o', 'd', 'g', 'h', 'j', 'm', 'c', 'l', 't', 'e', 'u', 'r', 'p']
+323.: Post-Processing...
+323.: Finished postprocessing - unanimous questions:
+[5]: ['q', 'o', 'd', 'g', 'h']
+(Total: 2312 + 5 = 2317)
+
+
+324.: Pre-Processing...
+324.: Finished preprocessing - total questions:
+[18]: ['l', 'y', 'u', 't', 'w', 'g', 'i', 'x', 'h', 'c', 'r', 'd', 'j', 'n', 's', 'v', 'f', 'e']
+324.: Post-Processing...
+324.: Finished postprocessing - unanimous questions:
+[2]: ['t', 'w']
+(Total: 2317 + 2 = 2319)
+
+
+325.: Pre-Processing...
+325.: Finished preprocessing - total questions:
+[17]: ['e', 'u', 'g', 'i', 'z', 'o', 'f', 'l', 'x', 'q', 'j', 'm', 'r', 's', 'd', 'n', 'h']
+325.: Post-Processing...
+325.: Finished postprocessing - unanimous questions:
+[16]: ['e', 'u', 'g', 'i', 'z', 'o', 'f', 'l', 'x', 'q', 'j', 'm', 'r', 's', 'd', 'n']
+(Total: 2319 + 16 = 2335)
+
+
+326.: Pre-Processing...
+326.: Finished preprocessing - total questions:
+[4]: ['w', 'b', 'o', 'y']
+326.: Post-Processing...
+326.: Finished postprocessing - unanimous questions:
+[4]: ['w', 'b', 'o', 'y']
+(Total: 2335 + 4 = 2339)
+
+
+327.: Pre-Processing...
+327.: Finished preprocessing - total questions:
+[18]: ['x', 'o', 'f', 'z', 'd', 'b', 'q', 'l', 'e', 'r', 'n', 'h', 'v', 'j', 'i', 'p', 'm', 'w']
+327.: Post-Processing...
+327.: Finished postprocessing - unanimous questions:
+[10]: ['x', 'o', 'f', 'd', 'b', 'l', 'r', 'j', 'i', 'p']
+(Total: 2339 + 10 = 2349)
+
+
+328.: Pre-Processing...
+328.: Finished preprocessing - total questions:
+[4]: ['l', 'b', 'y', 'e']
+328.: Post-Processing...
+328.: Finished postprocessing - unanimous questions:
+[1]: ['b']
+(Total: 2349 + 1 = 2350)
+
+
+329.: Pre-Processing...
+329.: Finished preprocessing - total questions:
+[11]: ['j', 's', 'u', 'e', 'h', 'v', 'b', 'l', 'c', 'i', 'q']
+329.: Post-Processing...
+329.: Finished postprocessing - unanimous questions:
+[10]: ['j', 's', 'u', 'e', 'h', 'v', 'b', 'c', 'i', 'q']
+(Total: 2350 + 10 = 2360)
+
+
+330.: Pre-Processing...
+330.: Finished preprocessing - total questions:
+[11]: ['j', 'p', 'd', 'i', 's', 'e', 'z', 'o', 'h', 't', 'u']
+330.: Post-Processing...
+330.: Finished postprocessing - unanimous questions:
+[11]: ['j', 'p', 'd', 'i', 's', 'e', 'z', 'o', 'h', 't', 'u']
+(Total: 2360 + 11 = 2371)
+
+
+331.: Pre-Processing...
+331.: Finished preprocessing - total questions:
+[22]: ['a', 'h', 'q', 'w', 'o', 'l', 'f', 't', 'r', 'v', 'z', 'c', 'k', 'e', 'u', 'm', 'j', 'y', 's', 'g', 'b', 'x']
+331.: Post-Processing...
+331.: Finished postprocessing - unanimous questions:
+[9]: ['a', 'h', 'q', 'w', 'o', 'l', 't', 'r', 'z']
+(Total: 2371 + 9 = 2380)
+
+
+332.: Pre-Processing...
+332.: Finished preprocessing - total questions:
+[26]: ['e', 'l', 'b', 'j', 'c', 'w', 'q', 'p', 'y', 'f', 's', 'r', 'h', 'z', 'g', 'k', 'i', 'x', 'u', 'o', 't', 'm', 'n', 'a', 'v', 'd']
+332.: Post-Processing...
+332.: Finished postprocessing - unanimous questions:
+[3]: ['l', 'c', 'y']
+(Total: 2380 + 3 = 2383)
+
+
+333.: Pre-Processing...
+333.: Finished preprocessing - total questions:
+[14]: ['o', 'v', 'w', 'p', 'g', 'e', 'd', 'l', 'f', 'a', 'j', 'y', 'u', 'i']
+333.: Post-Processing...
+333.: Finished postprocessing - unanimous questions:
+[11]: ['o', 'v', 'w', 'p', 'g', 'e', 'd', 'l', 'a', 'j', 'y']
+(Total: 2383 + 11 = 2394)
+
+
+334.: Pre-Processing...
+334.: Finished preprocessing - total questions:
+[8]: ['v', 'x', 'a', 'n', 'b', 'k', 'h', 'u']
+334.: Post-Processing...
+334.: Finished postprocessing - unanimous questions:
+[4]: ['v', 'x', 'a', 'n']
+(Total: 2394 + 4 = 2398)
+
+
+335.: Pre-Processing...
+335.: Finished preprocessing - total questions:
+[19]: ['v', 'q', 'h', 'k', 'n', 'r', 'j', 'e', 'u', 'a', 'd', 'c', 'o', 'b', 'l', 'f', 'p', 'x', 'g']
+335.: Post-Processing...
+335.: Finished postprocessing - unanimous questions:
+[5]: ['v', 'q', 'r', 'j', 'a']
+(Total: 2398 + 5 = 2403)
+
+
+336.: Pre-Processing...
+336.: Finished preprocessing - total questions:
+[20]: ['m', 'f', 'c', 'a', 'y', 's', 'j', 'v', 'l', 'i', 'p', 'g', 'x', 'd', 'w', 'z', 'o', 'k', 'b', 'u']
+336.: Post-Processing...
+336.: Finished postprocessing - unanimous questions:
+[1]: ['y']
+(Total: 2403 + 1 = 2404)
+
+
+337.: Pre-Processing...
+337.: Finished preprocessing - total questions:
+[14]: ['n', 's', 'x', 'h', 'q', 'o', 'f', 'u', 'k', 'j', 'w', 'y', 'd', 'v']
+337.: Post-Processing...
+337.: Finished postprocessing - unanimous questions:
+[5]: ['x', 'q', 'o', 'f', 'k']
+(Total: 2404 + 5 = 2409)
+
+
+338.: Pre-Processing...
+338.: Finished preprocessing - total questions:
+[9]: ['n', 'c', 'p', 'r', 'k', 'y', 'i', 'x', 'j']
+338.: Post-Processing...
+338.: Finished postprocessing - unanimous questions:
+[7]: ['n', 'c', 'r', 'k', 'y', 'i', 'x']
+(Total: 2409 + 7 = 2416)
+
+
+339.: Pre-Processing...
+339.: Finished preprocessing - total questions:
+[16]: ['v', 'q', 'y', 'l', 'n', 'f', 'd', 'c', 's', 'g', 'x', 'u', 'a', 'j', 'r', 'i']
+339.: Post-Processing...
+339.: Finished postprocessing - unanimous questions:
+[11]: ['v', 'y', 'l', 'n', 'f', 'd', 'c', 's', 'g', 'x', 'u']
+(Total: 2416 + 11 = 2427)
+
+
+340.: Pre-Processing...
+340.: Finished preprocessing - total questions:
+[10]: ['s', 'x', 'r', 'k', 'l', 'j', 'e', 't', 'm', 'a']
+340.: Post-Processing...
+340.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2427 + 0 = 2427)
+
+
+341.: Pre-Processing...
+341.: Finished preprocessing - total questions:
+[20]: ['x', 'p', 'd', 'g', 'm', 'f', 'a', 'h', 'w', 'e', 'r', 'n', 'o', 's', 'v', 'l', 't', 'q', 'k', 'b']
+341.: Post-Processing...
+341.: Finished postprocessing - unanimous questions:
+[1]: ['g']
+(Total: 2427 + 1 = 2428)
+
+
+342.: Pre-Processing...
+342.: Finished preprocessing - total questions:
+[16]: ['a', 'v', 'c', 'm', 'x', 'p', 't', 'n', 'd', 'k', 'o', 'w', 'j', 'u', 'z', 's']
+342.: Post-Processing...
+342.: Finished postprocessing - unanimous questions:
+[12]: ['a', 'v', 'c', 'x', 'p', 't', 'n', 'd', 'k', 'o', 'w', 'j']
+(Total: 2428 + 12 = 2440)
+
+
+343.: Pre-Processing...
+343.: Finished preprocessing - total questions:
+[25]: ['t', 'w', 'o', 'b', 'e', 'i', 'a', 'k', 'f', 'r', 'm', 'p', 'g', 'j', 'd', 'y', 'q', 's', 'n', 'u', 'x', 'c', 'v', 'h', 'l']
+343.: Post-Processing...
+343.: Finished postprocessing - unanimous questions:
+[14]: ['w', 'o', 'b', 'e', 'i', 'a', 'k', 'f', 'r', 'm', 'g', 'd', 'y', 'n']
+(Total: 2440 + 14 = 2454)
+
+
+344.: Pre-Processing...
+344.: Finished preprocessing - total questions:
+[17]: ['h', 'e', 'v', 'g', 'w', 't', 'o', 'c', 'b', 'd', 'k', 'z', 'a', 'x', 's', 'm', 'y']
+344.: Post-Processing...
+344.: Finished postprocessing - unanimous questions:
+[8]: ['e', 'v', 'w', 't', 'o', 'd', 'k', 'z']
+(Total: 2454 + 8 = 2462)
+
+
+345.: Pre-Processing...
+345.: Finished preprocessing - total questions:
+[7]: ['a', 'n', 'm', 'z', 'w', 'y', 'k']
+345.: Post-Processing...
+345.: Finished postprocessing - unanimous questions:
+[6]: ['a', 'n', 'm', 'z', 'w', 'y']
+(Total: 2462 + 6 = 2468)
+
+
+346.: Pre-Processing...
+346.: Finished preprocessing - total questions:
+[20]: ['a', 'e', 'n', 'd', 'g', 'm', 'v', 'j', 'o', 'l', 'f', 'z', 'y', 'b', 'c', 'p', 'r', 'w', 'x', 's']
+346.: Post-Processing...
+346.: Finished postprocessing - unanimous questions:
+[13]: ['a', 'e', 'n', 'd', 'g', 'm', 'v', 'j', 'o', 'l', 'f', 'z', 'y']
+(Total: 2468 + 13 = 2481)
+
+
+347.: Pre-Processing...
+347.: Finished preprocessing - total questions:
+[13]: ['q', 'r', 'c', 'b', 'a', 'd', 'g', 'e', 'l', 'h', 'o', 's', 'j']
+347.: Post-Processing...
+347.: Finished postprocessing - unanimous questions:
+[6]: ['r', 'b', 'a', 'd', 'g', 'e']
+(Total: 2481 + 6 = 2487)
+
+
+348.: Pre-Processing...
+348.: Finished preprocessing - total questions:
+[18]: ['m', 'u', 'a', 'r', 't', 'w', 'n', 'g', 's', 'f', 'c', 'j', 'l', 'y', 'i', 'p', 'b', 'k']
+348.: Post-Processing...
+348.: Finished postprocessing - unanimous questions:
+[2]: ['m', 'u']
+(Total: 2487 + 2 = 2489)
+
+
+349.: Pre-Processing...
+349.: Finished preprocessing - total questions:
+[16]: ['i', 'o', 'l', 'q', 'w', 'x', 'k', 'j', 'z', 'c', 'p', 's', 'g', 'b', 'f', 'n']
+349.: Post-Processing...
+349.: Finished postprocessing - unanimous questions:
+[8]: ['i', 'l', 'q', 'x', 'k', 'j', 'z', 'p']
+(Total: 2489 + 8 = 2497)
+
+
+350.: Pre-Processing...
+350.: Finished preprocessing - total questions:
+[16]: ['n', 's', 'i', 'u', 'q', 'c', 't', 'v', 'b', 'f', 'y', 'w', 'g', 'o', 'k', 'd']
+350.: Post-Processing...
+350.: Finished postprocessing - unanimous questions:
+[5]: ['i', 'u', 'q', 'c', 'b']
+(Total: 2497 + 5 = 2502)
+
+
+351.: Pre-Processing...
+351.: Finished preprocessing - total questions:
+[8]: ['w', 'i', 's', 'r', 'n', 'v', 'x', 'a']
+351.: Post-Processing...
+351.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2502 + 0 = 2502)
+
+
+352.: Pre-Processing...
+352.: Finished preprocessing - total questions:
+[19]: ['n', 'o', 'l', 'm', 'h', 'u', 'b', 's', 'a', 'f', 'x', 'j', 'g', 'c', 'w', 'v', 'q', 'k', 'z']
+352.: Post-Processing...
+352.: Finished postprocessing - unanimous questions:
+[11]: ['n', 'l', 'm', 'u', 'b', 's', 'a', 'x', 'j', 'g', 'c']
+(Total: 2502 + 11 = 2513)
+
+
+353.: Pre-Processing...
+353.: Finished preprocessing - total questions:
+[3]: ['l', 'r', 'h']
+353.: Post-Processing...
+353.: Finished postprocessing - unanimous questions:
+[2]: ['l', 'r']
+(Total: 2513 + 2 = 2515)
+
+
+354.: Pre-Processing...
+354.: Finished preprocessing - total questions:
+[15]: ['h', 'w', 'c', 'j', 'l', 'a', 'n', 'b', 'q', 'm', 's', 'k', 'o', 'i', 'y']
+354.: Post-Processing...
+354.: Finished postprocessing - unanimous questions:
+[1]: ['w']
+(Total: 2515 + 1 = 2516)
+
+
+355.: Pre-Processing...
+355.: Finished preprocessing - total questions:
+[2]: ['s', 'k']
+355.: Post-Processing...
+355.: Finished postprocessing - unanimous questions:
+[2]: ['s', 'k']
+(Total: 2516 + 2 = 2518)
+
+
+356.: Pre-Processing...
+356.: Finished preprocessing - total questions:
+[26]: ['g', 'i', 's', 'h', 'w', 'x', 'e', 'p', 'l', 'f', 'k', 'm', 'b', 'y', 'z', 'j', 'v', 't', 'o', 'a', 'd', 'n', 'u', 'c', 'r', 'q']
+356.: Post-Processing...
+356.: Finished postprocessing - unanimous questions:
+[3]: ['h', 'w', 'x']
+(Total: 2518 + 3 = 2521)
+
+
+357.: Pre-Processing...
+357.: Finished preprocessing - total questions:
+[20]: ['x', 'e', 'm', 'w', 'h', 'd', 's', 'o', 'z', 'f', 'q', 't', 'v', 'a', 'j', 'c', 'n', 'k', 'u', 'r']
+357.: Post-Processing...
+357.: Finished postprocessing - unanimous questions:
+[17]: ['x', 'e', 'm', 'w', 'h', 'd', 's', 'o', 'z', 'f', 'q', 't', 'v', 'j', 'c', 'n', 'k']
+(Total: 2521 + 17 = 2538)
+
+
+358.: Pre-Processing...
+358.: Finished preprocessing - total questions:
+[5]: ['a', 'v', 'x', 'u', 'g']
+358.: Post-Processing...
+358.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2538 + 0 = 2538)
+
+
+359.: Pre-Processing...
+359.: Finished preprocessing - total questions:
+[19]: ['s', 'e', 'h', 'z', 'w', 'j', 'q', 'g', 'f', 'x', 'i', 'c', 'a', 'm', 'k', 'r', 'n', 'b', 'p']
+359.: Post-Processing...
+359.: Finished postprocessing - unanimous questions:
+[19]: ['s', 'e', 'h', 'z', 'w', 'j', 'q', 'g', 'f', 'x', 'i', 'c', 'a', 'm', 'k', 'r', 'n', 'b', 'p']
+(Total: 2538 + 19 = 2557)
+
+
+360.: Pre-Processing...
+360.: Finished preprocessing - total questions:
+[3]: ['w', 'h', 'q']
+360.: Post-Processing...
+360.: Finished postprocessing - unanimous questions:
+[1]: ['h']
+(Total: 2557 + 1 = 2558)
+
+
+361.: Pre-Processing...
+361.: Finished preprocessing - total questions:
+[9]: ['p', 'w', 'h', 'l', 't', 'n', 'x', 'i', 'q']
+361.: Post-Processing...
+361.: Finished postprocessing - unanimous questions:
+[9]: ['p', 'w', 'h', 'l', 't', 'n', 'x', 'i', 'q']
+(Total: 2558 + 9 = 2567)
+
+
+362.: Pre-Processing...
+362.: Finished preprocessing - total questions:
+[12]: ['d', 'q', 'm', 'x', 'i', 'b', 'u', 'v', 'j', 'n', 'a', 'f']
+362.: Post-Processing...
+362.: Finished postprocessing - unanimous questions:
+[7]: ['d', 'q', 'x', 'i', 'b', 'u', 'v']
+(Total: 2567 + 7 = 2574)
+
+
+363.: Pre-Processing...
+363.: Finished preprocessing - total questions:
+[13]: ['q', 't', 'z', 'g', 'o', 'd', 'p', 'v', 'f', 'k', 'm', 'b', 'i']
+363.: Post-Processing...
+363.: Finished postprocessing - unanimous questions:
+[7]: ['q', 't', 'z', 'g', 'd', 'p', 'v']
+(Total: 2574 + 7 = 2581)
+
+
+364.: Pre-Processing...
+364.: Finished preprocessing - total questions:
+[4]: ['s', 'y', 'm', 'l']
+364.: Post-Processing...
+364.: Finished postprocessing - unanimous questions:
+[3]: ['s', 'y', 'm']
+(Total: 2581 + 3 = 2584)
+
+
+365.: Pre-Processing...
+365.: Finished preprocessing - total questions:
+[10]: ['h', 't', 'u', 's', 'e', 'a', 'x', 'z', 'l', 'n']
+365.: Post-Processing...
+365.: Finished postprocessing - unanimous questions:
+[10]: ['h', 't', 'u', 's', 'e', 'a', 'x', 'z', 'l', 'n']
+(Total: 2584 + 10 = 2594)
+
+
+366.: Pre-Processing...
+366.: Finished preprocessing - total questions:
+[6]: ['b', 'h', 'u', 'o', 'n', 'w']
+366.: Post-Processing...
+366.: Finished postprocessing - unanimous questions:
+[1]: ['b']
+(Total: 2594 + 1 = 2595)
+
+
+367.: Pre-Processing...
+367.: Finished preprocessing - total questions:
+[22]: ['x', 'i', 'd', 'l', 's', 'o', 'b', 'a', 'q', 'g', 'h', 'r', 'u', 'c', 'v', 'e', 'p', 'k', 'w', 'j', 'n', 'z']
+367.: Post-Processing...
+367.: Finished postprocessing - unanimous questions:
+[10]: ['x', 'd', 'l', 's', 'o', 'b', 'a', 'q', 'g', 'h']
+(Total: 2595 + 10 = 2605)
+
+
+368.: Pre-Processing...
+368.: Finished preprocessing - total questions:
+[17]: ['v', 'i', 'z', 'q', 'm', 'h', 'n', 'e', 'r', 'y', 'd', 's', 'b', 'w', 'f', 't', 'p']
+368.: Post-Processing...
+368.: Finished postprocessing - unanimous questions:
+[6]: ['v', 'i', 'z', 'm', 'n', 'e']
+(Total: 2605 + 6 = 2611)
+
+
+369.: Pre-Processing...
+369.: Finished preprocessing - total questions:
+[25]: ['c', 's', 'a', 'z', 'e', 'b', 'w', 'q', 'd', 'm', 't', 'r', 'o', 'l', 'v', 'x', 'i', 'n', 'p', 'h', 'f', 'y', 'j', 'g', 'u']
+369.: Post-Processing...
+369.: Finished postprocessing - unanimous questions:
+[12]: ['c', 's', 'a', 'w', 'q', 'm', 'o', 'l', 'n', 'p', 'h', 'f']
+(Total: 2611 + 12 = 2623)
+
+
+370.: Pre-Processing...
+370.: Finished preprocessing - total questions:
+[10]: ['r', 'f', 'l', 'd', 'i', 'v', 'k', 'h', 'o', 'z']
+370.: Post-Processing...
+370.: Finished postprocessing - unanimous questions:
+[2]: ['l', 'd']
+(Total: 2623 + 2 = 2625)
+
+
+371.: Pre-Processing...
+371.: Finished preprocessing - total questions:
+[24]: ['p', 'i', 'y', 'x', 'd', 'e', 'l', 'n', 'm', 'a', 'c', 'r', 'o', 'b', 'v', 'u', 'f', 't', 's', 'z', 'q', 'k', 'g', 'h']
+371.: Post-Processing...
+371.: Finished postprocessing - unanimous questions:
+[9]: ['p', 'y', 'x', 'd', 'e', 'l', 'n', 'm', 'a']
+(Total: 2625 + 9 = 2634)
+
+
+372.: Pre-Processing...
+372.: Finished preprocessing - total questions:
+[26]: ['m', 'w', 'y', 's', 'k', 'b', 'j', 'a', 'd', 'o', 'p', 'h', 'c', 'x', 'u', 'e', 'f', 'r', 'g', 'n', 'v', 'i', 'z', 'q', 't', 'l']
+372.: Post-Processing...
+372.: Finished postprocessing - unanimous questions:
+[8]: ['m', 'w', 'y', 's', 'k', 'b', 'j', 'd']
+(Total: 2634 + 8 = 2642)
+
+
+373.: Pre-Processing...
+373.: Finished preprocessing - total questions:
+[11]: ['b', 'i', 'p', 'r', 'k', 'w', 'j', 'o', 't', 'e', 'a']
+373.: Post-Processing...
+373.: Finished postprocessing - unanimous questions:
+[1]: ['b']
+(Total: 2642 + 1 = 2643)
+
+
+374.: Pre-Processing...
+374.: Finished preprocessing - total questions:
+[22]: ['u', 'g', 'o', 'k', 'x', 'm', 'c', 'a', 'b', 'z', 'p', 'w', 's', 'l', 'r', 'j', 'e', 't', 'f', 'v', 'i', 'y']
+374.: Post-Processing...
+374.: Finished postprocessing - unanimous questions:
+[1]: ['p']
+(Total: 2643 + 1 = 2644)
+
+
+375.: Pre-Processing...
+375.: Finished preprocessing - total questions:
+[17]: ['o', 'w', 'v', 'k', 'z', 'b', 'd', 'i', 'j', 't', 'n', 'p', 'f', 'h', 'l', 'e', 'g']
+375.: Post-Processing...
+375.: Finished postprocessing - unanimous questions:
+[10]: ['o', 'w', 'k', 'b', 'd', 'i', 'j', 't', 'n', 'l']
+(Total: 2644 + 10 = 2654)
+
+
+376.: Pre-Processing...
+376.: Finished preprocessing - total questions:
+[23]: ['h', 'g', 'd', 'j', 'z', 'u', 'p', 'i', 's', 'n', 'w', 'm', 'v', 't', 'x', 'o', 'e', 'c', 'y', 'k', 'l', 'q', 'f']
+376.: Post-Processing...
+376.: Finished postprocessing - unanimous questions:
+[18]: ['h', 'g', 'd', 'j', 'z', 'p', 'i', 's', 'n', 'w', 'm', 'v', 't', 'o', 'e', 'c', 'y', 'k']
+(Total: 2654 + 18 = 2672)
+
+
+377.: Pre-Processing...
+377.: Finished preprocessing - total questions:
+[22]: ['w', 'l', 'u', 'd', 'k', 'm', 'q', 'j', 'n', 'p', 'x', 'v', 'y', 'i', 'g', 'b', 'o', 'a', 's', 'r', 'c', 'f']
+377.: Post-Processing...
+377.: Finished postprocessing - unanimous questions:
+[21]: ['w', 'l', 'u', 'd', 'k', 'm', 'q', 'j', 'n', 'p', 'x', 'v', 'y', 'i', 'g', 'b', 'o', 'a', 's', 'r', 'c']
+(Total: 2672 + 21 = 2693)
+
+
+378.: Pre-Processing...
+378.: Finished preprocessing - total questions:
+[24]: ['g', 'b', 'x', 'e', 'd', 'k', 'n', 'l', 'j', 'a', 'y', 'f', 'h', 'c', 'v', 'u', 'z', 't', 'i', 'q', 's', 'p', 'm', 'w']
+378.: Post-Processing...
+378.: Finished postprocessing - unanimous questions:
+[13]: ['g', 'b', 'x', 'e', 'd', 'k', 'l', 'j', 'a', 'y', 'f', 'v', 'u']
+(Total: 2693 + 13 = 2706)
+
+
+379.: Pre-Processing...
+379.: Finished preprocessing - total questions:
+[8]: ['p', 'd', 's', 'l', 'f', 'h', 'g', 'a']
+379.: Post-Processing...
+379.: Finished postprocessing - unanimous questions:
+[1]: ['s']
+(Total: 2706 + 1 = 2707)
+
+
+380.: Pre-Processing...
+380.: Finished preprocessing - total questions:
+[17]: ['o', 'y', 'h', 'i', 'p', 'j', 'd', 'w', 'b', 'a', 'q', 'l', 'u', 'm', 'r', 'g', 't']
+380.: Post-Processing...
+380.: Finished postprocessing - unanimous questions:
+[3]: ['o', 'h', 'p']
+(Total: 2707 + 3 = 2710)
+
+
+381.: Pre-Processing...
+381.: Finished preprocessing - total questions:
+[18]: ['p', 'u', 'e', 'x', 'j', 'o', 'v', 'z', 'a', 'b', 'g', 'c', 'r', 'i', 's', 'y', 'w', 'q']
+381.: Post-Processing...
+381.: Finished postprocessing - unanimous questions:
+[3]: ['e', 'j', 'v']
+(Total: 2710 + 3 = 2713)
+
+
+382.: Pre-Processing...
+382.: Finished preprocessing - total questions:
+[13]: ['s', 'w', 'z', 'k', 'v', 'x', 't', 'a', 'f', 'n', 'q', 'y', 'i']
+382.: Post-Processing...
+382.: Finished postprocessing - unanimous questions:
+[13]: ['s', 'w', 'z', 'k', 'v', 'x', 't', 'a', 'f', 'n', 'q', 'y', 'i']
+(Total: 2713 + 13 = 2726)
+
+
+383.: Pre-Processing...
+383.: Finished preprocessing - total questions:
+[21]: ['b', 'u', 'x', 's', 'q', 'l', 'o', 'r', 'd', 'a', 'm', 'i', 'p', 'n', 'f', 'v', 't', 'k', 'h', 'z', 'e']
+383.: Post-Processing...
+383.: Finished postprocessing - unanimous questions:
+[6]: ['b', 'u', 'x', 's', 'l', 'a']
+(Total: 2726 + 6 = 2732)
+
+
+384.: Pre-Processing...
+384.: Finished preprocessing - total questions:
+[15]: ['z', 'v', 'n', 'b', 'r', 'e', 'a', 'q', 'm', 'w', 's', 'o', 'd', 'c', 'y']
+384.: Post-Processing...
+384.: Finished postprocessing - unanimous questions:
+[15]: ['z', 'v', 'n', 'b', 'r', 'e', 'a', 'q', 'm', 'w', 's', 'o', 'd', 'c', 'y']
+(Total: 2732 + 15 = 2747)
+
+
+385.: Pre-Processing...
+385.: Finished preprocessing - total questions:
+[17]: ['v', 'x', 'd', 'z', 'i', 'b', 'p', 'a', 'w', 's', 'f', 'e', 'g', 'y', 'k', 'c', 'u']
+385.: Post-Processing...
+385.: Finished postprocessing - unanimous questions:
+[3]: ['v', 'b', 'a']
+(Total: 2747 + 3 = 2750)
+
+
+386.: Pre-Processing...
+386.: Finished preprocessing - total questions:
+[10]: ['d', 'h', 'l', 'x', 's', 'y', 'w', 'a', 'z', 'j']
+386.: Post-Processing...
+386.: Finished postprocessing - unanimous questions:
+[4]: ['l', 'x', 's', 'y']
+(Total: 2750 + 4 = 2754)
+
+
+387.: Pre-Processing...
+387.: Finished preprocessing - total questions:
+[7]: ['x', 't', 'b', 'e', 'p', 'l', 'j']
+387.: Post-Processing...
+387.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2754 + 0 = 2754)
+
+
+388.: Pre-Processing...
+388.: Finished preprocessing - total questions:
+[5]: ['n', 'm', 'o', 'w', 'x']
+388.: Post-Processing...
+388.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2754 + 0 = 2754)
+
+
+389.: Pre-Processing...
+389.: Finished preprocessing - total questions:
+[5]: ['a', 'l', 'i', 'm', 'd']
+389.: Post-Processing...
+389.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2754 + 0 = 2754)
+
+
+390.: Pre-Processing...
+390.: Finished preprocessing - total questions:
+[6]: ['j', 'm', 'i', 'l', 'a', 'c']
+390.: Post-Processing...
+390.: Finished postprocessing - unanimous questions:
+[1]: ['j']
+(Total: 2754 + 1 = 2755)
+
+
+391.: Pre-Processing...
+391.: Finished preprocessing - total questions:
+[15]: ['w', 'h', 'j', 'a', 'g', 'd', 'b', 'l', 'r', 'e', 'n', 'f', 'p', 'v', 's']
+391.: Post-Processing...
+391.: Finished postprocessing - unanimous questions:
+[9]: ['w', 'h', 'j', 'a', 'g', 'd', 'b', 'l', 'r']
+(Total: 2755 + 9 = 2764)
+
+
+392.: Pre-Processing...
+392.: Finished preprocessing - total questions:
+[9]: ['u', 'b', 'i', 'd', 'w', 'l', 'n', 'p', 'x']
+392.: Post-Processing...
+392.: Finished postprocessing - unanimous questions:
+[1]: ['b']
+(Total: 2764 + 1 = 2765)
+
+
+393.: Pre-Processing...
+393.: Finished preprocessing - total questions:
+[26]: ['n', 'm', 's', 'j', 'a', 'c', 'w', 'z', 'q', 'd', 'h', 'p', 'b', 'f', 'k', 'u', 'g', 'e', 'y', 't', 'o', 'i', 'r', 'v', 'x', 'l']
+393.: Post-Processing...
+393.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2765 + 0 = 2765)
+
+
+394.: Pre-Processing...
+394.: Finished preprocessing - total questions:
+[5]: ['v', 'd', 'x', 'b', 'n']
+394.: Post-Processing...
+394.: Finished postprocessing - unanimous questions:
+[2]: ['d', 'x']
+(Total: 2765 + 2 = 2767)
+
+
+395.: Pre-Processing...
+395.: Finished preprocessing - total questions:
+[21]: ['n', 'e', 'z', 'm', 'h', 'l', 'w', 'x', 'g', 's', 'u', 'o', 't', 'q', 'p', 'i', 'f', 'd', 'b', 'k', 'v']
+395.: Post-Processing...
+395.: Finished postprocessing - unanimous questions:
+[7]: ['n', 'e', 'z', 'm', 'h', 'l', 'w']
+(Total: 2767 + 7 = 2774)
+
+
+396.: Pre-Processing...
+396.: Finished preprocessing - total questions:
+[12]: ['z', 'c', 'v', 'o', 'a', 'r', 'q', 'i', 'u', 'g', 't', 'h']
+396.: Post-Processing...
+396.: Finished postprocessing - unanimous questions:
+[1]: ['q']
+(Total: 2774 + 1 = 2775)
+
+
+397.: Pre-Processing...
+397.: Finished preprocessing - total questions:
+[12]: ['q', 'e', 'd', 'a', 'g', 'h', 's', 'x', 'l', 'n', 'c', 'y']
+397.: Post-Processing...
+397.: Finished postprocessing - unanimous questions:
+[7]: ['q', 'e', 'd', 's', 'x', 'l', 'n']
+(Total: 2775 + 7 = 2782)
+
+
+398.: Pre-Processing...
+398.: Finished preprocessing - total questions:
+[21]: ['b', 'l', 'e', 'g', 'p', 'f', 'u', 'a', 'z', 'n', 'r', 'd', 'h', 'o', 'j', 's', 'i', 'm', 'v', 'x', 'q']
+398.: Post-Processing...
+398.: Finished postprocessing - unanimous questions:
+[11]: ['l', 'e', 'g', 'p', 'a', 'z', 'n', 'r', 'h', 'o', 'j']
+(Total: 2782 + 11 = 2793)
+
+
+399.: Pre-Processing...
+399.: Finished preprocessing - total questions:
+[4]: ['y', 'j', 'e', 'v']
+399.: Post-Processing...
+399.: Finished postprocessing - unanimous questions:
+[4]: ['y', 'j', 'e', 'v']
+(Total: 2793 + 4 = 2797)
+
+
+400.: Pre-Processing...
+400.: Finished preprocessing - total questions:
+[17]: ['x', 'h', 'n', 'q', 't', 'v', 'l', 'a', 'e', 'w', 'f', 'g', 'u', 'p', 'y', 'r', 'z']
+400.: Post-Processing...
+400.: Finished postprocessing - unanimous questions:
+[17]: ['x', 'h', 'n', 'q', 't', 'v', 'l', 'a', 'e', 'w', 'f', 'g', 'u', 'p', 'y', 'r', 'z']
+(Total: 2797 + 17 = 2814)
+
+
+401.: Pre-Processing...
+401.: Finished preprocessing - total questions:
+[24]: ['b', 's', 'n', 'o', 'd', 'v', 'p', 't', 'g', 'l', 'f', 'j', 'z', 'w', 'h', 'x', 'm', 'c', 'i', 'y', 'r', 'k', 'q', 'u']
+401.: Post-Processing...
+401.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2814 + 0 = 2814)
+
+
+402.: Pre-Processing...
+402.: Finished preprocessing - total questions:
+[7]: ['t', 'a', 'l', 'm', 'b', 'r', 'q']
+402.: Post-Processing...
+402.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2814 + 0 = 2814)
+
+
+403.: Pre-Processing...
+403.: Finished preprocessing - total questions:
+[12]: ['e', 'z', 'c', 'h', 'v', 'n', 'p', 'y', 'j', 'b', 'r', 't']
+403.: Post-Processing...
+403.: Finished postprocessing - unanimous questions:
+[7]: ['e', 'z', 'c', 'h', 'v', 'p', 'y']
+(Total: 2814 + 7 = 2821)
+
+
+404.: Pre-Processing...
+404.: Finished preprocessing - total questions:
+[16]: ['w', 'u', 'r', 'm', 'i', 'z', 'f', 'd', 'y', 'q', 'l', 'v', 'b', 'e', 'h', 'a']
+404.: Post-Processing...
+404.: Finished postprocessing - unanimous questions:
+[4]: ['w', 'u', 'm', 'i']
+(Total: 2821 + 4 = 2825)
+
+
+405.: Pre-Processing...
+405.: Finished preprocessing - total questions:
+[18]: ['b', 'd', 'n', 'g', 'y', 'o', 'l', 'c', 'x', 'i', 'p', 'v', 'a', 's', 'w', 'm', 'u', 'j']
+405.: Post-Processing...
+405.: Finished postprocessing - unanimous questions:
+[4]: ['b', 'g', 'y', 'c']
+(Total: 2825 + 4 = 2829)
+
+
+406.: Pre-Processing...
+406.: Finished preprocessing - total questions:
+[19]: ['x', 'z', 'r', 'k', 'w', 'e', 'p', 'n', 'j', 'b', 'l', 'u', 'g', 'm', 'h', 'q', 'v', 's', 'i']
+406.: Post-Processing...
+406.: Finished postprocessing - unanimous questions:
+[3]: ['z', 'r', 'w']
+(Total: 2829 + 3 = 2832)
+
+
+407.: Pre-Processing...
+407.: Finished preprocessing - total questions:
+[18]: ['d', 'i', 'j', 'w', 'k', 's', 'u', 'h', 'y', 'r', 'e', 'f', 'm', 'b', 't', 'z', 'p', 'c']
+407.: Post-Processing...
+407.: Finished postprocessing - unanimous questions:
+[15]: ['d', 'i', 'j', 'w', 'k', 's', 'u', 'y', 'r', 'e', 'm', 'b', 't', 'z', 'p']
+(Total: 2832 + 15 = 2847)
+
+
+408.: Pre-Processing...
+408.: Finished preprocessing - total questions:
+[21]: ['u', 't', 'a', 'm', 'e', 'k', 'n', 'g', 'l', 'f', 'x', 'c', 'i', 'o', 'h', 'v', 'q', 'j', 's', 'w', 'b']
+408.: Post-Processing...
+408.: Finished postprocessing - unanimous questions:
+[7]: ['t', 'a', 'm', 'e', 'k', 'n', 'i']
+(Total: 2847 + 7 = 2854)
+
+
+409.: Pre-Processing...
+409.: Finished preprocessing - total questions:
+[13]: ['v', 'e', 's', 'q', 'b', 'p', 'k', 'i', 'y', 'w', 't', 'g', 'f']
+409.: Post-Processing...
+409.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2854 + 0 = 2854)
+
+
+410.: Pre-Processing...
+410.: Finished preprocessing - total questions:
+[8]: ['e', 'o', 'g', 'z', 't', 'n', 'u', 'm']
+410.: Post-Processing...
+410.: Finished postprocessing - unanimous questions:
+[7]: ['e', 'o', 'g', 'z', 't', 'n', 'u']
+(Total: 2854 + 7 = 2861)
+
+
+411.: Pre-Processing...
+411.: Finished preprocessing - total questions:
+[11]: ['f', 'j', 'q', 'v', 'u', 'c', 'd', 'o', 'z', 'y', 'n']
+411.: Post-Processing...
+411.: Finished postprocessing - unanimous questions:
+[8]: ['f', 'q', 'v', 'u', 'c', 'd', 'o', 'z']
+(Total: 2861 + 8 = 2869)
+
+
+412.: Pre-Processing...
+412.: Finished preprocessing - total questions:
+[2]: ['j', 't']
+412.: Post-Processing...
+412.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2869 + 0 = 2869)
+
+
+413.: Pre-Processing...
+413.: Finished preprocessing - total questions:
+[16]: ['x', 'w', 'c', 'p', 'k', 'u', 'd', 'j', 'a', 'g', 'n', 'z', 'm', 't', 'o', 'l']
+413.: Post-Processing...
+413.: Finished postprocessing - unanimous questions:
+[13]: ['x', 'w', 'c', 'k', 'u', 'd', 'j', 'a', 'g', 'n', 'z', 'm', 't']
+(Total: 2869 + 13 = 2882)
+
+
+414.: Pre-Processing...
+414.: Finished preprocessing - total questions:
+[17]: ['g', 'f', 'i', 's', 't', 'e', 'k', 'n', 'o', 'h', 'd', 'x', 'm', 'u', 'r', 'q', 'z']
+414.: Post-Processing...
+414.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2882 + 0 = 2882)
+
+
+415.: Pre-Processing...
+415.: Finished preprocessing - total questions:
+[1]: ['y']
+415.: Post-Processing...
+415.: Finished postprocessing - unanimous questions:
+[1]: ['y']
+(Total: 2882 + 1 = 2883)
+
+
+416.: Pre-Processing...
+416.: Finished preprocessing - total questions:
+[13]: ['y', 'e', 'b', 'a', 'x', 'i', 't', 's', 'k', 'm', 'l', 'j', 'o']
+416.: Post-Processing...
+416.: Finished postprocessing - unanimous questions:
+[8]: ['y', 'e', 'a', 'x', 'i', 't', 'k', 'm']
+(Total: 2883 + 8 = 2891)
+
+
+417.: Pre-Processing...
+417.: Finished preprocessing - total questions:
+[6]: ['w', 'y', 't', 'x', 'l', 'j']
+417.: Post-Processing...
+417.: Finished postprocessing - unanimous questions:
+[1]: ['w']
+(Total: 2891 + 1 = 2892)
+
+
+418.: Pre-Processing...
+418.: Finished preprocessing - total questions:
+[2]: ['y', 'm']
+418.: Post-Processing...
+418.: Finished postprocessing - unanimous questions:
+[1]: ['y']
+(Total: 2892 + 1 = 2893)
+
+
+419.: Pre-Processing...
+419.: Finished preprocessing - total questions:
+[14]: ['t', 'u', 'q', 'a', 'c', 'p', 'o', 'f', 'z', 'g', 'd', 'r', 's', 'n']
+419.: Post-Processing...
+419.: Finished postprocessing - unanimous questions:
+[7]: ['t', 'u', 'a', 'p', 'o', 'f', 'z']
+(Total: 2893 + 7 = 2900)
+
+
+420.: Pre-Processing...
+420.: Finished preprocessing - total questions:
+[21]: ['f', 'm', 'x', 'c', 'd', 't', 'a', 'k', 'j', 'q', 's', 'o', 'l', 'v', 'n', 'w', 'z', 'p', 'r', 'e', 'u']
+420.: Post-Processing...
+420.: Finished postprocessing - unanimous questions:
+[18]: ['f', 'm', 'x', 'c', 'd', 't', 'a', 'k', 'q', 's', 'o', 'l', 'v', 'w', 'z', 'p', 'r', 'e']
+(Total: 2900 + 18 = 2918)
+
+
+421.: Pre-Processing...
+421.: Finished preprocessing - total questions:
+[8]: ['v', 'n', 'u', 'k', 'w', 'f', 'q', 'c']
+421.: Post-Processing...
+421.: Finished postprocessing - unanimous questions:
+[3]: ['u', 'w', 'f']
+(Total: 2918 + 3 = 2921)
+
+
+422.: Pre-Processing...
+422.: Finished preprocessing - total questions:
+[8]: ['u', 'c', 'e', 'z', 'x', 'l', 'v', 'i']
+422.: Post-Processing...
+422.: Finished postprocessing - unanimous questions:
+[7]: ['u', 'c', 'e', 'z', 'x', 'l', 'v']
+(Total: 2921 + 7 = 2928)
+
+
+423.: Pre-Processing...
+423.: Finished preprocessing - total questions:
+[12]: ['c', 'f', 'd', 'z', 'e', 'o', 'm', 'h', 'l', 'n', 'r', 'i']
+423.: Post-Processing...
+423.: Finished postprocessing - unanimous questions:
+[5]: ['f', 'd', 'z', 'm', 'h']
+(Total: 2928 + 5 = 2933)
+
+
+424.: Pre-Processing...
+424.: Finished preprocessing - total questions:
+[21]: ['i', 'm', 'k', 'l', 'v', 'j', 'a', 'b', 't', 'q', 'd', 'x', 'c', 'w', 'f', 'z', 'n', 's', 'r', 'g', 'p']
+424.: Post-Processing...
+424.: Finished postprocessing - unanimous questions:
+[13]: ['i', 'm', 'k', 'l', 'v', 'j', 'a', 't', 'q', 'd', 'x', 'c', 'w']
+(Total: 2933 + 13 = 2946)
+
+
+425.: Pre-Processing...
+425.: Finished preprocessing - total questions:
+[23]: ['h', 'f', 'g', 'v', 'j', 'p', 'm', 'i', 'n', 'k', 'o', 'u', 'y', 's', 'c', 'x', 'd', 'w', 'z', 'l', 'e', 'a', 't']
+425.: Post-Processing...
+425.: Finished postprocessing - unanimous questions:
+[21]: ['h', 'f', 'g', 'v', 'j', 'p', 'm', 'i', 'n', 'k', 'o', 'u', 'y', 's', 'c', 'x', 'd', 'w', 'z', 'l', 'e']
+(Total: 2946 + 21 = 2967)
+
+
+426.: Pre-Processing...
+426.: Finished preprocessing - total questions:
+[10]: ['o', 'b', 'g', 'v', 'r', 'x', 'p', 's', 'a', 'u']
+426.: Post-Processing...
+426.: Finished postprocessing - unanimous questions:
+[3]: ['o', 'b', 'v']
+(Total: 2967 + 3 = 2970)
+
+
+427.: Pre-Processing...
+427.: Finished preprocessing - total questions:
+[12]: ['t', 'i', 'd', 'n', 'l', 'j', 's', 'r', 'y', 'o', 'a', 'h']
+427.: Post-Processing...
+427.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 2970 + 0 = 2970)
+
+
+428.: Pre-Processing...
+428.: Finished preprocessing - total questions:
+[7]: ['h', 'l', 'p', 'k', 'b', 'q', 'o']
+428.: Post-Processing...
+428.: Finished postprocessing - unanimous questions:
+[5]: ['l', 'p', 'k', 'b', 'o']
+(Total: 2970 + 5 = 2975)
+
+
+429.: Pre-Processing...
+429.: Finished preprocessing - total questions:
+[18]: ['u', 'p', 's', 'f', 'v', 'h', 'j', 'e', 'q', 'i', 'o', 'l', 'r', 'a', 'm', 'y', 'n', 'g']
+429.: Post-Processing...
+429.: Finished postprocessing - unanimous questions:
+[14]: ['u', 'p', 's', 'f', 'v', 'h', 'j', 'e', 'q', 'i', 'o', 'l', 'r', 'a']
+(Total: 2975 + 14 = 2989)
+
+
+430.: Pre-Processing...
+430.: Finished preprocessing - total questions:
+[26]: ['r', 'z', 'l', 's', 'o', 'i', 'w', 'n', 'm', 'f', 'j', 'x', 'a', 'c', 'v', 'e', 't', 'y', 'g', 'd', 'h', 'u', 'q', 'p', 'b', 'k']
+430.: Post-Processing...
+430.: Finished postprocessing - unanimous questions:
+[5]: ['w', 'm', 'j', 'x', 'a']
+(Total: 2989 + 5 = 2994)
+
+
+431.: Pre-Processing...
+431.: Finished preprocessing - total questions:
+[24]: ['d', 'n', 'k', 'i', 'l', 'g', 'q', 'r', 's', 'c', 'y', 'e', 'h', 'z', 'x', 'p', 'b', 'w', 'o', 'm', 'v', 't', 'f', 'j']
+431.: Post-Processing...
+431.: Finished postprocessing - unanimous questions:
+[3]: ['d', 'k', 'l']
+(Total: 2994 + 3 = 2997)
+
+
+432.: Pre-Processing...
+432.: Finished preprocessing - total questions:
+[1]: ['u']
+432.: Post-Processing...
+432.: Finished postprocessing - unanimous questions:
+[1]: ['u']
+(Total: 2997 + 1 = 2998)
+
+
+433.: Pre-Processing...
+433.: Finished preprocessing - total questions:
+[24]: ['k', 'c', 't', 'f', 'e', 'n', 'g', 'b', 's', 'q', 'd', 'j', 'y', 'h', 'o', 'i', 'x', 'a', 'w', 'm', 'u', 'p', 'z', 'r']
+433.: Post-Processing...
+433.: Finished postprocessing - unanimous questions:
+[3]: ['e', 'g', 'q']
+(Total: 2998 + 3 = 3001)
+
+
+434.: Pre-Processing...
+434.: Finished preprocessing - total questions:
+[20]: ['g', 'f', 'k', 'x', 'c', 'i', 'o', 'u', 'm', 'd', 'n', 'e', 'h', 'r', 'q', 'j', 's', 'p', 'y', 't']
+434.: Post-Processing...
+434.: Finished postprocessing - unanimous questions:
+[4]: ['f', 'x', 'c', 'i']
+(Total: 3001 + 4 = 3005)
+
+
+435.: Pre-Processing...
+435.: Finished preprocessing - total questions:
+[14]: ['w', 'q', 'v', 'j', 'g', 'e', 's', 'f', 'z', 'k', 'p', 'x', 'c', 'n']
+435.: Post-Processing...
+435.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 3005 + 0 = 3005)
+
+
+436.: Pre-Processing...
+436.: Finished preprocessing - total questions:
+[20]: ['a', 'i', 'q', 'l', 'f', 'e', 'g', 'k', 'x', 'r', 'b', 'o', 'p', 't', 'w', 'v', 'j', 's', 'n', 'u']
+436.: Post-Processing...
+436.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 3005 + 0 = 3005)
+
+
+437.: Pre-Processing...
+437.: Finished preprocessing - total questions:
+[10]: ['y', 's', 'a', 'm', 'g', 'b', 'z', 'c', 'd', 'u']
+437.: Post-Processing...
+437.: Finished postprocessing - unanimous questions:
+[6]: ['s', 'a', 'g', 'b', 'z', 'c']
+(Total: 3005 + 6 = 3011)
+
+
+438.: Pre-Processing...
+438.: Finished preprocessing - total questions:
+[16]: ['d', 'u', 'f', 'v', 'm', 'a', 'j', 'r', 'o', 'p', 't', 'l', 'y', 'h', 's', 'w']
+438.: Post-Processing...
+438.: Finished postprocessing - unanimous questions:
+[4]: ['d', 'p', 'l', 'y']
+(Total: 3011 + 4 = 3015)
+
+
+439.: Pre-Processing...
+439.: Finished preprocessing - total questions:
+[16]: ['o', 'g', 'j', 'w', 'n', 'm', 'h', 'k', 't', 'v', 'u', 'b', 'i', 'q', 'e', 'z']
+439.: Post-Processing...
+439.: Finished postprocessing - unanimous questions:
+[5]: ['w', 'k', 't', 'u', 'i']
+(Total: 3015 + 5 = 3020)
+
+
+440.: Pre-Processing...
+440.: Finished preprocessing - total questions:
+[12]: ['f', 'm', 'd', 'w', 'n', 's', 'c', 'r', 'u', 'y', 'l', 'i']
+440.: Post-Processing...
+440.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 3020 + 0 = 3020)
+
+
+441.: Pre-Processing...
+441.: Finished preprocessing - total questions:
+[5]: ['c', 'n', 'j', 'r', 'x']
+441.: Post-Processing...
+441.: Finished postprocessing - unanimous questions:
+[4]: ['c', 'n', 'j', 'r']
+(Total: 3020 + 4 = 3024)
+
+
+442.: Pre-Processing...
+442.: Finished preprocessing - total questions:
+[7]: ['t', 'j', 'z', 'q', 's', 'b', 'l']
+442.: Post-Processing...
+442.: Finished postprocessing - unanimous questions:
+[4]: ['t', 'j', 'z', 's']
+(Total: 3024 + 4 = 3028)
+
+
+443.: Pre-Processing...
+443.: Finished preprocessing - total questions:
+[15]: ['r', 'm', 'x', 'c', 'i', 'n', 'h', 'b', 'e', 'q', 'l', 'f', 't', 'u', 'j']
+443.: Post-Processing...
+443.: Finished postprocessing - unanimous questions:
+[10]: ['r', 'm', 'x', 'i', 'n', 'h', 'b', 'e', 'q', 'l']
+(Total: 3028 + 10 = 3038)
+
+
+444.: Pre-Processing...
+444.: Finished preprocessing - total questions:
+[8]: ['n', 'g', 'b', 'w', 'h', 'r', 'j', 'u']
+444.: Post-Processing...
+444.: Finished postprocessing - unanimous questions:
+[0]: []
+(Total: 3038 + 0 = 3038)
+
+
+445.: Pre-Processing...
+445.: Finished preprocessing - total questions:
+[4]: ['m', 'd', 'o', 'l']
+445.: Post-Processing...
+445.: Finished postprocessing - unanimous questions:
+[4]: ['m', 'd', 'o', 'l']
+(Total: 3038 + 4 = 3042)
+
+
+446.: Pre-Processing...
+446.: Finished preprocessing - total questions:
+[14]: ['a', 'p', 'z', 'o', 'd', 'f', 'k', 't', 'x', 'j', 'w', 'c', 'u', 'y']
+446.: Post-Processing...
+446.: Finished postprocessing - unanimous questions:
+[9]: ['a', 'p', 'z', 'o', 'd', 'f', 'k', 't', 'x']
+(Total: 3042 + 9 = 3051)
+
+
+447.: Pre-Processing...
+447.: Finished preprocessing - total questions:
+[20]: ['j', 'm', 'i', 'b', 'u', 'x', 'v', 'g', 'c', 'o', 'd', 'k', 'r', 'e', 'w', 'f', 'n', 'a', 's', 'z']
+447.: Post-Processing...
+447.: Finished postprocessing - unanimous questions:
+[20]: ['j', 'm', 'i', 'b', 'u', 'x', 'v', 'g', 'c', 'o', 'd', 'k', 'r', 'e', 'w', 'f', 'n', 'a', 's', 'z']
+(Total: 3051 + 20 = 3071)
+
+
+448.: Pre-Processing...
+448.: Finished preprocessing - total questions:
+[25]: ['m', 'q', 'p', 'u', 'b', 'x', 'r', 'z', 'h', 'k', 't', 'c', 'f', 'j', 'o', 'n', 'i', 'g', 's', 'a', 'v', 'e', 'y', 'l', 'd']
+448.: Post-Processing...
+448.: Finished postprocessing - unanimous questions:
+[5]: ['m', 'q', 'z', 'h', 't']
+(Total: 3071 + 5 = 3076)
+
+
+449.: Pre-Processing...
+449.: Finished preprocessing - total questions:
+[16]: ['n', 't', 'm', 'k', 'p', 'j', 'u', 'z', 'c', 'i', 'l', 'g', 'd', 'h', 'q', 'x']
+449.: Post-Processing...
+449.: Finished postprocessing - unanimous questions:
+[13]: ['n', 't', 'm', 'k', 'p', 'j', 'u', 'z', 'c', 'i', 'l', 'g', 'd']
+(Total: 3076 + 13 = 3089)
+
+
+450.: Pre-Processing...
+450.: Finished preprocessing - total questions:
+[25]: ['d', 'x', 'w', 'b', 'f', 'o', 'n', 'u', 'v', 'j', 'a', 's', 'k', 'y', 'e', 'q', 'z', 'i', 'p', 'c', 't', 'r', 'l', 'h', 'g']
+450.: Post-Processing...
+450.: Finished postprocessing - unanimous questions:
+[24]: ['d', 'x', 'w', 'b', 'f', 'o', 'n', 'u', 'v', 'j', 'a', 's', 'k', 'y', 'e', 'q', 'z', 'i', 'p', 'c', 't', 'r', 'l', 'h']
+(Total: 3089 + 24 = 3113)
+
+
+451.: Pre-Processing...
+451.: Finished preprocessing - total questions:
+[2]: ['a', 'f']
+451.: Post-Processing...
+451.: Finished postprocessing - unanimous questions:
+[1]: ['f']
+(Total: 3113 + 1 = 3114)
+
+
+452.: Pre-Processing...
+452.: Finished preprocessing - total questions:
+[24]: ['p', 'o', 'v', 'w', 'r', 'f', 'h', 'k', 'l', 'm', 'a', 'z', 'i', 'x', 't', 'j', 'b', 'e', 'g', 's', 'y', 'n', 'c', 'd']
+452.: Post-Processing...
+452.: Finished postprocessing - unanimous questions:
+[2]: ['o', 'v']
+(Total: 3114 + 2 = 3116)
+
+
+453.: Pre-Processing...
+453.: Finished preprocessing - total questions:
+[18]: ['y', 's', 'f', 'e', 'u', 'k', 'c', 'd', 'r', 'b', 'x', 'n', 'l', 'p', 't', 'w', 'o', 'q']
+453.: Post-Processing...
+453.: Finished postprocessing - unanimous questions:
+[12]: ['y', 's', 'f', 'e', 'u', 'k', 'c', 'd', 'r', 'b', 'x', 'n']
+(Total: 3116 + 12 = 3128)
+
+
+454.: Pre-Processing...
+454.: Finished preprocessing - total questions:
+[25]: ['h', 'm', 'w', 'b', 'z', 'c', 'o', 'd', 't', 'i', 'j', 'q', 'a', 'v', 'x', 'n', 's', 'y', 'l', 'p', 'f', 'r', 'e', 'g', 'k']
+454.: Post-Processing...
+454.: Finished postprocessing - unanimous questions:
+[14]: ['h', 'm', 'z', 'c', 'o', 't', 'i', 'j', 'q', 'a', 'v', 's', 'y', 'l']
+(Total: 3128 + 14 = 3142)
+
+
+455.: Pre-Processing...
+455.: Finished preprocessing - total questions:
+[1]: ['x']
+455.: Post-Processing...
+455.: Finished postprocessing - unanimous questions:
+[1]: ['x']
+(Total: 3142 + 1 = 3143)
+
+
+3143 questions were answered group-uniquely and group-unanimously!
