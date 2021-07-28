@@ -1,0 +1,1200 @@
+Starting input pre-processing
+Finished pre-processing
+> Ignoring input line 595: Empty line
+
+Building map of the different bag colors
+Rule 000: wavy bronze -> ['striped gold', 'light tomato']
+Rule 001: drab indigo -> ['pale bronze', 'mirrored lavender']
+Rule 002: pale olive -> ['faded bronze', 'wavy orange', 'clear black', 'striped purple']
+Rule 003: faded white -> ['vibrant violet', 'light teal']
+Rule 004: mirrored magenta -> ['muted cyan', 'vibrant crimson']
+Rule 005: dull purple -> ['striped fuchsia']
+Rule 006: dull lime -> ['posh green', 'muted gold', 'light bronze', 'pale teal']
+Rule 007: pale indigo -> ['drab blue', 'posh fuchsia']
+Rule 008: dull lavender -> ['plaid orange']
+Rule 009: pale teal -> ['dark silver', 'faded silver', 'dotted brown']
+Rule 010: clear lime -> ['bright crimson', 'dim chartreuse']
+Rule 011: faded coral -> ['muted silver', 'plaid gold']
+Rule 012: dull blue -> ['mirrored turquoise']
+Rule 013: muted salmon -> ['dim chartreuse', 'mirrored tan', 'plaid tomato', 'clear cyan']
+Rule 014: dim orange -> ['light purple']
+Rule 015: posh chartreuse -> ['pale red', 'pale gold', 'dotted brown']
+Rule 016: pale red -> ['mirrored green']
+Rule 017: dotted turquoise -> ['posh maroon', 'striped silver', 'pale blue', 'drab lime']
+Rule 018: light blue -> ['muted fuchsia']
+Rule 019: shiny teal -> ['faded brown']
+Rule 020: drab gold -> ['dull purple', 'wavy magenta', 'faded red', 'wavy silver']
+Rule 021: plaid maroon -> ['dark gold', 'dim silver', 'vibrant plum']
+Rule 022: shiny beige -> ['mirrored bronze']
+Rule 023: wavy chartreuse -> ['muted bronze']
+Rule 024: posh teal -> ['dark cyan', 'posh green']
+Rule 025: faded chartreuse -> ['muted yellow']
+Rule 026: clear crimson -> ['striped gold', 'bright crimson', 'dull red']
+Rule 027: plaid turquoise -> ['wavy crimson', 'light gold', 'mirrored olive', 'posh white']
+Rule 028: dotted gray -> ['posh teal', 'dotted lime', 'clear fuchsia']
+Rule 029: drab purple -> ['shiny blue']
+Rule 030: dim black -> ['vibrant white']
+Rule 031: muted cyan -> ['light bronze']
+Rule 032: dim aqua -> ['striped brown', 'bright white', 'dark purple', 'wavy aqua']
+Rule 033: light violet -> ['wavy lavender']
+Rule 034: light tan -> ['dim cyan']
+Rule 035: muted chartreuse -> ['drab blue', 'dim yellow', 'vibrant red', 'faded violet']
+Rule 036: faded purple -> ['clear salmon', 'pale white', 'dim indigo', 'bright fuchsia']
+Rule 037: shiny violet -> ['dim aqua', 'shiny coral']
+Rule 038: dim green -> ['pale cyan', 'faded purple', 'light gold', 'shiny fuchsia']
+Rule 039: dotted teal -> ['muted lavender']
+Rule 040: drab green -> ['pale aqua', 'striped chartreuse', 'mirrored gray', 'mirrored salmon']
+Rule 041: pale orange -> ['bright teal', 'dark green']
+Rule 042: wavy lavender -> ['wavy aqua', 'dull purple']
+Rule 043: shiny gray -> ['light blue', 'drab beige', 'vibrant blue']
+Rule 044: dull yellow -> ['dark teal', 'dull teal']
+Rule 045: muted lime -> ['shiny aqua']
+Rule 046: pale yellow -> ['dull silver', 'shiny green', 'muted silver']
+Rule 047: dark salmon -> ['mirrored fuchsia', 'light blue', 'mirrored green']
+Rule 048: faded fuchsia -> ['dotted lavender', 'clear bronze', 'muted white']
+Rule 049: dark blue -> ['mirrored orange']
+Rule 050: striped red -> ['dotted lime', 'mirrored orange', 'dim yellow', 'dull silver']
+Rule 051: faded lime -> ['faded beige', 'dark coral', 'dark maroon']
+Rule 052: dim salmon -> ['dark indigo', 'dull aqua']
+Rule 053: light plum -> ['dotted tan', 'mirrored plum']
+Rule 054: pale tomato -> ['posh violet']
+Rule 055: light olive -> ['clear blue', 'clear purple']
+Rule 056: faded bronze -> ['mirrored lime']
+Rule 057: mirrored orange -> ['shiny green', 'vibrant white', 'dull black']
+Rule 058: vibrant purple -> ['dull gray', 'dark magenta', 'wavy green']
+Rule 059: dull green -> ['shiny tomato']
+Rule 060: plaid magenta -> ['dim plum', 'dull tomato', 'drab violet']
+Rule 061: bright magenta -> ['dim plum', 'mirrored teal', 'dim red', 'plaid maroon']
+Rule 062: dark beige -> ['shiny aqua']
+Rule 063: dark orange -> ['dark violet', 'mirrored green']
+Rule 064: dim violet -> ['shiny yellow', 'dark lime', 'vibrant coral', 'mirrored turquoise']
+Rule 065: light cyan -> ['mirrored gold']
+Rule 066: striped turquoise -> ['mirrored aqua', 'faded violet', 'plaid maroon']
+Rule 067: dull plum -> ['posh gold', 'light salmon', 'dull silver', 'dark salmon']
+Rule 068: posh green -> ['clear blue', 'dull silver', 'drab turquoise', 'light silver']
+Rule 069: faded salmon -> ['faded black']
+Rule 070: dull violet -> ['plaid lavender', 'plaid crimson', 'bright crimson', 'striped bronze']
+Rule 071: posh coral -> ['plaid gold']
+Rule 072: shiny green -> []
+Rule 073: mirrored turquoise -> ['vibrant crimson', 'faded turquoise', 'muted aqua', 'drab lavender']
+Rule 074: dim yellow -> ['dark tomato', 'mirrored orange', 'bright blue', 'wavy red']
+Rule 075: vibrant orange -> ['drab turquoise']
+Rule 076: muted black -> ['dotted purple']
+Rule 077: faded brown -> ['vibrant white', 'dim silver']
+Rule 078: posh gold -> ['bright green']
+Rule 079: pale salmon -> ['faded gray', 'posh tan', 'pale cyan']
+Rule 080: dull brown -> ['drab lime', 'plaid lavender']
+Rule 081: dull fuchsia -> ['dim silver', 'shiny gold', 'faded violet']
+Rule 082: mirrored chartreuse -> ['dark gray', 'muted teal', 'mirrored black']
+Rule 083: dotted gold -> ['mirrored red', 'dim indigo', 'faded cyan']
+Rule 084: striped tomato -> ['dull gray', 'light tomato']
+Rule 085: clear lavender -> ['clear coral', 'wavy turquoise', 'dark maroon']
+Rule 086: dark chartreuse -> ['clear beige']
+Rule 087: dark brown -> ['bright white', 'faded turquoise', 'clear black', 'wavy lavender']
+Rule 088: clear gold -> ['vibrant gray', 'wavy white']
+Rule 089: plaid cyan -> ['dotted salmon', 'vibrant cyan', 'dark black', 'shiny aqua']
+Rule 090: dark tomato -> ['muted white', 'bright silver', 'posh red', 'dull black']
+Rule 091: pale bronze -> ['wavy coral', 'drab blue', 'clear purple', 'vibrant blue']
+Rule 092: clear tan -> ['dull black', 'drab fuchsia']
+Rule 093: dotted aqua -> ['striped brown', 'vibrant bronze', 'wavy brown', 'plaid red']
+Rule 094: wavy blue -> ['dark aqua', 'striped purple', 'dark coral', 'plaid red']
+Rule 095: clear indigo -> ['shiny gold', 'bright blue']
+Rule 096: mirrored plum -> ['striped gold', 'dim fuchsia']
+Rule 097: faded tomato -> ['wavy green']
+Rule 098: dark cyan -> ['dim yellow', 'dark silver', 'drab aqua']
+Rule 099: striped blue -> ['dull magenta', 'plaid maroon', 'plaid crimson']
+Rule 100: posh turquoise -> ['pale silver']
+Rule 101: vibrant lavender -> ['faded plum', 'dark tomato']
+Rule 102: mirrored lime -> ['faded lavender', 'light silver']
+Rule 103: drab fuchsia -> ['faded lavender', 'muted silver', 'pale indigo']
+Rule 104: clear olive -> ['dotted green']
+Rule 105: dim gray -> ['pale tan']
+Rule 106: light aqua -> ['mirrored lime', 'dim white', 'dark gold', 'faded black']
+Rule 107: striped lavender -> ['faded green']
+Rule 108: plaid brown -> ['vibrant turquoise', 'posh violet']
+Rule 109: bright lavender -> ['faded black', 'posh tomato']
+Rule 110: pale purple -> ['light silver', 'plaid gold']
+Rule 111: posh gray -> ['drab lime', 'dark chartreuse', 'dim fuchsia', 'vibrant red']
+Rule 112: dull turquoise -> ['vibrant fuchsia']
+Rule 113: shiny plum -> ['striped fuchsia', 'dark red']
+Rule 114: posh purple -> ['vibrant gray', 'plaid turquoise']
+Rule 115: muted teal -> ['mirrored lime', 'shiny tomato']
+Rule 116: shiny silver -> ['clear cyan']
+Rule 117: bright green -> ['plaid gray', 'dull black', 'clear blue', 'dull red']
+Rule 118: clear orange -> ['bright plum', 'shiny red', 'vibrant lavender']
+Rule 119: muted coral -> ['dark brown']
+Rule 120: posh lime -> ['dim silver']
+Rule 121: clear maroon -> ['dotted chartreuse']
+Rule 122: dim red -> ['muted yellow', 'dark violet', 'light tomato']
+Rule 123: faded red -> ['striped lavender', 'mirrored gray']
+Rule 124: bright maroon -> ['posh crimson']
+Rule 125: muted gold -> ['vibrant tan']
+Rule 126: dotted lavender -> ['shiny green', 'muted fuchsia']
+Rule 127: shiny magenta -> ['shiny red']
+Rule 128: clear salmon -> ['faded fuchsia', 'posh crimson', 'wavy fuchsia']
+Rule 129: dim lavender -> ['posh magenta', 'drab silver']
+Rule 130: vibrant aqua -> ['dim teal', 'bright blue']
+Rule 131: dim maroon -> ['light white']
+Rule 132: striped tan -> ['light aqua', 'dim chartreuse']
+Rule 133: drab lime -> ['dim blue']
+Rule 134: mirrored purple -> ['striped tomato', 'wavy tomato']
+Rule 135: dark violet -> ['vibrant red', 'dim silver']
+Rule 136: wavy beige -> ['muted violet', 'bright white', 'vibrant red', 'faded lavender']
+Rule 137: dim gold -> ['wavy turquoise', 'dim plum', 'shiny silver']
+Rule 138: dotted magenta -> ['vibrant white', 'vibrant tan', 'muted orange']
+Rule 139: plaid coral -> ['dark brown', 'posh coral', 'dull crimson', 'vibrant violet']
+Rule 140: wavy silver -> ['dim chartreuse', 'bright crimson', 'mirrored green', 'striped turquoise']
+Rule 141: mirrored olive -> ['light purple', 'muted silver']
+Rule 142: muted violet -> []
+Rule 143: bright red -> ['muted red', 'posh indigo', 'shiny purple', 'clear salmon']
+Rule 144: dotted fuchsia -> ['muted gold', 'mirrored yellow', 'plaid maroon', 'dull purple']
+Rule 145: mirrored cyan -> ['muted fuchsia', 'pale lavender']
+Rule 146: plaid beige -> ['dotted violet', 'mirrored salmon', 'mirrored plum']
+Rule 147: pale magenta -> ['vibrant indigo', 'drab blue', 'wavy violet']
+Rule 148: dim olive -> ['drab indigo', 'clear turquoise', 'plaid tan']
+Rule 149: wavy fuchsia -> ['muted silver', 'striped red']
+Rule 150: drab olive -> ['striped turquoise', 'dim brown', 'vibrant crimson']
+Rule 151: dull crimson -> ['dotted tomato', 'light silver', 'dull black', 'mirrored orange']
+Rule 152: faded beige -> ['mirrored aqua', 'faded plum', 'posh aqua', 'muted violet']
+Rule 153: posh black -> ['muted chartreuse', 'faded salmon']
+Rule 154: shiny turquoise -> ['striped plum', 'dull purple', 'pale red', 'dim brown']
+Rule 155: bright beige -> ['drab white', 'plaid olive']
+Rule 156: dim silver -> ['mirrored yellow', 'dark gray']
+Rule 157: muted bronze -> ['pale black']
+Rule 158: clear black -> ['dark gray', 'drab magenta']
+Rule 159: posh violet -> ['muted gray', 'dark blue']
+Rule 160: light gold -> ['mirrored silver']
+Rule 161: faded magenta -> ['light gray']
+Rule 162: dotted crimson -> ['clear crimson', 'bright white', 'bright green']
+Rule 163: striped coral -> ['pale beige']
+Rule 164: drab brown -> ['mirrored white', 'clear crimson']
+Rule 165: clear tomato -> ['dim magenta', 'dull magenta', 'dim turquoise']
+Rule 166: pale maroon -> ['dark aqua']
+Rule 167: dark silver -> ['bright blue', 'pale yellow', 'mirrored lime']
+Rule 168: striped purple -> ['wavy red']
+Rule 169: wavy violet -> ['dark gold', 'plaid red']
+Rule 170: clear coral -> ['clear violet', 'clear crimson', 'vibrant white']
+Rule 171: striped brown -> ['posh red']
+Rule 172: pale brown -> ['posh cyan', 'clear salmon']
+Rule 173: dotted red -> ['wavy aqua', 'mirrored bronze', 'dark silver', 'pale tan']
+Rule 174: faded plum -> ['striped brown']
+Rule 175: posh olive -> ['muted white', 'mirrored tomato', 'dull olive']
+Rule 176: faded violet -> ['mirrored yellow', 'vibrant white', 'mirrored orange']
+Rule 177: light silver -> []
+Rule 178: striped aqua -> ['dull gray', 'dark lavender', 'shiny cyan']
+Rule 179: vibrant fuchsia -> ['drab beige', 'dim beige']
+Rule 180: shiny white -> ['posh aqua', 'faded gray']
+Rule 181: muted green -> ['dim coral', 'wavy turquoise', 'clear lime', 'striped black']
+Rule 182: dim tan -> ['pale chartreuse', 'mirrored cyan', 'light maroon', 'muted chartreuse']
+Rule 183: faded olive -> ['light salmon', 'wavy blue', 'drab lavender']
+Rule 184: drab cyan -> ['faded cyan']
+Rule 185: muted magenta -> ['clear purple', 'pale aqua']
+Rule 186: wavy maroon -> ['wavy bronze']
+Rule 187: faded green -> ['mirrored gray', 'wavy gray', 'dark salmon']
+Rule 188: wavy purple -> ['posh red', 'bright white']
+Rule 189: vibrant black -> ['plaid silver']
+Rule 190: wavy white -> ['dim chartreuse']
+Rule 191: dark magenta -> ['dim lime']
+Rule 192: dull tan -> ['posh red', 'shiny green', 'pale yellow', 'faded salmon']
+Rule 193: pale lavender -> ['dim red']
+Rule 194: mirrored black -> ['plaid gray']
+Rule 195: posh silver -> ['wavy purple', 'vibrant blue', 'dull fuchsia', 'faded brown']
+Rule 196: plaid blue -> ['pale yellow', 'vibrant salmon', 'wavy cyan']
+Rule 197: plaid purple -> ['bright bronze', 'vibrant blue', 'shiny salmon', 'faded magenta']
+Rule 198: striped orange -> ['mirrored black', 'clear cyan', 'wavy yellow', 'dim aqua']
+Rule 199: pale chartreuse -> ['shiny blue', 'shiny tomato', 'bright lime', 'dim blue']
+Rule 200: mirrored lavender -> ['shiny gold', 'dull crimson']
+Rule 201: bright blue -> ['mirrored yellow', 'light silver']
+Rule 202: dull teal -> ['drab aqua', 'dim coral', 'muted yellow']
+Rule 203: mirrored indigo -> ['dim brown']
+Rule 204: dotted coral -> ['light lime', 'mirrored indigo', 'wavy indigo']
+Rule 205: light white -> ['vibrant coral']
+Rule 206: faded yellow -> ['light white']
+Rule 207: plaid black -> ['dim indigo', 'dull olive']
+Rule 208: dim cyan -> ['shiny blue', 'drab black']
+Rule 209: plaid tomato -> ['dull crimson']
+Rule 210: bright yellow -> ['mirrored green', 'dim yellow']
+Rule 211: clear magenta -> ['dim cyan', 'bright orange']
+Rule 212: vibrant olive -> ['pale turquoise']
+Rule 213: dull orange -> ['mirrored yellow', 'clear purple']
+Rule 214: drab tan -> ['dotted salmon']
+Rule 215: dark black -> ['bright magenta', 'striped lime']
+Rule 216: faded teal -> ['dark red', 'plaid teal', 'vibrant red']
+Rule 217: posh magenta -> ['dark tan']
+Rule 218: dim indigo -> ['dotted brown', 'dull tan', 'dark indigo', 'dim fuchsia']
+Rule 219: vibrant red -> ['muted fuchsia', 'bright blue']
+Rule 220: mirrored tomato -> ['shiny tomato', 'dull orange']
+Rule 221: dark lime -> ['plaid tan']
+Rule 222: vibrant silver -> ['pale yellow', 'faded lime']
+Rule 223: faded tan -> ['pale violet', 'muted gold', 'vibrant red']
+Rule 224: pale beige -> ['dark blue', 'drab white', 'faded crimson', 'dull gray']
+Rule 225: wavy teal -> ['posh maroon', 'clear violet']
+Rule 226: bright turquoise -> ['pale aqua']
+Rule 227: striped chartreuse -> ['striped tomato', 'dark red', 'posh coral', 'mirrored fuchsia']
+Rule 228: wavy yellow -> ['striped gold', 'striped maroon', 'dull fuchsia', 'shiny gold']
+Rule 229: dull salmon -> ['plaid cyan']
+Rule 230: shiny bronze -> ['pale indigo', 'mirrored orange', 'vibrant bronze']
+Rule 231: dull red -> ['wavy beige']
+Rule 232: dotted green -> ['clear indigo']
+Rule 233: plaid fuchsia -> ['vibrant salmon', 'light silver']
+Rule 234: striped crimson -> ['dotted bronze', 'shiny coral']
+Rule 235: mirrored teal -> ['clear purple', 'muted yellow']
+Rule 236: plaid gray -> ['muted silver', 'pale yellow']
+Rule 237: pale gray -> ['drab lavender', 'mirrored aqua']
+Rule 238: clear plum -> ['dull blue', 'clear chartreuse']
+Rule 239: light salmon -> ['bright silver', 'clear black', 'bright crimson', 'bright white']
+Rule 240: dark tan -> ['shiny bronze', 'mirrored chartreuse', 'bright silver', 'clear black']
+Rule 241: vibrant bronze -> ['vibrant teal', 'dark silver', 'mirrored green']
+Rule 242: light teal -> ['drab blue', 'clear red', 'drab aqua']
+Rule 243: plaid plum -> ['faded yellow', 'striped maroon']
+Rule 244: dull silver -> []
+Rule 245: mirrored beige -> ['dotted blue', 'clear indigo']
+Rule 246: pale aqua -> ['shiny blue', 'dim red', 'posh teal']
+Rule 247: wavy orange -> ['pale red', 'wavy purple', 'shiny aqua']
+Rule 248: dotted silver -> ['dim beige', 'striped silver', 'pale brown', 'muted white']
+Rule 249: dotted orange -> ['plaid violet', 'pale salmon', 'dull bronze']
+Rule 250: vibrant turquoise -> ['drab silver']
+Rule 251: clear cyan -> ['shiny green', 'dark chartreuse']
+Rule 252: dotted tan -> ['vibrant blue']
+Rule 253: mirrored brown -> ['faded olive']
+Rule 254: bright bronze -> ['light yellow', 'mirrored orange', 'light silver']
+Rule 255: plaid lavender -> ['posh violet', 'muted yellow', 'bright gold']
+Rule 256: bright coral -> ['posh teal', 'wavy purple']
+Rule 257: faded aqua -> ['faded black']
+Rule 258: posh yellow -> ['vibrant violet', 'drab blue']
+Rule 259: plaid red -> ['mirrored orange', 'muted gold', 'faded black']
+Rule 260: muted silver -> []
+Rule 261: bright black -> ['plaid teal', 'wavy lavender', 'posh tan']
+Rule 262: dim white -> ['mirrored orange', 'dotted lavender', 'muted yellow']
+Rule 263: posh brown -> ['dark purple', 'plaid lavender']
+Rule 264: dotted plum -> ['bright teal']
+Rule 265: plaid silver -> ['dark coral', 'shiny coral']
+Rule 266: vibrant chartreuse -> ['shiny magenta', 'muted crimson', 'dull tan', 'striped cyan']
+Rule 267: drab red -> ['drab aqua', 'dark yellow', 'mirrored gray']
+Rule 268: dull gold -> ['dark coral', 'dark blue', 'bright orange', 'muted lavender']
+Rule 269: dull cyan -> ['faded tan', 'muted teal', 'muted orange', 'striped bronze']
+Rule 270: drab lavender -> ['faded lavender', 'light blue', 'posh fuchsia']
+Rule 271: bright tan -> ['faded tan', 'vibrant coral']
+Rule 272: shiny indigo -> ['dark silver']
+Rule 273: dark turquoise -> ['dark purple']
+Rule 274: drab magenta -> ['bright white', 'muted silver', 'posh red']
+Rule 275: vibrant coral -> ['plaid orange', 'pale gold', 'dark yellow', 'dim yellow']
+Rule 276: clear yellow -> ['plaid lavender', 'vibrant coral', 'posh coral', 'vibrant brown']
+Rule 277: bright indigo -> ['bright black', 'plaid crimson', 'dim fuchsia']
+Rule 278: plaid violet -> ['drab crimson', 'dotted cyan', 'shiny green']
+Rule 279: dim blue -> ['dotted lavender', 'clear purple']
+Rule 280: vibrant plum -> []
+Rule 281: clear bronze -> ['dull tan']
+Rule 282: striped green -> ['wavy bronze', 'light silver', 'posh aqua']
+Rule 283: mirrored gold -> ['pale tan', 'shiny bronze', 'dim beige']
+Rule 284: plaid lime -> ['mirrored fuchsia']
+Rule 285: posh salmon -> ['dim brown', 'mirrored silver']
+Rule 286: wavy coral -> ['light orange', 'shiny orange', 'dark blue', 'bright yellow']
+Rule 287: clear teal -> ['posh white']
+Rule 288: mirrored aqua -> []
+Rule 289: light green -> ['posh chartreuse', 'shiny red', 'dim silver', 'faded crimson']
+Rule 290: muted aqua -> ['shiny green', 'shiny gold', 'light blue']
+Rule 291: posh maroon -> ['pale yellow', 'dim red', 'wavy beige', 'bright blue']
+Rule 292: faded gray -> ['faded orange']
+Rule 293: plaid orange -> ['dark brown', 'dotted salmon', 'clear violet', 'clear indigo']
+Rule 294: striped indigo -> ['muted gray', 'dim brown', 'clear black']
+Rule 295: bright salmon -> ['dark tomato', 'pale tomato', 'dim magenta', 'dotted cyan']
+Rule 296: wavy aqua -> ['dark violet', 'dim yellow', 'dark blue']
+Rule 297: plaid olive -> ['dull red']
+Rule 298: bright teal -> ['shiny green']
+Rule 299: vibrant beige -> ['dark teal', 'plaid turquoise']
+Rule 300: dull chartreuse -> ['pale blue', 'drab violet', 'dotted beige']
+Rule 301: dotted brown -> ['posh lime', 'muted gray']
+Rule 302: muted plum -> ['clear violet', 'shiny green', 'dotted fuchsia']
+Rule 303: muted blue -> ['drab tomato']
+Rule 304: dull bronze -> ['bright magenta', 'muted purple', 'striped red', 'clear gray']
+Rule 305: shiny red -> ['shiny green', 'muted white']
+Rule 306: shiny purple -> ['wavy red', 'drab magenta']
+Rule 307: plaid tan -> ['wavy bronze', 'clear fuchsia']
+Rule 308: drab orange -> ['shiny salmon']
+Rule 309: faded gold -> ['pale bronze', 'striped plum', 'muted violet']
+Rule 310: light magenta -> ['bright tomato']
+Rule 311: light yellow -> ['posh gold', 'faded lime']
+Rule 312: mirrored maroon -> ['posh plum', 'pale gold', 'vibrant maroon']
+Rule 313: dark coral -> ['shiny red', 'posh fuchsia', 'striped gold']
+Rule 314: dark teal -> ['striped red', 'striped turquoise']
+Rule 315: dark purple -> ['clear blue']
+Rule 316: plaid gold -> ['posh teal', 'dim yellow', 'pale red']
+Rule 317: dim coral -> ['dull plum', 'faded violet']
+Rule 318: vibrant salmon -> ['plaid silver', 'faded green', 'clear indigo']
+Rule 319: bright brown -> ['shiny plum', 'dim magenta', 'shiny turquoise', 'dim yellow']
+Rule 320: vibrant crimson -> ['pale red']
+Rule 321: posh crimson -> ['plaid olive', 'plaid orange']
+Rule 322: faded indigo -> ['clear red']
+Rule 323: wavy red -> ['vibrant plum', 'dotted lime']
+Rule 324: faded lavender -> ['mirrored yellow', 'vibrant plum']
+Rule 325: drab silver -> ['dark gray', 'muted fuchsia']
+Rule 326: pale black -> ['posh white', 'pale blue', 'shiny plum', 'posh salmon']
+Rule 327: posh tan -> ['mirrored yellow', 'striped bronze']
+Rule 328: drab aqua -> ['dull silver', 'dark tomato']
+Rule 329: wavy plum -> ['clear violet']
+Rule 330: shiny crimson -> ['drab lime']
+Rule 331: shiny lime -> ['vibrant teal', 'faded black', 'dull black', 'clear purple']
+Rule 332: dark maroon -> ['dull black']
+Rule 333: faded blue -> ['bright blue', 'mirrored lime', 'shiny green']
+Rule 334: clear turquoise -> ['dim silver', 'muted coral', 'clear bronze', 'light orange']
+Rule 335: striped yellow -> ['dotted brown', 'plaid coral']
+Rule 336: pale coral -> ['faded crimson', 'drab tan', 'dotted olive', 'shiny blue']
+Rule 337: wavy black -> ['mirrored yellow']
+Rule 338: muted indigo -> ['dim coral', 'shiny lavender', 'drab aqua', 'faded blue']
+Rule 339: dull aqua -> ['dark gray', 'mirrored orange', 'pale red', 'drab turquoise']
+Rule 340: striped violet -> ['posh red', 'wavy violet', 'pale aqua']
+Rule 341: bright crimson -> ['bright silver', 'wavy beige', 'striped fuchsia']
+Rule 342: wavy tomato -> ['dim turquoise', 'mirrored chartreuse']
+Rule 343: pale fuchsia -> ['pale violet', 'shiny turquoise', 'drab white', 'mirrored green']
+Rule 344: mirrored gray -> ['dim chartreuse', 'bright chartreuse']
+Rule 345: mirrored bronze -> ['drab olive', 'drab white', 'clear crimson', 'dim aqua']
+Rule 346: light crimson -> ['plaid teal']
+Rule 347: light lime -> ['faded salmon', 'dim indigo', 'dotted lime', 'striped green']
+Rule 348: clear silver -> ['vibrant cyan', 'dotted olive']
+Rule 349: striped magenta -> ['faded aqua']
+Rule 350: dark gray -> ['bright white', 'posh red']
+Rule 351: pale crimson -> ['dark teal']
+Rule 352: dotted cyan -> ['striped brown', 'shiny green', 'dull crimson', 'bright crimson']
+Rule 353: clear violet -> ['drab magenta', 'striped brown', 'striped fuchsia', 'mirrored aqua']
+Rule 354: drab white -> ['bright blue', 'wavy purple', 'mirrored lime', 'dotted salmon']
+Rule 355: plaid yellow -> ['dull violet', 'striped turquoise']
+Rule 356: clear gray -> ['dim chartreuse', 'dotted chartreuse', 'dull plum']
+Rule 357: pale cyan -> ['striped tomato']
+Rule 358: pale turquoise -> ['faded coral']
+Rule 359: shiny aqua -> ['dotted magenta']
+Rule 360: dull tomato -> ['vibrant indigo']
+Rule 361: light orange -> ['posh lime', 'bright yellow', 'faded magenta', 'pale beige']
+Rule 362: dull white -> ['dotted lavender', 'pale beige', 'posh black', 'light silver']
+Rule 363: drab yellow -> ['shiny orange', 'faded green']
+Rule 364: bright gray -> ['muted red', 'dull orange', 'mirrored yellow']
+Rule 365: dim crimson -> ['bright white']
+Rule 366: dim fuchsia -> ['light silver']
+Rule 367: dim bronze -> ['light blue', 'light gray', 'faded crimson', 'posh tan']
+Rule 368: muted tan -> ['dark blue', 'clear crimson', 'striped silver']
+Rule 369: dark gold -> ['posh red', 'drab blue']
+Rule 370: light tomato -> ['wavy olive', 'dark maroon', 'shiny gold', 'muted yellow']
+Rule 371: shiny fuchsia -> ['faded lime', 'drab beige']
+Rule 372: striped gold -> ['dim blue']
+Rule 373: light lavender -> ['wavy fuchsia', 'shiny salmon']
+Rule 374: shiny tomato -> ['striped turquoise', 'light gray', 'dark tomato', 'dull aqua']
+Rule 375: dotted indigo -> ['dark indigo']
+Rule 376: shiny blue -> ['shiny red', 'posh salmon', 'dotted tomato']
+Rule 377: vibrant blue -> ['plaid teal', 'dim silver']
+Rule 378: pale blue -> ['striped tomato']
+Rule 379: dull magenta -> ['striped chartreuse', 'dark silver']
+Rule 380: drab blue -> ['dark gray', 'dotted lime', 'shiny green', 'wavy olive']
+Rule 381: light bronze -> ['wavy silver', 'wavy coral', 'faded green']
+Rule 382: muted beige -> ['dull coral', 'dim chartreuse', 'pale blue', 'plaid lavender']
+Rule 383: bright plum -> ['plaid indigo', 'dark purple', 'dark indigo', 'vibrant crimson']
+Rule 384: plaid salmon -> ['dark gold', 'dotted lavender', 'wavy red', 'bright olive']
+Rule 385: dim lime -> ['wavy brown', 'wavy fuchsia', 'dark tomato']
+Rule 386: dark aqua -> ['wavy beige', 'pale yellow', 'bright white', 'muted violet']
+Rule 387: light coral -> ['dotted coral', 'pale indigo', 'dull brown', 'plaid white']
+Rule 388: clear purple -> ['dark aqua', 'vibrant white']
+Rule 389: striped plum -> ['plaid gold', 'dim silver']
+Rule 390: mirrored yellow -> []
+Rule 391: shiny olive -> ['dotted lavender']
+Rule 392: pale gold -> ['plaid orange', 'bright yellow']
+Rule 393: dotted violet -> ['dim orange']
+Rule 394: mirrored blue -> ['mirrored coral', 'posh green', 'wavy teal']
+Rule 395: plaid green -> ['wavy red']
+Rule 396: wavy cyan -> ['dull crimson', 'dim chartreuse']
+Rule 397: dull beige -> ['shiny black', 'posh green', 'pale gray', 'posh gray']
+Rule 398: dark indigo -> ['drab plum']
+Rule 399: striped black -> ['bright green', 'muted silver', 'plaid crimson']
+Rule 400: plaid indigo -> ['drab lime', 'faded plum', 'bright yellow']
+Rule 401: shiny maroon -> ['dark cyan', 'dotted chartreuse']
+Rule 402: dotted lime -> ['light silver', 'shiny green', 'mirrored aqua']
+Rule 403: posh beige -> ['mirrored aqua', 'mirrored black', 'wavy blue', 'plaid cyan']
+Rule 404: bright cyan -> ['mirrored aqua', 'dotted fuchsia', 'wavy plum']
+Rule 405: plaid white -> ['vibrant lime', 'dull magenta', 'pale blue', 'plaid cyan']
+Rule 406: drab maroon -> ['clear violet', 'posh green', 'dotted bronze', 'dark silver']
+Rule 407: plaid bronze -> ['shiny plum', 'dim brown']
+Rule 408: dim magenta -> ['muted chartreuse', 'wavy lavender']
+Rule 409: clear blue -> ['muted yellow', 'muted fuchsia']
+Rule 410: dotted salmon -> ['muted silver', 'mirrored yellow', 'vibrant red']
+Rule 411: posh orange -> ['pale violet', 'posh maroon']
+Rule 412: mirrored red -> ['posh crimson', 'light green', 'striped black', 'dark black']
+Rule 413: vibrant green -> ['faded fuchsia', 'faded orange', 'clear turquoise']
+Rule 414: pale violet -> ['bright teal', 'faded crimson']
+Rule 415: clear brown -> ['posh coral', 'vibrant maroon', 'drab olive', 'mirrored cyan']
+Rule 416: vibrant violet -> ['dark purple', 'striped olive', 'faded fuchsia']
+Rule 417: pale green -> ['posh green', 'striped lime']
+Rule 418: light maroon -> ['dull cyan', 'dim red']
+Rule 419: wavy salmon -> ['drab lavender', 'bright gray']
+Rule 420: dotted yellow -> ['mirrored black', 'dim plum']
+Rule 421: drab crimson -> ['striped fuchsia', 'pale indigo']
+Rule 422: vibrant tomato -> ['dotted lime', 'dotted green', 'light teal', 'light indigo']
+Rule 423: wavy olive -> ['muted white', 'muted silver']
+Rule 424: wavy lime -> ['vibrant bronze', 'vibrant gray']
+Rule 425: striped lime -> ['faded brown', 'vibrant red', 'mirrored gray']
+Rule 426: wavy crimson -> ['striped silver', 'pale magenta', 'wavy gray', 'vibrant plum']
+Rule 427: wavy indigo -> ['shiny cyan', 'light orange']
+Rule 428: posh fuchsia -> ['dark aqua', 'muted white', 'shiny green', 'dull black']
+Rule 429: striped maroon -> ['striped fuchsia', 'muted chartreuse', 'dark purple', 'shiny gold']
+Rule 430: dull gray -> ['dark tomato', 'shiny purple', 'faded violet', 'dull silver']
+Rule 431: dotted bronze -> ['dark blue']
+Rule 432: muted olive -> ['mirrored lavender']
+Rule 433: dark plum -> ['faded lime']
+Rule 434: drab tomato -> ['posh chartreuse', 'vibrant indigo']
+Rule 435: plaid teal -> ['dark gray', 'light silver']
+Rule 436: drab teal -> ['pale salmon']
+Rule 437: wavy brown -> ['plaid red']
+Rule 438: mirrored violet -> ['vibrant brown', 'dull crimson', 'shiny violet', 'dim magenta']
+Rule 439: faded silver -> ['bright teal', 'shiny green']
+Rule 440: dark bronze -> ['muted violet', 'plaid cyan']
+Rule 441: dim tomato -> ['dotted black']
+Rule 442: muted tomato -> ['posh crimson', 'muted yellow']
+Rule 443: bright orange -> ['pale silver']
+Rule 444: dotted tomato -> ['posh tan', 'dotted lavender']
+Rule 445: bright white -> []
+Rule 446: dotted white -> ['dim yellow', 'plaid orange', 'bright chartreuse']
+Rule 447: vibrant teal -> ['vibrant red']
+Rule 448: light beige -> ['wavy crimson', 'mirrored aqua', 'light yellow']
+Rule 449: drab black -> ['dotted lime', 'mirrored fuchsia']
+Rule 450: drab salmon -> ['pale indigo']
+Rule 451: bright silver -> ['wavy red']
+Rule 452: pale lime -> ['dark indigo']
+Rule 453: dark red -> ['vibrant white', 'dark violet']
+Rule 454: dull coral -> ['dark indigo', 'bright plum', 'wavy silver', 'clear bronze']
+Rule 455: vibrant white -> ['dotted lime', 'mirrored aqua']
+Rule 456: posh red -> []
+Rule 457: muted fuchsia -> ['bright blue']
+Rule 458: bright aqua -> ['shiny blue', 'dark red', 'wavy fuchsia', 'pale gold']
+Rule 459: vibrant magenta -> ['clear red']
+Rule 460: light indigo -> ['dark red', 'vibrant salmon']
+Rule 461: mirrored tan -> ['muted teal']
+Rule 462: dim teal -> ['drab lime', 'drab bronze', 'bright lavender', 'posh salmon']
+Rule 463: shiny black -> ['faded yellow', 'shiny blue', 'dark teal', 'light crimson']
+Rule 464: drab plum -> ['muted fuchsia']
+Rule 465: muted turquoise -> ['faded plum', 'plaid red', 'dotted lavender']
+Rule 466: muted brown -> ['dotted magenta', 'pale red', 'posh violet', 'muted yellow']
+Rule 467: dull olive -> ['drab magenta', 'plaid crimson']
+Rule 468: drab coral -> ['dull blue', 'striped white', 'plaid indigo', 'shiny violet']
+Rule 469: mirrored white -> ['dull fuchsia', 'muted white', 'faded lime']
+Rule 470: shiny gold -> ['pale indigo', 'pale yellow']
+Rule 471: vibrant tan -> ['dull fuchsia', 'faded bronze', 'shiny orange']
+Rule 472: dark olive -> ['bright green', 'wavy beige', 'muted tan']
+Rule 473: light chartreuse -> ['dark turquoise', 'striped gold']
+Rule 474: mirrored salmon -> ['plaid lavender', 'dim white']
+Rule 475: mirrored crimson -> ['dark teal', 'striped silver', 'clear blue']
+Rule 476: wavy gray -> ['plaid maroon', 'clear crimson', 'dull purple', 'drab brown']
+Rule 477: mirrored green -> ['vibrant white', 'shiny cyan']
+Rule 478: vibrant gray -> ['dotted salmon', 'drab black', 'shiny red']
+Rule 479: dull black -> ['dark gray', 'mirrored yellow', 'dark aqua']
+Rule 480: dim plum -> ['clear blue', 'shiny turquoise']
+Rule 481: posh aqua -> ['bright white', 'pale yellow']
+Rule 482: muted yellow -> ['dark aqua', 'muted silver', 'bright white', 'mirrored orange']
+Rule 483: dark crimson -> ['wavy salmon']
+Rule 484: bright gold -> ['drab lavender', 'dotted magenta', 'dim chartreuse', 'plaid gray']
+Rule 485: dim purple -> ['clear silver', 'faded purple', 'faded blue']
+Rule 486: light gray -> ['dotted bronze']
+Rule 487: bright chartreuse -> ['vibrant white', 'wavy red', 'faded violet', 'dull fuchsia']
+Rule 488: shiny tan -> ['dim red', 'shiny orange', 'clear violet']
+Rule 489: shiny coral -> ['dull black']
+Rule 490: dull indigo -> ['drab blue', 'light gray', 'dim turquoise']
+Rule 491: dim brown -> ['drab turquoise', 'dull black', 'posh aqua']
+Rule 492: bright fuchsia -> ['bright olive']
+Rule 493: light brown -> ['muted tan']
+Rule 494: posh plum -> ['striped fuchsia', 'shiny cyan', 'shiny violet', 'shiny green']
+Rule 495: drab bronze -> ['dotted aqua', 'shiny orange', 'dull aqua']
+Rule 496: dim beige -> ['striped bronze']
+Rule 497: dark lavender -> ['posh salmon', 'dotted teal', 'dim blue', 'pale beige']
+Rule 498: light black -> ['clear orange']
+Rule 499: clear white -> ['vibrant aqua', 'pale aqua']
+Rule 500: pale white -> ['faded magenta']
+Rule 501: vibrant cyan -> ['light lime', 'bright purple', 'clear black']
+Rule 502: bright lime -> ['dim silver']
+Rule 503: bright olive -> ['striped magenta', 'dark turquoise', 'dark chartreuse']
+Rule 504: vibrant lime -> ['mirrored coral']
+Rule 505: faded turquoise -> ['dark gray', 'dull black']
+Rule 506: muted red -> ['muted coral']
+Rule 507: vibrant indigo -> ['posh tomato']
+Rule 508: striped olive -> ['plaid orange']
+Rule 509: posh blue -> ['plaid teal']
+Rule 510: striped gray -> ['mirrored purple']
+Rule 511: posh lavender -> ['plaid maroon', 'dim lavender', 'bright maroon', 'dark coral']
+Rule 512: dim turquoise -> ['posh tomato']
+Rule 513: light purple -> ['shiny green']
+Rule 514: vibrant yellow -> ['pale brown', 'vibrant crimson', 'plaid aqua']
+Rule 515: pale silver -> ['pale tan', 'vibrant lavender']
+Rule 516: posh bronze -> ['pale lavender', 'dotted indigo', 'striped olive', 'mirrored green']
+Rule 517: striped white -> ['faded plum', 'striped indigo', 'pale gold', 'plaid gold']
+Rule 518: striped cyan -> ['faded salmon', 'dull coral', 'drab bronze', 'mirrored bronze']
+Rule 519: shiny yellow -> ['faded aqua', 'striped black', 'pale cyan', 'clear red']
+Rule 520: muted white -> ['mirrored aqua', 'muted fuchsia']
+Rule 521: bright violet -> ['dark turquoise', 'plaid crimson', 'clear lavender', 'dim red']
+Rule 522: light red -> ['dim lime', 'vibrant red']
+Rule 523: drab gray -> ['drab tomato', 'shiny blue', 'vibrant tan', 'striped fuchsia']
+Rule 524: pale tan -> ['striped green', 'dark maroon', 'drab turquoise', 'posh lime']
+Rule 525: faded crimson -> ['clear crimson', 'dull purple', 'clear violet', 'wavy beige']
+Rule 526: shiny orange -> ['dark gray', 'dim silver', 'bright green']
+Rule 527: clear fuchsia -> ['pale indigo']
+Rule 528: shiny salmon -> ['dull coral', 'muted crimson']
+Rule 529: dotted black -> ['vibrant cyan']
+Rule 530: drab turquoise -> ['shiny green']
+Rule 531: shiny chartreuse -> ['faded violet']
+Rule 532: wavy magenta -> ['plaid lime', 'bright chartreuse', 'clear lime', 'plaid orange']
+Rule 533: wavy tan -> ['dark brown', 'clear turquoise', 'muted fuchsia', 'clear gold']
+Rule 534: dotted maroon -> ['dim gold', 'posh tan']
+Rule 535: striped silver -> ['dark coral', 'dark turquoise', 'pale beige', 'bright silver']
+Rule 536: dotted blue -> ['drab blue']
+Rule 537: striped bronze -> ['light blue', 'wavy olive', 'dark tomato', 'dark blue']
+Rule 538: dotted chartreuse -> ['dark salmon', 'striped magenta']
+Rule 539: muted orange -> ['clear crimson', 'mirrored fuchsia', 'drab blue']
+Rule 540: light fuchsia -> ['dim cyan', 'pale lavender', 'dark teal']
+Rule 541: wavy green -> ['faded turquoise', 'faded lavender', 'faded silver', 'dark tomato']
+Rule 542: muted maroon -> ['vibrant red']
+Rule 543: drab beige -> ['clear red', 'faded blue', 'dim beige']
+Rule 544: light turquoise -> ['dim violet', 'light teal']
+Rule 545: striped beige -> ['vibrant brown', 'dull red']
+Rule 546: drab violet -> ['dotted gray', 'striped chartreuse']
+Rule 547: clear red -> ['posh crimson', 'wavy green', 'dotted brown', 'wavy violet']
+Rule 548: clear green -> ['vibrant gray', 'dim orange', 'posh magenta', 'dim tan']
+Rule 549: posh indigo -> ['shiny coral', 'bright green']
+Rule 550: dotted olive -> ['striped bronze', 'dim silver']
+Rule 551: striped fuchsia -> ['light silver', 'dark blue', 'bright green']
+Rule 552: dark fuchsia -> ['shiny turquoise', 'shiny maroon', 'dim gray', 'dim cyan']
+Rule 553: faded cyan -> ['pale gold', 'wavy fuchsia', 'wavy orange', 'drab violet']
+Rule 554: drab chartreuse -> ['muted blue', 'wavy orange', 'mirrored beige', 'wavy tan']
+Rule 555: mirrored silver -> ['drab lavender']
+Rule 556: faded black -> ['drab turquoise', 'muted yellow']
+Rule 557: muted lavender -> ['light crimson', 'bright gold', 'dull orange', 'striped crimson']
+Rule 558: shiny cyan -> ['drab plum', 'drab aqua']
+Rule 559: dark white -> ['mirrored fuchsia']
+Rule 560: plaid aqua -> ['dark cyan', 'drab tan', 'drab blue']
+Rule 561: muted purple -> ['dim turquoise']
+Rule 562: clear chartreuse -> ['vibrant gray', 'striped teal', 'dim tan']
+Rule 563: clear beige -> ['plaid tan', 'dark teal', 'dark cyan', 'posh brown']
+Rule 564: posh white -> ['plaid red']
+Rule 565: posh cyan -> ['dull teal', 'posh indigo', 'dotted aqua']
+Rule 566: mirrored fuchsia -> ['mirrored aqua', 'striped fuchsia', 'faded violet', 'wavy red']
+Rule 567: striped teal -> ['dark purple', 'pale teal', 'clear violet', 'shiny yellow']
+Rule 568: dull maroon -> ['dull beige', 'dim crimson']
+Rule 569: shiny brown -> ['striped red', 'dotted magenta']
+Rule 570: vibrant gold -> ['bright lime']
+Rule 571: wavy gold -> ['vibrant white', 'dim orange', 'dark gold', 'bright tan']
+Rule 572: muted crimson -> ['plaid chartreuse']
+Rule 573: mirrored coral -> ['mirrored teal', 'shiny cyan', 'dull purple']
+Rule 574: dark green -> ['dark gray']
+Rule 575: dotted beige -> ['shiny gold', 'drab turquoise', 'plaid lavender']
+Rule 576: plaid chartreuse -> ['clear cyan', 'bright blue', 'dark violet', 'dark chartreuse']
+Rule 577: dotted purple -> ['bright crimson', 'striped black']
+Rule 578: bright tomato -> ['pale lime', 'shiny aqua']
+Rule 579: plaid crimson -> ['dull orange', 'dim chartreuse', 'wavy aqua', 'muted gold']
+Rule 580: muted gray -> ['posh aqua', 'faded blue', 'striped brown']
+Rule 581: vibrant brown -> ['shiny crimson', 'mirrored orange']
+Rule 582: clear aqua -> ['drab magenta', 'drab crimson', 'dull plum', 'faded magenta']
+Rule 583: posh tomato -> ['clear black']
+Rule 584: dim chartreuse -> ['bright green', 'shiny gold', 'vibrant red']
+Rule 585: striped salmon -> ['faded purple', 'wavy fuchsia', 'vibrant chartreuse', 'posh tomato']
+Rule 586: faded orange -> ['pale beige', 'dim blue', 'faded silver']
+Rule 587: shiny lavender -> ['dotted olive', 'dotted gray', 'shiny yellow', 'dim cyan']
+Rule 588: wavy turquoise -> ['wavy lavender', 'striped red', 'drab aqua', 'shiny aqua']
+Rule 589: pale plum -> ['drab silver']
+Rule 590: faded maroon -> ['posh fuchsia', 'vibrant teal', 'dull violet']
+Rule 591: dark yellow -> ['faded black', 'dark salmon', 'vibrant lavender']
+Rule 592: bright purple -> ['light lime', 'pale gray', 'faded turquoise', 'faded magenta']
+Rule 593: vibrant maroon -> ['vibrant lavender', 'wavy black', 'striped magenta', 'pale green']
+Finished color mapping
+
+Starting to find paths to contain the target
+wavy bronze can contain shiny gold: True
+drab indigo can contain shiny gold: True
+pale olive can contain shiny gold: True
+faded white can contain shiny gold: True
+mirrored magenta can contain shiny gold: True
+dull purple can contain shiny gold: False
+dull lime can contain shiny gold: True
+pale indigo can contain shiny gold: False
+dull lavender can contain shiny gold: True
+pale teal can contain shiny gold: False
+clear lime can contain shiny gold: True
+faded coral can contain shiny gold: False
+dull blue can contain shiny gold: True
+muted salmon can contain shiny gold: True
+dim orange can contain shiny gold: False
+posh chartreuse can contain shiny gold: True
+pale red can contain shiny gold: False
+dotted turquoise can contain shiny gold: True
+light blue can contain shiny gold: False
+shiny teal can contain shiny gold: False
+drab gold can contain shiny gold: True
+plaid maroon can contain shiny gold: False
+shiny beige can contain shiny gold: False
+wavy chartreuse can contain shiny gold: True
+posh teal can contain shiny gold: False
+faded chartreuse can contain shiny gold: False
+clear crimson can contain shiny gold: False
+plaid turquoise can contain shiny gold: True
+dotted gray can contain shiny gold: False
+drab purple can contain shiny gold: False
+dim black can contain shiny gold: False
+muted cyan can contain shiny gold: True
+dim aqua can contain shiny gold: False
+light violet can contain shiny gold: False
+light tan can contain shiny gold: False
+muted chartreuse can contain shiny gold: False
+faded purple can contain shiny gold: True
+shiny violet can contain shiny gold: False
+dim green can contain shiny gold: True
+dotted teal can contain shiny gold: True
+drab green can contain shiny gold: True
+pale orange can contain shiny gold: False
+wavy lavender can contain shiny gold: False
+shiny gray can contain shiny gold: True
+dull yellow can contain shiny gold: False
+muted lime can contain shiny gold: True
+pale yellow can contain shiny gold: False
+dark salmon can contain shiny gold: False
+faded fuchsia can contain shiny gold: False
+dark blue can contain shiny gold: False
+striped red can contain shiny gold: False
+faded lime can contain shiny gold: False
+dim salmon can contain shiny gold: False
+light plum can contain shiny gold: False
+pale tomato can contain shiny gold: False
+light olive can contain shiny gold: False
+faded bronze can contain shiny gold: False
+mirrored orange can contain shiny gold: False
+vibrant purple can contain shiny gold: True
+dull green can contain shiny gold: False
+plaid magenta can contain shiny gold: True
+bright magenta can contain shiny gold: True
+dark beige can contain shiny gold: True
+dark orange can contain shiny gold: False
+dim violet can contain shiny gold: True
+light cyan can contain shiny gold: True
+striped turquoise can contain shiny gold: False
+dull plum can contain shiny gold: False
+posh green can contain shiny gold: False
+faded salmon can contain shiny gold: False
+dull violet can contain shiny gold: True
+posh coral can contain shiny gold: False
+shiny green can contain shiny gold: False
+mirrored turquoise can contain shiny gold: True
+dim yellow can contain shiny gold: False
+vibrant orange can contain shiny gold: False
+muted black can contain shiny gold: True
+faded brown can contain shiny gold: False
+posh gold can contain shiny gold: False
+pale salmon can contain shiny gold: True
+dull brown can contain shiny gold: True
+dull fuchsia can contain shiny gold: True
+mirrored chartreuse can contain shiny gold: False
+dotted gold can contain shiny gold: True
+striped tomato can contain shiny gold: True
+clear lavender can contain shiny gold: True
+dark chartreuse can contain shiny gold: True
+dark brown can contain shiny gold: False
+clear gold can contain shiny gold: True
+plaid cyan can contain shiny gold: True
+dark tomato can contain shiny gold: False
+pale bronze can contain shiny gold: False
+clear tan can contain shiny gold: False
+dotted aqua can contain shiny gold: True
+wavy blue can contain shiny gold: True
+clear indigo can contain shiny gold: True
+mirrored plum can contain shiny gold: False
+faded tomato can contain shiny gold: False
+dark cyan can contain shiny gold: False
+striped blue can contain shiny gold: True
+posh turquoise can contain shiny gold: True
+vibrant lavender can contain shiny gold: False
+mirrored lime can contain shiny gold: False
+drab fuchsia can contain shiny gold: False
+clear olive can contain shiny gold: True
+dim gray can contain shiny gold: True
+light aqua can contain shiny gold: False
+striped lavender can contain shiny gold: True
+plaid brown can contain shiny gold: False
+bright lavender can contain shiny gold: False
+pale purple can contain shiny gold: False
+posh gray can contain shiny gold: True
+dull turquoise can contain shiny gold: True
+shiny plum can contain shiny gold: False
+posh purple can contain shiny gold: True
+muted teal can contain shiny gold: False
+shiny silver can contain shiny gold: True
+bright green can contain shiny gold: False
+clear orange can contain shiny gold: False
+muted coral can contain shiny gold: False
+posh lime can contain shiny gold: False
+clear maroon can contain shiny gold: False
+dim red can contain shiny gold: True
+faded red can contain shiny gold: True
+bright maroon can contain shiny gold: True
+muted gold can contain shiny gold: True
+dotted lavender can contain shiny gold: False
+shiny magenta can contain shiny gold: False
+clear salmon can contain shiny gold: True
+dim lavender can contain shiny gold: False
+vibrant aqua can contain shiny gold: True
+dim maroon can contain shiny gold: True
+striped tan can contain shiny gold: True
+drab lime can contain shiny gold: False
+mirrored purple can contain shiny gold: True
+dark violet can contain shiny gold: False
+wavy beige can contain shiny gold: False
+dim gold can contain shiny gold: True
+dotted magenta can contain shiny gold: True
+plaid coral can contain shiny gold: True
+wavy silver can contain shiny gold: True
+mirrored olive can contain shiny gold: False
+muted violet can contain shiny gold: False
+bright red can contain shiny gold: True
+dotted fuchsia can contain shiny gold: True
+mirrored cyan can contain shiny gold: True
+plaid beige can contain shiny gold: True
+pale magenta can contain shiny gold: True
+dim olive can contain shiny gold: True
+wavy fuchsia can contain shiny gold: False
+drab olive can contain shiny gold: False
+dull crimson can contain shiny gold: False
+faded beige can contain shiny gold: False
+posh black can contain shiny gold: False
+shiny turquoise can contain shiny gold: False
+bright beige can contain shiny gold: False
+dim silver can contain shiny gold: False
+muted bronze can contain shiny gold: True
+clear black can contain shiny gold: False
+posh violet can contain shiny gold: False
+light gold can contain shiny gold: False
+faded magenta can contain shiny gold: False
+dotted crimson can contain shiny gold: False
+striped coral can contain shiny gold: False
+drab brown can contain shiny gold: True
+clear tomato can contain shiny gold: True
+pale maroon can contain shiny gold: False
+dark silver can contain shiny gold: False
+striped purple can contain shiny gold: False
+wavy violet can contain shiny gold: True
+clear coral can contain shiny gold: False
+striped brown can contain shiny gold: False
+pale brown can contain shiny gold: True
+dotted red can contain shiny gold: True
+faded plum can contain shiny gold: False
+posh olive can contain shiny gold: True
+faded violet can contain shiny gold: False
+light silver can contain shiny gold: False
+striped aqua can contain shiny gold: True
+vibrant fuchsia can contain shiny gold: True
+shiny white can contain shiny gold: False
+muted green can contain shiny gold: True
+dim tan can contain shiny gold: True
+faded olive can contain shiny gold: True
+drab cyan can contain shiny gold: True
+muted magenta can contain shiny gold: True
+wavy maroon can contain shiny gold: True
+faded green can contain shiny gold: True
+wavy purple can contain shiny gold: False
+vibrant black can contain shiny gold: False
+wavy white can contain shiny gold: True
+dark magenta can contain shiny gold: True
+dull tan can contain shiny gold: False
+pale lavender can contain shiny gold: True
+mirrored black can contain shiny gold: False
+posh silver can contain shiny gold: True
+plaid blue can contain shiny gold: True
+plaid purple can contain shiny gold: True
+striped orange can contain shiny gold: True
+pale chartreuse can contain shiny gold: False
+mirrored lavender can contain shiny gold: True
+bright blue can contain shiny gold: False
+dull teal can contain shiny gold: False
+mirrored indigo can contain shiny gold: False
+dotted coral can contain shiny gold: True
+light white can contain shiny gold: True
+faded yellow can contain shiny gold: True
+plaid black can contain shiny gold: True
+dim cyan can contain shiny gold: False
+plaid tomato can contain shiny gold: False
+bright yellow can contain shiny gold: False
+clear magenta can contain shiny gold: True
+vibrant olive can contain shiny gold: False
+dull orange can contain shiny gold: False
+drab tan can contain shiny gold: False
+dark black can contain shiny gold: True
+faded teal can contain shiny gold: False
+posh magenta can contain shiny gold: False
+dim indigo can contain shiny gold: False
+vibrant red can contain shiny gold: False
+mirrored tomato can contain shiny gold: False
+dark lime can contain shiny gold: True
+vibrant silver can contain shiny gold: False
+faded tan can contain shiny gold: True
+pale beige can contain shiny gold: False
+wavy teal can contain shiny gold: True
+bright turquoise can contain shiny gold: True
+striped chartreuse can contain shiny gold: True
+wavy yellow can contain shiny gold: True
+dull salmon can contain shiny gold: True
+shiny bronze can contain shiny gold: False
+dull red can contain shiny gold: False
+dotted green can contain shiny gold: True
+plaid fuchsia can contain shiny gold: True
+striped crimson can contain shiny gold: False
+mirrored teal can contain shiny gold: False
+plaid gray can contain shiny gold: False
+pale gray can contain shiny gold: False
+clear plum can contain shiny gold: True
+light salmon can contain shiny gold: False
+dark tan can contain shiny gold: False
+vibrant bronze can contain shiny gold: False
+light teal can contain shiny gold: True
+plaid plum can contain shiny gold: True
+dull silver can contain shiny gold: False
+mirrored beige can contain shiny gold: True
+pale aqua can contain shiny gold: True
+wavy orange can contain shiny gold: True
+dotted silver can contain shiny gold: True
+dotted orange can contain shiny gold: True
+vibrant turquoise can contain shiny gold: False
+clear cyan can contain shiny gold: True
+dotted tan can contain shiny gold: False
+mirrored brown can contain shiny gold: True
+bright bronze can contain shiny gold: False
+plaid lavender can contain shiny gold: True
+bright coral can contain shiny gold: False
+faded aqua can contain shiny gold: False
+posh yellow can contain shiny gold: True
+plaid red can contain shiny gold: True
+muted silver can contain shiny gold: False
+bright black can contain shiny gold: False
+dim white can contain shiny gold: False
+posh brown can contain shiny gold: True
+dotted plum can contain shiny gold: False
+plaid silver can contain shiny gold: False
+vibrant chartreuse can contain shiny gold: True
+drab red can contain shiny gold: True
+dull gold can contain shiny gold: True
+dull cyan can contain shiny gold: True
+drab lavender can contain shiny gold: False
+bright tan can contain shiny gold: True
+shiny indigo can contain shiny gold: False
+dark turquoise can contain shiny gold: False
+drab magenta can contain shiny gold: False
+vibrant coral can contain shiny gold: True
+clear yellow can contain shiny gold: True
+bright indigo can contain shiny gold: True
+plaid violet can contain shiny gold: False
+dim blue can contain shiny gold: False
+vibrant plum can contain shiny gold: False
+clear bronze can contain shiny gold: False
+striped green can contain shiny gold: True
+mirrored gold can contain shiny gold: True
+plaid lime can contain shiny gold: False
+posh salmon can contain shiny gold: False
+wavy coral can contain shiny gold: False
+clear teal can contain shiny gold: True
+mirrored aqua can contain shiny gold: False
+light green can contain shiny gold: True
+muted aqua can contain shiny gold: True
+posh maroon can contain shiny gold: True
+faded gray can contain shiny gold: False
+plaid orange can contain shiny gold: True
+striped indigo can contain shiny gold: False
+bright salmon can contain shiny gold: False
+wavy aqua can contain shiny gold: False
+plaid olive can contain shiny gold: False
+bright teal can contain shiny gold: False
+vibrant beige can contain shiny gold: True
+dull chartreuse can contain shiny gold: True
+dotted brown can contain shiny gold: False
+muted plum can contain shiny gold: True
+muted blue can contain shiny gold: True
+dull bronze can contain shiny gold: True
+shiny red can contain shiny gold: False
+shiny purple can contain shiny gold: False
+plaid tan can contain shiny gold: True
+drab orange can contain shiny gold: True
+faded gold can contain shiny gold: False
+light magenta can contain shiny gold: True
+light yellow can contain shiny gold: False
+mirrored maroon can contain shiny gold: True
+dark coral can contain shiny gold: False
+dark teal can contain shiny gold: False
+dark purple can contain shiny gold: False
+plaid gold can contain shiny gold: False
+dim coral can contain shiny gold: False
+vibrant salmon can contain shiny gold: True
+bright brown can contain shiny gold: False
+vibrant crimson can contain shiny gold: False
+posh crimson can contain shiny gold: True
+faded indigo can contain shiny gold: True
+wavy red can contain shiny gold: False
+faded lavender can contain shiny gold: False
+drab silver can contain shiny gold: False
+pale black can contain shiny gold: True
+posh tan can contain shiny gold: False
+drab aqua can contain shiny gold: False
+wavy plum can contain shiny gold: False
+shiny crimson can contain shiny gold: False
+shiny lime can contain shiny gold: False
+dark maroon can contain shiny gold: False
+faded blue can contain shiny gold: False
+clear turquoise can contain shiny gold: False
+striped yellow can contain shiny gold: True
+pale coral can contain shiny gold: False
+wavy black can contain shiny gold: False
+muted indigo can contain shiny gold: True
+dull aqua can contain shiny gold: False
+striped violet can contain shiny gold: True
+bright crimson can contain shiny gold: False
+wavy tomato can contain shiny gold: False
+pale fuchsia can contain shiny gold: False
+mirrored gray can contain shiny gold: True
+mirrored bronze can contain shiny gold: False
+light crimson can contain shiny gold: False
+light lime can contain shiny gold: True
+clear silver can contain shiny gold: True
+striped magenta can contain shiny gold: False
+dark gray can contain shiny gold: False
+pale crimson can contain shiny gold: False
+dotted cyan can contain shiny gold: False
+clear violet can contain shiny gold: False
+drab white can contain shiny gold: False
+plaid yellow can contain shiny gold: True
+clear gray can contain shiny gold: True
+pale cyan can contain shiny gold: True
+pale turquoise can contain shiny gold: False
+shiny aqua can contain shiny gold: True
+dull tomato can contain shiny gold: False
+light orange can contain shiny gold: False
+dull white can contain shiny gold: False
+drab yellow can contain shiny gold: True
+bright gray can contain shiny gold: False
+dim crimson can contain shiny gold: False
+dim fuchsia can contain shiny gold: False
+dim bronze can contain shiny gold: False
+muted tan can contain shiny gold: False
+dark gold can contain shiny gold: False
+light tomato can contain shiny gold: True
+shiny fuchsia can contain shiny gold: True
+striped gold can contain shiny gold: False
+light lavender can contain shiny gold: True
+shiny tomato can contain shiny gold: False
+dotted indigo can contain shiny gold: False
+shiny blue can contain shiny gold: False
+vibrant blue can contain shiny gold: False
+pale blue can contain shiny gold: True
+dull magenta can contain shiny gold: True
+drab blue can contain shiny gold: False
+light bronze can contain shiny gold: True
+muted beige can contain shiny gold: True
+bright plum can contain shiny gold: False
+plaid salmon can contain shiny gold: True
+dim lime can contain shiny gold: True
+dark aqua can contain shiny gold: False
+light coral can contain shiny gold: True
+clear purple can contain shiny gold: False
+striped plum can contain shiny gold: False
+mirrored yellow can contain shiny gold: False
+shiny olive can contain shiny gold: False
+pale gold can contain shiny gold: True
+dotted violet can contain shiny gold: False
+mirrored blue can contain shiny gold: True
+plaid green can contain shiny gold: False
+wavy cyan can contain shiny gold: True
+dull beige can contain shiny gold: True
+dark indigo can contain shiny gold: False
+striped black can contain shiny gold: True
+plaid indigo can contain shiny gold: False
+shiny maroon can contain shiny gold: False
+dotted lime can contain shiny gold: False
+posh beige can contain shiny gold: True
+bright cyan can contain shiny gold: True
+plaid white can contain shiny gold: True
+drab maroon can contain shiny gold: False
+plaid bronze can contain shiny gold: False
+dim magenta can contain shiny gold: False
+clear blue can contain shiny gold: False
+dotted salmon can contain shiny gold: False
+posh orange can contain shiny gold: True
+mirrored red can contain shiny gold: True
+vibrant green can contain shiny gold: False
+pale violet can contain shiny gold: False
+clear brown can contain shiny gold: True
+vibrant violet can contain shiny gold: True
+pale green can contain shiny gold: True
+light maroon can contain shiny gold: True
+wavy salmon can contain shiny gold: False
+dotted yellow can contain shiny gold: False
+drab crimson can contain shiny gold: False
+vibrant tomato can contain shiny gold: True
+wavy olive can contain shiny gold: False
+wavy lime can contain shiny gold: False
+striped lime can contain shiny gold: True
+wavy crimson can contain shiny gold: True
+wavy indigo can contain shiny gold: False
+posh fuchsia can contain shiny gold: False
+striped maroon can contain shiny gold: True
+dull gray can contain shiny gold: False
+dotted bronze can contain shiny gold: False
+muted olive can contain shiny gold: True
+dark plum can contain shiny gold: False
+drab tomato can contain shiny gold: True
+plaid teal can contain shiny gold: False
+drab teal can contain shiny gold: True
+wavy brown can contain shiny gold: True
+mirrored violet can contain shiny gold: False
+faded silver can contain shiny gold: False
+dark bronze can contain shiny gold: True
+dim tomato can contain shiny gold: True
+muted tomato can contain shiny gold: True
+bright orange can contain shiny gold: True
+dotted tomato can contain shiny gold: False
+bright white can contain shiny gold: False
+dotted white can contain shiny gold: True
+vibrant teal can contain shiny gold: False
+light beige can contain shiny gold: True
+drab black can contain shiny gold: False
+drab salmon can contain shiny gold: False
+bright silver can contain shiny gold: False
+pale lime can contain shiny gold: False
+dark red can contain shiny gold: False
+dull coral can contain shiny gold: True
+vibrant white can contain shiny gold: False
+posh red can contain shiny gold: False
+muted fuchsia can contain shiny gold: False
+bright aqua can contain shiny gold: True
+vibrant magenta can contain shiny gold: True
+light indigo can contain shiny gold: True
+mirrored tan can contain shiny gold: False
+dim teal can contain shiny gold: True
+shiny black can contain shiny gold: True
+drab plum can contain shiny gold: False
+muted turquoise can contain shiny gold: True
+muted brown can contain shiny gold: True
+dull olive can contain shiny gold: True
+drab coral can contain shiny gold: True
+mirrored white can contain shiny gold: True
+shiny gold can contain shiny gold: False
+vibrant tan can contain shiny gold: True
+dark olive can contain shiny gold: False
+light chartreuse can contain shiny gold: False
+mirrored salmon can contain shiny gold: True
+mirrored crimson can contain shiny gold: False
+wavy gray can contain shiny gold: True
+mirrored green can contain shiny gold: False
+vibrant gray can contain shiny gold: False
+dull black can contain shiny gold: False
+dim plum can contain shiny gold: False
+posh aqua can contain shiny gold: False
+muted yellow can contain shiny gold: False
+dark crimson can contain shiny gold: False
+bright gold can contain shiny gold: True
+dim purple can contain shiny gold: True
+light gray can contain shiny gold: False
+bright chartreuse can contain shiny gold: True
+shiny tan can contain shiny gold: True
+shiny coral can contain shiny gold: False
+dull indigo can contain shiny gold: False
+dim brown can contain shiny gold: False
+bright fuchsia can contain shiny gold: True
+light brown can contain shiny gold: False
+posh plum can contain shiny gold: False
+drab bronze can contain shiny gold: True
+dim beige can contain shiny gold: False
+dark lavender can contain shiny gold: True
+light black can contain shiny gold: False
+clear white can contain shiny gold: True
+pale white can contain shiny gold: False
+vibrant cyan can contain shiny gold: True
+bright lime can contain shiny gold: False
+bright olive can contain shiny gold: True
+vibrant lime can contain shiny gold: False
+faded turquoise can contain shiny gold: False
+muted red can contain shiny gold: False
+vibrant indigo can contain shiny gold: False
+striped olive can contain shiny gold: True
+posh blue can contain shiny gold: False
+striped gray can contain shiny gold: True
+posh lavender can contain shiny gold: True
+dim turquoise can contain shiny gold: False
+light purple can contain shiny gold: False
+vibrant yellow can contain shiny gold: True
+pale silver can contain shiny gold: True
+posh bronze can contain shiny gold: True
+striped white can contain shiny gold: True
+striped cyan can contain shiny gold: True
+shiny yellow can contain shiny gold: True
+muted white can contain shiny gold: False
+bright violet can contain shiny gold: True
+light red can contain shiny gold: True
+drab gray can contain shiny gold: True
+pale tan can contain shiny gold: True
+faded crimson can contain shiny gold: False
+shiny orange can contain shiny gold: False
+clear fuchsia can contain shiny gold: False
+shiny salmon can contain shiny gold: True
+dotted black can contain shiny gold: True
+drab turquoise can contain shiny gold: False
+shiny chartreuse can contain shiny gold: False
+wavy magenta can contain shiny gold: True
+wavy tan can contain shiny gold: True
+dotted maroon can contain shiny gold: True
+striped silver can contain shiny gold: False
+dotted blue can contain shiny gold: False
+striped bronze can contain shiny gold: False
+dotted chartreuse can contain shiny gold: False
+muted orange can contain shiny gold: False
+light fuchsia can contain shiny gold: True
+wavy green can contain shiny gold: False
+muted maroon can contain shiny gold: False
+drab beige can contain shiny gold: True
+light turquoise can contain shiny gold: True
+striped beige can contain shiny gold: False
+drab violet can contain shiny gold: True
+clear red can contain shiny gold: True
+clear green can contain shiny gold: True
+posh indigo can contain shiny gold: False
+dotted olive can contain shiny gold: False
+striped fuchsia can contain shiny gold: False
+dark fuchsia can contain shiny gold: True
+faded cyan can contain shiny gold: True
+drab chartreuse can contain shiny gold: True
+mirrored silver can contain shiny gold: False
+faded black can contain shiny gold: False
+muted lavender can contain shiny gold: True
+shiny cyan can contain shiny gold: False
+dark white can contain shiny gold: False
+plaid aqua can contain shiny gold: False
+muted purple can contain shiny gold: False
+clear chartreuse can contain shiny gold: True
+clear beige can contain shiny gold: True
+posh white can contain shiny gold: True
+posh cyan can contain shiny gold: True
+mirrored fuchsia can contain shiny gold: False
+striped teal can contain shiny gold: True
+dull maroon can contain shiny gold: True
+shiny brown can contain shiny gold: True
+vibrant gold can contain shiny gold: False
+wavy gold can contain shiny gold: True
+muted crimson can contain shiny gold: True
+mirrored coral can contain shiny gold: False
+dark green can contain shiny gold: False
+dotted beige can contain shiny gold: True
+plaid chartreuse can contain shiny gold: True
+dotted purple can contain shiny gold: True
+bright tomato can contain shiny gold: True
+plaid crimson can contain shiny gold: True
+muted gray can contain shiny gold: False
+vibrant brown can contain shiny gold: False
+clear aqua can contain shiny gold: False
+posh tomato can contain shiny gold: False
+dim chartreuse can contain shiny gold: True
+striped salmon can contain shiny gold: True
+faded orange can contain shiny gold: False
+shiny lavender can contain shiny gold: True
+wavy turquoise can contain shiny gold: True
+pale plum can contain shiny gold: False
+faded maroon can contain shiny gold: True
+dark yellow can contain shiny gold: False
+bright purple can contain shiny gold: True
+vibrant maroon can contain shiny gold: True
+
+Finished resolving containment paths.
+Found paths: 274
+
