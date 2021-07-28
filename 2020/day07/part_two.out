@@ -1,0 +1,3280 @@
+Read 595 lines from day07.in.
+Starting processing and cleaning input.
+  Removing line 595: Empty.
+Left 594 lines intact.
+
+wavy bronze bags contain 5 striped gold bags, 5 light tomato bags.
+  5x striped gold
+  5x light tomato
+-> Parsed bag: {'name': 'wavy bronze', 'tree': {'striped gold': 5, 'light tomato': 5}}
+drab indigo bags contain 4 pale bronze bags, 2 mirrored lavender bags.
+  4x pale bronze
+  2x mirrored lavender
+-> Parsed bag: {'name': 'drab indigo', 'tree': {'pale bronze': 4, 'mirrored lavender': 2}}
+pale olive bags contain 3 faded bronze bags, 5 wavy orange bags, 3 clear black bags, 1 striped purple bag.
+  3x faded bronze
+  5x wavy orange
+  3x clear black
+  1x striped purple
+-> Parsed bag: {'name': 'pale olive', 'tree': {'faded bronze': 3, 'wavy orange': 5, 'clear black': 3, 'striped purple': 1}}
+faded white bags contain 5 vibrant violet bags, 4 light teal bags.
+  5x vibrant violet
+  4x light teal
+-> Parsed bag: {'name': 'faded white', 'tree': {'vibrant violet': 5, 'light teal': 4}}
+mirrored magenta bags contain 2 muted cyan bags, 3 vibrant crimson bags.
+  2x muted cyan
+  3x vibrant crimson
+-> Parsed bag: {'name': 'mirrored magenta', 'tree': {'muted cyan': 2, 'vibrant crimson': 3}}
+dull purple bags contain 1 striped fuchsia bag.
+  1x striped fuchsia
+-> Parsed bag: {'name': 'dull purple', 'tree': {'striped fuchsia': 1}}
+dull lime bags contain 2 posh green bags, 2 muted gold bags, 1 light bronze bag, 2 pale teal bags.
+  2x posh green
+  2x muted gold
+  1x light bronze
+  2x pale teal
+-> Parsed bag: {'name': 'dull lime', 'tree': {'posh green': 2, 'muted gold': 2, 'light bronze': 1, 'pale teal': 2}}
+pale indigo bags contain 5 drab blue bags, 3 posh fuchsia bags.
+  5x drab blue
+  3x posh fuchsia
+-> Parsed bag: {'name': 'pale indigo', 'tree': {'drab blue': 5, 'posh fuchsia': 3}}
+dull lavender bags contain 5 plaid orange bags.
+  5x plaid orange
+-> Parsed bag: {'name': 'dull lavender', 'tree': {'plaid orange': 5}}
+pale teal bags contain 2 dark silver bags, 1 faded silver bag, 1 dotted brown bag.
+  2x dark silver
+  1x faded silver
+  1x dotted brown
+-> Parsed bag: {'name': 'pale teal', 'tree': {'dark silver': 2, 'faded silver': 1, 'dotted brown': 1}}
+clear lime bags contain 5 bright crimson bags, 2 dim chartreuse bags.
+  5x bright crimson
+  2x dim chartreuse
+-> Parsed bag: {'name': 'clear lime', 'tree': {'bright crimson': 5, 'dim chartreuse': 2}}
+faded coral bags contain 5 muted silver bags, 5 plaid gold bags.
+  5x muted silver
+  5x plaid gold
+-> Parsed bag: {'name': 'faded coral', 'tree': {'muted silver': 5, 'plaid gold': 5}}
+dull blue bags contain 4 mirrored turquoise bags.
+  4x mirrored turquoise
+-> Parsed bag: {'name': 'dull blue', 'tree': {'mirrored turquoise': 4}}
+muted salmon bags contain 2 dim chartreuse bags, 2 mirrored tan bags, 2 plaid tomato bags, 3 clear cyan bags.
+  2x dim chartreuse
+  2x mirrored tan
+  2x plaid tomato
+  3x clear cyan
+-> Parsed bag: {'name': 'muted salmon', 'tree': {'dim chartreuse': 2, 'mirrored tan': 2, 'plaid tomato': 2, 'clear cyan': 3}}
+dim orange bags contain 5 light purple bags.
+  5x light purple
+-> Parsed bag: {'name': 'dim orange', 'tree': {'light purple': 5}}
+posh chartreuse bags contain 5 pale red bags, 2 pale gold bags, 3 dotted brown bags.
+  5x pale red
+  2x pale gold
+  3x dotted brown
+-> Parsed bag: {'name': 'posh chartreuse', 'tree': {'pale red': 5, 'pale gold': 2, 'dotted brown': 3}}
+pale red bags contain 4 mirrored green bags.
+  4x mirrored green
+-> Parsed bag: {'name': 'pale red', 'tree': {'mirrored green': 4}}
+dotted turquoise bags contain 2 posh maroon bags, 1 striped silver bag, 2 pale blue bags, 4 drab lime bags.
+  2x posh maroon
+  1x striped silver
+  2x pale blue
+  4x drab lime
+-> Parsed bag: {'name': 'dotted turquoise', 'tree': {'posh maroon': 2, 'striped silver': 1, 'pale blue': 2, 'drab lime': 4}}
+light blue bags contain 4 muted fuchsia bags.
+  4x muted fuchsia
+-> Parsed bag: {'name': 'light blue', 'tree': {'muted fuchsia': 4}}
+shiny teal bags contain 5 faded brown bags.
+  5x faded brown
+-> Parsed bag: {'name': 'shiny teal', 'tree': {'faded brown': 5}}
+drab gold bags contain 1 dull purple bag, 2 wavy magenta bags, 1 faded red bag, 1 wavy silver bag.
+  1x dull purple
+  2x wavy magenta
+  1x faded red
+  1x wavy silver
+-> Parsed bag: {'name': 'drab gold', 'tree': {'dull purple': 1, 'wavy magenta': 2, 'faded red': 1, 'wavy silver': 1}}
+plaid maroon bags contain 3 dark gold bags, 2 dim silver bags, 1 vibrant plum bag.
+  3x dark gold
+  2x dim silver
+  1x vibrant plum
+-> Parsed bag: {'name': 'plaid maroon', 'tree': {'dark gold': 3, 'dim silver': 2, 'vibrant plum': 1}}
+shiny beige bags contain 3 mirrored bronze bags.
+  3x mirrored bronze
+-> Parsed bag: {'name': 'shiny beige', 'tree': {'mirrored bronze': 3}}
+wavy chartreuse bags contain 1 muted bronze bag.
+  1x muted bronze
+-> Parsed bag: {'name': 'wavy chartreuse', 'tree': {'muted bronze': 1}}
+posh teal bags contain 5 dark cyan bags, 5 posh green bags.
+  5x dark cyan
+  5x posh green
+-> Parsed bag: {'name': 'posh teal', 'tree': {'dark cyan': 5, 'posh green': 5}}
+faded chartreuse bags contain 3 muted yellow bags.
+  3x muted yellow
+-> Parsed bag: {'name': 'faded chartreuse', 'tree': {'muted yellow': 3}}
+clear crimson bags contain 2 striped gold bags, 4 bright crimson bags, 1 dull red bag.
+  2x striped gold
+  4x bright crimson
+  1x dull red
+-> Parsed bag: {'name': 'clear crimson', 'tree': {'striped gold': 2, 'bright crimson': 4, 'dull red': 1}}
+plaid turquoise bags contain 3 wavy crimson bags, 5 light gold bags, 2 mirrored olive bags, 1 posh white bag.
+  3x wavy crimson
+  5x light gold
+  2x mirrored olive
+  1x posh white
+-> Parsed bag: {'name': 'plaid turquoise', 'tree': {'wavy crimson': 3, 'light gold': 5, 'mirrored olive': 2, 'posh white': 1}}
+dotted gray bags contain 4 posh teal bags, 5 dotted lime bags, 4 clear fuchsia bags.
+  4x posh teal
+  5x dotted lime
+  4x clear fuchsia
+-> Parsed bag: {'name': 'dotted gray', 'tree': {'posh teal': 4, 'dotted lime': 5, 'clear fuchsia': 4}}
+drab purple bags contain 2 shiny blue bags.
+  2x shiny blue
+-> Parsed bag: {'name': 'drab purple', 'tree': {'shiny blue': 2}}
+dim black bags contain 3 vibrant white bags.
+  3x vibrant white
+-> Parsed bag: {'name': 'dim black', 'tree': {'vibrant white': 3}}
+muted cyan bags contain 2 light bronze bags.
+  2x light bronze
+-> Parsed bag: {'name': 'muted cyan', 'tree': {'light bronze': 2}}
+dim aqua bags contain 5 striped brown bags, 3 bright white bags, 1 dark purple bag, 3 wavy aqua bags.
+  5x striped brown
+  3x bright white
+  1x dark purple
+  3x wavy aqua
+-> Parsed bag: {'name': 'dim aqua', 'tree': {'striped brown': 5, 'bright white': 3, 'dark purple': 1, 'wavy aqua': 3}}
+light violet bags contain 4 wavy lavender bags.
+  4x wavy lavender
+-> Parsed bag: {'name': 'light violet', 'tree': {'wavy lavender': 4}}
+light tan bags contain 4 dim cyan bags.
+  4x dim cyan
+-> Parsed bag: {'name': 'light tan', 'tree': {'dim cyan': 4}}
+muted chartreuse bags contain 4 drab blue bags, 4 dim yellow bags, 4 vibrant red bags, 2 faded violet bags.
+  4x drab blue
+  4x dim yellow
+  4x vibrant red
+  2x faded violet
+-> Parsed bag: {'name': 'muted chartreuse', 'tree': {'drab blue': 4, 'dim yellow': 4, 'vibrant red': 4, 'faded violet': 2}}
+faded purple bags contain 4 clear salmon bags, 4 pale white bags, 3 dim indigo bags, 2 bright fuchsia bags.
+  4x clear salmon
+  4x pale white
+  3x dim indigo
+  2x bright fuchsia
+-> Parsed bag: {'name': 'faded purple', 'tree': {'clear salmon': 4, 'pale white': 4, 'dim indigo': 3, 'bright fuchsia': 2}}
+shiny violet bags contain 1 dim aqua bag, 3 shiny coral bags.
+  1x dim aqua
+  3x shiny coral
+-> Parsed bag: {'name': 'shiny violet', 'tree': {'dim aqua': 1, 'shiny coral': 3}}
+dim green bags contain 1 pale cyan bag, 2 faded purple bags, 1 light gold bag, 5 shiny fuchsia bags.
+  1x pale cyan
+  2x faded purple
+  1x light gold
+  5x shiny fuchsia
+-> Parsed bag: {'name': 'dim green', 'tree': {'pale cyan': 1, 'faded purple': 2, 'light gold': 1, 'shiny fuchsia': 5}}
+dotted teal bags contain 4 muted lavender bags.
+  4x muted lavender
+-> Parsed bag: {'name': 'dotted teal', 'tree': {'muted lavender': 4}}
+drab green bags contain 3 pale aqua bags, 5 striped chartreuse bags, 5 mirrored gray bags, 2 mirrored salmon bags.
+  3x pale aqua
+  5x striped chartreuse
+  5x mirrored gray
+  2x mirrored salmon
+-> Parsed bag: {'name': 'drab green', 'tree': {'pale aqua': 3, 'striped chartreuse': 5, 'mirrored gray': 5, 'mirrored salmon': 2}}
+pale orange bags contain 3 bright teal bags, 2 dark green bags.
+  3x bright teal
+  2x dark green
+-> Parsed bag: {'name': 'pale orange', 'tree': {'bright teal': 3, 'dark green': 2}}
+wavy lavender bags contain 3 wavy aqua bags, 5 dull purple bags.
+  3x wavy aqua
+  5x dull purple
+-> Parsed bag: {'name': 'wavy lavender', 'tree': {'wavy aqua': 3, 'dull purple': 5}}
+shiny gray bags contain 1 light blue bag, 3 drab beige bags, 1 vibrant blue bag.
+  1x light blue
+  3x drab beige
+  1x vibrant blue
+-> Parsed bag: {'name': 'shiny gray', 'tree': {'light blue': 1, 'drab beige': 3, 'vibrant blue': 1}}
+dull yellow bags contain 5 dark teal bags, 1 dull teal bag.
+  5x dark teal
+  1x dull teal
+-> Parsed bag: {'name': 'dull yellow', 'tree': {'dark teal': 5, 'dull teal': 1}}
+muted lime bags contain 3 shiny aqua bags.
+  3x shiny aqua
+-> Parsed bag: {'name': 'muted lime', 'tree': {'shiny aqua': 3}}
+pale yellow bags contain 3 dull silver bags, 1 shiny green bag, 5 muted silver bags.
+  3x dull silver
+  1x shiny green
+  5x muted silver
+-> Parsed bag: {'name': 'pale yellow', 'tree': {'dull silver': 3, 'shiny green': 1, 'muted silver': 5}}
+dark salmon bags contain 3 mirrored fuchsia bags, 1 light blue bag, 4 mirrored green bags.
+  3x mirrored fuchsia
+  1x light blue
+  4x mirrored green
+-> Parsed bag: {'name': 'dark salmon', 'tree': {'mirrored fuchsia': 3, 'light blue': 1, 'mirrored green': 4}}
+faded fuchsia bags contain 5 dotted lavender bags, 4 clear bronze bags, 3 muted white bags.
+  5x dotted lavender
+  4x clear bronze
+  3x muted white
+-> Parsed bag: {'name': 'faded fuchsia', 'tree': {'dotted lavender': 5, 'clear bronze': 4, 'muted white': 3}}
+dark blue bags contain 3 mirrored orange bags.
+  3x mirrored orange
+-> Parsed bag: {'name': 'dark blue', 'tree': {'mirrored orange': 3}}
+striped red bags contain 3 dotted lime bags, 4 mirrored orange bags, 2 dim yellow bags, 1 dull silver bag.
+  3x dotted lime
+  4x mirrored orange
+  2x dim yellow
+  1x dull silver
+-> Parsed bag: {'name': 'striped red', 'tree': {'dotted lime': 3, 'mirrored orange': 4, 'dim yellow': 2, 'dull silver': 1}}
+faded lime bags contain 2 faded beige bags, 5 dark coral bags, 5 dark maroon bags.
+  2x faded beige
+  5x dark coral
+  5x dark maroon
+-> Parsed bag: {'name': 'faded lime', 'tree': {'faded beige': 2, 'dark coral': 5, 'dark maroon': 5}}
+dim salmon bags contain 5 dark indigo bags, 4 dull aqua bags.
+  5x dark indigo
+  4x dull aqua
+-> Parsed bag: {'name': 'dim salmon', 'tree': {'dark indigo': 5, 'dull aqua': 4}}
+light plum bags contain 2 dotted tan bags, 5 mirrored plum bags.
+  2x dotted tan
+  5x mirrored plum
+-> Parsed bag: {'name': 'light plum', 'tree': {'dotted tan': 2, 'mirrored plum': 5}}
+pale tomato bags contain 1 posh violet bag.
+  1x posh violet
+-> Parsed bag: {'name': 'pale tomato', 'tree': {'posh violet': 1}}
+light olive bags contain 1 clear blue bag, 5 clear purple bags.
+  1x clear blue
+  5x clear purple
+-> Parsed bag: {'name': 'light olive', 'tree': {'clear blue': 1, 'clear purple': 5}}
+faded bronze bags contain 1 mirrored lime bag.
+  1x mirrored lime
+-> Parsed bag: {'name': 'faded bronze', 'tree': {'mirrored lime': 1}}
+mirrored orange bags contain 3 shiny green bags, 2 vibrant white bags, 1 dull black bag.
+  3x shiny green
+  2x vibrant white
+  1x dull black
+-> Parsed bag: {'name': 'mirrored orange', 'tree': {'shiny green': 3, 'vibrant white': 2, 'dull black': 1}}
+vibrant purple bags contain 2 dull gray bags, 2 dark magenta bags, 4 wavy green bags.
+  2x dull gray
+  2x dark magenta
+  4x wavy green
+-> Parsed bag: {'name': 'vibrant purple', 'tree': {'dull gray': 2, 'dark magenta': 2, 'wavy green': 4}}
+dull green bags contain 5 shiny tomato bags.
+  5x shiny tomato
+-> Parsed bag: {'name': 'dull green', 'tree': {'shiny tomato': 5}}
+plaid magenta bags contain 4 dim plum bags, 2 dull tomato bags, 2 drab violet bags.
+  4x dim plum
+  2x dull tomato
+  2x drab violet
+-> Parsed bag: {'name': 'plaid magenta', 'tree': {'dim plum': 4, 'dull tomato': 2, 'drab violet': 2}}
+bright magenta bags contain 5 dim plum bags, 3 mirrored teal bags, 5 dim red bags, 2 plaid maroon bags.
+  5x dim plum
+  3x mirrored teal
+  5x dim red
+  2x plaid maroon
+-> Parsed bag: {'name': 'bright magenta', 'tree': {'dim plum': 5, 'mirrored teal': 3, 'dim red': 5, 'plaid maroon': 2}}
+dark beige bags contain 4 shiny aqua bags.
+  4x shiny aqua
+-> Parsed bag: {'name': 'dark beige', 'tree': {'shiny aqua': 4}}
+dark orange bags contain 1 dark violet bag, 4 mirrored green bags.
+  1x dark violet
+  4x mirrored green
+-> Parsed bag: {'name': 'dark orange', 'tree': {'dark violet': 1, 'mirrored green': 4}}
+dim violet bags contain 5 shiny yellow bags, 1 dark lime bag, 2 vibrant coral bags, 3 mirrored turquoise bags.
+  5x shiny yellow
+  1x dark lime
+  2x vibrant coral
+  3x mirrored turquoise
+-> Parsed bag: {'name': 'dim violet', 'tree': {'shiny yellow': 5, 'dark lime': 1, 'vibrant coral': 2, 'mirrored turquoise': 3}}
+light cyan bags contain 2 mirrored gold bags.
+  2x mirrored gold
+-> Parsed bag: {'name': 'light cyan', 'tree': {'mirrored gold': 2}}
+striped turquoise bags contain 3 mirrored aqua bags, 3 faded violet bags, 1 plaid maroon bag.
+  3x mirrored aqua
+  3x faded violet
+  1x plaid maroon
+-> Parsed bag: {'name': 'striped turquoise', 'tree': {'mirrored aqua': 3, 'faded violet': 3, 'plaid maroon': 1}}
+dull plum bags contain 4 posh gold bags, 3 light salmon bags, 4 dull silver bags, 1 dark salmon bag.
+  4x posh gold
+  3x light salmon
+  4x dull silver
+  1x dark salmon
+-> Parsed bag: {'name': 'dull plum', 'tree': {'posh gold': 4, 'light salmon': 3, 'dull silver': 4, 'dark salmon': 1}}
+posh green bags contain 3 clear blue bags, 3 dull silver bags, 2 drab turquoise bags, 2 light silver bags.
+  3x clear blue
+  3x dull silver
+  2x drab turquoise
+  2x light silver
+-> Parsed bag: {'name': 'posh green', 'tree': {'clear blue': 3, 'dull silver': 3, 'drab turquoise': 2, 'light silver': 2}}
+faded salmon bags contain 2 faded black bags.
+  2x faded black
+-> Parsed bag: {'name': 'faded salmon', 'tree': {'faded black': 2}}
+dull violet bags contain 2 plaid lavender bags, 4 plaid crimson bags, 1 bright crimson bag, 4 striped bronze bags.
+  2x plaid lavender
+  4x plaid crimson
+  1x bright crimson
+  4x striped bronze
+-> Parsed bag: {'name': 'dull violet', 'tree': {'plaid lavender': 2, 'plaid crimson': 4, 'bright crimson': 1, 'striped bronze': 4}}
+posh coral bags contain 4 plaid gold bags.
+  4x plaid gold
+-> Parsed bag: {'name': 'posh coral', 'tree': {'plaid gold': 4}}
+shiny green bags contain no other bags.
+-> Parsed bag: {'name': 'shiny green', 'tree': {}}
+mirrored turquoise bags contain 3 vibrant crimson bags, 2 faded turquoise bags, 4 muted aqua bags, 4 drab lavender bags.
+  3x vibrant crimson
+  2x faded turquoise
+  4x muted aqua
+  4x drab lavender
+-> Parsed bag: {'name': 'mirrored turquoise', 'tree': {'vibrant crimson': 3, 'faded turquoise': 2, 'muted aqua': 4, 'drab lavender': 4}}
+dim yellow bags contain 1 dark tomato bag, 4 mirrored orange bags, 1 bright blue bag, 1 wavy red bag.
+  1x dark tomato
+  4x mirrored orange
+  1x bright blue
+  1x wavy red
+-> Parsed bag: {'name': 'dim yellow', 'tree': {'dark tomato': 1, 'mirrored orange': 4, 'bright blue': 1, 'wavy red': 1}}
+vibrant orange bags contain 1 drab turquoise bag.
+  1x drab turquoise
+-> Parsed bag: {'name': 'vibrant orange', 'tree': {'drab turquoise': 1}}
+muted black bags contain 3 dotted purple bags.
+  3x dotted purple
+-> Parsed bag: {'name': 'muted black', 'tree': {'dotted purple': 3}}
+faded brown bags contain 2 vibrant white bags, 1 dim silver bag.
+  2x vibrant white
+  1x dim silver
+-> Parsed bag: {'name': 'faded brown', 'tree': {'vibrant white': 2, 'dim silver': 1}}
+posh gold bags contain 5 bright green bags.
+  5x bright green
+-> Parsed bag: {'name': 'posh gold', 'tree': {'bright green': 5}}
+pale salmon bags contain 3 faded gray bags, 2 posh tan bags, 5 pale cyan bags.
+  3x faded gray
+  2x posh tan
+  5x pale cyan
+-> Parsed bag: {'name': 'pale salmon', 'tree': {'faded gray': 3, 'posh tan': 2, 'pale cyan': 5}}
+dull brown bags contain 5 drab lime bags, 1 plaid lavender bag.
+  5x drab lime
+  1x plaid lavender
+-> Parsed bag: {'name': 'dull brown', 'tree': {'drab lime': 5, 'plaid lavender': 1}}
+dull fuchsia bags contain 4 dim silver bags, 1 shiny gold bag, 1 faded violet bag.
+  4x dim silver
+  1x shiny gold
+  1x faded violet
+-> Parsed bag: {'name': 'dull fuchsia', 'tree': {'dim silver': 4, 'shiny gold': 1, 'faded violet': 1}}
+mirrored chartreuse bags contain 3 dark gray bags, 3 muted teal bags, 2 mirrored black bags.
+  3x dark gray
+  3x muted teal
+  2x mirrored black
+-> Parsed bag: {'name': 'mirrored chartreuse', 'tree': {'dark gray': 3, 'muted teal': 3, 'mirrored black': 2}}
+dotted gold bags contain 1 mirrored red bag, 4 dim indigo bags, 4 faded cyan bags.
+  1x mirrored red
+  4x dim indigo
+  4x faded cyan
+-> Parsed bag: {'name': 'dotted gold', 'tree': {'mirrored red': 1, 'dim indigo': 4, 'faded cyan': 4}}
+striped tomato bags contain 5 dull gray bags, 4 light tomato bags.
+  5x dull gray
+  4x light tomato
+-> Parsed bag: {'name': 'striped tomato', 'tree': {'dull gray': 5, 'light tomato': 4}}
+clear lavender bags contain 1 clear coral bag, 4 wavy turquoise bags, 5 dark maroon bags.
+  1x clear coral
+  4x wavy turquoise
+  5x dark maroon
+-> Parsed bag: {'name': 'clear lavender', 'tree': {'clear coral': 1, 'wavy turquoise': 4, 'dark maroon': 5}}
+dark chartreuse bags contain 2 clear beige bags.
+  2x clear beige
+-> Parsed bag: {'name': 'dark chartreuse', 'tree': {'clear beige': 2}}
+dark brown bags contain 4 bright white bags, 4 faded turquoise bags, 1 clear black bag, 1 wavy lavender bag.
+  4x bright white
+  4x faded turquoise
+  1x clear black
+  1x wavy lavender
+-> Parsed bag: {'name': 'dark brown', 'tree': {'bright white': 4, 'faded turquoise': 4, 'clear black': 1, 'wavy lavender': 1}}
+clear gold bags contain 5 vibrant gray bags, 5 wavy white bags.
+  5x vibrant gray
+  5x wavy white
+-> Parsed bag: {'name': 'clear gold', 'tree': {'vibrant gray': 5, 'wavy white': 5}}
+plaid cyan bags contain 5 dotted salmon bags, 5 vibrant cyan bags, 3 dark black bags, 4 shiny aqua bags.
+  5x dotted salmon
+  5x vibrant cyan
+  3x dark black
+  4x shiny aqua
+-> Parsed bag: {'name': 'plaid cyan', 'tree': {'dotted salmon': 5, 'vibrant cyan': 5, 'dark black': 3, 'shiny aqua': 4}}
+dark tomato bags contain 2 muted white bags, 5 bright silver bags, 5 posh red bags, 3 dull black bags.
+  2x muted white
+  5x bright silver
+  5x posh red
+  3x dull black
+-> Parsed bag: {'name': 'dark tomato', 'tree': {'muted white': 2, 'bright silver': 5, 'posh red': 5, 'dull black': 3}}
+pale bronze bags contain 2 wavy coral bags, 2 drab blue bags, 5 clear purple bags, 4 vibrant blue bags.
+  2x wavy coral
+  2x drab blue
+  5x clear purple
+  4x vibrant blue
+-> Parsed bag: {'name': 'pale bronze', 'tree': {'wavy coral': 2, 'drab blue': 2, 'clear purple': 5, 'vibrant blue': 4}}
+clear tan bags contain 1 dull black bag, 2 drab fuchsia bags.
+  1x dull black
+  2x drab fuchsia
+-> Parsed bag: {'name': 'clear tan', 'tree': {'dull black': 1, 'drab fuchsia': 2}}
+dotted aqua bags contain 5 striped brown bags, 3 vibrant bronze bags, 1 wavy brown bag, 2 plaid red bags.
+  5x striped brown
+  3x vibrant bronze
+  1x wavy brown
+  2x plaid red
+-> Parsed bag: {'name': 'dotted aqua', 'tree': {'striped brown': 5, 'vibrant bronze': 3, 'wavy brown': 1, 'plaid red': 2}}
+wavy blue bags contain 1 dark aqua bag, 2 striped purple bags, 2 dark coral bags, 5 plaid red bags.
+  1x dark aqua
+  2x striped purple
+  2x dark coral
+  5x plaid red
+-> Parsed bag: {'name': 'wavy blue', 'tree': {'dark aqua': 1, 'striped purple': 2, 'dark coral': 2, 'plaid red': 5}}
+clear indigo bags contain 4 shiny gold bags, 4 bright blue bags.
+  4x shiny gold
+  4x bright blue
+-> Parsed bag: {'name': 'clear indigo', 'tree': {'shiny gold': 4, 'bright blue': 4}}
+mirrored plum bags contain 3 striped gold bags, 5 dim fuchsia bags.
+  3x striped gold
+  5x dim fuchsia
+-> Parsed bag: {'name': 'mirrored plum', 'tree': {'striped gold': 3, 'dim fuchsia': 5}}
+faded tomato bags contain 2 wavy green bags.
+  2x wavy green
+-> Parsed bag: {'name': 'faded tomato', 'tree': {'wavy green': 2}}
+dark cyan bags contain 1 dim yellow bag, 4 dark silver bags, 5 drab aqua bags.
+  1x dim yellow
+  4x dark silver
+  5x drab aqua
+-> Parsed bag: {'name': 'dark cyan', 'tree': {'dim yellow': 1, 'dark silver': 4, 'drab aqua': 5}}
+striped blue bags contain 4 dull magenta bags, 5 plaid maroon bags, 5 plaid crimson bags.
+  4x dull magenta
+  5x plaid maroon
+  5x plaid crimson
+-> Parsed bag: {'name': 'striped blue', 'tree': {'dull magenta': 4, 'plaid maroon': 5, 'plaid crimson': 5}}
+posh turquoise bags contain 2 pale silver bags.
+  2x pale silver
+-> Parsed bag: {'name': 'posh turquoise', 'tree': {'pale silver': 2}}
+vibrant lavender bags contain 3 faded plum bags, 1 dark tomato bag.
+  3x faded plum
+  1x dark tomato
+-> Parsed bag: {'name': 'vibrant lavender', 'tree': {'faded plum': 3, 'dark tomato': 1}}
+mirrored lime bags contain 1 faded lavender bag, 5 light silver bags.
+  1x faded lavender
+  5x light silver
+-> Parsed bag: {'name': 'mirrored lime', 'tree': {'faded lavender': 1, 'light silver': 5}}
+drab fuchsia bags contain 5 faded lavender bags, 2 muted silver bags, 3 pale indigo bags.
+  5x faded lavender
+  2x muted silver
+  3x pale indigo
+-> Parsed bag: {'name': 'drab fuchsia', 'tree': {'faded lavender': 5, 'muted silver': 2, 'pale indigo': 3}}
+clear olive bags contain 1 dotted green bag.
+  1x dotted green
+-> Parsed bag: {'name': 'clear olive', 'tree': {'dotted green': 1}}
+dim gray bags contain 4 pale tan bags.
+  4x pale tan
+-> Parsed bag: {'name': 'dim gray', 'tree': {'pale tan': 4}}
+light aqua bags contain 5 mirrored lime bags, 2 dim white bags, 1 dark gold bag, 5 faded black bags.
+  5x mirrored lime
+  2x dim white
+  1x dark gold
+  5x faded black
+-> Parsed bag: {'name': 'light aqua', 'tree': {'mirrored lime': 5, 'dim white': 2, 'dark gold': 1, 'faded black': 5}}
+striped lavender bags contain 4 faded green bags.
+  4x faded green
+-> Parsed bag: {'name': 'striped lavender', 'tree': {'faded green': 4}}
+plaid brown bags contain 4 vibrant turquoise bags, 1 posh violet bag.
+  4x vibrant turquoise
+  1x posh violet
+-> Parsed bag: {'name': 'plaid brown', 'tree': {'vibrant turquoise': 4, 'posh violet': 1}}
+bright lavender bags contain 1 faded black bag, 2 posh tomato bags.
+  1x faded black
+  2x posh tomato
+-> Parsed bag: {'name': 'bright lavender', 'tree': {'faded black': 1, 'posh tomato': 2}}
+pale purple bags contain 4 light silver bags, 4 plaid gold bags.
+  4x light silver
+  4x plaid gold
+-> Parsed bag: {'name': 'pale purple', 'tree': {'light silver': 4, 'plaid gold': 4}}
+posh gray bags contain 1 drab lime bag, 2 dark chartreuse bags, 3 dim fuchsia bags, 3 vibrant red bags.
+  1x drab lime
+  2x dark chartreuse
+  3x dim fuchsia
+  3x vibrant red
+-> Parsed bag: {'name': 'posh gray', 'tree': {'drab lime': 1, 'dark chartreuse': 2, 'dim fuchsia': 3, 'vibrant red': 3}}
+dull turquoise bags contain 5 vibrant fuchsia bags.
+  5x vibrant fuchsia
+-> Parsed bag: {'name': 'dull turquoise', 'tree': {'vibrant fuchsia': 5}}
+shiny plum bags contain 2 striped fuchsia bags, 5 dark red bags.
+  2x striped fuchsia
+  5x dark red
+-> Parsed bag: {'name': 'shiny plum', 'tree': {'striped fuchsia': 2, 'dark red': 5}}
+posh purple bags contain 4 vibrant gray bags, 1 plaid turquoise bag.
+  4x vibrant gray
+  1x plaid turquoise
+-> Parsed bag: {'name': 'posh purple', 'tree': {'vibrant gray': 4, 'plaid turquoise': 1}}
+muted teal bags contain 3 mirrored lime bags, 5 shiny tomato bags.
+  3x mirrored lime
+  5x shiny tomato
+-> Parsed bag: {'name': 'muted teal', 'tree': {'mirrored lime': 3, 'shiny tomato': 5}}
+shiny silver bags contain 2 clear cyan bags.
+  2x clear cyan
+-> Parsed bag: {'name': 'shiny silver', 'tree': {'clear cyan': 2}}
+bright green bags contain 4 plaid gray bags, 4 dull black bags, 1 clear blue bag, 1 dull red bag.
+  4x plaid gray
+  4x dull black
+  1x clear blue
+  1x dull red
+-> Parsed bag: {'name': 'bright green', 'tree': {'plaid gray': 4, 'dull black': 4, 'clear blue': 1, 'dull red': 1}}
+clear orange bags contain 5 bright plum bags, 2 shiny red bags, 2 vibrant lavender bags.
+  5x bright plum
+  2x shiny red
+  2x vibrant lavender
+-> Parsed bag: {'name': 'clear orange', 'tree': {'bright plum': 5, 'shiny red': 2, 'vibrant lavender': 2}}
+muted coral bags contain 5 dark brown bags.
+  5x dark brown
+-> Parsed bag: {'name': 'muted coral', 'tree': {'dark brown': 5}}
+posh lime bags contain 2 dim silver bags.
+  2x dim silver
+-> Parsed bag: {'name': 'posh lime', 'tree': {'dim silver': 2}}
+clear maroon bags contain 4 dotted chartreuse bags.
+  4x dotted chartreuse
+-> Parsed bag: {'name': 'clear maroon', 'tree': {'dotted chartreuse': 4}}
+dim red bags contain 5 muted yellow bags, 3 dark violet bags, 3 light tomato bags.
+  5x muted yellow
+  3x dark violet
+  3x light tomato
+-> Parsed bag: {'name': 'dim red', 'tree': {'muted yellow': 5, 'dark violet': 3, 'light tomato': 3}}
+faded red bags contain 1 striped lavender bag, 3 mirrored gray bags.
+  1x striped lavender
+  3x mirrored gray
+-> Parsed bag: {'name': 'faded red', 'tree': {'striped lavender': 1, 'mirrored gray': 3}}
+bright maroon bags contain 2 posh crimson bags.
+  2x posh crimson
+-> Parsed bag: {'name': 'bright maroon', 'tree': {'posh crimson': 2}}
+muted gold bags contain 5 vibrant tan bags.
+  5x vibrant tan
+-> Parsed bag: {'name': 'muted gold', 'tree': {'vibrant tan': 5}}
+dotted lavender bags contain 3 shiny green bags, 2 muted fuchsia bags.
+  3x shiny green
+  2x muted fuchsia
+-> Parsed bag: {'name': 'dotted lavender', 'tree': {'shiny green': 3, 'muted fuchsia': 2}}
+shiny magenta bags contain 4 shiny red bags.
+  4x shiny red
+-> Parsed bag: {'name': 'shiny magenta', 'tree': {'shiny red': 4}}
+clear salmon bags contain 2 faded fuchsia bags, 4 posh crimson bags, 2 wavy fuchsia bags.
+  2x faded fuchsia
+  4x posh crimson
+  2x wavy fuchsia
+-> Parsed bag: {'name': 'clear salmon', 'tree': {'faded fuchsia': 2, 'posh crimson': 4, 'wavy fuchsia': 2}}
+dim lavender bags contain 1 posh magenta bag, 1 drab silver bag.
+  1x posh magenta
+  1x drab silver
+-> Parsed bag: {'name': 'dim lavender', 'tree': {'posh magenta': 1, 'drab silver': 1}}
+vibrant aqua bags contain 5 dim teal bags, 5 bright blue bags.
+  5x dim teal
+  5x bright blue
+-> Parsed bag: {'name': 'vibrant aqua', 'tree': {'dim teal': 5, 'bright blue': 5}}
+dim maroon bags contain 4 light white bags.
+  4x light white
+-> Parsed bag: {'name': 'dim maroon', 'tree': {'light white': 4}}
+striped tan bags contain 1 light aqua bag, 4 dim chartreuse bags.
+  1x light aqua
+  4x dim chartreuse
+-> Parsed bag: {'name': 'striped tan', 'tree': {'light aqua': 1, 'dim chartreuse': 4}}
+drab lime bags contain 2 dim blue bags.
+  2x dim blue
+-> Parsed bag: {'name': 'drab lime', 'tree': {'dim blue': 2}}
+mirrored purple bags contain 5 striped tomato bags, 3 wavy tomato bags.
+  5x striped tomato
+  3x wavy tomato
+-> Parsed bag: {'name': 'mirrored purple', 'tree': {'striped tomato': 5, 'wavy tomato': 3}}
+dark violet bags contain 2 vibrant red bags, 1 dim silver bag.
+  2x vibrant red
+  1x dim silver
+-> Parsed bag: {'name': 'dark violet', 'tree': {'vibrant red': 2, 'dim silver': 1}}
+wavy beige bags contain 2 muted violet bags, 1 bright white bag, 5 vibrant red bags, 1 faded lavender bag.
+  2x muted violet
+  1x bright white
+  5x vibrant red
+  1x faded lavender
+-> Parsed bag: {'name': 'wavy beige', 'tree': {'muted violet': 2, 'bright white': 1, 'vibrant red': 5, 'faded lavender': 1}}
+dim gold bags contain 1 wavy turquoise bag, 5 dim plum bags, 3 shiny silver bags.
+  1x wavy turquoise
+  5x dim plum
+  3x shiny silver
+-> Parsed bag: {'name': 'dim gold', 'tree': {'wavy turquoise': 1, 'dim plum': 5, 'shiny silver': 3}}
+dotted magenta bags contain 2 vibrant white bags, 4 vibrant tan bags, 2 muted orange bags.
+  2x vibrant white
+  4x vibrant tan
+  2x muted orange
+-> Parsed bag: {'name': 'dotted magenta', 'tree': {'vibrant white': 2, 'vibrant tan': 4, 'muted orange': 2}}
+plaid coral bags contain 5 dark brown bags, 2 posh coral bags, 2 dull crimson bags, 4 vibrant violet bags.
+  5x dark brown
+  2x posh coral
+  2x dull crimson
+  4x vibrant violet
+-> Parsed bag: {'name': 'plaid coral', 'tree': {'dark brown': 5, 'posh coral': 2, 'dull crimson': 2, 'vibrant violet': 4}}
+wavy silver bags contain 2 dim chartreuse bags, 2 bright crimson bags, 4 mirrored green bags, 5 striped turquoise bags.
+  2x dim chartreuse
+  2x bright crimson
+  4x mirrored green
+  5x striped turquoise
+-> Parsed bag: {'name': 'wavy silver', 'tree': {'dim chartreuse': 2, 'bright crimson': 2, 'mirrored green': 4, 'striped turquoise': 5}}
+mirrored olive bags contain 1 light purple bag, 4 muted silver bags.
+  1x light purple
+  4x muted silver
+-> Parsed bag: {'name': 'mirrored olive', 'tree': {'light purple': 1, 'muted silver': 4}}
+muted violet bags contain no other bags.
+-> Parsed bag: {'name': 'muted violet', 'tree': {}}
+bright red bags contain 1 muted red bag, 2 posh indigo bags, 3 shiny purple bags, 4 clear salmon bags.
+  1x muted red
+  2x posh indigo
+  3x shiny purple
+  4x clear salmon
+-> Parsed bag: {'name': 'bright red', 'tree': {'muted red': 1, 'posh indigo': 2, 'shiny purple': 3, 'clear salmon': 4}}
+dotted fuchsia bags contain 3 muted gold bags, 3 mirrored yellow bags, 1 plaid maroon bag, 1 dull purple bag.
+  3x muted gold
+  3x mirrored yellow
+  1x plaid maroon
+  1x dull purple
+-> Parsed bag: {'name': 'dotted fuchsia', 'tree': {'muted gold': 3, 'mirrored yellow': 3, 'plaid maroon': 1, 'dull purple': 1}}
+mirrored cyan bags contain 1 muted fuchsia bag, 2 pale lavender bags.
+  1x muted fuchsia
+  2x pale lavender
+-> Parsed bag: {'name': 'mirrored cyan', 'tree': {'muted fuchsia': 1, 'pale lavender': 2}}
+plaid beige bags contain 4 dotted violet bags, 1 mirrored salmon bag, 5 mirrored plum bags.
+  4x dotted violet
+  1x mirrored salmon
+  5x mirrored plum
+-> Parsed bag: {'name': 'plaid beige', 'tree': {'dotted violet': 4, 'mirrored salmon': 1, 'mirrored plum': 5}}
+pale magenta bags contain 3 vibrant indigo bags, 4 drab blue bags, 1 wavy violet bag.
+  3x vibrant indigo
+  4x drab blue
+  1x wavy violet
+-> Parsed bag: {'name': 'pale magenta', 'tree': {'vibrant indigo': 3, 'drab blue': 4, 'wavy violet': 1}}
+dim olive bags contain 2 drab indigo bags, 4 clear turquoise bags, 2 plaid tan bags.
+  2x drab indigo
+  4x clear turquoise
+  2x plaid tan
+-> Parsed bag: {'name': 'dim olive', 'tree': {'drab indigo': 2, 'clear turquoise': 4, 'plaid tan': 2}}
+wavy fuchsia bags contain 1 muted silver bag, 3 striped red bags.
+  1x muted silver
+  3x striped red
+-> Parsed bag: {'name': 'wavy fuchsia', 'tree': {'muted silver': 1, 'striped red': 3}}
+drab olive bags contain 3 striped turquoise bags, 5 dim brown bags, 4 vibrant crimson bags.
+  3x striped turquoise
+  5x dim brown
+  4x vibrant crimson
+-> Parsed bag: {'name': 'drab olive', 'tree': {'striped turquoise': 3, 'dim brown': 5, 'vibrant crimson': 4}}
+dull crimson bags contain 1 dotted tomato bag, 5 light silver bags, 1 dull black bag, 1 mirrored orange bag.
+  1x dotted tomato
+  5x light silver
+  1x dull black
+  1x mirrored orange
+-> Parsed bag: {'name': 'dull crimson', 'tree': {'dotted tomato': 1, 'light silver': 5, 'dull black': 1, 'mirrored orange': 1}}
+faded beige bags contain 4 mirrored aqua bags, 2 faded plum bags, 3 posh aqua bags, 2 muted violet bags.
+  4x mirrored aqua
+  2x faded plum
+  3x posh aqua
+  2x muted violet
+-> Parsed bag: {'name': 'faded beige', 'tree': {'mirrored aqua': 4, 'faded plum': 2, 'posh aqua': 3, 'muted violet': 2}}
+posh black bags contain 1 muted chartreuse bag, 2 faded salmon bags.
+  1x muted chartreuse
+  2x faded salmon
+-> Parsed bag: {'name': 'posh black', 'tree': {'muted chartreuse': 1, 'faded salmon': 2}}
+shiny turquoise bags contain 3 striped plum bags, 4 dull purple bags, 3 pale red bags, 4 dim brown bags.
+  3x striped plum
+  4x dull purple
+  3x pale red
+  4x dim brown
+-> Parsed bag: {'name': 'shiny turquoise', 'tree': {'striped plum': 3, 'dull purple': 4, 'pale red': 3, 'dim brown': 4}}
+bright beige bags contain 3 drab white bags, 2 plaid olive bags.
+  3x drab white
+  2x plaid olive
+-> Parsed bag: {'name': 'bright beige', 'tree': {'drab white': 3, 'plaid olive': 2}}
+dim silver bags contain 5 mirrored yellow bags, 5 dark gray bags.
+  5x mirrored yellow
+  5x dark gray
+-> Parsed bag: {'name': 'dim silver', 'tree': {'mirrored yellow': 5, 'dark gray': 5}}
+muted bronze bags contain 3 pale black bags.
+  3x pale black
+-> Parsed bag: {'name': 'muted bronze', 'tree': {'pale black': 3}}
+clear black bags contain 4 dark gray bags, 2 drab magenta bags.
+  4x dark gray
+  2x drab magenta
+-> Parsed bag: {'name': 'clear black', 'tree': {'dark gray': 4, 'drab magenta': 2}}
+posh violet bags contain 1 muted gray bag, 4 dark blue bags.
+  1x muted gray
+  4x dark blue
+-> Parsed bag: {'name': 'posh violet', 'tree': {'muted gray': 1, 'dark blue': 4}}
+light gold bags contain 1 mirrored silver bag.
+  1x mirrored silver
+-> Parsed bag: {'name': 'light gold', 'tree': {'mirrored silver': 1}}
+faded magenta bags contain 3 light gray bags.
+  3x light gray
+-> Parsed bag: {'name': 'faded magenta', 'tree': {'light gray': 3}}
+dotted crimson bags contain 3 clear crimson bags, 4 bright white bags, 5 bright green bags.
+  3x clear crimson
+  4x bright white
+  5x bright green
+-> Parsed bag: {'name': 'dotted crimson', 'tree': {'clear crimson': 3, 'bright white': 4, 'bright green': 5}}
+striped coral bags contain 1 pale beige bag.
+  1x pale beige
+-> Parsed bag: {'name': 'striped coral', 'tree': {'pale beige': 1}}
+drab brown bags contain 3 mirrored white bags, 4 clear crimson bags.
+  3x mirrored white
+  4x clear crimson
+-> Parsed bag: {'name': 'drab brown', 'tree': {'mirrored white': 3, 'clear crimson': 4}}
+clear tomato bags contain 5 dim magenta bags, 3 dull magenta bags, 4 dim turquoise bags.
+  5x dim magenta
+  3x dull magenta
+  4x dim turquoise
+-> Parsed bag: {'name': 'clear tomato', 'tree': {'dim magenta': 5, 'dull magenta': 3, 'dim turquoise': 4}}
+pale maroon bags contain 5 dark aqua bags.
+  5x dark aqua
+-> Parsed bag: {'name': 'pale maroon', 'tree': {'dark aqua': 5}}
+dark silver bags contain 2 bright blue bags, 2 pale yellow bags, 3 mirrored lime bags.
+  2x bright blue
+  2x pale yellow
+  3x mirrored lime
+-> Parsed bag: {'name': 'dark silver', 'tree': {'bright blue': 2, 'pale yellow': 2, 'mirrored lime': 3}}
+striped purple bags contain 2 wavy red bags.
+  2x wavy red
+-> Parsed bag: {'name': 'striped purple', 'tree': {'wavy red': 2}}
+wavy violet bags contain 2 dark gold bags, 1 plaid red bag.
+  2x dark gold
+  1x plaid red
+-> Parsed bag: {'name': 'wavy violet', 'tree': {'dark gold': 2, 'plaid red': 1}}
+clear coral bags contain 5 clear violet bags, 2 clear crimson bags, 4 vibrant white bags.
+  5x clear violet
+  2x clear crimson
+  4x vibrant white
+-> Parsed bag: {'name': 'clear coral', 'tree': {'clear violet': 5, 'clear crimson': 2, 'vibrant white': 4}}
+striped brown bags contain 2 posh red bags.
+  2x posh red
+-> Parsed bag: {'name': 'striped brown', 'tree': {'posh red': 2}}
+pale brown bags contain 5 posh cyan bags, 3 clear salmon bags.
+  5x posh cyan
+  3x clear salmon
+-> Parsed bag: {'name': 'pale brown', 'tree': {'posh cyan': 5, 'clear salmon': 3}}
+dotted red bags contain 3 wavy aqua bags, 1 mirrored bronze bag, 2 dark silver bags, 1 pale tan bag.
+  3x wavy aqua
+  1x mirrored bronze
+  2x dark silver
+  1x pale tan
+-> Parsed bag: {'name': 'dotted red', 'tree': {'wavy aqua': 3, 'mirrored bronze': 1, 'dark silver': 2, 'pale tan': 1}}
+faded plum bags contain 2 striped brown bags.
+  2x striped brown
+-> Parsed bag: {'name': 'faded plum', 'tree': {'striped brown': 2}}
+posh olive bags contain 5 muted white bags, 3 mirrored tomato bags, 4 dull olive bags.
+  5x muted white
+  3x mirrored tomato
+  4x dull olive
+-> Parsed bag: {'name': 'posh olive', 'tree': {'muted white': 5, 'mirrored tomato': 3, 'dull olive': 4}}
+faded violet bags contain 1 mirrored yellow bag, 1 vibrant white bag, 3 mirrored orange bags.
+  1x mirrored yellow
+  1x vibrant white
+  3x mirrored orange
+-> Parsed bag: {'name': 'faded violet', 'tree': {'mirrored yellow': 1, 'vibrant white': 1, 'mirrored orange': 3}}
+light silver bags contain no other bags.
+-> Parsed bag: {'name': 'light silver', 'tree': {}}
+striped aqua bags contain 4 dull gray bags, 5 dark lavender bags, 4 shiny cyan bags.
+  4x dull gray
+  5x dark lavender
+  4x shiny cyan
+-> Parsed bag: {'name': 'striped aqua', 'tree': {'dull gray': 4, 'dark lavender': 5, 'shiny cyan': 4}}
+vibrant fuchsia bags contain 3 drab beige bags, 2 dim beige bags.
+  3x drab beige
+  2x dim beige
+-> Parsed bag: {'name': 'vibrant fuchsia', 'tree': {'drab beige': 3, 'dim beige': 2}}
+shiny white bags contain 2 posh aqua bags, 4 faded gray bags.
+  2x posh aqua
+  4x faded gray
+-> Parsed bag: {'name': 'shiny white', 'tree': {'posh aqua': 2, 'faded gray': 4}}
+muted green bags contain 4 dim coral bags, 4 wavy turquoise bags, 3 clear lime bags, 1 striped black bag.
+  4x dim coral
+  4x wavy turquoise
+  3x clear lime
+  1x striped black
+-> Parsed bag: {'name': 'muted green', 'tree': {'dim coral': 4, 'wavy turquoise': 4, 'clear lime': 3, 'striped black': 1}}
+dim tan bags contain 5 pale chartreuse bags, 1 mirrored cyan bag, 1 light maroon bag, 5 muted chartreuse bags.
+  5x pale chartreuse
+  1x mirrored cyan
+  1x light maroon
+  5x muted chartreuse
+-> Parsed bag: {'name': 'dim tan', 'tree': {'pale chartreuse': 5, 'mirrored cyan': 1, 'light maroon': 1, 'muted chartreuse': 5}}
+faded olive bags contain 1 light salmon bag, 2 wavy blue bags, 3 drab lavender bags.
+  1x light salmon
+  2x wavy blue
+  3x drab lavender
+-> Parsed bag: {'name': 'faded olive', 'tree': {'light salmon': 1, 'wavy blue': 2, 'drab lavender': 3}}
+drab cyan bags contain 1 faded cyan bag.
+  1x faded cyan
+-> Parsed bag: {'name': 'drab cyan', 'tree': {'faded cyan': 1}}
+muted magenta bags contain 3 clear purple bags, 4 pale aqua bags.
+  3x clear purple
+  4x pale aqua
+-> Parsed bag: {'name': 'muted magenta', 'tree': {'clear purple': 3, 'pale aqua': 4}}
+wavy maroon bags contain 1 wavy bronze bag.
+  1x wavy bronze
+-> Parsed bag: {'name': 'wavy maroon', 'tree': {'wavy bronze': 1}}
+faded green bags contain 2 mirrored gray bags, 4 wavy gray bags, 3 dark salmon bags.
+  2x mirrored gray
+  4x wavy gray
+  3x dark salmon
+-> Parsed bag: {'name': 'faded green', 'tree': {'mirrored gray': 2, 'wavy gray': 4, 'dark salmon': 3}}
+wavy purple bags contain 2 posh red bags, 5 bright white bags.
+  2x posh red
+  5x bright white
+-> Parsed bag: {'name': 'wavy purple', 'tree': {'posh red': 2, 'bright white': 5}}
+vibrant black bags contain 4 plaid silver bags.
+  4x plaid silver
+-> Parsed bag: {'name': 'vibrant black', 'tree': {'plaid silver': 4}}
+wavy white bags contain 3 dim chartreuse bags.
+  3x dim chartreuse
+-> Parsed bag: {'name': 'wavy white', 'tree': {'dim chartreuse': 3}}
+dark magenta bags contain 2 dim lime bags.
+  2x dim lime
+-> Parsed bag: {'name': 'dark magenta', 'tree': {'dim lime': 2}}
+dull tan bags contain 1 posh red bag, 2 shiny green bags, 3 pale yellow bags, 2 faded salmon bags.
+  1x posh red
+  2x shiny green
+  3x pale yellow
+  2x faded salmon
+-> Parsed bag: {'name': 'dull tan', 'tree': {'posh red': 1, 'shiny green': 2, 'pale yellow': 3, 'faded salmon': 2}}
+pale lavender bags contain 4 dim red bags.
+  4x dim red
+-> Parsed bag: {'name': 'pale lavender', 'tree': {'dim red': 4}}
+mirrored black bags contain 1 plaid gray bag.
+  1x plaid gray
+-> Parsed bag: {'name': 'mirrored black', 'tree': {'plaid gray': 1}}
+posh silver bags contain 4 wavy purple bags, 4 vibrant blue bags, 1 dull fuchsia bag, 5 faded brown bags.
+  4x wavy purple
+  4x vibrant blue
+  1x dull fuchsia
+  5x faded brown
+-> Parsed bag: {'name': 'posh silver', 'tree': {'wavy purple': 4, 'vibrant blue': 4, 'dull fuchsia': 1, 'faded brown': 5}}
+plaid blue bags contain 5 pale yellow bags, 5 vibrant salmon bags, 4 wavy cyan bags.
+  5x pale yellow
+  5x vibrant salmon
+  4x wavy cyan
+-> Parsed bag: {'name': 'plaid blue', 'tree': {'pale yellow': 5, 'vibrant salmon': 5, 'wavy cyan': 4}}
+plaid purple bags contain 1 bright bronze bag, 2 vibrant blue bags, 1 shiny salmon bag, 5 faded magenta bags.
+  1x bright bronze
+  2x vibrant blue
+  1x shiny salmon
+  5x faded magenta
+-> Parsed bag: {'name': 'plaid purple', 'tree': {'bright bronze': 1, 'vibrant blue': 2, 'shiny salmon': 1, 'faded magenta': 5}}
+striped orange bags contain 5 mirrored black bags, 2 clear cyan bags, 2 wavy yellow bags, 5 dim aqua bags.
+  5x mirrored black
+  2x clear cyan
+  2x wavy yellow
+  5x dim aqua
+-> Parsed bag: {'name': 'striped orange', 'tree': {'mirrored black': 5, 'clear cyan': 2, 'wavy yellow': 2, 'dim aqua': 5}}
+pale chartreuse bags contain 1 shiny blue bag, 4 shiny tomato bags, 1 bright lime bag, 5 dim blue bags.
+  1x shiny blue
+  4x shiny tomato
+  1x bright lime
+  5x dim blue
+-> Parsed bag: {'name': 'pale chartreuse', 'tree': {'shiny blue': 1, 'shiny tomato': 4, 'bright lime': 1, 'dim blue': 5}}
+mirrored lavender bags contain 4 shiny gold bags, 3 dull crimson bags.
+  4x shiny gold
+  3x dull crimson
+-> Parsed bag: {'name': 'mirrored lavender', 'tree': {'shiny gold': 4, 'dull crimson': 3}}
+bright blue bags contain 5 mirrored yellow bags, 5 light silver bags.
+  5x mirrored yellow
+  5x light silver
+-> Parsed bag: {'name': 'bright blue', 'tree': {'mirrored yellow': 5, 'light silver': 5}}
+dull teal bags contain 1 drab aqua bag, 4 dim coral bags, 3 muted yellow bags.
+  1x drab aqua
+  4x dim coral
+  3x muted yellow
+-> Parsed bag: {'name': 'dull teal', 'tree': {'drab aqua': 1, 'dim coral': 4, 'muted yellow': 3}}
+mirrored indigo bags contain 3 dim brown bags.
+  3x dim brown
+-> Parsed bag: {'name': 'mirrored indigo', 'tree': {'dim brown': 3}}
+dotted coral bags contain 1 light lime bag, 5 mirrored indigo bags, 5 wavy indigo bags.
+  1x light lime
+  5x mirrored indigo
+  5x wavy indigo
+-> Parsed bag: {'name': 'dotted coral', 'tree': {'light lime': 1, 'mirrored indigo': 5, 'wavy indigo': 5}}
+light white bags contain 1 vibrant coral bag.
+  1x vibrant coral
+-> Parsed bag: {'name': 'light white', 'tree': {'vibrant coral': 1}}
+faded yellow bags contain 3 light white bags.
+  3x light white
+-> Parsed bag: {'name': 'faded yellow', 'tree': {'light white': 3}}
+plaid black bags contain 5 dim indigo bags, 2 dull olive bags.
+  5x dim indigo
+  2x dull olive
+-> Parsed bag: {'name': 'plaid black', 'tree': {'dim indigo': 5, 'dull olive': 2}}
+dim cyan bags contain 5 shiny blue bags, 5 drab black bags.
+  5x shiny blue
+  5x drab black
+-> Parsed bag: {'name': 'dim cyan', 'tree': {'shiny blue': 5, 'drab black': 5}}
+plaid tomato bags contain 4 dull crimson bags.
+  4x dull crimson
+-> Parsed bag: {'name': 'plaid tomato', 'tree': {'dull crimson': 4}}
+bright yellow bags contain 5 mirrored green bags, 2 dim yellow bags.
+  5x mirrored green
+  2x dim yellow
+-> Parsed bag: {'name': 'bright yellow', 'tree': {'mirrored green': 5, 'dim yellow': 2}}
+clear magenta bags contain 4 dim cyan bags, 4 bright orange bags.
+  4x dim cyan
+  4x bright orange
+-> Parsed bag: {'name': 'clear magenta', 'tree': {'dim cyan': 4, 'bright orange': 4}}
+vibrant olive bags contain 4 pale turquoise bags.
+  4x pale turquoise
+-> Parsed bag: {'name': 'vibrant olive', 'tree': {'pale turquoise': 4}}
+dull orange bags contain 1 mirrored yellow bag, 2 clear purple bags.
+  1x mirrored yellow
+  2x clear purple
+-> Parsed bag: {'name': 'dull orange', 'tree': {'mirrored yellow': 1, 'clear purple': 2}}
+drab tan bags contain 5 dotted salmon bags.
+  5x dotted salmon
+-> Parsed bag: {'name': 'drab tan', 'tree': {'dotted salmon': 5}}
+dark black bags contain 4 bright magenta bags, 3 striped lime bags.
+  4x bright magenta
+  3x striped lime
+-> Parsed bag: {'name': 'dark black', 'tree': {'bright magenta': 4, 'striped lime': 3}}
+faded teal bags contain 2 dark red bags, 3 plaid teal bags, 2 vibrant red bags.
+  2x dark red
+  3x plaid teal
+  2x vibrant red
+-> Parsed bag: {'name': 'faded teal', 'tree': {'dark red': 2, 'plaid teal': 3, 'vibrant red': 2}}
+posh magenta bags contain 3 dark tan bags.
+  3x dark tan
+-> Parsed bag: {'name': 'posh magenta', 'tree': {'dark tan': 3}}
+dim indigo bags contain 2 dotted brown bags, 2 dull tan bags, 1 dark indigo bag, 3 dim fuchsia bags.
+  2x dotted brown
+  2x dull tan
+  1x dark indigo
+  3x dim fuchsia
+-> Parsed bag: {'name': 'dim indigo', 'tree': {'dotted brown': 2, 'dull tan': 2, 'dark indigo': 1, 'dim fuchsia': 3}}
+vibrant red bags contain 2 muted fuchsia bags, 5 bright blue bags.
+  2x muted fuchsia
+  5x bright blue
+-> Parsed bag: {'name': 'vibrant red', 'tree': {'muted fuchsia': 2, 'bright blue': 5}}
+mirrored tomato bags contain 4 shiny tomato bags, 1 dull orange bag.
+  4x shiny tomato
+  1x dull orange
+-> Parsed bag: {'name': 'mirrored tomato', 'tree': {'shiny tomato': 4, 'dull orange': 1}}
+dark lime bags contain 3 plaid tan bags.
+  3x plaid tan
+-> Parsed bag: {'name': 'dark lime', 'tree': {'plaid tan': 3}}
+vibrant silver bags contain 5 pale yellow bags, 2 faded lime bags.
+  5x pale yellow
+  2x faded lime
+-> Parsed bag: {'name': 'vibrant silver', 'tree': {'pale yellow': 5, 'faded lime': 2}}
+faded tan bags contain 4 pale violet bags, 3 muted gold bags, 3 vibrant red bags.
+  4x pale violet
+  3x muted gold
+  3x vibrant red
+-> Parsed bag: {'name': 'faded tan', 'tree': {'pale violet': 4, 'muted gold': 3, 'vibrant red': 3}}
+pale beige bags contain 5 dark blue bags, 1 drab white bag, 3 faded crimson bags, 3 dull gray bags.
+  5x dark blue
+  1x drab white
+  3x faded crimson
+  3x dull gray
+-> Parsed bag: {'name': 'pale beige', 'tree': {'dark blue': 5, 'drab white': 1, 'faded crimson': 3, 'dull gray': 3}}
+wavy teal bags contain 1 posh maroon bag, 2 clear violet bags.
+  1x posh maroon
+  2x clear violet
+-> Parsed bag: {'name': 'wavy teal', 'tree': {'posh maroon': 1, 'clear violet': 2}}
+bright turquoise bags contain 2 pale aqua bags.
+  2x pale aqua
+-> Parsed bag: {'name': 'bright turquoise', 'tree': {'pale aqua': 2}}
+striped chartreuse bags contain 2 striped tomato bags, 2 dark red bags, 3 posh coral bags, 4 mirrored fuchsia bags.
+  2x striped tomato
+  2x dark red
+  3x posh coral
+  4x mirrored fuchsia
+-> Parsed bag: {'name': 'striped chartreuse', 'tree': {'striped tomato': 2, 'dark red': 2, 'posh coral': 3, 'mirrored fuchsia': 4}}
+wavy yellow bags contain 5 striped gold bags, 1 striped maroon bag, 4 dull fuchsia bags, 3 shiny gold bags.
+  5x striped gold
+  1x striped maroon
+  4x dull fuchsia
+  3x shiny gold
+-> Parsed bag: {'name': 'wavy yellow', 'tree': {'striped gold': 5, 'striped maroon': 1, 'dull fuchsia': 4, 'shiny gold': 3}}
+dull salmon bags contain 5 plaid cyan bags.
+  5x plaid cyan
+-> Parsed bag: {'name': 'dull salmon', 'tree': {'plaid cyan': 5}}
+shiny bronze bags contain 5 pale indigo bags, 1 mirrored orange bag, 1 vibrant bronze bag.
+  5x pale indigo
+  1x mirrored orange
+  1x vibrant bronze
+-> Parsed bag: {'name': 'shiny bronze', 'tree': {'pale indigo': 5, 'mirrored orange': 1, 'vibrant bronze': 1}}
+dull red bags contain 5 wavy beige bags.
+  5x wavy beige
+-> Parsed bag: {'name': 'dull red', 'tree': {'wavy beige': 5}}
+dotted green bags contain 2 clear indigo bags.
+  2x clear indigo
+-> Parsed bag: {'name': 'dotted green', 'tree': {'clear indigo': 2}}
+plaid fuchsia bags contain 2 vibrant salmon bags, 1 light silver bag.
+  2x vibrant salmon
+  1x light silver
+-> Parsed bag: {'name': 'plaid fuchsia', 'tree': {'vibrant salmon': 2, 'light silver': 1}}
+striped crimson bags contain 3 dotted bronze bags, 2 shiny coral bags.
+  3x dotted bronze
+  2x shiny coral
+-> Parsed bag: {'name': 'striped crimson', 'tree': {'dotted bronze': 3, 'shiny coral': 2}}
+mirrored teal bags contain 2 clear purple bags, 5 muted yellow bags.
+  2x clear purple
+  5x muted yellow
+-> Parsed bag: {'name': 'mirrored teal', 'tree': {'clear purple': 2, 'muted yellow': 5}}
+plaid gray bags contain 1 muted silver bag, 2 pale yellow bags.
+  1x muted silver
+  2x pale yellow
+-> Parsed bag: {'name': 'plaid gray', 'tree': {'muted silver': 1, 'pale yellow': 2}}
+pale gray bags contain 5 drab lavender bags, 4 mirrored aqua bags.
+  5x drab lavender
+  4x mirrored aqua
+-> Parsed bag: {'name': 'pale gray', 'tree': {'drab lavender': 5, 'mirrored aqua': 4}}
+clear plum bags contain 3 dull blue bags, 5 clear chartreuse bags.
+  3x dull blue
+  5x clear chartreuse
+-> Parsed bag: {'name': 'clear plum', 'tree': {'dull blue': 3, 'clear chartreuse': 5}}
+light salmon bags contain 3 bright silver bags, 3 clear black bags, 1 bright crimson bag, 4 bright white bags.
+  3x bright silver
+  3x clear black
+  1x bright crimson
+  4x bright white
+-> Parsed bag: {'name': 'light salmon', 'tree': {'bright silver': 3, 'clear black': 3, 'bright crimson': 1, 'bright white': 4}}
+dark tan bags contain 4 shiny bronze bags, 1 mirrored chartreuse bag, 5 bright silver bags, 4 clear black bags.
+  4x shiny bronze
+  1x mirrored chartreuse
+  5x bright silver
+  4x clear black
+-> Parsed bag: {'name': 'dark tan', 'tree': {'shiny bronze': 4, 'mirrored chartreuse': 1, 'bright silver': 5, 'clear black': 4}}
+vibrant bronze bags contain 4 vibrant teal bags, 3 dark silver bags, 2 mirrored green bags.
+  4x vibrant teal
+  3x dark silver
+  2x mirrored green
+-> Parsed bag: {'name': 'vibrant bronze', 'tree': {'vibrant teal': 4, 'dark silver': 3, 'mirrored green': 2}}
+light teal bags contain 5 drab blue bags, 4 clear red bags, 1 drab aqua bag.
+  5x drab blue
+  4x clear red
+  1x drab aqua
+-> Parsed bag: {'name': 'light teal', 'tree': {'drab blue': 5, 'clear red': 4, 'drab aqua': 1}}
+plaid plum bags contain 2 faded yellow bags, 5 striped maroon bags.
+  2x faded yellow
+  5x striped maroon
+-> Parsed bag: {'name': 'plaid plum', 'tree': {'faded yellow': 2, 'striped maroon': 5}}
+dull silver bags contain no other bags.
+-> Parsed bag: {'name': 'dull silver', 'tree': {}}
+mirrored beige bags contain 4 dotted blue bags, 3 clear indigo bags.
+  4x dotted blue
+  3x clear indigo
+-> Parsed bag: {'name': 'mirrored beige', 'tree': {'dotted blue': 4, 'clear indigo': 3}}
+pale aqua bags contain 2 shiny blue bags, 1 dim red bag, 1 posh teal bag.
+  2x shiny blue
+  1x dim red
+  1x posh teal
+-> Parsed bag: {'name': 'pale aqua', 'tree': {'shiny blue': 2, 'dim red': 1, 'posh teal': 1}}
+wavy orange bags contain 5 pale red bags, 3 wavy purple bags, 5 shiny aqua bags.
+  5x pale red
+  3x wavy purple
+  5x shiny aqua
+-> Parsed bag: {'name': 'wavy orange', 'tree': {'pale red': 5, 'wavy purple': 3, 'shiny aqua': 5}}
+dotted silver bags contain 3 dim beige bags, 5 striped silver bags, 2 pale brown bags, 1 muted white bag.
+  3x dim beige
+  5x striped silver
+  2x pale brown
+  1x muted white
+-> Parsed bag: {'name': 'dotted silver', 'tree': {'dim beige': 3, 'striped silver': 5, 'pale brown': 2, 'muted white': 1}}
+dotted orange bags contain 3 plaid violet bags, 1 pale salmon bag, 4 dull bronze bags.
+  3x plaid violet
+  1x pale salmon
+  4x dull bronze
+-> Parsed bag: {'name': 'dotted orange', 'tree': {'plaid violet': 3, 'pale salmon': 1, 'dull bronze': 4}}
+vibrant turquoise bags contain 2 drab silver bags.
+  2x drab silver
+-> Parsed bag: {'name': 'vibrant turquoise', 'tree': {'drab silver': 2}}
+clear cyan bags contain 5 shiny green bags, 4 dark chartreuse bags.
+  5x shiny green
+  4x dark chartreuse
+-> Parsed bag: {'name': 'clear cyan', 'tree': {'shiny green': 5, 'dark chartreuse': 4}}
+dotted tan bags contain 4 vibrant blue bags.
+  4x vibrant blue
+-> Parsed bag: {'name': 'dotted tan', 'tree': {'vibrant blue': 4}}
+mirrored brown bags contain 3 faded olive bags.
+  3x faded olive
+-> Parsed bag: {'name': 'mirrored brown', 'tree': {'faded olive': 3}}
+bright bronze bags contain 4 light yellow bags, 1 mirrored orange bag, 3 light silver bags.
+  4x light yellow
+  1x mirrored orange
+  3x light silver
+-> Parsed bag: {'name': 'bright bronze', 'tree': {'light yellow': 4, 'mirrored orange': 1, 'light silver': 3}}
+plaid lavender bags contain 1 posh violet bag, 4 muted yellow bags, 3 bright gold bags.
+  1x posh violet
+  4x muted yellow
+  3x bright gold
+-> Parsed bag: {'name': 'plaid lavender', 'tree': {'posh violet': 1, 'muted yellow': 4, 'bright gold': 3}}
+bright coral bags contain 3 posh teal bags, 5 wavy purple bags.
+  3x posh teal
+  5x wavy purple
+-> Parsed bag: {'name': 'bright coral', 'tree': {'posh teal': 3, 'wavy purple': 5}}
+faded aqua bags contain 1 faded black bag.
+  1x faded black
+-> Parsed bag: {'name': 'faded aqua', 'tree': {'faded black': 1}}
+posh yellow bags contain 1 vibrant violet bag, 4 drab blue bags.
+  1x vibrant violet
+  4x drab blue
+-> Parsed bag: {'name': 'posh yellow', 'tree': {'vibrant violet': 1, 'drab blue': 4}}
+plaid red bags contain 3 mirrored orange bags, 2 muted gold bags, 5 faded black bags.
+  3x mirrored orange
+  2x muted gold
+  5x faded black
+-> Parsed bag: {'name': 'plaid red', 'tree': {'mirrored orange': 3, 'muted gold': 2, 'faded black': 5}}
+muted silver bags contain no other bags.
+-> Parsed bag: {'name': 'muted silver', 'tree': {}}
+bright black bags contain 4 plaid teal bags, 2 wavy lavender bags, 5 posh tan bags.
+  4x plaid teal
+  2x wavy lavender
+  5x posh tan
+-> Parsed bag: {'name': 'bright black', 'tree': {'plaid teal': 4, 'wavy lavender': 2, 'posh tan': 5}}
+dim white bags contain 1 mirrored orange bag, 1 dotted lavender bag, 4 muted yellow bags.
+  1x mirrored orange
+  1x dotted lavender
+  4x muted yellow
+-> Parsed bag: {'name': 'dim white', 'tree': {'mirrored orange': 1, 'dotted lavender': 1, 'muted yellow': 4}}
+posh brown bags contain 2 dark purple bags, 3 plaid lavender bags.
+  2x dark purple
+  3x plaid lavender
+-> Parsed bag: {'name': 'posh brown', 'tree': {'dark purple': 2, 'plaid lavender': 3}}
+dotted plum bags contain 4 bright teal bags.
+  4x bright teal
+-> Parsed bag: {'name': 'dotted plum', 'tree': {'bright teal': 4}}
+plaid silver bags contain 1 dark coral bag, 5 shiny coral bags.
+  1x dark coral
+  5x shiny coral
+-> Parsed bag: {'name': 'plaid silver', 'tree': {'dark coral': 1, 'shiny coral': 5}}
+vibrant chartreuse bags contain 1 shiny magenta bag, 4 muted crimson bags, 2 dull tan bags, 2 striped cyan bags.
+  1x shiny magenta
+  4x muted crimson
+  2x dull tan
+  2x striped cyan
+-> Parsed bag: {'name': 'vibrant chartreuse', 'tree': {'shiny magenta': 1, 'muted crimson': 4, 'dull tan': 2, 'striped cyan': 2}}
+drab red bags contain 3 drab aqua bags, 1 dark yellow bag, 2 mirrored gray bags.
+  3x drab aqua
+  1x dark yellow
+  2x mirrored gray
+-> Parsed bag: {'name': 'drab red', 'tree': {'drab aqua': 3, 'dark yellow': 1, 'mirrored gray': 2}}
+dull gold bags contain 5 dark coral bags, 2 dark blue bags, 5 bright orange bags, 5 muted lavender bags.
+  5x dark coral
+  2x dark blue
+  5x bright orange
+  5x muted lavender
+-> Parsed bag: {'name': 'dull gold', 'tree': {'dark coral': 5, 'dark blue': 2, 'bright orange': 5, 'muted lavender': 5}}
+dull cyan bags contain 3 faded tan bags, 3 muted teal bags, 1 muted orange bag, 4 striped bronze bags.
+  3x faded tan
+  3x muted teal
+  1x muted orange
+  4x striped bronze
+-> Parsed bag: {'name': 'dull cyan', 'tree': {'faded tan': 3, 'muted teal': 3, 'muted orange': 1, 'striped bronze': 4}}
+drab lavender bags contain 4 faded lavender bags, 2 light blue bags, 3 posh fuchsia bags.
+  4x faded lavender
+  2x light blue
+  3x posh fuchsia
+-> Parsed bag: {'name': 'drab lavender', 'tree': {'faded lavender': 4, 'light blue': 2, 'posh fuchsia': 3}}
+bright tan bags contain 1 faded tan bag, 4 vibrant coral bags.
+  1x faded tan
+  4x vibrant coral
+-> Parsed bag: {'name': 'bright tan', 'tree': {'faded tan': 1, 'vibrant coral': 4}}
+shiny indigo bags contain 2 dark silver bags.
+  2x dark silver
+-> Parsed bag: {'name': 'shiny indigo', 'tree': {'dark silver': 2}}
+dark turquoise bags contain 3 dark purple bags.
+  3x dark purple
+-> Parsed bag: {'name': 'dark turquoise', 'tree': {'dark purple': 3}}
+drab magenta bags contain 2 bright white bags, 5 muted silver bags, 5 posh red bags.
+  2x bright white
+  5x muted silver
+  5x posh red
+-> Parsed bag: {'name': 'drab magenta', 'tree': {'bright white': 2, 'muted silver': 5, 'posh red': 5}}
+vibrant coral bags contain 5 plaid orange bags, 5 pale gold bags, 1 dark yellow bag, 4 dim yellow bags.
+  5x plaid orange
+  5x pale gold
+  1x dark yellow
+  4x dim yellow
+-> Parsed bag: {'name': 'vibrant coral', 'tree': {'plaid orange': 5, 'pale gold': 5, 'dark yellow': 1, 'dim yellow': 4}}
+clear yellow bags contain 5 plaid lavender bags, 1 vibrant coral bag, 1 posh coral bag, 4 vibrant brown bags.
+  5x plaid lavender
+  1x vibrant coral
+  1x posh coral
+  4x vibrant brown
+-> Parsed bag: {'name': 'clear yellow', 'tree': {'plaid lavender': 5, 'vibrant coral': 1, 'posh coral': 1, 'vibrant brown': 4}}
+bright indigo bags contain 5 bright black bags, 4 plaid crimson bags, 2 dim fuchsia bags.
+  5x bright black
+  4x plaid crimson
+  2x dim fuchsia
+-> Parsed bag: {'name': 'bright indigo', 'tree': {'bright black': 5, 'plaid crimson': 4, 'dim fuchsia': 2}}
+plaid violet bags contain 1 drab crimson bag, 4 dotted cyan bags, 4 shiny green bags.
+  1x drab crimson
+  4x dotted cyan
+  4x shiny green
+-> Parsed bag: {'name': 'plaid violet', 'tree': {'drab crimson': 1, 'dotted cyan': 4, 'shiny green': 4}}
+dim blue bags contain 1 dotted lavender bag, 5 clear purple bags.
+  1x dotted lavender
+  5x clear purple
+-> Parsed bag: {'name': 'dim blue', 'tree': {'dotted lavender': 1, 'clear purple': 5}}
+vibrant plum bags contain no other bags.
+-> Parsed bag: {'name': 'vibrant plum', 'tree': {}}
+clear bronze bags contain 5 dull tan bags.
+  5x dull tan
+-> Parsed bag: {'name': 'clear bronze', 'tree': {'dull tan': 5}}
+striped green bags contain 1 wavy bronze bag, 4 light silver bags, 3 posh aqua bags.
+  1x wavy bronze
+  4x light silver
+  3x posh aqua
+-> Parsed bag: {'name': 'striped green', 'tree': {'wavy bronze': 1, 'light silver': 4, 'posh aqua': 3}}
+mirrored gold bags contain 1 pale tan bag, 1 shiny bronze bag, 5 dim beige bags.
+  1x pale tan
+  1x shiny bronze
+  5x dim beige
+-> Parsed bag: {'name': 'mirrored gold', 'tree': {'pale tan': 1, 'shiny bronze': 1, 'dim beige': 5}}
+plaid lime bags contain 1 mirrored fuchsia bag.
+  1x mirrored fuchsia
+-> Parsed bag: {'name': 'plaid lime', 'tree': {'mirrored fuchsia': 1}}
+posh salmon bags contain 3 dim brown bags, 4 mirrored silver bags.
+  3x dim brown
+  4x mirrored silver
+-> Parsed bag: {'name': 'posh salmon', 'tree': {'dim brown': 3, 'mirrored silver': 4}}
+wavy coral bags contain 4 light orange bags, 4 shiny orange bags, 4 dark blue bags, 1 bright yellow bag.
+  4x light orange
+  4x shiny orange
+  4x dark blue
+  1x bright yellow
+-> Parsed bag: {'name': 'wavy coral', 'tree': {'light orange': 4, 'shiny orange': 4, 'dark blue': 4, 'bright yellow': 1}}
+clear teal bags contain 2 posh white bags.
+  2x posh white
+-> Parsed bag: {'name': 'clear teal', 'tree': {'posh white': 2}}
+mirrored aqua bags contain no other bags.
+-> Parsed bag: {'name': 'mirrored aqua', 'tree': {}}
+light green bags contain 3 posh chartreuse bags, 3 shiny red bags, 1 dim silver bag, 4 faded crimson bags.
+  3x posh chartreuse
+  3x shiny red
+  1x dim silver
+  4x faded crimson
+-> Parsed bag: {'name': 'light green', 'tree': {'posh chartreuse': 3, 'shiny red': 3, 'dim silver': 1, 'faded crimson': 4}}
+muted aqua bags contain 1 shiny green bag, 3 shiny gold bags, 5 light blue bags.
+  1x shiny green
+  3x shiny gold
+  5x light blue
+-> Parsed bag: {'name': 'muted aqua', 'tree': {'shiny green': 1, 'shiny gold': 3, 'light blue': 5}}
+posh maroon bags contain 5 pale yellow bags, 2 dim red bags, 5 wavy beige bags, 1 bright blue bag.
+  5x pale yellow
+  2x dim red
+  5x wavy beige
+  1x bright blue
+-> Parsed bag: {'name': 'posh maroon', 'tree': {'pale yellow': 5, 'dim red': 2, 'wavy beige': 5, 'bright blue': 1}}
+faded gray bags contain 3 faded orange bags.
+  3x faded orange
+-> Parsed bag: {'name': 'faded gray', 'tree': {'faded orange': 3}}
+plaid orange bags contain 1 dark brown bag, 4 dotted salmon bags, 4 clear violet bags, 1 clear indigo bag.
+  1x dark brown
+  4x dotted salmon
+  4x clear violet
+  1x clear indigo
+-> Parsed bag: {'name': 'plaid orange', 'tree': {'dark brown': 1, 'dotted salmon': 4, 'clear violet': 4, 'clear indigo': 1}}
+striped indigo bags contain 2 muted gray bags, 4 dim brown bags, 4 clear black bags.
+  2x muted gray
+  4x dim brown
+  4x clear black
+-> Parsed bag: {'name': 'striped indigo', 'tree': {'muted gray': 2, 'dim brown': 4, 'clear black': 4}}
+bright salmon bags contain 3 dark tomato bags, 5 pale tomato bags, 2 dim magenta bags, 3 dotted cyan bags.
+  3x dark tomato
+  5x pale tomato
+  2x dim magenta
+  3x dotted cyan
+-> Parsed bag: {'name': 'bright salmon', 'tree': {'dark tomato': 3, 'pale tomato': 5, 'dim magenta': 2, 'dotted cyan': 3}}
+wavy aqua bags contain 5 dark violet bags, 4 dim yellow bags, 2 dark blue bags.
+  5x dark violet
+  4x dim yellow
+  2x dark blue
+-> Parsed bag: {'name': 'wavy aqua', 'tree': {'dark violet': 5, 'dim yellow': 4, 'dark blue': 2}}
+plaid olive bags contain 2 dull red bags.
+  2x dull red
+-> Parsed bag: {'name': 'plaid olive', 'tree': {'dull red': 2}}
+bright teal bags contain 2 shiny green bags.
+  2x shiny green
+-> Parsed bag: {'name': 'bright teal', 'tree': {'shiny green': 2}}
+vibrant beige bags contain 5 dark teal bags, 3 plaid turquoise bags.
+  5x dark teal
+  3x plaid turquoise
+-> Parsed bag: {'name': 'vibrant beige', 'tree': {'dark teal': 5, 'plaid turquoise': 3}}
+dull chartreuse bags contain 4 pale blue bags, 2 drab violet bags, 2 dotted beige bags.
+  4x pale blue
+  2x drab violet
+  2x dotted beige
+-> Parsed bag: {'name': 'dull chartreuse', 'tree': {'pale blue': 4, 'drab violet': 2, 'dotted beige': 2}}
+dotted brown bags contain 5 posh lime bags, 5 muted gray bags.
+  5x posh lime
+  5x muted gray
+-> Parsed bag: {'name': 'dotted brown', 'tree': {'posh lime': 5, 'muted gray': 5}}
+muted plum bags contain 4 clear violet bags, 2 shiny green bags, 1 dotted fuchsia bag.
+  4x clear violet
+  2x shiny green
+  1x dotted fuchsia
+-> Parsed bag: {'name': 'muted plum', 'tree': {'clear violet': 4, 'shiny green': 2, 'dotted fuchsia': 1}}
+muted blue bags contain 5 drab tomato bags.
+  5x drab tomato
+-> Parsed bag: {'name': 'muted blue', 'tree': {'drab tomato': 5}}
+dull bronze bags contain 3 bright magenta bags, 3 muted purple bags, 2 striped red bags, 1 clear gray bag.
+  3x bright magenta
+  3x muted purple
+  2x striped red
+  1x clear gray
+-> Parsed bag: {'name': 'dull bronze', 'tree': {'bright magenta': 3, 'muted purple': 3, 'striped red': 2, 'clear gray': 1}}
+shiny red bags contain 1 shiny green bag, 2 muted white bags.
+  1x shiny green
+  2x muted white
+-> Parsed bag: {'name': 'shiny red', 'tree': {'shiny green': 1, 'muted white': 2}}
+shiny purple bags contain 1 wavy red bag, 1 drab magenta bag.
+  1x wavy red
+  1x drab magenta
+-> Parsed bag: {'name': 'shiny purple', 'tree': {'wavy red': 1, 'drab magenta': 1}}
+plaid tan bags contain 4 wavy bronze bags, 3 clear fuchsia bags.
+  4x wavy bronze
+  3x clear fuchsia
+-> Parsed bag: {'name': 'plaid tan', 'tree': {'wavy bronze': 4, 'clear fuchsia': 3}}
+drab orange bags contain 4 shiny salmon bags.
+  4x shiny salmon
+-> Parsed bag: {'name': 'drab orange', 'tree': {'shiny salmon': 4}}
+faded gold bags contain 2 pale bronze bags, 5 striped plum bags, 2 muted violet bags.
+  2x pale bronze
+  5x striped plum
+  2x muted violet
+-> Parsed bag: {'name': 'faded gold', 'tree': {'pale bronze': 2, 'striped plum': 5, 'muted violet': 2}}
+light magenta bags contain 5 bright tomato bags.
+  5x bright tomato
+-> Parsed bag: {'name': 'light magenta', 'tree': {'bright tomato': 5}}
+light yellow bags contain 5 posh gold bags, 5 faded lime bags.
+  5x posh gold
+  5x faded lime
+-> Parsed bag: {'name': 'light yellow', 'tree': {'posh gold': 5, 'faded lime': 5}}
+mirrored maroon bags contain 5 posh plum bags, 5 pale gold bags, 5 vibrant maroon bags.
+  5x posh plum
+  5x pale gold
+  5x vibrant maroon
+-> Parsed bag: {'name': 'mirrored maroon', 'tree': {'posh plum': 5, 'pale gold': 5, 'vibrant maroon': 5}}
+dark coral bags contain 3 shiny red bags, 3 posh fuchsia bags, 1 striped gold bag.
+  3x shiny red
+  3x posh fuchsia
+  1x striped gold
+-> Parsed bag: {'name': 'dark coral', 'tree': {'shiny red': 3, 'posh fuchsia': 3, 'striped gold': 1}}
+dark teal bags contain 2 striped red bags, 2 striped turquoise bags.
+  2x striped red
+  2x striped turquoise
+-> Parsed bag: {'name': 'dark teal', 'tree': {'striped red': 2, 'striped turquoise': 2}}
+dark purple bags contain 1 clear blue bag.
+  1x clear blue
+-> Parsed bag: {'name': 'dark purple', 'tree': {'clear blue': 1}}
+plaid gold bags contain 2 posh teal bags, 4 dim yellow bags, 3 pale red bags.
+  2x posh teal
+  4x dim yellow
+  3x pale red
+-> Parsed bag: {'name': 'plaid gold', 'tree': {'posh teal': 2, 'dim yellow': 4, 'pale red': 3}}
+dim coral bags contain 4 dull plum bags, 5 faded violet bags.
+  4x dull plum
+  5x faded violet
+-> Parsed bag: {'name': 'dim coral', 'tree': {'dull plum': 4, 'faded violet': 5}}
+vibrant salmon bags contain 4 plaid silver bags, 5 faded green bags, 5 clear indigo bags.
+  4x plaid silver
+  5x faded green
+  5x clear indigo
+-> Parsed bag: {'name': 'vibrant salmon', 'tree': {'plaid silver': 4, 'faded green': 5, 'clear indigo': 5}}
+bright brown bags contain 1 shiny plum bag, 1 dim magenta bag, 5 shiny turquoise bags, 4 dim yellow bags.
+  1x shiny plum
+  1x dim magenta
+  5x shiny turquoise
+  4x dim yellow
+-> Parsed bag: {'name': 'bright brown', 'tree': {'shiny plum': 1, 'dim magenta': 1, 'shiny turquoise': 5, 'dim yellow': 4}}
+vibrant crimson bags contain 4 pale red bags.
+  4x pale red
+-> Parsed bag: {'name': 'vibrant crimson', 'tree': {'pale red': 4}}
+posh crimson bags contain 4 plaid olive bags, 3 plaid orange bags.
+  4x plaid olive
+  3x plaid orange
+-> Parsed bag: {'name': 'posh crimson', 'tree': {'plaid olive': 4, 'plaid orange': 3}}
+faded indigo bags contain 1 clear red bag.
+  1x clear red
+-> Parsed bag: {'name': 'faded indigo', 'tree': {'clear red': 1}}
+wavy red bags contain 1 vibrant plum bag, 5 dotted lime bags.
+  1x vibrant plum
+  5x dotted lime
+-> Parsed bag: {'name': 'wavy red', 'tree': {'vibrant plum': 1, 'dotted lime': 5}}
+faded lavender bags contain 1 mirrored yellow bag, 4 vibrant plum bags.
+  1x mirrored yellow
+  4x vibrant plum
+-> Parsed bag: {'name': 'faded lavender', 'tree': {'mirrored yellow': 1, 'vibrant plum': 4}}
+drab silver bags contain 3 dark gray bags, 3 muted fuchsia bags.
+  3x dark gray
+  3x muted fuchsia
+-> Parsed bag: {'name': 'drab silver', 'tree': {'dark gray': 3, 'muted fuchsia': 3}}
+pale black bags contain 4 posh white bags, 3 pale blue bags, 5 shiny plum bags, 1 posh salmon bag.
+  4x posh white
+  3x pale blue
+  5x shiny plum
+  1x posh salmon
+-> Parsed bag: {'name': 'pale black', 'tree': {'posh white': 4, 'pale blue': 3, 'shiny plum': 5, 'posh salmon': 1}}
+posh tan bags contain 2 mirrored yellow bags, 3 striped bronze bags.
+  2x mirrored yellow
+  3x striped bronze
+-> Parsed bag: {'name': 'posh tan', 'tree': {'mirrored yellow': 2, 'striped bronze': 3}}
+drab aqua bags contain 1 dull silver bag, 1 dark tomato bag.
+  1x dull silver
+  1x dark tomato
+-> Parsed bag: {'name': 'drab aqua', 'tree': {'dull silver': 1, 'dark tomato': 1}}
+wavy plum bags contain 3 clear violet bags.
+  3x clear violet
+-> Parsed bag: {'name': 'wavy plum', 'tree': {'clear violet': 3}}
+shiny crimson bags contain 5 drab lime bags.
+  5x drab lime
+-> Parsed bag: {'name': 'shiny crimson', 'tree': {'drab lime': 5}}
+shiny lime bags contain 5 vibrant teal bags, 5 faded black bags, 1 dull black bag, 5 clear purple bags.
+  5x vibrant teal
+  5x faded black
+  1x dull black
+  5x clear purple
+-> Parsed bag: {'name': 'shiny lime', 'tree': {'vibrant teal': 5, 'faded black': 5, 'dull black': 1, 'clear purple': 5}}
+dark maroon bags contain 3 dull black bags.
+  3x dull black
+-> Parsed bag: {'name': 'dark maroon', 'tree': {'dull black': 3}}
+faded blue bags contain 4 bright blue bags, 1 mirrored lime bag, 5 shiny green bags.
+  4x bright blue
+  1x mirrored lime
+  5x shiny green
+-> Parsed bag: {'name': 'faded blue', 'tree': {'bright blue': 4, 'mirrored lime': 1, 'shiny green': 5}}
+clear turquoise bags contain 2 dim silver bags, 4 muted coral bags, 3 clear bronze bags, 4 light orange bags.
+  2x dim silver
+  4x muted coral
+  3x clear bronze
+  4x light orange
+-> Parsed bag: {'name': 'clear turquoise', 'tree': {'dim silver': 2, 'muted coral': 4, 'clear bronze': 3, 'light orange': 4}}
+striped yellow bags contain 1 dotted brown bag, 2 plaid coral bags.
+  1x dotted brown
+  2x plaid coral
+-> Parsed bag: {'name': 'striped yellow', 'tree': {'dotted brown': 1, 'plaid coral': 2}}
+pale coral bags contain 5 faded crimson bags, 3 drab tan bags, 2 dotted olive bags, 3 shiny blue bags.
+  5x faded crimson
+  3x drab tan
+  2x dotted olive
+  3x shiny blue
+-> Parsed bag: {'name': 'pale coral', 'tree': {'faded crimson': 5, 'drab tan': 3, 'dotted olive': 2, 'shiny blue': 3}}
+wavy black bags contain 1 mirrored yellow bag.
+  1x mirrored yellow
+-> Parsed bag: {'name': 'wavy black', 'tree': {'mirrored yellow': 1}}
+muted indigo bags contain 3 dim coral bags, 1 shiny lavender bag, 1 drab aqua bag, 5 faded blue bags.
+  3x dim coral
+  1x shiny lavender
+  1x drab aqua
+  5x faded blue
+-> Parsed bag: {'name': 'muted indigo', 'tree': {'dim coral': 3, 'shiny lavender': 1, 'drab aqua': 1, 'faded blue': 5}}
+dull aqua bags contain 4 dark gray bags, 3 mirrored orange bags, 3 pale red bags, 4 drab turquoise bags.
+  4x dark gray
+  3x mirrored orange
+  3x pale red
+  4x drab turquoise
+-> Parsed bag: {'name': 'dull aqua', 'tree': {'dark gray': 4, 'mirrored orange': 3, 'pale red': 3, 'drab turquoise': 4}}
+striped violet bags contain 4 posh red bags, 3 wavy violet bags, 1 pale aqua bag.
+  4x posh red
+  3x wavy violet
+  1x pale aqua
+-> Parsed bag: {'name': 'striped violet', 'tree': {'posh red': 4, 'wavy violet': 3, 'pale aqua': 1}}
+bright crimson bags contain 4 bright silver bags, 4 wavy beige bags, 5 striped fuchsia bags.
+  4x bright silver
+  4x wavy beige
+  5x striped fuchsia
+-> Parsed bag: {'name': 'bright crimson', 'tree': {'bright silver': 4, 'wavy beige': 4, 'striped fuchsia': 5}}
+wavy tomato bags contain 4 dim turquoise bags, 2 mirrored chartreuse bags.
+  4x dim turquoise
+  2x mirrored chartreuse
+-> Parsed bag: {'name': 'wavy tomato', 'tree': {'dim turquoise': 4, 'mirrored chartreuse': 2}}
+pale fuchsia bags contain 3 pale violet bags, 4 shiny turquoise bags, 1 drab white bag, 3 mirrored green bags.
+  3x pale violet
+  4x shiny turquoise
+  1x drab white
+  3x mirrored green
+-> Parsed bag: {'name': 'pale fuchsia', 'tree': {'pale violet': 3, 'shiny turquoise': 4, 'drab white': 1, 'mirrored green': 3}}
+mirrored gray bags contain 4 dim chartreuse bags, 4 bright chartreuse bags.
+  4x dim chartreuse
+  4x bright chartreuse
+-> Parsed bag: {'name': 'mirrored gray', 'tree': {'dim chartreuse': 4, 'bright chartreuse': 4}}
+mirrored bronze bags contain 4 drab olive bags, 5 drab white bags, 2 clear crimson bags, 1 dim aqua bag.
+  4x drab olive
+  5x drab white
+  2x clear crimson
+  1x dim aqua
+-> Parsed bag: {'name': 'mirrored bronze', 'tree': {'drab olive': 4, 'drab white': 5, 'clear crimson': 2, 'dim aqua': 1}}
+light crimson bags contain 5 plaid teal bags.
+  5x plaid teal
+-> Parsed bag: {'name': 'light crimson', 'tree': {'plaid teal': 5}}
+light lime bags contain 2 faded salmon bags, 5 dim indigo bags, 1 dotted lime bag, 5 striped green bags.
+  2x faded salmon
+  5x dim indigo
+  1x dotted lime
+  5x striped green
+-> Parsed bag: {'name': 'light lime', 'tree': {'faded salmon': 2, 'dim indigo': 5, 'dotted lime': 1, 'striped green': 5}}
+clear silver bags contain 4 vibrant cyan bags, 2 dotted olive bags.
+  4x vibrant cyan
+  2x dotted olive
+-> Parsed bag: {'name': 'clear silver', 'tree': {'vibrant cyan': 4, 'dotted olive': 2}}
+striped magenta bags contain 5 faded aqua bags.
+  5x faded aqua
+-> Parsed bag: {'name': 'striped magenta', 'tree': {'faded aqua': 5}}
+dark gray bags contain 2 bright white bags, 2 posh red bags.
+  2x bright white
+  2x posh red
+-> Parsed bag: {'name': 'dark gray', 'tree': {'bright white': 2, 'posh red': 2}}
+pale crimson bags contain 4 dark teal bags.
+  4x dark teal
+-> Parsed bag: {'name': 'pale crimson', 'tree': {'dark teal': 4}}
+dotted cyan bags contain 1 striped brown bag, 3 shiny green bags, 1 dull crimson bag, 1 bright crimson bag.
+  1x striped brown
+  3x shiny green
+  1x dull crimson
+  1x bright crimson
+-> Parsed bag: {'name': 'dotted cyan', 'tree': {'striped brown': 1, 'shiny green': 3, 'dull crimson': 1, 'bright crimson': 1}}
+clear violet bags contain 5 drab magenta bags, 2 striped brown bags, 2 striped fuchsia bags, 5 mirrored aqua bags.
+  5x drab magenta
+  2x striped brown
+  2x striped fuchsia
+  5x mirrored aqua
+-> Parsed bag: {'name': 'clear violet', 'tree': {'drab magenta': 5, 'striped brown': 2, 'striped fuchsia': 2, 'mirrored aqua': 5}}
+drab white bags contain 3 bright blue bags, 3 wavy purple bags, 4 mirrored lime bags, 4 dotted salmon bags.
+  3x bright blue
+  3x wavy purple
+  4x mirrored lime
+  4x dotted salmon
+-> Parsed bag: {'name': 'drab white', 'tree': {'bright blue': 3, 'wavy purple': 3, 'mirrored lime': 4, 'dotted salmon': 4}}
+plaid yellow bags contain 3 dull violet bags, 1 striped turquoise bag.
+  3x dull violet
+  1x striped turquoise
+-> Parsed bag: {'name': 'plaid yellow', 'tree': {'dull violet': 3, 'striped turquoise': 1}}
+clear gray bags contain 1 dim chartreuse bag, 2 dotted chartreuse bags, 5 dull plum bags.
+  1x dim chartreuse
+  2x dotted chartreuse
+  5x dull plum
+-> Parsed bag: {'name': 'clear gray', 'tree': {'dim chartreuse': 1, 'dotted chartreuse': 2, 'dull plum': 5}}
+pale cyan bags contain 2 striped tomato bags.
+  2x striped tomato
+-> Parsed bag: {'name': 'pale cyan', 'tree': {'striped tomato': 2}}
+pale turquoise bags contain 1 faded coral bag.
+  1x faded coral
+-> Parsed bag: {'name': 'pale turquoise', 'tree': {'faded coral': 1}}
+shiny aqua bags contain 3 dotted magenta bags.
+  3x dotted magenta
+-> Parsed bag: {'name': 'shiny aqua', 'tree': {'dotted magenta': 3}}
+dull tomato bags contain 5 vibrant indigo bags.
+  5x vibrant indigo
+-> Parsed bag: {'name': 'dull tomato', 'tree': {'vibrant indigo': 5}}
+light orange bags contain 1 posh lime bag, 5 bright yellow bags, 5 faded magenta bags, 2 pale beige bags.
+  1x posh lime
+  5x bright yellow
+  5x faded magenta
+  2x pale beige
+-> Parsed bag: {'name': 'light orange', 'tree': {'posh lime': 1, 'bright yellow': 5, 'faded magenta': 5, 'pale beige': 2}}
+dull white bags contain 1 dotted lavender bag, 1 pale beige bag, 5 posh black bags, 3 light silver bags.
+  1x dotted lavender
+  1x pale beige
+  5x posh black
+  3x light silver
+-> Parsed bag: {'name': 'dull white', 'tree': {'dotted lavender': 1, 'pale beige': 1, 'posh black': 5, 'light silver': 3}}
+drab yellow bags contain 2 shiny orange bags, 4 faded green bags.
+  2x shiny orange
+  4x faded green
+-> Parsed bag: {'name': 'drab yellow', 'tree': {'shiny orange': 2, 'faded green': 4}}
+bright gray bags contain 3 muted red bags, 4 dull orange bags, 5 mirrored yellow bags.
+  3x muted red
+  4x dull orange
+  5x mirrored yellow
+-> Parsed bag: {'name': 'bright gray', 'tree': {'muted red': 3, 'dull orange': 4, 'mirrored yellow': 5}}
+dim crimson bags contain 2 bright white bags.
+  2x bright white
+-> Parsed bag: {'name': 'dim crimson', 'tree': {'bright white': 2}}
+dim fuchsia bags contain 1 light silver bag.
+  1x light silver
+-> Parsed bag: {'name': 'dim fuchsia', 'tree': {'light silver': 1}}
+dim bronze bags contain 4 light blue bags, 1 light gray bag, 3 faded crimson bags, 2 posh tan bags.
+  4x light blue
+  1x light gray
+  3x faded crimson
+  2x posh tan
+-> Parsed bag: {'name': 'dim bronze', 'tree': {'light blue': 4, 'light gray': 1, 'faded crimson': 3, 'posh tan': 2}}
+muted tan bags contain 1 dark blue bag, 5 clear crimson bags, 1 striped silver bag.
+  1x dark blue
+  5x clear crimson
+  1x striped silver
+-> Parsed bag: {'name': 'muted tan', 'tree': {'dark blue': 1, 'clear crimson': 5, 'striped silver': 1}}
+dark gold bags contain 4 posh red bags, 5 drab blue bags.
+  4x posh red
+  5x drab blue
+-> Parsed bag: {'name': 'dark gold', 'tree': {'posh red': 4, 'drab blue': 5}}
+light tomato bags contain 3 wavy olive bags, 3 dark maroon bags, 5 shiny gold bags, 3 muted yellow bags.
+  3x wavy olive
+  3x dark maroon
+  5x shiny gold
+  3x muted yellow
+-> Parsed bag: {'name': 'light tomato', 'tree': {'wavy olive': 3, 'dark maroon': 3, 'shiny gold': 5, 'muted yellow': 3}}
+shiny fuchsia bags contain 2 faded lime bags, 5 drab beige bags.
+  2x faded lime
+  5x drab beige
+-> Parsed bag: {'name': 'shiny fuchsia', 'tree': {'faded lime': 2, 'drab beige': 5}}
+striped gold bags contain 1 dim blue bag.
+  1x dim blue
+-> Parsed bag: {'name': 'striped gold', 'tree': {'dim blue': 1}}
+light lavender bags contain 3 wavy fuchsia bags, 2 shiny salmon bags.
+  3x wavy fuchsia
+  2x shiny salmon
+-> Parsed bag: {'name': 'light lavender', 'tree': {'wavy fuchsia': 3, 'shiny salmon': 2}}
+shiny tomato bags contain 1 striped turquoise bag, 5 light gray bags, 2 dark tomato bags, 1 dull aqua bag.
+  1x striped turquoise
+  5x light gray
+  2x dark tomato
+  1x dull aqua
+-> Parsed bag: {'name': 'shiny tomato', 'tree': {'striped turquoise': 1, 'light gray': 5, 'dark tomato': 2, 'dull aqua': 1}}
+dotted indigo bags contain 2 dark indigo bags.
+  2x dark indigo
+-> Parsed bag: {'name': 'dotted indigo', 'tree': {'dark indigo': 2}}
+shiny blue bags contain 2 shiny red bags, 2 posh salmon bags, 5 dotted tomato bags.
+  2x shiny red
+  2x posh salmon
+  5x dotted tomato
+-> Parsed bag: {'name': 'shiny blue', 'tree': {'shiny red': 2, 'posh salmon': 2, 'dotted tomato': 5}}
+vibrant blue bags contain 2 plaid teal bags, 3 dim silver bags.
+  2x plaid teal
+  3x dim silver
+-> Parsed bag: {'name': 'vibrant blue', 'tree': {'plaid teal': 2, 'dim silver': 3}}
+pale blue bags contain 1 striped tomato bag.
+  1x striped tomato
+-> Parsed bag: {'name': 'pale blue', 'tree': {'striped tomato': 1}}
+dull magenta bags contain 1 striped chartreuse bag, 2 dark silver bags.
+  1x striped chartreuse
+  2x dark silver
+-> Parsed bag: {'name': 'dull magenta', 'tree': {'striped chartreuse': 1, 'dark silver': 2}}
+drab blue bags contain 2 dark gray bags, 4 dotted lime bags, 3 shiny green bags, 3 wavy olive bags.
+  2x dark gray
+  4x dotted lime
+  3x shiny green
+  3x wavy olive
+-> Parsed bag: {'name': 'drab blue', 'tree': {'dark gray': 2, 'dotted lime': 4, 'shiny green': 3, 'wavy olive': 3}}
+light bronze bags contain 3 wavy silver bags, 1 wavy coral bag, 4 faded green bags.
+  3x wavy silver
+  1x wavy coral
+  4x faded green
+-> Parsed bag: {'name': 'light bronze', 'tree': {'wavy silver': 3, 'wavy coral': 1, 'faded green': 4}}
+muted beige bags contain 4 dull coral bags, 3 dim chartreuse bags, 3 pale blue bags, 2 plaid lavender bags.
+  4x dull coral
+  3x dim chartreuse
+  3x pale blue
+  2x plaid lavender
+-> Parsed bag: {'name': 'muted beige', 'tree': {'dull coral': 4, 'dim chartreuse': 3, 'pale blue': 3, 'plaid lavender': 2}}
+bright plum bags contain 1 plaid indigo bag, 2 dark purple bags, 5 dark indigo bags, 5 vibrant crimson bags.
+  1x plaid indigo
+  2x dark purple
+  5x dark indigo
+  5x vibrant crimson
+-> Parsed bag: {'name': 'bright plum', 'tree': {'plaid indigo': 1, 'dark purple': 2, 'dark indigo': 5, 'vibrant crimson': 5}}
+plaid salmon bags contain 3 dark gold bags, 1 dotted lavender bag, 5 wavy red bags, 1 bright olive bag.
+  3x dark gold
+  1x dotted lavender
+  5x wavy red
+  1x bright olive
+-> Parsed bag: {'name': 'plaid salmon', 'tree': {'dark gold': 3, 'dotted lavender': 1, 'wavy red': 5, 'bright olive': 1}}
+dim lime bags contain 4 wavy brown bags, 5 wavy fuchsia bags, 1 dark tomato bag.
+  4x wavy brown
+  5x wavy fuchsia
+  1x dark tomato
+-> Parsed bag: {'name': 'dim lime', 'tree': {'wavy brown': 4, 'wavy fuchsia': 5, 'dark tomato': 1}}
+dark aqua bags contain 5 wavy beige bags, 3 pale yellow bags, 2 bright white bags, 2 muted violet bags.
+  5x wavy beige
+  3x pale yellow
+  2x bright white
+  2x muted violet
+-> Parsed bag: {'name': 'dark aqua', 'tree': {'wavy beige': 5, 'pale yellow': 3, 'bright white': 2, 'muted violet': 2}}
+light coral bags contain 4 dotted coral bags, 1 pale indigo bag, 3 dull brown bags, 4 plaid white bags.
+  4x dotted coral
+  1x pale indigo
+  3x dull brown
+  4x plaid white
+-> Parsed bag: {'name': 'light coral', 'tree': {'dotted coral': 4, 'pale indigo': 1, 'dull brown': 3, 'plaid white': 4}}
+clear purple bags contain 4 dark aqua bags, 5 vibrant white bags.
+  4x dark aqua
+  5x vibrant white
+-> Parsed bag: {'name': 'clear purple', 'tree': {'dark aqua': 4, 'vibrant white': 5}}
+striped plum bags contain 2 plaid gold bags, 1 dim silver bag.
+  2x plaid gold
+  1x dim silver
+-> Parsed bag: {'name': 'striped plum', 'tree': {'plaid gold': 2, 'dim silver': 1}}
+mirrored yellow bags contain no other bags.
+-> Parsed bag: {'name': 'mirrored yellow', 'tree': {}}
+shiny olive bags contain 5 dotted lavender bags.
+  5x dotted lavender
+-> Parsed bag: {'name': 'shiny olive', 'tree': {'dotted lavender': 5}}
+pale gold bags contain 2 plaid orange bags, 5 bright yellow bags.
+  2x plaid orange
+  5x bright yellow
+-> Parsed bag: {'name': 'pale gold', 'tree': {'plaid orange': 2, 'bright yellow': 5}}
+dotted violet bags contain 3 dim orange bags.
+  3x dim orange
+-> Parsed bag: {'name': 'dotted violet', 'tree': {'dim orange': 3}}
+mirrored blue bags contain 2 mirrored coral bags, 5 posh green bags, 1 wavy teal bag.
+  2x mirrored coral
+  5x posh green
+  1x wavy teal
+-> Parsed bag: {'name': 'mirrored blue', 'tree': {'mirrored coral': 2, 'posh green': 5, 'wavy teal': 1}}
+plaid green bags contain 3 wavy red bags.
+  3x wavy red
+-> Parsed bag: {'name': 'plaid green', 'tree': {'wavy red': 3}}
+wavy cyan bags contain 4 dull crimson bags, 2 dim chartreuse bags.
+  4x dull crimson
+  2x dim chartreuse
+-> Parsed bag: {'name': 'wavy cyan', 'tree': {'dull crimson': 4, 'dim chartreuse': 2}}
+dull beige bags contain 1 shiny black bag, 5 posh green bags, 2 pale gray bags, 3 posh gray bags.
+  1x shiny black
+  5x posh green
+  2x pale gray
+  3x posh gray
+-> Parsed bag: {'name': 'dull beige', 'tree': {'shiny black': 1, 'posh green': 5, 'pale gray': 2, 'posh gray': 3}}
+dark indigo bags contain 3 drab plum bags.
+  3x drab plum
+-> Parsed bag: {'name': 'dark indigo', 'tree': {'drab plum': 3}}
+striped black bags contain 1 bright green bag, 4 muted silver bags, 1 plaid crimson bag.
+  1x bright green
+  4x muted silver
+  1x plaid crimson
+-> Parsed bag: {'name': 'striped black', 'tree': {'bright green': 1, 'muted silver': 4, 'plaid crimson': 1}}
+plaid indigo bags contain 2 drab lime bags, 1 faded plum bag, 5 bright yellow bags.
+  2x drab lime
+  1x faded plum
+  5x bright yellow
+-> Parsed bag: {'name': 'plaid indigo', 'tree': {'drab lime': 2, 'faded plum': 1, 'bright yellow': 5}}
+shiny maroon bags contain 3 dark cyan bags, 1 dotted chartreuse bag.
+  3x dark cyan
+  1x dotted chartreuse
+-> Parsed bag: {'name': 'shiny maroon', 'tree': {'dark cyan': 3, 'dotted chartreuse': 1}}
+dotted lime bags contain 5 light silver bags, 1 shiny green bag, 1 mirrored aqua bag.
+  5x light silver
+  1x shiny green
+  1x mirrored aqua
+-> Parsed bag: {'name': 'dotted lime', 'tree': {'light silver': 5, 'shiny green': 1, 'mirrored aqua': 1}}
+posh beige bags contain 4 mirrored aqua bags, 2 mirrored black bags, 3 wavy blue bags, 1 plaid cyan bag.
+  4x mirrored aqua
+  2x mirrored black
+  3x wavy blue
+  1x plaid cyan
+-> Parsed bag: {'name': 'posh beige', 'tree': {'mirrored aqua': 4, 'mirrored black': 2, 'wavy blue': 3, 'plaid cyan': 1}}
+bright cyan bags contain 4 mirrored aqua bags, 5 dotted fuchsia bags, 1 wavy plum bag.
+  4x mirrored aqua
+  5x dotted fuchsia
+  1x wavy plum
+-> Parsed bag: {'name': 'bright cyan', 'tree': {'mirrored aqua': 4, 'dotted fuchsia': 5, 'wavy plum': 1}}
+plaid white bags contain 5 vibrant lime bags, 5 dull magenta bags, 2 pale blue bags, 5 plaid cyan bags.
+  5x vibrant lime
+  5x dull magenta
+  2x pale blue
+  5x plaid cyan
+-> Parsed bag: {'name': 'plaid white', 'tree': {'vibrant lime': 5, 'dull magenta': 5, 'pale blue': 2, 'plaid cyan': 5}}
+drab maroon bags contain 1 clear violet bag, 5 posh green bags, 3 dotted bronze bags, 2 dark silver bags.
+  1x clear violet
+  5x posh green
+  3x dotted bronze
+  2x dark silver
+-> Parsed bag: {'name': 'drab maroon', 'tree': {'clear violet': 1, 'posh green': 5, 'dotted bronze': 3, 'dark silver': 2}}
+plaid bronze bags contain 4 shiny plum bags, 5 dim brown bags.
+  4x shiny plum
+  5x dim brown
+-> Parsed bag: {'name': 'plaid bronze', 'tree': {'shiny plum': 4, 'dim brown': 5}}
+dim magenta bags contain 2 muted chartreuse bags, 4 wavy lavender bags.
+  2x muted chartreuse
+  4x wavy lavender
+-> Parsed bag: {'name': 'dim magenta', 'tree': {'muted chartreuse': 2, 'wavy lavender': 4}}
+clear blue bags contain 1 muted yellow bag, 5 muted fuchsia bags.
+  1x muted yellow
+  5x muted fuchsia
+-> Parsed bag: {'name': 'clear blue', 'tree': {'muted yellow': 1, 'muted fuchsia': 5}}
+dotted salmon bags contain 3 muted silver bags, 4 mirrored yellow bags, 1 vibrant red bag.
+  3x muted silver
+  4x mirrored yellow
+  1x vibrant red
+-> Parsed bag: {'name': 'dotted salmon', 'tree': {'muted silver': 3, 'mirrored yellow': 4, 'vibrant red': 1}}
+posh orange bags contain 2 pale violet bags, 3 posh maroon bags.
+  2x pale violet
+  3x posh maroon
+-> Parsed bag: {'name': 'posh orange', 'tree': {'pale violet': 2, 'posh maroon': 3}}
+mirrored red bags contain 5 posh crimson bags, 1 light green bag, 1 striped black bag, 2 dark black bags.
+  5x posh crimson
+  1x light green
+  1x striped black
+  2x dark black
+-> Parsed bag: {'name': 'mirrored red', 'tree': {'posh crimson': 5, 'light green': 1, 'striped black': 1, 'dark black': 2}}
+vibrant green bags contain 5 faded fuchsia bags, 4 faded orange bags, 3 clear turquoise bags.
+  5x faded fuchsia
+  4x faded orange
+  3x clear turquoise
+-> Parsed bag: {'name': 'vibrant green', 'tree': {'faded fuchsia': 5, 'faded orange': 4, 'clear turquoise': 3}}
+pale violet bags contain 2 bright teal bags, 5 faded crimson bags.
+  2x bright teal
+  5x faded crimson
+-> Parsed bag: {'name': 'pale violet', 'tree': {'bright teal': 2, 'faded crimson': 5}}
+clear brown bags contain 3 posh coral bags, 2 vibrant maroon bags, 1 drab olive bag, 5 mirrored cyan bags.
+  3x posh coral
+  2x vibrant maroon
+  1x drab olive
+  5x mirrored cyan
+-> Parsed bag: {'name': 'clear brown', 'tree': {'posh coral': 3, 'vibrant maroon': 2, 'drab olive': 1, 'mirrored cyan': 5}}
+vibrant violet bags contain 4 dark purple bags, 4 striped olive bags, 5 faded fuchsia bags.
+  4x dark purple
+  4x striped olive
+  5x faded fuchsia
+-> Parsed bag: {'name': 'vibrant violet', 'tree': {'dark purple': 4, 'striped olive': 4, 'faded fuchsia': 5}}
+pale green bags contain 4 posh green bags, 2 striped lime bags.
+  4x posh green
+  2x striped lime
+-> Parsed bag: {'name': 'pale green', 'tree': {'posh green': 4, 'striped lime': 2}}
+light maroon bags contain 3 dull cyan bags, 4 dim red bags.
+  3x dull cyan
+  4x dim red
+-> Parsed bag: {'name': 'light maroon', 'tree': {'dull cyan': 3, 'dim red': 4}}
+wavy salmon bags contain 4 drab lavender bags, 5 bright gray bags.
+  4x drab lavender
+  5x bright gray
+-> Parsed bag: {'name': 'wavy salmon', 'tree': {'drab lavender': 4, 'bright gray': 5}}
+dotted yellow bags contain 4 mirrored black bags, 1 dim plum bag.
+  4x mirrored black
+  1x dim plum
+-> Parsed bag: {'name': 'dotted yellow', 'tree': {'mirrored black': 4, 'dim plum': 1}}
+drab crimson bags contain 5 striped fuchsia bags, 1 pale indigo bag.
+  5x striped fuchsia
+  1x pale indigo
+-> Parsed bag: {'name': 'drab crimson', 'tree': {'striped fuchsia': 5, 'pale indigo': 1}}
+vibrant tomato bags contain 1 dotted lime bag, 1 dotted green bag, 5 light teal bags, 2 light indigo bags.
+  1x dotted lime
+  1x dotted green
+  5x light teal
+  2x light indigo
+-> Parsed bag: {'name': 'vibrant tomato', 'tree': {'dotted lime': 1, 'dotted green': 1, 'light teal': 5, 'light indigo': 2}}
+wavy olive bags contain 4 muted white bags, 5 muted silver bags.
+  4x muted white
+  5x muted silver
+-> Parsed bag: {'name': 'wavy olive', 'tree': {'muted white': 4, 'muted silver': 5}}
+wavy lime bags contain 2 vibrant bronze bags, 3 vibrant gray bags.
+  2x vibrant bronze
+  3x vibrant gray
+-> Parsed bag: {'name': 'wavy lime', 'tree': {'vibrant bronze': 2, 'vibrant gray': 3}}
+striped lime bags contain 1 faded brown bag, 3 vibrant red bags, 4 mirrored gray bags.
+  1x faded brown
+  3x vibrant red
+  4x mirrored gray
+-> Parsed bag: {'name': 'striped lime', 'tree': {'faded brown': 1, 'vibrant red': 3, 'mirrored gray': 4}}
+wavy crimson bags contain 1 striped silver bag, 5 pale magenta bags, 1 wavy gray bag, 5 vibrant plum bags.
+  1x striped silver
+  5x pale magenta
+  1x wavy gray
+  5x vibrant plum
+-> Parsed bag: {'name': 'wavy crimson', 'tree': {'striped silver': 1, 'pale magenta': 5, 'wavy gray': 1, 'vibrant plum': 5}}
+wavy indigo bags contain 3 shiny cyan bags, 5 light orange bags.
+  3x shiny cyan
+  5x light orange
+-> Parsed bag: {'name': 'wavy indigo', 'tree': {'shiny cyan': 3, 'light orange': 5}}
+posh fuchsia bags contain 5 dark aqua bags, 1 muted white bag, 2 shiny green bags, 5 dull black bags.
+  5x dark aqua
+  1x muted white
+  2x shiny green
+  5x dull black
+-> Parsed bag: {'name': 'posh fuchsia', 'tree': {'dark aqua': 5, 'muted white': 1, 'shiny green': 2, 'dull black': 5}}
+striped maroon bags contain 5 striped fuchsia bags, 5 muted chartreuse bags, 5 dark purple bags, 4 shiny gold bags.
+  5x striped fuchsia
+  5x muted chartreuse
+  5x dark purple
+  4x shiny gold
+-> Parsed bag: {'name': 'striped maroon', 'tree': {'striped fuchsia': 5, 'muted chartreuse': 5, 'dark purple': 5, 'shiny gold': 4}}
+dull gray bags contain 5 dark tomato bags, 3 shiny purple bags, 5 faded violet bags, 1 dull silver bag.
+  5x dark tomato
+  3x shiny purple
+  5x faded violet
+  1x dull silver
+-> Parsed bag: {'name': 'dull gray', 'tree': {'dark tomato': 5, 'shiny purple': 3, 'faded violet': 5, 'dull silver': 1}}
+dotted bronze bags contain 4 dark blue bags.
+  4x dark blue
+-> Parsed bag: {'name': 'dotted bronze', 'tree': {'dark blue': 4}}
+muted olive bags contain 4 mirrored lavender bags.
+  4x mirrored lavender
+-> Parsed bag: {'name': 'muted olive', 'tree': {'mirrored lavender': 4}}
+dark plum bags contain 2 faded lime bags.
+  2x faded lime
+-> Parsed bag: {'name': 'dark plum', 'tree': {'faded lime': 2}}
+drab tomato bags contain 2 posh chartreuse bags, 4 vibrant indigo bags.
+  2x posh chartreuse
+  4x vibrant indigo
+-> Parsed bag: {'name': 'drab tomato', 'tree': {'posh chartreuse': 2, 'vibrant indigo': 4}}
+plaid teal bags contain 5 dark gray bags, 4 light silver bags.
+  5x dark gray
+  4x light silver
+-> Parsed bag: {'name': 'plaid teal', 'tree': {'dark gray': 5, 'light silver': 4}}
+drab teal bags contain 3 pale salmon bags.
+  3x pale salmon
+-> Parsed bag: {'name': 'drab teal', 'tree': {'pale salmon': 3}}
+wavy brown bags contain 5 plaid red bags.
+  5x plaid red
+-> Parsed bag: {'name': 'wavy brown', 'tree': {'plaid red': 5}}
+mirrored violet bags contain 4 vibrant brown bags, 4 dull crimson bags, 4 shiny violet bags, 1 dim magenta bag.
+  4x vibrant brown
+  4x dull crimson
+  4x shiny violet
+  1x dim magenta
+-> Parsed bag: {'name': 'mirrored violet', 'tree': {'vibrant brown': 4, 'dull crimson': 4, 'shiny violet': 4, 'dim magenta': 1}}
+faded silver bags contain 2 bright teal bags, 2 shiny green bags.
+  2x bright teal
+  2x shiny green
+-> Parsed bag: {'name': 'faded silver', 'tree': {'bright teal': 2, 'shiny green': 2}}
+dark bronze bags contain 3 muted violet bags, 5 plaid cyan bags.
+  3x muted violet
+  5x plaid cyan
+-> Parsed bag: {'name': 'dark bronze', 'tree': {'muted violet': 3, 'plaid cyan': 5}}
+dim tomato bags contain 3 dotted black bags.
+  3x dotted black
+-> Parsed bag: {'name': 'dim tomato', 'tree': {'dotted black': 3}}
+muted tomato bags contain 3 posh crimson bags, 2 muted yellow bags.
+  3x posh crimson
+  2x muted yellow
+-> Parsed bag: {'name': 'muted tomato', 'tree': {'posh crimson': 3, 'muted yellow': 2}}
+bright orange bags contain 3 pale silver bags.
+  3x pale silver
+-> Parsed bag: {'name': 'bright orange', 'tree': {'pale silver': 3}}
+dotted tomato bags contain 5 posh tan bags, 3 dotted lavender bags.
+  5x posh tan
+  3x dotted lavender
+-> Parsed bag: {'name': 'dotted tomato', 'tree': {'posh tan': 5, 'dotted lavender': 3}}
+bright white bags contain no other bags.
+-> Parsed bag: {'name': 'bright white', 'tree': {}}
+dotted white bags contain 1 dim yellow bag, 5 plaid orange bags, 1 bright chartreuse bag.
+  1x dim yellow
+  5x plaid orange
+  1x bright chartreuse
+-> Parsed bag: {'name': 'dotted white', 'tree': {'dim yellow': 1, 'plaid orange': 5, 'bright chartreuse': 1}}
+vibrant teal bags contain 2 vibrant red bags.
+  2x vibrant red
+-> Parsed bag: {'name': 'vibrant teal', 'tree': {'vibrant red': 2}}
+light beige bags contain 5 wavy crimson bags, 5 mirrored aqua bags, 5 light yellow bags.
+  5x wavy crimson
+  5x mirrored aqua
+  5x light yellow
+-> Parsed bag: {'name': 'light beige', 'tree': {'wavy crimson': 5, 'mirrored aqua': 5, 'light yellow': 5}}
+drab black bags contain 2 dotted lime bags, 2 mirrored fuchsia bags.
+  2x dotted lime
+  2x mirrored fuchsia
+-> Parsed bag: {'name': 'drab black', 'tree': {'dotted lime': 2, 'mirrored fuchsia': 2}}
+drab salmon bags contain 5 pale indigo bags.
+  5x pale indigo
+-> Parsed bag: {'name': 'drab salmon', 'tree': {'pale indigo': 5}}
+bright silver bags contain 4 wavy red bags.
+  4x wavy red
+-> Parsed bag: {'name': 'bright silver', 'tree': {'wavy red': 4}}
+pale lime bags contain 1 dark indigo bag.
+  1x dark indigo
+-> Parsed bag: {'name': 'pale lime', 'tree': {'dark indigo': 1}}
+dark red bags contain 4 vibrant white bags, 1 dark violet bag.
+  4x vibrant white
+  1x dark violet
+-> Parsed bag: {'name': 'dark red', 'tree': {'vibrant white': 4, 'dark violet': 1}}
+dull coral bags contain 3 dark indigo bags, 3 bright plum bags, 2 wavy silver bags, 4 clear bronze bags.
+  3x dark indigo
+  3x bright plum
+  2x wavy silver
+  4x clear bronze
+-> Parsed bag: {'name': 'dull coral', 'tree': {'dark indigo': 3, 'bright plum': 3, 'wavy silver': 2, 'clear bronze': 4}}
+vibrant white bags contain 1 dotted lime bag, 3 mirrored aqua bags.
+  1x dotted lime
+  3x mirrored aqua
+-> Parsed bag: {'name': 'vibrant white', 'tree': {'dotted lime': 1, 'mirrored aqua': 3}}
+posh red bags contain no other bags.
+-> Parsed bag: {'name': 'posh red', 'tree': {}}
+muted fuchsia bags contain 1 bright blue bag.
+  1x bright blue
+-> Parsed bag: {'name': 'muted fuchsia', 'tree': {'bright blue': 1}}
+bright aqua bags contain 1 shiny blue bag, 4 dark red bags, 2 wavy fuchsia bags, 4 pale gold bags.
+  1x shiny blue
+  4x dark red
+  2x wavy fuchsia
+  4x pale gold
+-> Parsed bag: {'name': 'bright aqua', 'tree': {'shiny blue': 1, 'dark red': 4, 'wavy fuchsia': 2, 'pale gold': 4}}
+vibrant magenta bags contain 5 clear red bags.
+  5x clear red
+-> Parsed bag: {'name': 'vibrant magenta', 'tree': {'clear red': 5}}
+light indigo bags contain 4 dark red bags, 3 vibrant salmon bags.
+  4x dark red
+  3x vibrant salmon
+-> Parsed bag: {'name': 'light indigo', 'tree': {'dark red': 4, 'vibrant salmon': 3}}
+mirrored tan bags contain 5 muted teal bags.
+  5x muted teal
+-> Parsed bag: {'name': 'mirrored tan', 'tree': {'muted teal': 5}}
+dim teal bags contain 1 drab lime bag, 2 drab bronze bags, 4 bright lavender bags, 5 posh salmon bags.
+  1x drab lime
+  2x drab bronze
+  4x bright lavender
+  5x posh salmon
+-> Parsed bag: {'name': 'dim teal', 'tree': {'drab lime': 1, 'drab bronze': 2, 'bright lavender': 4, 'posh salmon': 5}}
+shiny black bags contain 2 faded yellow bags, 1 shiny blue bag, 5 dark teal bags, 2 light crimson bags.
+  2x faded yellow
+  1x shiny blue
+  5x dark teal
+  2x light crimson
+-> Parsed bag: {'name': 'shiny black', 'tree': {'faded yellow': 2, 'shiny blue': 1, 'dark teal': 5, 'light crimson': 2}}
+drab plum bags contain 2 muted fuchsia bags.
+  2x muted fuchsia
+-> Parsed bag: {'name': 'drab plum', 'tree': {'muted fuchsia': 2}}
+muted turquoise bags contain 1 faded plum bag, 3 plaid red bags, 3 dotted lavender bags.
+  1x faded plum
+  3x plaid red
+  3x dotted lavender
+-> Parsed bag: {'name': 'muted turquoise', 'tree': {'faded plum': 1, 'plaid red': 3, 'dotted lavender': 3}}
+muted brown bags contain 1 dotted magenta bag, 4 pale red bags, 4 posh violet bags, 3 muted yellow bags.
+  1x dotted magenta
+  4x pale red
+  4x posh violet
+  3x muted yellow
+-> Parsed bag: {'name': 'muted brown', 'tree': {'dotted magenta': 1, 'pale red': 4, 'posh violet': 4, 'muted yellow': 3}}
+dull olive bags contain 2 drab magenta bags, 2 plaid crimson bags.
+  2x drab magenta
+  2x plaid crimson
+-> Parsed bag: {'name': 'dull olive', 'tree': {'drab magenta': 2, 'plaid crimson': 2}}
+drab coral bags contain 1 dull blue bag, 2 striped white bags, 1 plaid indigo bag, 2 shiny violet bags.
+  1x dull blue
+  2x striped white
+  1x plaid indigo
+  2x shiny violet
+-> Parsed bag: {'name': 'drab coral', 'tree': {'dull blue': 1, 'striped white': 2, 'plaid indigo': 1, 'shiny violet': 2}}
+mirrored white bags contain 1 dull fuchsia bag, 3 muted white bags, 5 faded lime bags.
+  1x dull fuchsia
+  3x muted white
+  5x faded lime
+-> Parsed bag: {'name': 'mirrored white', 'tree': {'dull fuchsia': 1, 'muted white': 3, 'faded lime': 5}}
+shiny gold bags contain 1 pale indigo bag, 3 pale yellow bags.
+  1x pale indigo
+  3x pale yellow
+-> Parsed bag: {'name': 'shiny gold', 'tree': {'pale indigo': 1, 'pale yellow': 3}}
+vibrant tan bags contain 2 dull fuchsia bags, 1 faded bronze bag, 5 shiny orange bags.
+  2x dull fuchsia
+  1x faded bronze
+  5x shiny orange
+-> Parsed bag: {'name': 'vibrant tan', 'tree': {'dull fuchsia': 2, 'faded bronze': 1, 'shiny orange': 5}}
+dark olive bags contain 3 bright green bags, 5 wavy beige bags, 4 muted tan bags.
+  3x bright green
+  5x wavy beige
+  4x muted tan
+-> Parsed bag: {'name': 'dark olive', 'tree': {'bright green': 3, 'wavy beige': 5, 'muted tan': 4}}
+light chartreuse bags contain 4 dark turquoise bags, 2 striped gold bags.
+  4x dark turquoise
+  2x striped gold
+-> Parsed bag: {'name': 'light chartreuse', 'tree': {'dark turquoise': 4, 'striped gold': 2}}
+mirrored salmon bags contain 1 plaid lavender bag, 5 dim white bags.
+  1x plaid lavender
+  5x dim white
+-> Parsed bag: {'name': 'mirrored salmon', 'tree': {'plaid lavender': 1, 'dim white': 5}}
+mirrored crimson bags contain 3 dark teal bags, 1 striped silver bag, 3 clear blue bags.
+  3x dark teal
+  1x striped silver
+  3x clear blue
+-> Parsed bag: {'name': 'mirrored crimson', 'tree': {'dark teal': 3, 'striped silver': 1, 'clear blue': 3}}
+wavy gray bags contain 3 plaid maroon bags, 5 clear crimson bags, 1 dull purple bag, 2 drab brown bags.
+  3x plaid maroon
+  5x clear crimson
+  1x dull purple
+  2x drab brown
+-> Parsed bag: {'name': 'wavy gray', 'tree': {'plaid maroon': 3, 'clear crimson': 5, 'dull purple': 1, 'drab brown': 2}}
+mirrored green bags contain 4 vibrant white bags, 3 shiny cyan bags.
+  4x vibrant white
+  3x shiny cyan
+-> Parsed bag: {'name': 'mirrored green', 'tree': {'vibrant white': 4, 'shiny cyan': 3}}
+vibrant gray bags contain 2 dotted salmon bags, 5 drab black bags, 4 shiny red bags.
+  2x dotted salmon
+  5x drab black
+  4x shiny red
+-> Parsed bag: {'name': 'vibrant gray', 'tree': {'dotted salmon': 2, 'drab black': 5, 'shiny red': 4}}
+dull black bags contain 1 dark gray bag, 1 mirrored yellow bag, 4 dark aqua bags.
+  1x dark gray
+  1x mirrored yellow
+  4x dark aqua
+-> Parsed bag: {'name': 'dull black', 'tree': {'dark gray': 1, 'mirrored yellow': 1, 'dark aqua': 4}}
+dim plum bags contain 2 clear blue bags, 3 shiny turquoise bags.
+  2x clear blue
+  3x shiny turquoise
+-> Parsed bag: {'name': 'dim plum', 'tree': {'clear blue': 2, 'shiny turquoise': 3}}
+posh aqua bags contain 4 bright white bags, 2 pale yellow bags.
+  4x bright white
+  2x pale yellow
+-> Parsed bag: {'name': 'posh aqua', 'tree': {'bright white': 4, 'pale yellow': 2}}
+muted yellow bags contain 4 dark aqua bags, 3 muted silver bags, 3 bright white bags, 3 mirrored orange bags.
+  4x dark aqua
+  3x muted silver
+  3x bright white
+  3x mirrored orange
+-> Parsed bag: {'name': 'muted yellow', 'tree': {'dark aqua': 4, 'muted silver': 3, 'bright white': 3, 'mirrored orange': 3}}
+dark crimson bags contain 5 wavy salmon bags.
+  5x wavy salmon
+-> Parsed bag: {'name': 'dark crimson', 'tree': {'wavy salmon': 5}}
+bright gold bags contain 3 drab lavender bags, 2 dotted magenta bags, 5 dim chartreuse bags, 1 plaid gray bag.
+  3x drab lavender
+  2x dotted magenta
+  5x dim chartreuse
+  1x plaid gray
+-> Parsed bag: {'name': 'bright gold', 'tree': {'drab lavender': 3, 'dotted magenta': 2, 'dim chartreuse': 5, 'plaid gray': 1}}
+dim purple bags contain 4 clear silver bags, 1 faded purple bag, 2 faded blue bags.
+  4x clear silver
+  1x faded purple
+  2x faded blue
+-> Parsed bag: {'name': 'dim purple', 'tree': {'clear silver': 4, 'faded purple': 1, 'faded blue': 2}}
+light gray bags contain 4 dotted bronze bags.
+  4x dotted bronze
+-> Parsed bag: {'name': 'light gray', 'tree': {'dotted bronze': 4}}
+bright chartreuse bags contain 3 vibrant white bags, 1 wavy red bag, 1 faded violet bag, 5 dull fuchsia bags.
+  3x vibrant white
+  1x wavy red
+  1x faded violet
+  5x dull fuchsia
+-> Parsed bag: {'name': 'bright chartreuse', 'tree': {'vibrant white': 3, 'wavy red': 1, 'faded violet': 1, 'dull fuchsia': 5}}
+shiny tan bags contain 3 dim red bags, 1 shiny orange bag, 4 clear violet bags.
+  3x dim red
+  1x shiny orange
+  4x clear violet
+-> Parsed bag: {'name': 'shiny tan', 'tree': {'dim red': 3, 'shiny orange': 1, 'clear violet': 4}}
+shiny coral bags contain 1 dull black bag.
+  1x dull black
+-> Parsed bag: {'name': 'shiny coral', 'tree': {'dull black': 1}}
+dull indigo bags contain 3 drab blue bags, 2 light gray bags, 3 dim turquoise bags.
+  3x drab blue
+  2x light gray
+  3x dim turquoise
+-> Parsed bag: {'name': 'dull indigo', 'tree': {'drab blue': 3, 'light gray': 2, 'dim turquoise': 3}}
+dim brown bags contain 1 drab turquoise bag, 5 dull black bags, 1 posh aqua bag.
+  1x drab turquoise
+  5x dull black
+  1x posh aqua
+-> Parsed bag: {'name': 'dim brown', 'tree': {'drab turquoise': 1, 'dull black': 5, 'posh aqua': 1}}
+bright fuchsia bags contain 3 bright olive bags.
+  3x bright olive
+-> Parsed bag: {'name': 'bright fuchsia', 'tree': {'bright olive': 3}}
+light brown bags contain 2 muted tan bags.
+  2x muted tan
+-> Parsed bag: {'name': 'light brown', 'tree': {'muted tan': 2}}
+posh plum bags contain 5 striped fuchsia bags, 5 shiny cyan bags, 5 shiny violet bags, 1 shiny green bag.
+  5x striped fuchsia
+  5x shiny cyan
+  5x shiny violet
+  1x shiny green
+-> Parsed bag: {'name': 'posh plum', 'tree': {'striped fuchsia': 5, 'shiny cyan': 5, 'shiny violet': 5, 'shiny green': 1}}
+drab bronze bags contain 4 dotted aqua bags, 5 shiny orange bags, 3 dull aqua bags.
+  4x dotted aqua
+  5x shiny orange
+  3x dull aqua
+-> Parsed bag: {'name': 'drab bronze', 'tree': {'dotted aqua': 4, 'shiny orange': 5, 'dull aqua': 3}}
+dim beige bags contain 3 striped bronze bags.
+  3x striped bronze
+-> Parsed bag: {'name': 'dim beige', 'tree': {'striped bronze': 3}}
+dark lavender bags contain 1 posh salmon bag, 5 dotted teal bags, 5 dim blue bags, 4 pale beige bags.
+  1x posh salmon
+  5x dotted teal
+  5x dim blue
+  4x pale beige
+-> Parsed bag: {'name': 'dark lavender', 'tree': {'posh salmon': 1, 'dotted teal': 5, 'dim blue': 5, 'pale beige': 4}}
+light black bags contain 1 clear orange bag.
+  1x clear orange
+-> Parsed bag: {'name': 'light black', 'tree': {'clear orange': 1}}
+clear white bags contain 3 vibrant aqua bags, 2 pale aqua bags.
+  3x vibrant aqua
+  2x pale aqua
+-> Parsed bag: {'name': 'clear white', 'tree': {'vibrant aqua': 3, 'pale aqua': 2}}
+pale white bags contain 5 faded magenta bags.
+  5x faded magenta
+-> Parsed bag: {'name': 'pale white', 'tree': {'faded magenta': 5}}
+vibrant cyan bags contain 5 light lime bags, 4 bright purple bags, 4 clear black bags.
+  5x light lime
+  4x bright purple
+  4x clear black
+-> Parsed bag: {'name': 'vibrant cyan', 'tree': {'light lime': 5, 'bright purple': 4, 'clear black': 4}}
+bright lime bags contain 5 dim silver bags.
+  5x dim silver
+-> Parsed bag: {'name': 'bright lime', 'tree': {'dim silver': 5}}
+bright olive bags contain 5 striped magenta bags, 4 dark turquoise bags, 2 dark chartreuse bags.
+  5x striped magenta
+  4x dark turquoise
+  2x dark chartreuse
+-> Parsed bag: {'name': 'bright olive', 'tree': {'striped magenta': 5, 'dark turquoise': 4, 'dark chartreuse': 2}}
+vibrant lime bags contain 3 mirrored coral bags.
+  3x mirrored coral
+-> Parsed bag: {'name': 'vibrant lime', 'tree': {'mirrored coral': 3}}
+faded turquoise bags contain 2 dark gray bags, 1 dull black bag.
+  2x dark gray
+  1x dull black
+-> Parsed bag: {'name': 'faded turquoise', 'tree': {'dark gray': 2, 'dull black': 1}}
+muted red bags contain 3 muted coral bags.
+  3x muted coral
+-> Parsed bag: {'name': 'muted red', 'tree': {'muted coral': 3}}
+vibrant indigo bags contain 3 posh tomato bags.
+  3x posh tomato
+-> Parsed bag: {'name': 'vibrant indigo', 'tree': {'posh tomato': 3}}
+striped olive bags contain 4 plaid orange bags.
+  4x plaid orange
+-> Parsed bag: {'name': 'striped olive', 'tree': {'plaid orange': 4}}
+posh blue bags contain 5 plaid teal bags.
+  5x plaid teal
+-> Parsed bag: {'name': 'posh blue', 'tree': {'plaid teal': 5}}
+striped gray bags contain 1 mirrored purple bag.
+  1x mirrored purple
+-> Parsed bag: {'name': 'striped gray', 'tree': {'mirrored purple': 1}}
+posh lavender bags contain 5 plaid maroon bags, 2 dim lavender bags, 1 bright maroon bag, 4 dark coral bags.
+  5x plaid maroon
+  2x dim lavender
+  1x bright maroon
+  4x dark coral
+-> Parsed bag: {'name': 'posh lavender', 'tree': {'plaid maroon': 5, 'dim lavender': 2, 'bright maroon': 1, 'dark coral': 4}}
+dim turquoise bags contain 2 posh tomato bags.
+  2x posh tomato
+-> Parsed bag: {'name': 'dim turquoise', 'tree': {'posh tomato': 2}}
+light purple bags contain 1 shiny green bag.
+  1x shiny green
+-> Parsed bag: {'name': 'light purple', 'tree': {'shiny green': 1}}
+vibrant yellow bags contain 5 pale brown bags, 5 vibrant crimson bags, 2 plaid aqua bags.
+  5x pale brown
+  5x vibrant crimson
+  2x plaid aqua
+-> Parsed bag: {'name': 'vibrant yellow', 'tree': {'pale brown': 5, 'vibrant crimson': 5, 'plaid aqua': 2}}
+pale silver bags contain 3 pale tan bags, 1 vibrant lavender bag.
+  3x pale tan
+  1x vibrant lavender
+-> Parsed bag: {'name': 'pale silver', 'tree': {'pale tan': 3, 'vibrant lavender': 1}}
+posh bronze bags contain 5 pale lavender bags, 3 dotted indigo bags, 1 striped olive bag, 5 mirrored green bags.
+  5x pale lavender
+  3x dotted indigo
+  1x striped olive
+  5x mirrored green
+-> Parsed bag: {'name': 'posh bronze', 'tree': {'pale lavender': 5, 'dotted indigo': 3, 'striped olive': 1, 'mirrored green': 5}}
+striped white bags contain 5 faded plum bags, 5 striped indigo bags, 4 pale gold bags, 4 plaid gold bags.
+  5x faded plum
+  5x striped indigo
+  4x pale gold
+  4x plaid gold
+-> Parsed bag: {'name': 'striped white', 'tree': {'faded plum': 5, 'striped indigo': 5, 'pale gold': 4, 'plaid gold': 4}}
+striped cyan bags contain 4 faded salmon bags, 5 dull coral bags, 1 drab bronze bag, 1 mirrored bronze bag.
+  4x faded salmon
+  5x dull coral
+  1x drab bronze
+  1x mirrored bronze
+-> Parsed bag: {'name': 'striped cyan', 'tree': {'faded salmon': 4, 'dull coral': 5, 'drab bronze': 1, 'mirrored bronze': 1}}
+shiny yellow bags contain 2 faded aqua bags, 1 striped black bag, 4 pale cyan bags, 3 clear red bags.
+  2x faded aqua
+  1x striped black
+  4x pale cyan
+  3x clear red
+-> Parsed bag: {'name': 'shiny yellow', 'tree': {'faded aqua': 2, 'striped black': 1, 'pale cyan': 4, 'clear red': 3}}
+muted white bags contain 5 mirrored aqua bags, 2 muted fuchsia bags.
+  5x mirrored aqua
+  2x muted fuchsia
+-> Parsed bag: {'name': 'muted white', 'tree': {'mirrored aqua': 5, 'muted fuchsia': 2}}
+bright violet bags contain 4 dark turquoise bags, 5 plaid crimson bags, 2 clear lavender bags, 2 dim red bags.
+  4x dark turquoise
+  5x plaid crimson
+  2x clear lavender
+  2x dim red
+-> Parsed bag: {'name': 'bright violet', 'tree': {'dark turquoise': 4, 'plaid crimson': 5, 'clear lavender': 2, 'dim red': 2}}
+light red bags contain 4 dim lime bags, 3 vibrant red bags.
+  4x dim lime
+  3x vibrant red
+-> Parsed bag: {'name': 'light red', 'tree': {'dim lime': 4, 'vibrant red': 3}}
+drab gray bags contain 2 drab tomato bags, 1 shiny blue bag, 2 vibrant tan bags, 1 striped fuchsia bag.
+  2x drab tomato
+  1x shiny blue
+  2x vibrant tan
+  1x striped fuchsia
+-> Parsed bag: {'name': 'drab gray', 'tree': {'drab tomato': 2, 'shiny blue': 1, 'vibrant tan': 2, 'striped fuchsia': 1}}
+pale tan bags contain 2 striped green bags, 2 dark maroon bags, 4 drab turquoise bags, 3 posh lime bags.
+  2x striped green
+  2x dark maroon
+  4x drab turquoise
+  3x posh lime
+-> Parsed bag: {'name': 'pale tan', 'tree': {'striped green': 2, 'dark maroon': 2, 'drab turquoise': 4, 'posh lime': 3}}
+faded crimson bags contain 4 clear crimson bags, 5 dull purple bags, 1 clear violet bag, 4 wavy beige bags.
+  4x clear crimson
+  5x dull purple
+  1x clear violet
+  4x wavy beige
+-> Parsed bag: {'name': 'faded crimson', 'tree': {'clear crimson': 4, 'dull purple': 5, 'clear violet': 1, 'wavy beige': 4}}
+shiny orange bags contain 3 dark gray bags, 5 dim silver bags, 3 bright green bags.
+  3x dark gray
+  5x dim silver
+  3x bright green
+-> Parsed bag: {'name': 'shiny orange', 'tree': {'dark gray': 3, 'dim silver': 5, 'bright green': 3}}
+clear fuchsia bags contain 4 pale indigo bags.
+  4x pale indigo
+-> Parsed bag: {'name': 'clear fuchsia', 'tree': {'pale indigo': 4}}
+shiny salmon bags contain 4 dull coral bags, 2 muted crimson bags.
+  4x dull coral
+  2x muted crimson
+-> Parsed bag: {'name': 'shiny salmon', 'tree': {'dull coral': 4, 'muted crimson': 2}}
+dotted black bags contain 1 vibrant cyan bag.
+  1x vibrant cyan
+-> Parsed bag: {'name': 'dotted black', 'tree': {'vibrant cyan': 1}}
+drab turquoise bags contain 1 shiny green bag.
+  1x shiny green
+-> Parsed bag: {'name': 'drab turquoise', 'tree': {'shiny green': 1}}
+shiny chartreuse bags contain 5 faded violet bags.
+  5x faded violet
+-> Parsed bag: {'name': 'shiny chartreuse', 'tree': {'faded violet': 5}}
+wavy magenta bags contain 5 plaid lime bags, 4 bright chartreuse bags, 2 clear lime bags, 3 plaid orange bags.
+  5x plaid lime
+  4x bright chartreuse
+  2x clear lime
+  3x plaid orange
+-> Parsed bag: {'name': 'wavy magenta', 'tree': {'plaid lime': 5, 'bright chartreuse': 4, 'clear lime': 2, 'plaid orange': 3}}
+wavy tan bags contain 4 dark brown bags, 3 clear turquoise bags, 4 muted fuchsia bags, 5 clear gold bags.
+  4x dark brown
+  3x clear turquoise
+  4x muted fuchsia
+  5x clear gold
+-> Parsed bag: {'name': 'wavy tan', 'tree': {'dark brown': 4, 'clear turquoise': 3, 'muted fuchsia': 4, 'clear gold': 5}}
+dotted maroon bags contain 2 dim gold bags, 4 posh tan bags.
+  2x dim gold
+  4x posh tan
+-> Parsed bag: {'name': 'dotted maroon', 'tree': {'dim gold': 2, 'posh tan': 4}}
+striped silver bags contain 3 dark coral bags, 4 dark turquoise bags, 1 pale beige bag, 1 bright silver bag.
+  3x dark coral
+  4x dark turquoise
+  1x pale beige
+  1x bright silver
+-> Parsed bag: {'name': 'striped silver', 'tree': {'dark coral': 3, 'dark turquoise': 4, 'pale beige': 1, 'bright silver': 1}}
+dotted blue bags contain 3 drab blue bags.
+  3x drab blue
+-> Parsed bag: {'name': 'dotted blue', 'tree': {'drab blue': 3}}
+striped bronze bags contain 1 light blue bag, 3 wavy olive bags, 5 dark tomato bags, 4 dark blue bags.
+  1x light blue
+  3x wavy olive
+  5x dark tomato
+  4x dark blue
+-> Parsed bag: {'name': 'striped bronze', 'tree': {'light blue': 1, 'wavy olive': 3, 'dark tomato': 5, 'dark blue': 4}}
+dotted chartreuse bags contain 2 dark salmon bags, 2 striped magenta bags.
+  2x dark salmon
+  2x striped magenta
+-> Parsed bag: {'name': 'dotted chartreuse', 'tree': {'dark salmon': 2, 'striped magenta': 2}}
+muted orange bags contain 2 clear crimson bags, 3 mirrored fuchsia bags, 2 drab blue bags.
+  2x clear crimson
+  3x mirrored fuchsia
+  2x drab blue
+-> Parsed bag: {'name': 'muted orange', 'tree': {'clear crimson': 2, 'mirrored fuchsia': 3, 'drab blue': 2}}
+light fuchsia bags contain 2 dim cyan bags, 4 pale lavender bags, 1 dark teal bag.
+  2x dim cyan
+  4x pale lavender
+  1x dark teal
+-> Parsed bag: {'name': 'light fuchsia', 'tree': {'dim cyan': 2, 'pale lavender': 4, 'dark teal': 1}}
+wavy green bags contain 5 faded turquoise bags, 1 faded lavender bag, 3 faded silver bags, 2 dark tomato bags.
+  5x faded turquoise
+  1x faded lavender
+  3x faded silver
+  2x dark tomato
+-> Parsed bag: {'name': 'wavy green', 'tree': {'faded turquoise': 5, 'faded lavender': 1, 'faded silver': 3, 'dark tomato': 2}}
+muted maroon bags contain 5 vibrant red bags.
+  5x vibrant red
+-> Parsed bag: {'name': 'muted maroon', 'tree': {'vibrant red': 5}}
+drab beige bags contain 2 clear red bags, 4 faded blue bags, 1 dim beige bag.
+  2x clear red
+  4x faded blue
+  1x dim beige
+-> Parsed bag: {'name': 'drab beige', 'tree': {'clear red': 2, 'faded blue': 4, 'dim beige': 1}}
+light turquoise bags contain 3 dim violet bags, 3 light teal bags.
+  3x dim violet
+  3x light teal
+-> Parsed bag: {'name': 'light turquoise', 'tree': {'dim violet': 3, 'light teal': 3}}
+striped beige bags contain 4 vibrant brown bags, 3 dull red bags.
+  4x vibrant brown
+  3x dull red
+-> Parsed bag: {'name': 'striped beige', 'tree': {'vibrant brown': 4, 'dull red': 3}}
+drab violet bags contain 4 dotted gray bags, 4 striped chartreuse bags.
+  4x dotted gray
+  4x striped chartreuse
+-> Parsed bag: {'name': 'drab violet', 'tree': {'dotted gray': 4, 'striped chartreuse': 4}}
+clear red bags contain 3 posh crimson bags, 4 wavy green bags, 3 dotted brown bags, 3 wavy violet bags.
+  3x posh crimson
+  4x wavy green
+  3x dotted brown
+  3x wavy violet
+-> Parsed bag: {'name': 'clear red', 'tree': {'posh crimson': 3, 'wavy green': 4, 'dotted brown': 3, 'wavy violet': 3}}
+clear green bags contain 3 vibrant gray bags, 5 dim orange bags, 4 posh magenta bags, 4 dim tan bags.
+  3x vibrant gray
+  5x dim orange
+  4x posh magenta
+  4x dim tan
+-> Parsed bag: {'name': 'clear green', 'tree': {'vibrant gray': 3, 'dim orange': 5, 'posh magenta': 4, 'dim tan': 4}}
+posh indigo bags contain 4 shiny coral bags, 2 bright green bags.
+  4x shiny coral
+  2x bright green
+-> Parsed bag: {'name': 'posh indigo', 'tree': {'shiny coral': 4, 'bright green': 2}}
+dotted olive bags contain 1 striped bronze bag, 1 dim silver bag.
+  1x striped bronze
+  1x dim silver
+-> Parsed bag: {'name': 'dotted olive', 'tree': {'striped bronze': 1, 'dim silver': 1}}
+striped fuchsia bags contain 4 light silver bags, 4 dark blue bags, 1 bright green bag.
+  4x light silver
+  4x dark blue
+  1x bright green
+-> Parsed bag: {'name': 'striped fuchsia', 'tree': {'light silver': 4, 'dark blue': 4, 'bright green': 1}}
+dark fuchsia bags contain 5 shiny turquoise bags, 5 shiny maroon bags, 3 dim gray bags, 1 dim cyan bag.
+  5x shiny turquoise
+  5x shiny maroon
+  3x dim gray
+  1x dim cyan
+-> Parsed bag: {'name': 'dark fuchsia', 'tree': {'shiny turquoise': 5, 'shiny maroon': 5, 'dim gray': 3, 'dim cyan': 1}}
+faded cyan bags contain 3 pale gold bags, 3 wavy fuchsia bags, 2 wavy orange bags, 2 drab violet bags.
+  3x pale gold
+  3x wavy fuchsia
+  2x wavy orange
+  2x drab violet
+-> Parsed bag: {'name': 'faded cyan', 'tree': {'pale gold': 3, 'wavy fuchsia': 3, 'wavy orange': 2, 'drab violet': 2}}
+drab chartreuse bags contain 5 muted blue bags, 5 wavy orange bags, 2 mirrored beige bags, 5 wavy tan bags.
+  5x muted blue
+  5x wavy orange
+  2x mirrored beige
+  5x wavy tan
+-> Parsed bag: {'name': 'drab chartreuse', 'tree': {'muted blue': 5, 'wavy orange': 5, 'mirrored beige': 2, 'wavy tan': 5}}
+mirrored silver bags contain 3 drab lavender bags.
+  3x drab lavender
+-> Parsed bag: {'name': 'mirrored silver', 'tree': {'drab lavender': 3}}
+faded black bags contain 3 drab turquoise bags, 3 muted yellow bags.
+  3x drab turquoise
+  3x muted yellow
+-> Parsed bag: {'name': 'faded black', 'tree': {'drab turquoise': 3, 'muted yellow': 3}}
+muted lavender bags contain 5 light crimson bags, 5 bright gold bags, 4 dull orange bags, 2 striped crimson bags.
+  5x light crimson
+  5x bright gold
+  4x dull orange
+  2x striped crimson
+-> Parsed bag: {'name': 'muted lavender', 'tree': {'light crimson': 5, 'bright gold': 5, 'dull orange': 4, 'striped crimson': 2}}
+shiny cyan bags contain 5 drab plum bags, 4 drab aqua bags.
+  5x drab plum
+  4x drab aqua
+-> Parsed bag: {'name': 'shiny cyan', 'tree': {'drab plum': 5, 'drab aqua': 4}}
+dark white bags contain 4 mirrored fuchsia bags.
+  4x mirrored fuchsia
+-> Parsed bag: {'name': 'dark white', 'tree': {'mirrored fuchsia': 4}}
+plaid aqua bags contain 1 dark cyan bag, 4 drab tan bags, 3 drab blue bags.
+  1x dark cyan
+  4x drab tan
+  3x drab blue
+-> Parsed bag: {'name': 'plaid aqua', 'tree': {'dark cyan': 1, 'drab tan': 4, 'drab blue': 3}}
+muted purple bags contain 4 dim turquoise bags.
+  4x dim turquoise
+-> Parsed bag: {'name': 'muted purple', 'tree': {'dim turquoise': 4}}
+clear chartreuse bags contain 2 vibrant gray bags, 3 striped teal bags, 3 dim tan bags.
+  2x vibrant gray
+  3x striped teal
+  3x dim tan
+-> Parsed bag: {'name': 'clear chartreuse', 'tree': {'vibrant gray': 2, 'striped teal': 3, 'dim tan': 3}}
+clear beige bags contain 4 plaid tan bags, 1 dark teal bag, 4 dark cyan bags, 2 posh brown bags.
+  4x plaid tan
+  1x dark teal
+  4x dark cyan
+  2x posh brown
+-> Parsed bag: {'name': 'clear beige', 'tree': {'plaid tan': 4, 'dark teal': 1, 'dark cyan': 4, 'posh brown': 2}}
+posh white bags contain 3 plaid red bags.
+  3x plaid red
+-> Parsed bag: {'name': 'posh white', 'tree': {'plaid red': 3}}
+posh cyan bags contain 2 dull teal bags, 3 posh indigo bags, 1 dotted aqua bag.
+  2x dull teal
+  3x posh indigo
+  1x dotted aqua
+-> Parsed bag: {'name': 'posh cyan', 'tree': {'dull teal': 2, 'posh indigo': 3, 'dotted aqua': 1}}
+mirrored fuchsia bags contain 4 mirrored aqua bags, 3 striped fuchsia bags, 1 faded violet bag, 5 wavy red bags.
+  4x mirrored aqua
+  3x striped fuchsia
+  1x faded violet
+  5x wavy red
+-> Parsed bag: {'name': 'mirrored fuchsia', 'tree': {'mirrored aqua': 4, 'striped fuchsia': 3, 'faded violet': 1, 'wavy red': 5}}
+striped teal bags contain 4 dark purple bags, 1 pale teal bag, 3 clear violet bags, 2 shiny yellow bags.
+  4x dark purple
+  1x pale teal
+  3x clear violet
+  2x shiny yellow
+-> Parsed bag: {'name': 'striped teal', 'tree': {'dark purple': 4, 'pale teal': 1, 'clear violet': 3, 'shiny yellow': 2}}
+dull maroon bags contain 1 dull beige bag, 3 dim crimson bags.
+  1x dull beige
+  3x dim crimson
+-> Parsed bag: {'name': 'dull maroon', 'tree': {'dull beige': 1, 'dim crimson': 3}}
+shiny brown bags contain 5 striped red bags, 5 dotted magenta bags.
+  5x striped red
+  5x dotted magenta
+-> Parsed bag: {'name': 'shiny brown', 'tree': {'striped red': 5, 'dotted magenta': 5}}
+vibrant gold bags contain 4 bright lime bags.
+  4x bright lime
+-> Parsed bag: {'name': 'vibrant gold', 'tree': {'bright lime': 4}}
+wavy gold bags contain 5 vibrant white bags, 3 dim orange bags, 1 dark gold bag, 5 bright tan bags.
+  5x vibrant white
+  3x dim orange
+  1x dark gold
+  5x bright tan
+-> Parsed bag: {'name': 'wavy gold', 'tree': {'vibrant white': 5, 'dim orange': 3, 'dark gold': 1, 'bright tan': 5}}
+muted crimson bags contain 1 plaid chartreuse bag.
+  1x plaid chartreuse
+-> Parsed bag: {'name': 'muted crimson', 'tree': {'plaid chartreuse': 1}}
+mirrored coral bags contain 5 mirrored teal bags, 5 shiny cyan bags, 2 dull purple bags.
+  5x mirrored teal
+  5x shiny cyan
+  2x dull purple
+-> Parsed bag: {'name': 'mirrored coral', 'tree': {'mirrored teal': 5, 'shiny cyan': 5, 'dull purple': 2}}
+dark green bags contain 2 dark gray bags.
+  2x dark gray
+-> Parsed bag: {'name': 'dark green', 'tree': {'dark gray': 2}}
+dotted beige bags contain 5 shiny gold bags, 1 drab turquoise bag, 2 plaid lavender bags.
+  5x shiny gold
+  1x drab turquoise
+  2x plaid lavender
+-> Parsed bag: {'name': 'dotted beige', 'tree': {'shiny gold': 5, 'drab turquoise': 1, 'plaid lavender': 2}}
+plaid chartreuse bags contain 2 clear cyan bags, 1 bright blue bag, 2 dark violet bags, 1 dark chartreuse bag.
+  2x clear cyan
+  1x bright blue
+  2x dark violet
+  1x dark chartreuse
+-> Parsed bag: {'name': 'plaid chartreuse', 'tree': {'clear cyan': 2, 'bright blue': 1, 'dark violet': 2, 'dark chartreuse': 1}}
+dotted purple bags contain 3 bright crimson bags, 1 striped black bag.
+  3x bright crimson
+  1x striped black
+-> Parsed bag: {'name': 'dotted purple', 'tree': {'bright crimson': 3, 'striped black': 1}}
+bright tomato bags contain 5 pale lime bags, 2 shiny aqua bags.
+  5x pale lime
+  2x shiny aqua
+-> Parsed bag: {'name': 'bright tomato', 'tree': {'pale lime': 5, 'shiny aqua': 2}}
+plaid crimson bags contain 5 dull orange bags, 3 dim chartreuse bags, 4 wavy aqua bags, 5 muted gold bags.
+  5x dull orange
+  3x dim chartreuse
+  4x wavy aqua
+  5x muted gold
+-> Parsed bag: {'name': 'plaid crimson', 'tree': {'dull orange': 5, 'dim chartreuse': 3, 'wavy aqua': 4, 'muted gold': 5}}
+muted gray bags contain 3 posh aqua bags, 1 faded blue bag, 4 striped brown bags.
+  3x posh aqua
+  1x faded blue
+  4x striped brown
+-> Parsed bag: {'name': 'muted gray', 'tree': {'posh aqua': 3, 'faded blue': 1, 'striped brown': 4}}
+vibrant brown bags contain 5 shiny crimson bags, 4 mirrored orange bags.
+  5x shiny crimson
+  4x mirrored orange
+-> Parsed bag: {'name': 'vibrant brown', 'tree': {'shiny crimson': 5, 'mirrored orange': 4}}
+clear aqua bags contain 3 drab magenta bags, 1 drab crimson bag, 3 dull plum bags, 4 faded magenta bags.
+  3x drab magenta
+  1x drab crimson
+  3x dull plum
+  4x faded magenta
+-> Parsed bag: {'name': 'clear aqua', 'tree': {'drab magenta': 3, 'drab crimson': 1, 'dull plum': 3, 'faded magenta': 4}}
+posh tomato bags contain 2 clear black bags.
+  2x clear black
+-> Parsed bag: {'name': 'posh tomato', 'tree': {'clear black': 2}}
+dim chartreuse bags contain 5 bright green bags, 3 shiny gold bags, 4 vibrant red bags.
+  5x bright green
+  3x shiny gold
+  4x vibrant red
+-> Parsed bag: {'name': 'dim chartreuse', 'tree': {'bright green': 5, 'shiny gold': 3, 'vibrant red': 4}}
+striped salmon bags contain 1 faded purple bag, 4 wavy fuchsia bags, 5 vibrant chartreuse bags, 5 posh tomato bags.
+  1x faded purple
+  4x wavy fuchsia
+  5x vibrant chartreuse
+  5x posh tomato
+-> Parsed bag: {'name': 'striped salmon', 'tree': {'faded purple': 1, 'wavy fuchsia': 4, 'vibrant chartreuse': 5, 'posh tomato': 5}}
+faded orange bags contain 4 pale beige bags, 4 dim blue bags, 2 faded silver bags.
+  4x pale beige
+  4x dim blue
+  2x faded silver
+-> Parsed bag: {'name': 'faded orange', 'tree': {'pale beige': 4, 'dim blue': 4, 'faded silver': 2}}
+shiny lavender bags contain 3 dotted olive bags, 3 dotted gray bags, 4 shiny yellow bags, 1 dim cyan bag.
+  3x dotted olive
+  3x dotted gray
+  4x shiny yellow
+  1x dim cyan
+-> Parsed bag: {'name': 'shiny lavender', 'tree': {'dotted olive': 3, 'dotted gray': 3, 'shiny yellow': 4, 'dim cyan': 1}}
+wavy turquoise bags contain 5 wavy lavender bags, 4 striped red bags, 2 drab aqua bags, 3 shiny aqua bags.
+  5x wavy lavender
+  4x striped red
+  2x drab aqua
+  3x shiny aqua
+-> Parsed bag: {'name': 'wavy turquoise', 'tree': {'wavy lavender': 5, 'striped red': 4, 'drab aqua': 2, 'shiny aqua': 3}}
+pale plum bags contain 4 drab silver bags.
+  4x drab silver
+-> Parsed bag: {'name': 'pale plum', 'tree': {'drab silver': 4}}
+faded maroon bags contain 3 posh fuchsia bags, 5 vibrant teal bags, 1 dull violet bag.
+  3x posh fuchsia
+  5x vibrant teal
+  1x dull violet
+-> Parsed bag: {'name': 'faded maroon', 'tree': {'posh fuchsia': 3, 'vibrant teal': 5, 'dull violet': 1}}
+dark yellow bags contain 3 faded black bags, 2 dark salmon bags, 2 vibrant lavender bags.
+  3x faded black
+  2x dark salmon
+  2x vibrant lavender
+-> Parsed bag: {'name': 'dark yellow', 'tree': {'faded black': 3, 'dark salmon': 2, 'vibrant lavender': 2}}
+bright purple bags contain 5 light lime bags, 1 pale gray bag, 1 faded turquoise bag, 2 faded magenta bags.
+  5x light lime
+  1x pale gray
+  1x faded turquoise
+  2x faded magenta
+-> Parsed bag: {'name': 'bright purple', 'tree': {'light lime': 5, 'pale gray': 1, 'faded turquoise': 1, 'faded magenta': 2}}
+vibrant maroon bags contain 5 vibrant lavender bags, 3 wavy black bags, 2 striped magenta bags, 2 pale green bags.
+  5x vibrant lavender
+  3x wavy black
+  2x striped magenta
+  2x pale green
+-> Parsed bag: {'name': 'vibrant maroon', 'tree': {'vibrant lavender': 5, 'wavy black': 3, 'striped magenta': 2, 'pale green': 2}}
+Registering parsed bags...
+  Registering 'wavy bronze' bag.
+  Registering 'drab indigo' bag.
+  Registering 'pale olive' bag.
+  Registering 'faded white' bag.
+  Registering 'mirrored magenta' bag.
+  Registering 'dull purple' bag.
+  Registering 'dull lime' bag.
+  Registering 'pale indigo' bag.
+  Registering 'dull lavender' bag.
+  Registering 'pale teal' bag.
+  Registering 'clear lime' bag.
+  Registering 'faded coral' bag.
+  Registering 'dull blue' bag.
+  Registering 'muted salmon' bag.
+  Registering 'dim orange' bag.
+  Registering 'posh chartreuse' bag.
+  Registering 'pale red' bag.
+  Registering 'dotted turquoise' bag.
+  Registering 'light blue' bag.
+  Registering 'shiny teal' bag.
+  Registering 'drab gold' bag.
+  Registering 'plaid maroon' bag.
+  Registering 'shiny beige' bag.
+  Registering 'wavy chartreuse' bag.
+  Registering 'posh teal' bag.
+  Registering 'faded chartreuse' bag.
+  Registering 'clear crimson' bag.
+  Registering 'plaid turquoise' bag.
+  Registering 'dotted gray' bag.
+  Registering 'drab purple' bag.
+  Registering 'dim black' bag.
+  Registering 'muted cyan' bag.
+  Registering 'dim aqua' bag.
+  Registering 'light violet' bag.
+  Registering 'light tan' bag.
+  Registering 'muted chartreuse' bag.
+  Registering 'faded purple' bag.
+  Registering 'shiny violet' bag.
+  Registering 'dim green' bag.
+  Registering 'dotted teal' bag.
+  Registering 'drab green' bag.
+  Registering 'pale orange' bag.
+  Registering 'wavy lavender' bag.
+  Registering 'shiny gray' bag.
+  Registering 'dull yellow' bag.
+  Registering 'muted lime' bag.
+  Registering 'pale yellow' bag.
+  Registering 'dark salmon' bag.
+  Registering 'faded fuchsia' bag.
+  Registering 'dark blue' bag.
+  Registering 'striped red' bag.
+  Registering 'faded lime' bag.
+  Registering 'dim salmon' bag.
+  Registering 'light plum' bag.
+  Registering 'pale tomato' bag.
+  Registering 'light olive' bag.
+  Registering 'faded bronze' bag.
+  Registering 'mirrored orange' bag.
+  Registering 'vibrant purple' bag.
+  Registering 'dull green' bag.
+  Registering 'plaid magenta' bag.
+  Registering 'bright magenta' bag.
+  Registering 'dark beige' bag.
+  Registering 'dark orange' bag.
+  Registering 'dim violet' bag.
+  Registering 'light cyan' bag.
+  Registering 'striped turquoise' bag.
+  Registering 'dull plum' bag.
+  Registering 'posh green' bag.
+  Registering 'faded salmon' bag.
+  Registering 'dull violet' bag.
+  Registering 'posh coral' bag.
+  Registering 'shiny green' bag.
+  Registering 'mirrored turquoise' bag.
+  Registering 'dim yellow' bag.
+  Registering 'vibrant orange' bag.
+  Registering 'muted black' bag.
+  Registering 'faded brown' bag.
+  Registering 'posh gold' bag.
+  Registering 'pale salmon' bag.
+  Registering 'dull brown' bag.
+  Registering 'dull fuchsia' bag.
+  Registering 'mirrored chartreuse' bag.
+  Registering 'dotted gold' bag.
+  Registering 'striped tomato' bag.
+  Registering 'clear lavender' bag.
+  Registering 'dark chartreuse' bag.
+  Registering 'dark brown' bag.
+  Registering 'clear gold' bag.
+  Registering 'plaid cyan' bag.
+  Registering 'dark tomato' bag.
+  Registering 'pale bronze' bag.
+  Registering 'clear tan' bag.
+  Registering 'dotted aqua' bag.
+  Registering 'wavy blue' bag.
+  Registering 'clear indigo' bag.
+  Registering 'mirrored plum' bag.
+  Registering 'faded tomato' bag.
+  Registering 'dark cyan' bag.
+  Registering 'striped blue' bag.
+  Registering 'posh turquoise' bag.
+  Registering 'vibrant lavender' bag.
+  Registering 'mirrored lime' bag.
+  Registering 'drab fuchsia' bag.
+  Registering 'clear olive' bag.
+  Registering 'dim gray' bag.
+  Registering 'light aqua' bag.
+  Registering 'striped lavender' bag.
+  Registering 'plaid brown' bag.
+  Registering 'bright lavender' bag.
+  Registering 'pale purple' bag.
+  Registering 'posh gray' bag.
+  Registering 'dull turquoise' bag.
+  Registering 'shiny plum' bag.
+  Registering 'posh purple' bag.
+  Registering 'muted teal' bag.
+  Registering 'shiny silver' bag.
+  Registering 'bright green' bag.
+  Registering 'clear orange' bag.
+  Registering 'muted coral' bag.
+  Registering 'posh lime' bag.
+  Registering 'clear maroon' bag.
+  Registering 'dim red' bag.
+  Registering 'faded red' bag.
+  Registering 'bright maroon' bag.
+  Registering 'muted gold' bag.
+  Registering 'dotted lavender' bag.
+  Registering 'shiny magenta' bag.
+  Registering 'clear salmon' bag.
+  Registering 'dim lavender' bag.
+  Registering 'vibrant aqua' bag.
+  Registering 'dim maroon' bag.
+  Registering 'striped tan' bag.
+  Registering 'drab lime' bag.
+  Registering 'mirrored purple' bag.
+  Registering 'dark violet' bag.
+  Registering 'wavy beige' bag.
+  Registering 'dim gold' bag.
+  Registering 'dotted magenta' bag.
+  Registering 'plaid coral' bag.
+  Registering 'wavy silver' bag.
+  Registering 'mirrored olive' bag.
+  Registering 'muted violet' bag.
+  Registering 'bright red' bag.
+  Registering 'dotted fuchsia' bag.
+  Registering 'mirrored cyan' bag.
+  Registering 'plaid beige' bag.
+  Registering 'pale magenta' bag.
+  Registering 'dim olive' bag.
+  Registering 'wavy fuchsia' bag.
+  Registering 'drab olive' bag.
+  Registering 'dull crimson' bag.
+  Registering 'faded beige' bag.
+  Registering 'posh black' bag.
+  Registering 'shiny turquoise' bag.
+  Registering 'bright beige' bag.
+  Registering 'dim silver' bag.
+  Registering 'muted bronze' bag.
+  Registering 'clear black' bag.
+  Registering 'posh violet' bag.
+  Registering 'light gold' bag.
+  Registering 'faded magenta' bag.
+  Registering 'dotted crimson' bag.
+  Registering 'striped coral' bag.
+  Registering 'drab brown' bag.
+  Registering 'clear tomato' bag.
+  Registering 'pale maroon' bag.
+  Registering 'dark silver' bag.
+  Registering 'striped purple' bag.
+  Registering 'wavy violet' bag.
+  Registering 'clear coral' bag.
+  Registering 'striped brown' bag.
+  Registering 'pale brown' bag.
+  Registering 'dotted red' bag.
+  Registering 'faded plum' bag.
+  Registering 'posh olive' bag.
+  Registering 'faded violet' bag.
+  Registering 'light silver' bag.
+  Registering 'striped aqua' bag.
+  Registering 'vibrant fuchsia' bag.
+  Registering 'shiny white' bag.
+  Registering 'muted green' bag.
+  Registering 'dim tan' bag.
+  Registering 'faded olive' bag.
+  Registering 'drab cyan' bag.
+  Registering 'muted magenta' bag.
+  Registering 'wavy maroon' bag.
+  Registering 'faded green' bag.
+  Registering 'wavy purple' bag.
+  Registering 'vibrant black' bag.
+  Registering 'wavy white' bag.
+  Registering 'dark magenta' bag.
+  Registering 'dull tan' bag.
+  Registering 'pale lavender' bag.
+  Registering 'mirrored black' bag.
+  Registering 'posh silver' bag.
+  Registering 'plaid blue' bag.
+  Registering 'plaid purple' bag.
+  Registering 'striped orange' bag.
+  Registering 'pale chartreuse' bag.
+  Registering 'mirrored lavender' bag.
+  Registering 'bright blue' bag.
+  Registering 'dull teal' bag.
+  Registering 'mirrored indigo' bag.
+  Registering 'dotted coral' bag.
+  Registering 'light white' bag.
+  Registering 'faded yellow' bag.
+  Registering 'plaid black' bag.
+  Registering 'dim cyan' bag.
+  Registering 'plaid tomato' bag.
+  Registering 'bright yellow' bag.
+  Registering 'clear magenta' bag.
+  Registering 'vibrant olive' bag.
+  Registering 'dull orange' bag.
+  Registering 'drab tan' bag.
+  Registering 'dark black' bag.
+  Registering 'faded teal' bag.
+  Registering 'posh magenta' bag.
+  Registering 'dim indigo' bag.
+  Registering 'vibrant red' bag.
+  Registering 'mirrored tomato' bag.
+  Registering 'dark lime' bag.
+  Registering 'vibrant silver' bag.
+  Registering 'faded tan' bag.
+  Registering 'pale beige' bag.
+  Registering 'wavy teal' bag.
+  Registering 'bright turquoise' bag.
+  Registering 'striped chartreuse' bag.
+  Registering 'wavy yellow' bag.
+  Registering 'dull salmon' bag.
+  Registering 'shiny bronze' bag.
+  Registering 'dull red' bag.
+  Registering 'dotted green' bag.
+  Registering 'plaid fuchsia' bag.
+  Registering 'striped crimson' bag.
+  Registering 'mirrored teal' bag.
+  Registering 'plaid gray' bag.
+  Registering 'pale gray' bag.
+  Registering 'clear plum' bag.
+  Registering 'light salmon' bag.
+  Registering 'dark tan' bag.
+  Registering 'vibrant bronze' bag.
+  Registering 'light teal' bag.
+  Registering 'plaid plum' bag.
+  Registering 'dull silver' bag.
+  Registering 'mirrored beige' bag.
+  Registering 'pale aqua' bag.
+  Registering 'wavy orange' bag.
+  Registering 'dotted silver' bag.
+  Registering 'dotted orange' bag.
+  Registering 'vibrant turquoise' bag.
+  Registering 'clear cyan' bag.
+  Registering 'dotted tan' bag.
+  Registering 'mirrored brown' bag.
+  Registering 'bright bronze' bag.
+  Registering 'plaid lavender' bag.
+  Registering 'bright coral' bag.
+  Registering 'faded aqua' bag.
+  Registering 'posh yellow' bag.
+  Registering 'plaid red' bag.
+  Registering 'muted silver' bag.
+  Registering 'bright black' bag.
+  Registering 'dim white' bag.
+  Registering 'posh brown' bag.
+  Registering 'dotted plum' bag.
+  Registering 'plaid silver' bag.
+  Registering 'vibrant chartreuse' bag.
+  Registering 'drab red' bag.
+  Registering 'dull gold' bag.
+  Registering 'dull cyan' bag.
+  Registering 'drab lavender' bag.
+  Registering 'bright tan' bag.
+  Registering 'shiny indigo' bag.
+  Registering 'dark turquoise' bag.
+  Registering 'drab magenta' bag.
+  Registering 'vibrant coral' bag.
+  Registering 'clear yellow' bag.
+  Registering 'bright indigo' bag.
+  Registering 'plaid violet' bag.
+  Registering 'dim blue' bag.
+  Registering 'vibrant plum' bag.
+  Registering 'clear bronze' bag.
+  Registering 'striped green' bag.
+  Registering 'mirrored gold' bag.
+  Registering 'plaid lime' bag.
+  Registering 'posh salmon' bag.
+  Registering 'wavy coral' bag.
+  Registering 'clear teal' bag.
+  Registering 'mirrored aqua' bag.
+  Registering 'light green' bag.
+  Registering 'muted aqua' bag.
+  Registering 'posh maroon' bag.
+  Registering 'faded gray' bag.
+  Registering 'plaid orange' bag.
+  Registering 'striped indigo' bag.
+  Registering 'bright salmon' bag.
+  Registering 'wavy aqua' bag.
+  Registering 'plaid olive' bag.
+  Registering 'bright teal' bag.
+  Registering 'vibrant beige' bag.
+  Registering 'dull chartreuse' bag.
+  Registering 'dotted brown' bag.
+  Registering 'muted plum' bag.
+  Registering 'muted blue' bag.
+  Registering 'dull bronze' bag.
+  Registering 'shiny red' bag.
+  Registering 'shiny purple' bag.
+  Registering 'plaid tan' bag.
+  Registering 'drab orange' bag.
+  Registering 'faded gold' bag.
+  Registering 'light magenta' bag.
+  Registering 'light yellow' bag.
+  Registering 'mirrored maroon' bag.
+  Registering 'dark coral' bag.
+  Registering 'dark teal' bag.
+  Registering 'dark purple' bag.
+  Registering 'plaid gold' bag.
+  Registering 'dim coral' bag.
+  Registering 'vibrant salmon' bag.
+  Registering 'bright brown' bag.
+  Registering 'vibrant crimson' bag.
+  Registering 'posh crimson' bag.
+  Registering 'faded indigo' bag.
+  Registering 'wavy red' bag.
+  Registering 'faded lavender' bag.
+  Registering 'drab silver' bag.
+  Registering 'pale black' bag.
+  Registering 'posh tan' bag.
+  Registering 'drab aqua' bag.
+  Registering 'wavy plum' bag.
+  Registering 'shiny crimson' bag.
+  Registering 'shiny lime' bag.
+  Registering 'dark maroon' bag.
+  Registering 'faded blue' bag.
+  Registering 'clear turquoise' bag.
+  Registering 'striped yellow' bag.
+  Registering 'pale coral' bag.
+  Registering 'wavy black' bag.
+  Registering 'muted indigo' bag.
+  Registering 'dull aqua' bag.
+  Registering 'striped violet' bag.
+  Registering 'bright crimson' bag.
+  Registering 'wavy tomato' bag.
+  Registering 'pale fuchsia' bag.
+  Registering 'mirrored gray' bag.
+  Registering 'mirrored bronze' bag.
+  Registering 'light crimson' bag.
+  Registering 'light lime' bag.
+  Registering 'clear silver' bag.
+  Registering 'striped magenta' bag.
+  Registering 'dark gray' bag.
+  Registering 'pale crimson' bag.
+  Registering 'dotted cyan' bag.
+  Registering 'clear violet' bag.
+  Registering 'drab white' bag.
+  Registering 'plaid yellow' bag.
+  Registering 'clear gray' bag.
+  Registering 'pale cyan' bag.
+  Registering 'pale turquoise' bag.
+  Registering 'shiny aqua' bag.
+  Registering 'dull tomato' bag.
+  Registering 'light orange' bag.
+  Registering 'dull white' bag.
+  Registering 'drab yellow' bag.
+  Registering 'bright gray' bag.
+  Registering 'dim crimson' bag.
+  Registering 'dim fuchsia' bag.
+  Registering 'dim bronze' bag.
+  Registering 'muted tan' bag.
+  Registering 'dark gold' bag.
+  Registering 'light tomato' bag.
+  Registering 'shiny fuchsia' bag.
+  Registering 'striped gold' bag.
+  Registering 'light lavender' bag.
+  Registering 'shiny tomato' bag.
+  Registering 'dotted indigo' bag.
+  Registering 'shiny blue' bag.
+  Registering 'vibrant blue' bag.
+  Registering 'pale blue' bag.
+  Registering 'dull magenta' bag.
+  Registering 'drab blue' bag.
+  Registering 'light bronze' bag.
+  Registering 'muted beige' bag.
+  Registering 'bright plum' bag.
+  Registering 'plaid salmon' bag.
+  Registering 'dim lime' bag.
+  Registering 'dark aqua' bag.
+  Registering 'light coral' bag.
+  Registering 'clear purple' bag.
+  Registering 'striped plum' bag.
+  Registering 'mirrored yellow' bag.
+  Registering 'shiny olive' bag.
+  Registering 'pale gold' bag.
+  Registering 'dotted violet' bag.
+  Registering 'mirrored blue' bag.
+  Registering 'plaid green' bag.
+  Registering 'wavy cyan' bag.
+  Registering 'dull beige' bag.
+  Registering 'dark indigo' bag.
+  Registering 'striped black' bag.
+  Registering 'plaid indigo' bag.
+  Registering 'shiny maroon' bag.
+  Registering 'dotted lime' bag.
+  Registering 'posh beige' bag.
+  Registering 'bright cyan' bag.
+  Registering 'plaid white' bag.
+  Registering 'drab maroon' bag.
+  Registering 'plaid bronze' bag.
+  Registering 'dim magenta' bag.
+  Registering 'clear blue' bag.
+  Registering 'dotted salmon' bag.
+  Registering 'posh orange' bag.
+  Registering 'mirrored red' bag.
+  Registering 'vibrant green' bag.
+  Registering 'pale violet' bag.
+  Registering 'clear brown' bag.
+  Registering 'vibrant violet' bag.
+  Registering 'pale green' bag.
+  Registering 'light maroon' bag.
+  Registering 'wavy salmon' bag.
+  Registering 'dotted yellow' bag.
+  Registering 'drab crimson' bag.
+  Registering 'vibrant tomato' bag.
+  Registering 'wavy olive' bag.
+  Registering 'wavy lime' bag.
+  Registering 'striped lime' bag.
+  Registering 'wavy crimson' bag.
+  Registering 'wavy indigo' bag.
+  Registering 'posh fuchsia' bag.
+  Registering 'striped maroon' bag.
+  Registering 'dull gray' bag.
+  Registering 'dotted bronze' bag.
+  Registering 'muted olive' bag.
+  Registering 'dark plum' bag.
+  Registering 'drab tomato' bag.
+  Registering 'plaid teal' bag.
+  Registering 'drab teal' bag.
+  Registering 'wavy brown' bag.
+  Registering 'mirrored violet' bag.
+  Registering 'faded silver' bag.
+  Registering 'dark bronze' bag.
+  Registering 'dim tomato' bag.
+  Registering 'muted tomato' bag.
+  Registering 'bright orange' bag.
+  Registering 'dotted tomato' bag.
+  Registering 'bright white' bag.
+  Registering 'dotted white' bag.
+  Registering 'vibrant teal' bag.
+  Registering 'light beige' bag.
+  Registering 'drab black' bag.
+  Registering 'drab salmon' bag.
+  Registering 'bright silver' bag.
+  Registering 'pale lime' bag.
+  Registering 'dark red' bag.
+  Registering 'dull coral' bag.
+  Registering 'vibrant white' bag.
+  Registering 'posh red' bag.
+  Registering 'muted fuchsia' bag.
+  Registering 'bright aqua' bag.
+  Registering 'vibrant magenta' bag.
+  Registering 'light indigo' bag.
+  Registering 'mirrored tan' bag.
+  Registering 'dim teal' bag.
+  Registering 'shiny black' bag.
+  Registering 'drab plum' bag.
+  Registering 'muted turquoise' bag.
+  Registering 'muted brown' bag.
+  Registering 'dull olive' bag.
+  Registering 'drab coral' bag.
+  Registering 'mirrored white' bag.
+  Registering 'shiny gold' bag.
+  Registering 'vibrant tan' bag.
+  Registering 'dark olive' bag.
+  Registering 'light chartreuse' bag.
+  Registering 'mirrored salmon' bag.
+  Registering 'mirrored crimson' bag.
+  Registering 'wavy gray' bag.
+  Registering 'mirrored green' bag.
+  Registering 'vibrant gray' bag.
+  Registering 'dull black' bag.
+  Registering 'dim plum' bag.
+  Registering 'posh aqua' bag.
+  Registering 'muted yellow' bag.
+  Registering 'dark crimson' bag.
+  Registering 'bright gold' bag.
+  Registering 'dim purple' bag.
+  Registering 'light gray' bag.
+  Registering 'bright chartreuse' bag.
+  Registering 'shiny tan' bag.
+  Registering 'shiny coral' bag.
+  Registering 'dull indigo' bag.
+  Registering 'dim brown' bag.
+  Registering 'bright fuchsia' bag.
+  Registering 'light brown' bag.
+  Registering 'posh plum' bag.
+  Registering 'drab bronze' bag.
+  Registering 'dim beige' bag.
+  Registering 'dark lavender' bag.
+  Registering 'light black' bag.
+  Registering 'clear white' bag.
+  Registering 'pale white' bag.
+  Registering 'vibrant cyan' bag.
+  Registering 'bright lime' bag.
+  Registering 'bright olive' bag.
+  Registering 'vibrant lime' bag.
+  Registering 'faded turquoise' bag.
+  Registering 'muted red' bag.
+  Registering 'vibrant indigo' bag.
+  Registering 'striped olive' bag.
+  Registering 'posh blue' bag.
+  Registering 'striped gray' bag.
+  Registering 'posh lavender' bag.
+  Registering 'dim turquoise' bag.
+  Registering 'light purple' bag.
+  Registering 'vibrant yellow' bag.
+  Registering 'pale silver' bag.
+  Registering 'posh bronze' bag.
+  Registering 'striped white' bag.
+  Registering 'striped cyan' bag.
+  Registering 'shiny yellow' bag.
+  Registering 'muted white' bag.
+  Registering 'bright violet' bag.
+  Registering 'light red' bag.
+  Registering 'drab gray' bag.
+  Registering 'pale tan' bag.
+  Registering 'faded crimson' bag.
+  Registering 'shiny orange' bag.
+  Registering 'clear fuchsia' bag.
+  Registering 'shiny salmon' bag.
+  Registering 'dotted black' bag.
+  Registering 'drab turquoise' bag.
+  Registering 'shiny chartreuse' bag.
+  Registering 'wavy magenta' bag.
+  Registering 'wavy tan' bag.
+  Registering 'dotted maroon' bag.
+  Registering 'striped silver' bag.
+  Registering 'dotted blue' bag.
+  Registering 'striped bronze' bag.
+  Registering 'dotted chartreuse' bag.
+  Registering 'muted orange' bag.
+  Registering 'light fuchsia' bag.
+  Registering 'wavy green' bag.
+  Registering 'muted maroon' bag.
+  Registering 'drab beige' bag.
+  Registering 'light turquoise' bag.
+  Registering 'striped beige' bag.
+  Registering 'drab violet' bag.
+  Registering 'clear red' bag.
+  Registering 'clear green' bag.
+  Registering 'posh indigo' bag.
+  Registering 'dotted olive' bag.
+  Registering 'striped fuchsia' bag.
+  Registering 'dark fuchsia' bag.
+  Registering 'faded cyan' bag.
+  Registering 'drab chartreuse' bag.
+  Registering 'mirrored silver' bag.
+  Registering 'faded black' bag.
+  Registering 'muted lavender' bag.
+  Registering 'shiny cyan' bag.
+  Registering 'dark white' bag.
+  Registering 'plaid aqua' bag.
+  Registering 'muted purple' bag.
+  Registering 'clear chartreuse' bag.
+  Registering 'clear beige' bag.
+  Registering 'posh white' bag.
+  Registering 'posh cyan' bag.
+  Registering 'mirrored fuchsia' bag.
+  Registering 'striped teal' bag.
+  Registering 'dull maroon' bag.
+  Registering 'shiny brown' bag.
+  Registering 'vibrant gold' bag.
+  Registering 'wavy gold' bag.
+  Registering 'muted crimson' bag.
+  Registering 'mirrored coral' bag.
+  Registering 'dark green' bag.
+  Registering 'dotted beige' bag.
+  Registering 'plaid chartreuse' bag.
+  Registering 'dotted purple' bag.
+  Registering 'bright tomato' bag.
+  Registering 'plaid crimson' bag.
+  Registering 'muted gray' bag.
+  Registering 'vibrant brown' bag.
+  Registering 'clear aqua' bag.
+  Registering 'posh tomato' bag.
+  Registering 'dim chartreuse' bag.
+  Registering 'striped salmon' bag.
+  Registering 'faded orange' bag.
+  Registering 'shiny lavender' bag.
+  Registering 'wavy turquoise' bag.
+  Registering 'pale plum' bag.
+  Registering 'faded maroon' bag.
+  Registering 'dark yellow' bag.
+  Registering 'bright purple' bag.
+  Registering 'vibrant maroon' bag.
+Successfully registered 594 bags.
+
+shiny gold: Re-Calculating worth...
+  pale indigo: Re-Calculating worth...
+    drab blue: Re-Calculating worth...
+      dark gray: Re-Calculating worth...
+        bright white: Re-Calculating worth...
+        bright white: Done. [1]
+        posh red: Re-Calculating worth...
+        posh red: Done. [1]
+      dark gray: Done. [5]
+      dotted lime: Re-Calculating worth...
+        light silver: Re-Calculating worth...
+        light silver: Done. [1]
+        shiny green: Re-Calculating worth...
+        shiny green: Done. [1]
+        mirrored aqua: Re-Calculating worth...
+        mirrored aqua: Done. [1]
+      dotted lime: Done. [8]
+      shiny green: Providing cached worth. [1]
+      wavy olive: Re-Calculating worth...
+        muted white: Re-Calculating worth...
+          mirrored aqua: Providing cached worth. [1]
+          muted fuchsia: Re-Calculating worth...
+            bright blue: Re-Calculating worth...
+              mirrored yellow: Re-Calculating worth...
+              mirrored yellow: Done. [1]
+              light silver: Providing cached worth. [1]
+            bright blue: Done. [11]
+          muted fuchsia: Done. [12]
+        muted white: Done. [30]
+        muted silver: Re-Calculating worth...
+        muted silver: Done. [1]
+      wavy olive: Done. [126]
+    drab blue: Done. [424]
+    posh fuchsia: Re-Calculating worth...
+      dark aqua: Re-Calculating worth...
+        wavy beige: Re-Calculating worth...
+          muted violet: Re-Calculating worth...
+          muted violet: Done. [1]
+          bright white: Providing cached worth. [1]
+          vibrant red: Re-Calculating worth...
+            muted fuchsia: Providing cached worth. [12]
+            bright blue: Providing cached worth. [11]
+          vibrant red: Done. [80]
+          faded lavender: Re-Calculating worth...
+            mirrored yellow: Providing cached worth. [1]
+            vibrant plum: Re-Calculating worth...
+            vibrant plum: Done. [1]
+          faded lavender: Done. [6]
+        wavy beige: Done. [410]
+        pale yellow: Re-Calculating worth...
+          dull silver: Re-Calculating worth...
+          dull silver: Done. [1]
+          shiny green: Providing cached worth. [1]
+          muted silver: Providing cached worth. [1]
+        pale yellow: Done. [10]
+        bright white: Providing cached worth. [1]
+        muted violet: Providing cached worth. [1]
+      dark aqua: Done. [2085]
+      muted white: Providing cached worth. [30]
+      shiny green: Providing cached worth. [1]
+      dull black: Re-Calculating worth...
+        dark gray: Providing cached worth. [5]
+        mirrored yellow: Providing cached worth. [1]
+        dark aqua: Providing cached worth. [2085]
+      dull black: Done. [8347]
+    posh fuchsia: Done. [52193]
+  pale indigo: Done. [158700]
+  pale yellow: Providing cached worth. [10]
+shiny gold: Done. [158731]
+
+The target (shiny gold) has a worth of 158731.
+Therefore, one shiny gold bag contains 158730 bags.
