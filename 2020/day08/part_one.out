@@ -1,0 +1,855 @@
+Read 642 lines from day08.in.
+Starting processing and cleaning input.
+  Removing line 642: Empty.
+Left 641 lines intact.
+
+Parsing input into statement objects...
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 19, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 178, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 493, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 267, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 604, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 30, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 11, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 402, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 81, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 20, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 19, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 36, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 43, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 10, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 326, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 228, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 371, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 49, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 140, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -11, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 3, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 366, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 74, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 229, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 554, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 163, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 43, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 23, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 310, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 341, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 50, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 44, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 378, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 28, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 29, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 76, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 136, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 445, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 34, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 199, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 39, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 25, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -14, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 189, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -9, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 28, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 28, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 458, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 299, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 427, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 10, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 32, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 340, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 563, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 9, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 42, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 468, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 3, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 258, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 29, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -5, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 288, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 22, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 32, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 173, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 48, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 42, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 380, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 126, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 50, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 14, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 472, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -19, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 363, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 19, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 25, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 450, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 44, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 487, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 89, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 216, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 345, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 37, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 455, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 294, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 20, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 38, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 419, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 125, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 81, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 37, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 9, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 31, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 218, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 24, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 28, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -40, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 40, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 359, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 182, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 306, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 296, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 43, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -14, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 239, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 13, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 10, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -36, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 344, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 442, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 35, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 478, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 454, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -145, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 20, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 182, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 251, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -37, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 300, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 29, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 44, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 32, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 56, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 31, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 53, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -9, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 84, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 30, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 262, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -19, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 163, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 441, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 449, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 42, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 21, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 22, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 338, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 24, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 301, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 42, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 42, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 348, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 361, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -5, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -19, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -117, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 254, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -3, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 271, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 388, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 37, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -73, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 37, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 34, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -148, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -56, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 103, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -5, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 23, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 3, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 405, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 255, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 14, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -41, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 94, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 22, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 30, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -107, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 65, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 35, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -174, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -159, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -52, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 35, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 73, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 19, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 35, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -59, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 312, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 20, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 25, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -160, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 31, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 166, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 20, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 234, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 0, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -187, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 206, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 36, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 0, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 263, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 32, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 35, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -101, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 49, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -60, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 118, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -94, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 21, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 82, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 216, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 5, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -99, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 31, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -224, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 48, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 220, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 152, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -69, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 24, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 200, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 14, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 126, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 48, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 10, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -203, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 21, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -158, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -13, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -94, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -136, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -247, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -130, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 31, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 115, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -159, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 50, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 52, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 22, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 249, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -18, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -251, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 254, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -127, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 37, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -93, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 73, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 11, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 36, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 277, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 29, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -88, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 18, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -9, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 184, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -142, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 50, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 287, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -250, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -296, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -83, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 13, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 29, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 28, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 40, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 33, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -13, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 43, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 275, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 24, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -257, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -65, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -112, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 38, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -193, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -18, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -223, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -18, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -55, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -207, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -215, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 44, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -35, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 35, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 144, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 25, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -293, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 32, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -381, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 65, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -74, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -13, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -9, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -251, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 71, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 11, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -68, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 33, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -330, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 48, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -11, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 97, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -9, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -10, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 100, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 29, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 21, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -134, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -18, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 38, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 67, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -124, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 165, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -245, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 25, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -19, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -328, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -182, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 46, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -250, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -256, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 21, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 21, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 37, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 156, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 32, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -195, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -355, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -14, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -302, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 48, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -407, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 50, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -9, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -110, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 31, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 37, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -162, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -14, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -437, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 44, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 24, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -139, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -362, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 40, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -41, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 38, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -231, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 31, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 23, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 135, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -19, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 148, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -18, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -3, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -189, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -18, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -454, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 83, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -190, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 34, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 94, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 42, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 34, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -150, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': 90, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -126, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -161, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 5, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 11, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 20, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 38, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -97, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 49, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 29, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -36, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -14, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 30, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 42, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -192, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -336, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 34, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 31, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 33, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 65, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -459, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -399, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -256, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -420, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -276, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 40, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -180, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 50, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -501, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -232, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -109, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -291, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -345, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 100, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 36, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -2, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 23, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -299, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 24, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 30, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -476, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 0, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 49, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -461, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -539, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -62, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 48, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -526, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -365, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 10, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 32, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -490, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -148, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 42, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 5, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -358, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -5, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -101, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -502, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 15, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -399, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 31, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 49, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -269, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 36, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 51, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 39, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -64, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 47, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -102, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -8, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -202, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -18, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -484, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 35, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 30, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 49, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -562, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -515, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -13, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -6, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -369, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 18, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -477, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -10, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -430, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -111, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -445, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 12, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -50, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 7, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 3, 'max_runs': 1, 'times_run': 0}
+  {'label': 'nop', 'value': -433, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -390, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -5, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 50, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -67, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -10, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -446, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -496, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -17, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 14, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 33, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -239, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 3, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -3, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 27, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -3, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -162, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -16, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 23, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 26, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 25, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': -346, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 40, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 45, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': 42, 'max_runs': 1, 'times_run': 0}
+  {'label': 'acc', 'value': -4, 'max_runs': 1, 'times_run': 0}
+  {'label': 'jmp', 'value': 1, 'max_runs': 1, 'times_run': 0}
+Successfully parsed 641 statements.
+
+Executing code...
+  acc|-8: 0 -> -8
+  acc|19: -8 -> 11
+  nop|178: Ignored
+  jmp|493: 3 -> 496
+  acc|5: 11 -> 16
+  acc|11: 16 -> 27
+  acc|20: 27 -> 47
+  acc|38: 47 -> 85
+  jmp|-97: 500 -> 403
+  acc|33: 85 -> 118
+  jmp|-330: 404 -> 74
+  acc|1: 118 -> 119
+  acc|3: 119 -> 122
+  jmp|258: 76 -> 334
+  acc|29: 122 -> 151
+  acc|16: 151 -> 167
+  jmp|-88: 336 -> 248
+  acc|-4: 167 -> 163
+  nop|-160: Ignored
+  acc|-8: 163 -> 155
+  acc|31: 155 -> 186
+  jmp|166: 252 -> 418
+  jmp|-12: 418 -> 406
+  acc|-15: 186 -> 171
+  acc|-11: 171 -> 160
+  jmp|97: 408 -> 505
+  acc|4: 160 -> 164
+  acc|-14: 164 -> 150
+  acc|30: 150 -> 180
+  acc|42: 180 -> 222
+  jmp|-192: 509 -> 317
+  acc|7: 222 -> 229
+  acc|50: 229 -> 279
+  jmp|52: 319 -> 371
+  acc|-6: 279 -> 273
+  jmp|-215: 372 -> 157
+  nop|-145: Ignored
+  acc|20: 273 -> 293
+  acc|-6: 293 -> 287
+  jmp|182: 160 -> 342
+  jmp|-142: 342 -> 200
+  jmp|1: 200 -> 201
+  acc|47: 287 -> 334
+  acc|-3: 334 -> 331
+  jmp|271: 203 -> 474
+  acc|16: 331 -> 347
+  acc|-18: 347 -> 329
+  acc|-3: 329 -> 326
+  acc|1: 326 -> 327
+  jmp|-189: 478 -> 289
+  acc|15: 327 -> 342
+  acc|48: 342 -> 390
+  jmp|220: 291 -> 511
+  acc|34: 390 -> 424
+  acc|31: 424 -> 455
+  acc|2: 455 -> 457
+  acc|33: 457 -> 490
+  jmp|65: 515 -> 580
+  jmp|51: 580 -> 631
+  jmp|-16: 631 -> 615
+  acc|-5: 490 -> 485
+  acc|50: 485 -> 535
+  jmp|-67: 617 -> 550
+  nop|-461: Ignored
+  jmp|-539: 551 -> 12
+  acc|20: 535 -> 555
+  acc|19: 555 -> 574
+  acc|36: 574 -> 610
+  jmp|6: 15 -> 21
+  nop|371: Ignored
+  acc|49: 610 -> 659
+  nop|140: Ignored
+  acc|-11: 659 -> 648
+  jmp|3: 25 -> 28
+  nop|229: Ignored
+  jmp|554: 29 -> 583
+  acc|47: 648 -> 695
+  jmp|1: 584 -> 585
+  acc|-8: 695 -> 687
+  jmp|-102: 586 -> 484
+  nop|-190: Ignored
+  jmp|-17: 485 -> 468
+  acc|31: 687 -> 718
+  acc|23: 718 -> 741
+  jmp|135: 470 -> 605
+  jmp|1: 605 -> 606
+  acc|7: 741 -> 748
+  nop|-111: Ignored
+  jmp|-445: 608 -> 163
+  acc|26: 748 -> 774
+  jmp|300: 164 -> 464
+  acc|40: 774 -> 814
+  jmp|-41: 465 -> 424
+  jmp|165: 424 -> 589
+  jmp|-18: 589 -> 571
+  acc|31: 814 -> 845
+  acc|47: 845 -> 892
+  acc|49: 892 -> 941
+  jmp|-269: 574 -> 305
+  acc|21: 941 -> 962
+  jmp|-158: 306 -> 148
+  acc|35: 962 -> 997
+  acc|2: 997 -> 999
+  acc|27: 999 -> 1026
+  acc|17: 1026 -> 1043
+  jmp|-27: 152 -> 125
+  acc|24: 1043 -> 1067
+  acc|28: 1067 -> 1095
+  acc|-4: 1095 -> 1091
+  acc|-12: 1091 -> 1079
+  jmp|-40: 129 -> 89
+  jmp|126: 89 -> 215
+  acc|-5: 1079 -> 1074
+  acc|23: 1074 -> 1097
+  acc|3: 1097 -> 1100
+  jmp|405: 218 -> 623
+  acc|14: 1100 -> 1114
+  acc|33: 1114 -> 1147
+  jmp|-239: 625 -> 386
+  acc|32: 1147 -> 1179
+  jmp|-381: 387 -> 6
+  jmp|604: 6 -> 610
+  jmp|-50: 610 -> 560
+  nop|-148: Ignored
+  acc|42: 1179 -> 1221
+  acc|5: 1221 -> 1226
+  jmp|-358: 563 -> 205
+  acc|2: 1226 -> 1228
+  acc|-17: 1228 -> 1211
+  acc|37: 1211 -> 1248
+  jmp|-73: 208 -> 135
+  acc|-8: 1248 -> 1240
+  jmp|1: 136 -> 137
+  nop|43: Ignored
+  acc|-14: 1240 -> 1226
+  jmp|239: 139 -> 378
+  acc|47: 1226 -> 1273
+  acc|47: 1273 -> 1320
+  acc|35: 1320 -> 1355
+  jmp|144: 381 -> 525
+  acc|45: 1355 -> 1400
+  acc|40: 1400 -> 1440
+  jmp|-180: 527 -> 347
+  jmp|-83: 347 -> 264
+  acc|36: 1440 -> 1476
+  acc|0: 1476 -> 1476
+  acc|7: 1476 -> 1483
+  jmp|263: 267 -> 530
+  acc|17: 1483 -> 1500
+  jmp|-232: 531 -> 299
+  acc|48: 1500 -> 1548
+  acc|47: 1548 -> 1595
+  acc|10: 1595 -> 1605
+  jmp|26: 302 -> 328
+  acc|37: 1605 -> 1642
+  jmp|-93: 329 -> 236
+  acc|35: 1642 -> 1677
+  jmp|73: 237 -> 310
+  jmp|-136: 310 -> 174
+  jmp|1: 174 -> 175
+  nop|30: Ignored
+  acc|-15: 1677 -> 1662
+  jmp|262: 177 -> 439
+  acc|21: 1662 -> 1683
+  acc|37: 1683 -> 1720
+  jmp|156: 441 -> 597
+  acc|-13: 1720 -> 1707
+  nop|-6: Ignored
+  jmp|-369: 599 -> 230
+  acc|35: 1707 -> 1742
+  acc|-4: 1742 -> 1738
+  jmp|-174: 232 -> 58
+  acc|28: 1738 -> 1766
+  acc|28: 1766 -> 1794
+  jmp|458: 60 -> 518
+  nop|-399: Ignored
+  acc|-6: 1794 -> 1788
+  nop|-256: Ignored
+  jmp|-420: 521 -> 101
+  acc|-7: 1788 -> 1781
+  acc|27: 1781 -> 1808
+  acc|44: 1808 -> 1852
+  acc|17: 1852 -> 1869
+  jmp|487: 105 -> 592
+  acc|35: 1869 -> 1904
+  acc|30: 1904 -> 1934
+  acc|49: 1934 -> 1983
+  jmp|-562: 595 -> 33
+  acc|43: 1983 -> 2026
+  acc|23: 2026 -> 2049
+  jmp|310: 35 -> 345
+  jmp|-250: 345 -> 95
+  acc|-19: 2049 -> 2030
+  jmp|363: 96 -> 459
+  acc|44: 2030 -> 2074
+  jmp|1: 460 -> 461
+  acc|24: 2074 -> 2098
+  jmp|-139: 462 -> 323
+  acc|-18: 2098 -> 2080
+  jmp|1: 324 -> 325
+  jmp|-251: 325 -> 74
+  CRITICAL: Would execute acc|1 again!
+Reached breakpoint.
+Dumping emulator.
+  Emulator Dump: {'COUNTER': 74, 'ACCUMULATOR': 2080}
