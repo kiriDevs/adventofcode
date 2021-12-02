@@ -1,0 +1,1006 @@
+Reading input...
+Successfully read 1000 lines.
+
+Rrocessing route code...
+  0000: forward(02) - horiz 0000 -> 0002
+  0001: down   (08) - depth 0000 -> 0008
+  0002: down   (01) - depth 0008 -> 0009
+  0003: up     (07) - depth 0009 -> 0002
+  0004: forward(04) - horiz 0002 -> 0006
+  0005: down   (04) - depth 0002 -> 0006
+  0006: down   (03) - depth 0006 -> 0009
+  0007: forward(02) - horiz 0006 -> 0008
+  0008: forward(05) - horiz 0008 -> 0013
+  0009: forward(02) - horiz 0013 -> 0015
+  0010: forward(07) - horiz 0015 -> 0022
+  0011: forward(08) - horiz 0022 -> 0030
+  0012: down   (07) - depth 0009 -> 0016
+  0013: forward(06) - horiz 0030 -> 0036
+  0014: forward(01) - horiz 0036 -> 0037
+  0015: down   (08) - depth 0016 -> 0024
+  0016: down   (08) - depth 0024 -> 0032
+  0017: up     (09) - depth 0032 -> 0023
+  0018: down   (09) - depth 0023 -> 0032
+  0019: forward(01) - horiz 0037 -> 0038
+  0020: up     (01) - depth 0032 -> 0031
+  0021: forward(06) - horiz 0038 -> 0044
+  0022: forward(07) - horiz 0044 -> 0051
+  0023: down   (07) - depth 0031 -> 0038
+  0024: forward(04) - horiz 0051 -> 0055
+  0025: forward(02) - horiz 0055 -> 0057
+  0026: forward(01) - horiz 0057 -> 0058
+  0027: forward(03) - horiz 0058 -> 0061
+  0028: forward(08) - horiz 0061 -> 0069
+  0029: forward(04) - horiz 0069 -> 0073
+  0030: up     (06) - depth 0038 -> 0032
+  0031: down   (02) - depth 0032 -> 0034
+  0032: forward(04) - horiz 0073 -> 0077
+  0033: down   (03) - depth 0034 -> 0037
+  0034: up     (03) - depth 0037 -> 0034
+  0035: up     (02) - depth 0034 -> 0032
+  0036: up     (03) - depth 0032 -> 0029
+  0037: forward(08) - horiz 0077 -> 0085
+  0038: down   (05) - depth 0029 -> 0034
+  0039: down   (08) - depth 0034 -> 0042
+  0040: down   (05) - depth 0042 -> 0047
+  0041: down   (04) - depth 0047 -> 0051
+  0042: down   (02) - depth 0051 -> 0053
+  0043: up     (01) - depth 0053 -> 0052
+  0044: forward(06) - horiz 0085 -> 0091
+  0045: forward(06) - horiz 0091 -> 0097
+  0046: forward(08) - horiz 0097 -> 0105
+  0047: up     (05) - depth 0052 -> 0047
+  0048: down   (05) - depth 0047 -> 0052
+  0049: forward(08) - horiz 0105 -> 0113
+  0050: forward(07) - horiz 0113 -> 0120
+  0051: down   (09) - depth 0052 -> 0061
+  0052: down   (07) - depth 0061 -> 0068
+  0053: down   (06) - depth 0068 -> 0074
+  0054: down   (03) - depth 0074 -> 0077
+  0055: forward(03) - horiz 0120 -> 0123
+  0056: up     (07) - depth 0077 -> 0070
+  0057: forward(02) - horiz 0123 -> 0125
+  0058: up     (06) - depth 0070 -> 0064
+  0059: forward(07) - horiz 0125 -> 0132
+  0060: forward(09) - horiz 0132 -> 0141
+  0061: down   (09) - depth 0064 -> 0073
+  0062: forward(03) - horiz 0141 -> 0144
+  0063: down   (02) - depth 0073 -> 0075
+  0064: down   (02) - depth 0075 -> 0077
+  0065: down   (07) - depth 0077 -> 0084
+  0066: down   (07) - depth 0084 -> 0091
+  0067: forward(08) - horiz 0144 -> 0152
+  0068: down   (07) - depth 0091 -> 0098
+  0069: forward(09) - horiz 0152 -> 0161
+  0070: up     (07) - depth 0098 -> 0091
+  0071: down   (04) - depth 0091 -> 0095
+  0072: down   (08) - depth 0095 -> 0103
+  0073: forward(02) - horiz 0161 -> 0163
+  0074: forward(02) - horiz 0163 -> 0165
+  0075: up     (01) - depth 0103 -> 0102
+  0076: forward(08) - horiz 0165 -> 0173
+  0077: down   (05) - depth 0102 -> 0107
+  0078: forward(08) - horiz 0173 -> 0181
+  0079: forward(04) - horiz 0181 -> 0185
+  0080: up     (01) - depth 0107 -> 0106
+  0081: forward(02) - horiz 0185 -> 0187
+  0082: forward(02) - horiz 0187 -> 0189
+  0083: forward(02) - horiz 0189 -> 0191
+  0084: down   (09) - depth 0106 -> 0115
+  0085: down   (07) - depth 0115 -> 0122
+  0086: down   (09) - depth 0122 -> 0131
+  0087: forward(09) - horiz 0191 -> 0200
+  0088: forward(04) - horiz 0200 -> 0204
+  0089: up     (07) - depth 0131 -> 0124
+  0090: down   (04) - depth 0124 -> 0128
+  0091: forward(09) - horiz 0204 -> 0213
+  0092: forward(08) - horiz 0213 -> 0221
+  0093: up     (05) - depth 0128 -> 0123
+  0094: up     (01) - depth 0123 -> 0122
+  0095: down   (01) - depth 0122 -> 0123
+  0096: down   (09) - depth 0123 -> 0132
+  0097: down   (06) - depth 0132 -> 0138
+  0098: up     (08) - depth 0138 -> 0130
+  0099: forward(02) - horiz 0221 -> 0223
+  0100: forward(07) - horiz 0223 -> 0230
+  0101: up     (07) - depth 0130 -> 0123
+  0102: forward(07) - horiz 0230 -> 0237
+  0103: forward(06) - horiz 0237 -> 0243
+  0104: down   (06) - depth 0123 -> 0129
+  0105: forward(08) - horiz 0243 -> 0251
+  0106: up     (06) - depth 0129 -> 0123
+  0107: forward(07) - horiz 0251 -> 0258
+  0108: down   (07) - depth 0123 -> 0130
+  0109: forward(04) - horiz 0258 -> 0262
+  0110: forward(09) - horiz 0262 -> 0271
+  0111: up     (09) - depth 0130 -> 0121
+  0112: up     (08) - depth 0121 -> 0113
+  0113: forward(08) - horiz 0271 -> 0279
+  0114: forward(03) - horiz 0279 -> 0282
+  0115: up     (01) - depth 0113 -> 0112
+  0116: up     (04) - depth 0112 -> 0108
+  0117: down   (04) - depth 0108 -> 0112
+  0118: up     (09) - depth 0112 -> 0103
+  0119: up     (08) - depth 0103 -> 0095
+  0120: forward(06) - horiz 0282 -> 0288
+  0121: down   (02) - depth 0095 -> 0097
+  0122: down   (02) - depth 0097 -> 0099
+  0123: up     (04) - depth 0099 -> 0095
+  0124: forward(04) - horiz 0288 -> 0292
+  0125: forward(01) - horiz 0292 -> 0293
+  0126: down   (08) - depth 0095 -> 0103
+  0127: forward(06) - horiz 0293 -> 0299
+  0128: down   (05) - depth 0103 -> 0108
+  0129: forward(06) - horiz 0299 -> 0305
+  0130: down   (08) - depth 0108 -> 0116
+  0131: up     (01) - depth 0116 -> 0115
+  0132: forward(01) - horiz 0305 -> 0306
+  0133: up     (09) - depth 0115 -> 0106
+  0134: down   (08) - depth 0106 -> 0114
+  0135: up     (03) - depth 0114 -> 0111
+  0136: up     (09) - depth 0111 -> 0102
+  0137: forward(09) - horiz 0306 -> 0315
+  0138: forward(02) - horiz 0315 -> 0317
+  0139: down   (02) - depth 0102 -> 0104
+  0140: up     (06) - depth 0104 -> 0098
+  0141: up     (06) - depth 0098 -> 0092
+  0142: forward(08) - horiz 0317 -> 0325
+  0143: up     (03) - depth 0092 -> 0089
+  0144: down   (03) - depth 0089 -> 0092
+  0145: forward(05) - horiz 0325 -> 0330
+  0146: up     (02) - depth 0092 -> 0090
+  0147: forward(01) - horiz 0330 -> 0331
+  0148: forward(01) - horiz 0331 -> 0332
+  0149: forward(08) - horiz 0332 -> 0340
+  0150: down   (04) - depth 0090 -> 0094
+  0151: forward(08) - horiz 0340 -> 0348
+  0152: forward(07) - horiz 0348 -> 0355
+  0153: down   (08) - depth 0094 -> 0102
+  0154: forward(07) - horiz 0355 -> 0362
+  0155: down   (07) - depth 0102 -> 0109
+  0156: down   (02) - depth 0109 -> 0111
+  0157: down   (01) - depth 0111 -> 0112
+  0158: down   (07) - depth 0112 -> 0119
+  0159: up     (09) - depth 0119 -> 0110
+  0160: down   (05) - depth 0110 -> 0115
+  0161: up     (01) - depth 0115 -> 0114
+  0162: forward(07) - horiz 0362 -> 0369
+  0163: down   (05) - depth 0114 -> 0119
+  0164: down   (09) - depth 0119 -> 0128
+  0165: down   (02) - depth 0128 -> 0130
+  0166: down   (08) - depth 0130 -> 0138
+  0167: down   (04) - depth 0138 -> 0142
+  0168: forward(02) - horiz 0369 -> 0371
+  0169: forward(02) - horiz 0371 -> 0373
+  0170: forward(01) - horiz 0373 -> 0374
+  0171: down   (06) - depth 0142 -> 0148
+  0172: up     (07) - depth 0148 -> 0141
+  0173: forward(02) - horiz 0374 -> 0376
+  0174: down   (01) - depth 0141 -> 0142
+  0175: down   (05) - depth 0142 -> 0147
+  0176: forward(03) - horiz 0376 -> 0379
+  0177: forward(08) - horiz 0379 -> 0387
+  0178: down   (04) - depth 0147 -> 0151
+  0179: up     (02) - depth 0151 -> 0149
+  0180: up     (09) - depth 0149 -> 0140
+  0181: up     (07) - depth 0140 -> 0133
+  0182: forward(07) - horiz 0387 -> 0394
+  0183: forward(04) - horiz 0394 -> 0398
+  0184: up     (08) - depth 0133 -> 0125
+  0185: up     (03) - depth 0125 -> 0122
+  0186: up     (04) - depth 0122 -> 0118
+  0187: forward(06) - horiz 0398 -> 0404
+  0188: down   (07) - depth 0118 -> 0125
+  0189: forward(07) - horiz 0404 -> 0411
+  0190: up     (06) - depth 0125 -> 0119
+  0191: down   (09) - depth 0119 -> 0128
+  0192: up     (06) - depth 0128 -> 0122
+  0193: forward(04) - horiz 0411 -> 0415
+  0194: up     (03) - depth 0122 -> 0119
+  0195: down   (03) - depth 0119 -> 0122
+  0196: up     (06) - depth 0122 -> 0116
+  0197: down   (09) - depth 0116 -> 0125
+  0198: down   (06) - depth 0125 -> 0131
+  0199: forward(07) - horiz 0415 -> 0422
+  0200: forward(09) - horiz 0422 -> 0431
+  0201: forward(02) - horiz 0431 -> 0433
+  0202: down   (06) - depth 0131 -> 0137
+  0203: up     (03) - depth 0137 -> 0134
+  0204: up     (09) - depth 0134 -> 0125
+  0205: forward(09) - horiz 0433 -> 0442
+  0206: forward(08) - horiz 0442 -> 0450
+  0207: up     (04) - depth 0125 -> 0121
+  0208: up     (05) - depth 0121 -> 0116
+  0209: forward(06) - horiz 0450 -> 0456
+  0210: down   (05) - depth 0116 -> 0121
+  0211: up     (04) - depth 0121 -> 0117
+  0212: up     (09) - depth 0117 -> 0108
+  0213: down   (08) - depth 0108 -> 0116
+  0214: forward(05) - horiz 0456 -> 0461
+  0215: up     (05) - depth 0116 -> 0111
+  0216: forward(07) - horiz 0461 -> 0468
+  0217: forward(06) - horiz 0468 -> 0474
+  0218: down   (08) - depth 0111 -> 0119
+  0219: down   (05) - depth 0119 -> 0124
+  0220: down   (02) - depth 0124 -> 0126
+  0221: up     (05) - depth 0126 -> 0121
+  0222: down   (08) - depth 0121 -> 0129
+  0223: forward(07) - horiz 0474 -> 0481
+  0224: forward(07) - horiz 0481 -> 0488
+  0225: up     (06) - depth 0129 -> 0123
+  0226: forward(03) - horiz 0488 -> 0491
+  0227: down   (08) - depth 0123 -> 0131
+  0228: forward(05) - horiz 0491 -> 0496
+  0229: forward(08) - horiz 0496 -> 0504
+  0230: down   (07) - depth 0131 -> 0138
+  0231: forward(06) - horiz 0504 -> 0510
+  0232: down   (02) - depth 0138 -> 0140
+  0233: forward(02) - horiz 0510 -> 0512
+  0234: forward(08) - horiz 0512 -> 0520
+  0235: down   (04) - depth 0140 -> 0144
+  0236: forward(05) - horiz 0520 -> 0525
+  0237: forward(07) - horiz 0525 -> 0532
+  0238: forward(05) - horiz 0532 -> 0537
+  0239: forward(08) - horiz 0537 -> 0545
+  0240: forward(09) - horiz 0545 -> 0554
+  0241: forward(06) - horiz 0554 -> 0560
+  0242: down   (06) - depth 0144 -> 0150
+  0243: up     (07) - depth 0150 -> 0143
+  0244: down   (09) - depth 0143 -> 0152
+  0245: forward(07) - horiz 0560 -> 0567
+  0246: forward(01) - horiz 0567 -> 0568
+  0247: up     (02) - depth 0152 -> 0150
+  0248: forward(08) - horiz 0568 -> 0576
+  0249: down   (01) - depth 0150 -> 0151
+  0250: up     (09) - depth 0151 -> 0142
+  0251: forward(07) - horiz 0576 -> 0583
+  0252: down   (02) - depth 0142 -> 0144
+  0253: up     (02) - depth 0144 -> 0142
+  0254: forward(05) - horiz 0583 -> 0588
+  0255: down   (04) - depth 0142 -> 0146
+  0256: down   (03) - depth 0146 -> 0149
+  0257: up     (08) - depth 0149 -> 0141
+  0258: up     (06) - depth 0141 -> 0135
+  0259: forward(03) - horiz 0588 -> 0591
+  0260: up     (04) - depth 0135 -> 0131
+  0261: forward(03) - horiz 0591 -> 0594
+  0262: forward(01) - horiz 0594 -> 0595
+  0263: forward(01) - horiz 0595 -> 0596
+  0264: up     (09) - depth 0131 -> 0122
+  0265: down   (02) - depth 0122 -> 0124
+  0266: down   (09) - depth 0124 -> 0133
+  0267: up     (04) - depth 0133 -> 0129
+  0268: forward(04) - horiz 0596 -> 0600
+  0269: forward(04) - horiz 0600 -> 0604
+  0270: forward(02) - horiz 0604 -> 0606
+  0271: forward(05) - horiz 0606 -> 0611
+  0272: forward(09) - horiz 0611 -> 0620
+  0273: forward(07) - horiz 0620 -> 0627
+  0274: up     (04) - depth 0129 -> 0125
+  0275: up     (05) - depth 0125 -> 0120
+  0276: down   (05) - depth 0120 -> 0125
+  0277: forward(09) - horiz 0627 -> 0636
+  0278: down   (01) - depth 0125 -> 0126
+  0279: forward(02) - horiz 0636 -> 0638
+  0280: down   (06) - depth 0126 -> 0132
+  0281: forward(09) - horiz 0638 -> 0647
+  0282: down   (04) - depth 0132 -> 0136
+  0283: down   (02) - depth 0136 -> 0138
+  0284: forward(02) - horiz 0647 -> 0649
+  0285: up     (07) - depth 0138 -> 0131
+  0286: forward(07) - horiz 0649 -> 0656
+  0287: forward(08) - horiz 0656 -> 0664
+  0288: up     (09) - depth 0131 -> 0122
+  0289: forward(03) - horiz 0664 -> 0667
+  0290: up     (01) - depth 0122 -> 0121
+  0291: down   (05) - depth 0121 -> 0126
+  0292: forward(05) - horiz 0667 -> 0672
+  0293: down   (01) - depth 0126 -> 0127
+  0294: up     (05) - depth 0127 -> 0122
+  0295: forward(04) - horiz 0672 -> 0676
+  0296: forward(05) - horiz 0676 -> 0681
+  0297: up     (03) - depth 0122 -> 0119
+  0298: down   (04) - depth 0119 -> 0123
+  0299: up     (06) - depth 0123 -> 0117
+  0300: up     (01) - depth 0117 -> 0116
+  0301: down   (02) - depth 0116 -> 0118
+  0302: forward(06) - horiz 0681 -> 0687
+  0303: down   (08) - depth 0118 -> 0126
+  0304: up     (09) - depth 0126 -> 0117
+  0305: down   (07) - depth 0117 -> 0124
+  0306: forward(09) - horiz 0687 -> 0696
+  0307: down   (08) - depth 0124 -> 0132
+  0308: forward(03) - horiz 0696 -> 0699
+  0309: forward(08) - horiz 0699 -> 0707
+  0310: down   (01) - depth 0132 -> 0133
+  0311: down   (07) - depth 0133 -> 0140
+  0312: forward(06) - horiz 0707 -> 0713
+  0313: up     (06) - depth 0140 -> 0134
+  0314: down   (01) - depth 0134 -> 0135
+  0315: down   (05) - depth 0135 -> 0140
+  0316: forward(06) - horiz 0713 -> 0719
+  0317: down   (07) - depth 0140 -> 0147
+  0318: down   (02) - depth 0147 -> 0149
+  0319: forward(06) - horiz 0719 -> 0725
+  0320: forward(02) - horiz 0725 -> 0727
+  0321: forward(08) - horiz 0727 -> 0735
+  0322: forward(07) - horiz 0735 -> 0742
+  0323: forward(02) - horiz 0742 -> 0744
+  0324: down   (07) - depth 0149 -> 0156
+  0325: up     (02) - depth 0156 -> 0154
+  0326: down   (07) - depth 0154 -> 0161
+  0327: forward(08) - horiz 0744 -> 0752
+  0328: forward(08) - horiz 0752 -> 0760
+  0329: forward(02) - horiz 0760 -> 0762
+  0330: forward(04) - horiz 0762 -> 0766
+  0331: down   (01) - depth 0161 -> 0162
+  0332: down   (06) - depth 0162 -> 0168
+  0333: down   (01) - depth 0168 -> 0169
+  0334: down   (04) - depth 0169 -> 0173
+  0335: down   (04) - depth 0173 -> 0177
+  0336: down   (02) - depth 0177 -> 0179
+  0337: down   (07) - depth 0179 -> 0186
+  0338: up     (05) - depth 0186 -> 0181
+  0339: up     (05) - depth 0181 -> 0176
+  0340: down   (01) - depth 0176 -> 0177
+  0341: forward(03) - horiz 0766 -> 0769
+  0342: up     (01) - depth 0177 -> 0176
+  0343: down   (03) - depth 0176 -> 0179
+  0344: forward(09) - horiz 0769 -> 0778
+  0345: forward(04) - horiz 0778 -> 0782
+  0346: forward(07) - horiz 0782 -> 0789
+  0347: down   (04) - depth 0179 -> 0183
+  0348: down   (04) - depth 0183 -> 0187
+  0349: down   (02) - depth 0187 -> 0189
+  0350: forward(02) - horiz 0789 -> 0791
+  0351: forward(01) - horiz 0791 -> 0792
+  0352: forward(09) - horiz 0792 -> 0801
+  0353: down   (01) - depth 0189 -> 0190
+  0354: down   (04) - depth 0190 -> 0194
+  0355: down   (01) - depth 0194 -> 0195
+  0356: forward(04) - horiz 0801 -> 0805
+  0357: up     (08) - depth 0195 -> 0187
+  0358: forward(03) - horiz 0805 -> 0808
+  0359: down   (06) - depth 0187 -> 0193
+  0360: forward(05) - horiz 0808 -> 0813
+  0361: forward(09) - horiz 0813 -> 0822
+  0362: forward(01) - horiz 0822 -> 0823
+  0363: up     (08) - depth 0193 -> 0185
+  0364: down   (07) - depth 0185 -> 0192
+  0365: down   (08) - depth 0192 -> 0200
+  0366: forward(04) - horiz 0823 -> 0827
+  0367: down   (04) - depth 0200 -> 0204
+  0368: up     (05) - depth 0204 -> 0199
+  0369: down   (03) - depth 0199 -> 0202
+  0370: forward(03) - horiz 0827 -> 0830
+  0371: down   (06) - depth 0202 -> 0208
+  0372: down   (01) - depth 0208 -> 0209
+  0373: down   (09) - depth 0209 -> 0218
+  0374: forward(08) - horiz 0830 -> 0838
+  0375: up     (05) - depth 0218 -> 0213
+  0376: down   (07) - depth 0213 -> 0220
+  0377: up     (07) - depth 0220 -> 0213
+  0378: forward(03) - horiz 0838 -> 0841
+  0379: up     (05) - depth 0213 -> 0208
+  0380: up     (07) - depth 0208 -> 0201
+  0381: down   (04) - depth 0201 -> 0205
+  0382: up     (02) - depth 0205 -> 0203
+  0383: down   (02) - depth 0203 -> 0205
+  0384: down   (08) - depth 0205 -> 0213
+  0385: up     (06) - depth 0213 -> 0207
+  0386: down   (04) - depth 0207 -> 0211
+  0387: up     (01) - depth 0211 -> 0210
+  0388: down   (08) - depth 0210 -> 0218
+  0389: down   (04) - depth 0218 -> 0222
+  0390: forward(07) - horiz 0841 -> 0848
+  0391: down   (04) - depth 0222 -> 0226
+  0392: up     (03) - depth 0226 -> 0223
+  0393: down   (09) - depth 0223 -> 0232
+  0394: forward(03) - horiz 0848 -> 0851
+  0395: up     (04) - depth 0232 -> 0228
+  0396: up     (01) - depth 0228 -> 0227
+  0397: up     (05) - depth 0227 -> 0222
+  0398: down   (04) - depth 0222 -> 0226
+  0399: forward(04) - horiz 0851 -> 0855
+  0400: forward(04) - horiz 0855 -> 0859
+  0401: down   (02) - depth 0226 -> 0228
+  0402: down   (03) - depth 0228 -> 0231
+  0403: down   (04) - depth 0231 -> 0235
+  0404: forward(02) - horiz 0859 -> 0861
+  0405: down   (09) - depth 0235 -> 0244
+  0406: down   (09) - depth 0244 -> 0253
+  0407: down   (06) - depth 0253 -> 0259
+  0408: forward(05) - horiz 0861 -> 0866
+  0409: forward(07) - horiz 0866 -> 0873
+  0410: down   (03) - depth 0259 -> 0262
+  0411: forward(02) - horiz 0873 -> 0875
+  0412: up     (08) - depth 0262 -> 0254
+  0413: down   (06) - depth 0254 -> 0260
+  0414: down   (08) - depth 0260 -> 0268
+  0415: down   (02) - depth 0268 -> 0270
+  0416: up     (09) - depth 0270 -> 0261
+  0417: down   (01) - depth 0261 -> 0262
+  0418: forward(08) - horiz 0875 -> 0883
+  0419: forward(01) - horiz 0883 -> 0884
+  0420: forward(08) - horiz 0884 -> 0892
+  0421: up     (04) - depth 0262 -> 0258
+  0422: up     (01) - depth 0258 -> 0257
+  0423: down   (08) - depth 0257 -> 0265
+  0424: up     (02) - depth 0265 -> 0263
+  0425: forward(05) - horiz 0892 -> 0897
+  0426: down   (03) - depth 0263 -> 0266
+  0427: forward(05) - horiz 0897 -> 0902
+  0428: forward(04) - horiz 0902 -> 0906
+  0429: forward(01) - horiz 0906 -> 0907
+  0430: down   (09) - depth 0266 -> 0275
+  0431: forward(02) - horiz 0907 -> 0909
+  0432: forward(05) - horiz 0909 -> 0914
+  0433: forward(04) - horiz 0914 -> 0918
+  0434: forward(03) - horiz 0918 -> 0921
+  0435: down   (07) - depth 0275 -> 0282
+  0436: up     (09) - depth 0282 -> 0273
+  0437: forward(07) - horiz 0921 -> 0928
+  0438: up     (08) - depth 0273 -> 0265
+  0439: forward(03) - horiz 0928 -> 0931
+  0440: forward(03) - horiz 0931 -> 0934
+  0441: down   (05) - depth 0265 -> 0270
+  0442: forward(07) - horiz 0934 -> 0941
+  0443: forward(05) - horiz 0941 -> 0946
+  0444: down   (04) - depth 0270 -> 0274
+  0445: forward(06) - horiz 0946 -> 0952
+  0446: down   (06) - depth 0274 -> 0280
+  0447: up     (03) - depth 0280 -> 0277
+  0448: down   (03) - depth 0277 -> 0280
+  0449: forward(07) - horiz 0952 -> 0959
+  0450: forward(08) - horiz 0959 -> 0967
+  0451: up     (03) - depth 0280 -> 0277
+  0452: up     (08) - depth 0277 -> 0269
+  0453: forward(08) - horiz 0967 -> 0975
+  0454: up     (04) - depth 0269 -> 0265
+  0455: forward(05) - horiz 0975 -> 0980
+  0456: up     (04) - depth 0265 -> 0261
+  0457: down   (07) - depth 0261 -> 0268
+  0458: forward(04) - horiz 0980 -> 0984
+  0459: down   (08) - depth 0268 -> 0276
+  0460: down   (06) - depth 0276 -> 0282
+  0461: forward(07) - horiz 0984 -> 0991
+  0462: down   (04) - depth 0282 -> 0286
+  0463: up     (07) - depth 0286 -> 0279
+  0464: down   (06) - depth 0279 -> 0285
+  0465: up     (05) - depth 0285 -> 0280
+  0466: down   (02) - depth 0280 -> 0282
+  0467: forward(07) - horiz 0991 -> 0998
+  0468: down   (07) - depth 0282 -> 0289
+  0469: up     (03) - depth 0289 -> 0286
+  0470: up     (03) - depth 0286 -> 0283
+  0471: down   (03) - depth 0283 -> 0286
+  0472: down   (05) - depth 0286 -> 0291
+  0473: forward(03) - horiz 0998 -> 1001
+  0474: forward(05) - horiz 1001 -> 1006
+  0475: forward(08) - horiz 1006 -> 1014
+  0476: down   (03) - depth 0291 -> 0294
+  0477: down   (08) - depth 0294 -> 0302
+  0478: forward(03) - horiz 1014 -> 1017
+  0479: down   (01) - depth 0302 -> 0303
+  0480: forward(04) - horiz 1017 -> 1021
+  0481: up     (05) - depth 0303 -> 0298
+  0482: forward(08) - horiz 1021 -> 1029
+  0483: up     (01) - depth 0298 -> 0297
+  0484: up     (04) - depth 0297 -> 0293
+  0485: down   (04) - depth 0293 -> 0297
+  0486: forward(01) - horiz 1029 -> 1030
+  0487: forward(06) - horiz 1030 -> 1036
+  0488: up     (07) - depth 0297 -> 0290
+  0489: up     (01) - depth 0290 -> 0289
+  0490: up     (07) - depth 0289 -> 0282
+  0491: down   (05) - depth 0282 -> 0287
+  0492: forward(08) - horiz 1036 -> 1044
+  0493: down   (01) - depth 0287 -> 0288
+  0494: forward(01) - horiz 1044 -> 1045
+  0495: forward(06) - horiz 1045 -> 1051
+  0496: up     (09) - depth 0288 -> 0279
+  0497: up     (06) - depth 0279 -> 0273
+  0498: down   (04) - depth 0273 -> 0277
+  0499: forward(05) - horiz 1051 -> 1056
+  0500: down   (01) - depth 0277 -> 0278
+  0501: forward(07) - horiz 1056 -> 1063
+  0502: down   (08) - depth 0278 -> 0286
+  0503: up     (03) - depth 0286 -> 0283
+  0504: down   (09) - depth 0283 -> 0292
+  0505: down   (01) - depth 0292 -> 0293
+  0506: up     (07) - depth 0293 -> 0286
+  0507: up     (06) - depth 0286 -> 0280
+  0508: forward(08) - horiz 1063 -> 1071
+  0509: down   (09) - depth 0280 -> 0289
+  0510: down   (04) - depth 0289 -> 0293
+  0511: forward(04) - horiz 1071 -> 1075
+  0512: up     (07) - depth 0293 -> 0286
+  0513: down   (03) - depth 0286 -> 0289
+  0514: forward(05) - horiz 1075 -> 1080
+  0515: forward(08) - horiz 1080 -> 1088
+  0516: up     (05) - depth 0289 -> 0284
+  0517: down   (07) - depth 0284 -> 0291
+  0518: up     (02) - depth 0291 -> 0289
+  0519: forward(03) - horiz 1088 -> 1091
+  0520: forward(03) - horiz 1091 -> 1094
+  0521: forward(04) - horiz 1094 -> 1098
+  0522: down   (01) - depth 0289 -> 0290
+  0523: forward(05) - horiz 1098 -> 1103
+  0524: forward(07) - horiz 1103 -> 1110
+  0525: up     (07) - depth 0290 -> 0283
+  0526: forward(07) - horiz 1110 -> 1117
+  0527: forward(01) - horiz 1117 -> 1118
+  0528: forward(03) - horiz 1118 -> 1121
+  0529: forward(09) - horiz 1121 -> 1130
+  0530: down   (03) - depth 0283 -> 0286
+  0531: forward(05) - horiz 1130 -> 1135
+  0532: down   (09) - depth 0286 -> 0295
+  0533: down   (07) - depth 0295 -> 0302
+  0534: down   (04) - depth 0302 -> 0306
+  0535: down   (08) - depth 0306 -> 0314
+  0536: up     (03) - depth 0314 -> 0311
+  0537: down   (01) - depth 0311 -> 0312
+  0538: up     (05) - depth 0312 -> 0307
+  0539: down   (05) - depth 0307 -> 0312
+  0540: forward(02) - horiz 1135 -> 1137
+  0541: down   (06) - depth 0312 -> 0318
+  0542: down   (05) - depth 0318 -> 0323
+  0543: forward(02) - horiz 1137 -> 1139
+  0544: forward(06) - horiz 1139 -> 1145
+  0545: down   (06) - depth 0323 -> 0329
+  0546: up     (06) - depth 0329 -> 0323
+  0547: down   (08) - depth 0323 -> 0331
+  0548: up     (01) - depth 0331 -> 0330
+  0549: forward(04) - horiz 1145 -> 1149
+  0550: forward(02) - horiz 1149 -> 1151
+  0551: forward(01) - horiz 1151 -> 1152
+  0552: up     (01) - depth 0330 -> 0329
+  0553: forward(05) - horiz 1152 -> 1157
+  0554: forward(03) - horiz 1157 -> 1160
+  0555: forward(07) - horiz 1160 -> 1167
+  0556: down   (09) - depth 0329 -> 0338
+  0557: forward(03) - horiz 1167 -> 1170
+  0558: down   (09) - depth 0338 -> 0347
+  0559: up     (05) - depth 0347 -> 0342
+  0560: down   (07) - depth 0342 -> 0349
+  0561: down   (02) - depth 0349 -> 0351
+  0562: down   (03) - depth 0351 -> 0354
+  0563: up     (05) - depth 0354 -> 0349
+  0564: up     (03) - depth 0349 -> 0346
+  0565: down   (02) - depth 0346 -> 0348
+  0566: forward(04) - horiz 1170 -> 1174
+  0567: forward(01) - horiz 1174 -> 1175
+  0568: down   (03) - depth 0348 -> 0351
+  0569: up     (04) - depth 0351 -> 0347
+  0570: down   (08) - depth 0347 -> 0355
+  0571: down   (01) - depth 0355 -> 0356
+  0572: forward(06) - horiz 1175 -> 1181
+  0573: down   (03) - depth 0356 -> 0359
+  0574: forward(09) - horiz 1181 -> 1190
+  0575: down   (07) - depth 0359 -> 0366
+  0576: down   (03) - depth 0366 -> 0369
+  0577: down   (04) - depth 0369 -> 0373
+  0578: down   (05) - depth 0373 -> 0378
+  0579: up     (01) - depth 0378 -> 0377
+  0580: forward(08) - horiz 1190 -> 1198
+  0581: forward(02) - horiz 1198 -> 1200
+  0582: up     (03) - depth 0377 -> 0374
+  0583: up     (07) - depth 0374 -> 0367
+  0584: up     (01) - depth 0367 -> 0366
+  0585: forward(03) - horiz 1200 -> 1203
+  0586: forward(09) - horiz 1203 -> 1212
+  0587: up     (05) - depth 0366 -> 0361
+  0588: forward(06) - horiz 1212 -> 1218
+  0589: down   (08) - depth 0361 -> 0369
+  0590: down   (09) - depth 0369 -> 0378
+  0591: down   (05) - depth 0378 -> 0383
+  0592: forward(06) - horiz 1218 -> 1224
+  0593: forward(03) - horiz 1224 -> 1227
+  0594: forward(08) - horiz 1227 -> 1235
+  0595: forward(07) - horiz 1235 -> 1242
+  0596: forward(09) - horiz 1242 -> 1251
+  0597: forward(02) - horiz 1251 -> 1253
+  0598: up     (09) - depth 0383 -> 0374
+  0599: forward(08) - horiz 1253 -> 1261
+  0600: down   (02) - depth 0374 -> 0376
+  0601: down   (06) - depth 0376 -> 0382
+  0602: down   (09) - depth 0382 -> 0391
+  0603: down   (05) - depth 0391 -> 0396
+  0604: forward(01) - horiz 1261 -> 1262
+  0605: down   (07) - depth 0396 -> 0403
+  0606: forward(02) - horiz 1262 -> 1264
+  0607: down   (04) - depth 0403 -> 0407
+  0608: down   (01) - depth 0407 -> 0408
+  0609: up     (01) - depth 0408 -> 0407
+  0610: down   (02) - depth 0407 -> 0409
+  0611: forward(05) - horiz 1264 -> 1269
+  0612: forward(08) - horiz 1269 -> 1277
+  0613: down   (09) - depth 0409 -> 0418
+  0614: up     (06) - depth 0418 -> 0412
+  0615: forward(08) - horiz 1277 -> 1285
+  0616: forward(03) - horiz 1285 -> 1288
+  0617: up     (06) - depth 0412 -> 0406
+  0618: up     (02) - depth 0406 -> 0404
+  0619: forward(08) - horiz 1288 -> 1296
+  0620: down   (08) - depth 0404 -> 0412
+  0621: up     (01) - depth 0412 -> 0411
+  0622: down   (06) - depth 0411 -> 0417
+  0623: down   (02) - depth 0417 -> 0419
+  0624: down   (06) - depth 0419 -> 0425
+  0625: forward(05) - horiz 1296 -> 1301
+  0626: forward(06) - horiz 1301 -> 1307
+  0627: down   (04) - depth 0425 -> 0429
+  0628: forward(01) - horiz 1307 -> 1308
+  0629: down   (04) - depth 0429 -> 0433
+  0630: up     (07) - depth 0433 -> 0426
+  0631: forward(04) - horiz 1308 -> 1312
+  0632: up     (01) - depth 0426 -> 0425
+  0633: forward(09) - horiz 1312 -> 1321
+  0634: forward(07) - horiz 1321 -> 1328
+  0635: up     (03) - depth 0425 -> 0422
+  0636: down   (07) - depth 0422 -> 0429
+  0637: down   (04) - depth 0429 -> 0433
+  0638: forward(03) - horiz 1328 -> 1331
+  0639: forward(08) - horiz 1331 -> 1339
+  0640: forward(06) - horiz 1339 -> 1345
+  0641: forward(06) - horiz 1345 -> 1351
+  0642: up     (01) - depth 0433 -> 0432
+  0643: up     (02) - depth 0432 -> 0430
+  0644: up     (08) - depth 0430 -> 0422
+  0645: down   (07) - depth 0422 -> 0429
+  0646: forward(08) - horiz 1351 -> 1359
+  0647: down   (05) - depth 0429 -> 0434
+  0648: forward(06) - horiz 1359 -> 1365
+  0649: down   (01) - depth 0434 -> 0435
+  0650: down   (09) - depth 0435 -> 0444
+  0651: down   (02) - depth 0444 -> 0446
+  0652: forward(06) - horiz 1365 -> 1371
+  0653: up     (03) - depth 0446 -> 0443
+  0654: down   (05) - depth 0443 -> 0448
+  0655: down   (06) - depth 0448 -> 0454
+  0656: forward(01) - horiz 1371 -> 1372
+  0657: forward(02) - horiz 1372 -> 1374
+  0658: down   (03) - depth 0454 -> 0457
+  0659: forward(08) - horiz 1374 -> 1382
+  0660: forward(01) - horiz 1382 -> 1383
+  0661: up     (05) - depth 0457 -> 0452
+  0662: down   (08) - depth 0452 -> 0460
+  0663: down   (04) - depth 0460 -> 0464
+  0664: up     (09) - depth 0464 -> 0455
+  0665: up     (02) - depth 0455 -> 0453
+  0666: forward(07) - horiz 1383 -> 1390
+  0667: forward(09) - horiz 1390 -> 1399
+  0668: up     (08) - depth 0453 -> 0445
+  0669: up     (06) - depth 0445 -> 0439
+  0670: forward(01) - horiz 1399 -> 1400
+  0671: down   (07) - depth 0439 -> 0446
+  0672: up     (01) - depth 0446 -> 0445
+  0673: down   (03) - depth 0445 -> 0448
+  0674: forward(02) - horiz 1400 -> 1402
+  0675: forward(03) - horiz 1402 -> 1405
+  0676: down   (03) - depth 0448 -> 0451
+  0677: down   (02) - depth 0451 -> 0453
+  0678: forward(03) - horiz 1405 -> 1408
+  0679: down   (07) - depth 0453 -> 0460
+  0680: forward(03) - horiz 1408 -> 1411
+  0681: forward(07) - horiz 1411 -> 1418
+  0682: forward(07) - horiz 1418 -> 1425
+  0683: down   (08) - depth 0460 -> 0468
+  0684: down   (04) - depth 0468 -> 0472
+  0685: forward(03) - horiz 1425 -> 1428
+  0686: forward(04) - horiz 1428 -> 1432
+  0687: down   (07) - depth 0472 -> 0479
+  0688: down   (09) - depth 0479 -> 0488
+  0689: down   (04) - depth 0488 -> 0492
+  0690: down   (02) - depth 0492 -> 0494
+  0691: forward(07) - horiz 1432 -> 1439
+  0692: up     (08) - depth 0494 -> 0486
+  0693: down   (04) - depth 0486 -> 0490
+  0694: down   (03) - depth 0490 -> 0493
+  0695: forward(09) - horiz 1439 -> 1448
+  0696: down   (05) - depth 0493 -> 0498
+  0697: up     (06) - depth 0498 -> 0492
+  0698: up     (02) - depth 0492 -> 0490
+  0699: down   (05) - depth 0490 -> 0495
+  0700: down   (06) - depth 0495 -> 0501
+  0701: forward(02) - horiz 1448 -> 1450
+  0702: forward(08) - horiz 1450 -> 1458
+  0703: down   (01) - depth 0501 -> 0502
+  0704: forward(06) - horiz 1458 -> 1464
+  0705: up     (07) - depth 0502 -> 0495
+  0706: down   (06) - depth 0495 -> 0501
+  0707: forward(04) - horiz 1464 -> 1468
+  0708: down   (02) - depth 0501 -> 0503
+  0709: down   (05) - depth 0503 -> 0508
+  0710: down   (09) - depth 0508 -> 0517
+  0711: forward(07) - horiz 1468 -> 1475
+  0712: up     (04) - depth 0517 -> 0513
+  0713: forward(09) - horiz 1475 -> 1484
+  0714: up     (07) - depth 0513 -> 0506
+  0715: down   (04) - depth 0506 -> 0510
+  0716: down   (06) - depth 0510 -> 0516
+  0717: up     (09) - depth 0516 -> 0507
+  0718: forward(01) - horiz 1484 -> 1485
+  0719: up     (07) - depth 0507 -> 0500
+  0720: down   (05) - depth 0500 -> 0505
+  0721: forward(03) - horiz 1485 -> 1488
+  0722: forward(03) - horiz 1488 -> 1491
+  0723: down   (07) - depth 0505 -> 0512
+  0724: down   (01) - depth 0512 -> 0513
+  0725: down   (07) - depth 0513 -> 0520
+  0726: down   (07) - depth 0520 -> 0527
+  0727: down   (01) - depth 0527 -> 0528
+  0728: forward(08) - horiz 1491 -> 1499
+  0729: forward(09) - horiz 1499 -> 1508
+  0730: forward(08) - horiz 1508 -> 1516
+  0731: down   (09) - depth 0528 -> 0537
+  0732: down   (08) - depth 0537 -> 0545
+  0733: down   (05) - depth 0545 -> 0550
+  0734: down   (03) - depth 0550 -> 0553
+  0735: forward(04) - horiz 1516 -> 1520
+  0736: forward(01) - horiz 1520 -> 1521
+  0737: down   (01) - depth 0553 -> 0554
+  0738: forward(01) - horiz 1521 -> 1522
+  0739: down   (07) - depth 0554 -> 0561
+  0740: forward(07) - horiz 1522 -> 1529
+  0741: forward(03) - horiz 1529 -> 1532
+  0742: down   (08) - depth 0561 -> 0569
+  0743: forward(03) - horiz 1532 -> 1535
+  0744: forward(09) - horiz 1535 -> 1544
+  0745: forward(08) - horiz 1544 -> 1552
+  0746: down   (07) - depth 0569 -> 0576
+  0747: forward(08) - horiz 1552 -> 1560
+  0748: down   (02) - depth 0576 -> 0578
+  0749: up     (05) - depth 0578 -> 0573
+  0750: forward(07) - horiz 1560 -> 1567
+  0751: forward(04) - horiz 1567 -> 1571
+  0752: down   (02) - depth 0573 -> 0575
+  0753: up     (06) - depth 0575 -> 0569
+  0754: up     (08) - depth 0569 -> 0561
+  0755: forward(07) - horiz 1571 -> 1578
+  0756: down   (09) - depth 0561 -> 0570
+  0757: up     (03) - depth 0570 -> 0567
+  0758: forward(04) - horiz 1578 -> 1582
+  0759: up     (09) - depth 0567 -> 0558
+  0760: up     (05) - depth 0558 -> 0553
+  0761: up     (05) - depth 0553 -> 0548
+  0762: up     (06) - depth 0548 -> 0542
+  0763: down   (04) - depth 0542 -> 0546
+  0764: down   (05) - depth 0546 -> 0551
+  0765: up     (05) - depth 0551 -> 0546
+  0766: forward(07) - horiz 1582 -> 1589
+  0767: forward(06) - horiz 1589 -> 1595
+  0768: down   (04) - depth 0546 -> 0550
+  0769: forward(05) - horiz 1595 -> 1600
+  0770: forward(04) - horiz 1600 -> 1604
+  0771: up     (07) - depth 0550 -> 0543
+  0772: forward(08) - horiz 1604 -> 1612
+  0773: down   (02) - depth 0543 -> 0545
+  0774: forward(01) - horiz 1612 -> 1613
+  0775: down   (09) - depth 0545 -> 0554
+  0776: down   (08) - depth 0554 -> 0562
+  0777: forward(07) - horiz 1613 -> 1620
+  0778: down   (07) - depth 0562 -> 0569
+  0779: down   (01) - depth 0569 -> 0570
+  0780: forward(09) - horiz 1620 -> 1629
+  0781: down   (07) - depth 0570 -> 0577
+  0782: forward(06) - horiz 1629 -> 1635
+  0783: down   (02) - depth 0577 -> 0579
+  0784: up     (09) - depth 0579 -> 0570
+  0785: forward(01) - horiz 1635 -> 1636
+  0786: up     (09) - depth 0570 -> 0561
+  0787: down   (03) - depth 0561 -> 0564
+  0788: up     (09) - depth 0564 -> 0555
+  0789: down   (01) - depth 0555 -> 0556
+  0790: forward(01) - horiz 1636 -> 1637
+  0791: down   (01) - depth 0556 -> 0557
+  0792: up     (06) - depth 0557 -> 0551
+  0793: down   (08) - depth 0551 -> 0559
+  0794: up     (02) - depth 0559 -> 0557
+  0795: down   (03) - depth 0557 -> 0560
+  0796: forward(01) - horiz 1637 -> 1638
+  0797: down   (04) - depth 0560 -> 0564
+  0798: up     (05) - depth 0564 -> 0559
+  0799: down   (05) - depth 0559 -> 0564
+  0800: down   (04) - depth 0564 -> 0568
+  0801: forward(05) - horiz 1638 -> 1643
+  0802: forward(04) - horiz 1643 -> 1647
+  0803: down   (09) - depth 0568 -> 0577
+  0804: up     (07) - depth 0577 -> 0570
+  0805: down   (07) - depth 0570 -> 0577
+  0806: forward(07) - horiz 1647 -> 1654
+  0807: forward(06) - horiz 1654 -> 1660
+  0808: forward(08) - horiz 1660 -> 1668
+  0809: down   (08) - depth 0577 -> 0585
+  0810: forward(08) - horiz 1668 -> 1676
+  0811: down   (01) - depth 0585 -> 0586
+  0812: down   (01) - depth 0586 -> 0587
+  0813: down   (08) - depth 0587 -> 0595
+  0814: down   (02) - depth 0595 -> 0597
+  0815: up     (02) - depth 0597 -> 0595
+  0816: up     (01) - depth 0595 -> 0594
+  0817: forward(05) - horiz 1676 -> 1681
+  0818: down   (01) - depth 0594 -> 0595
+  0819: up     (05) - depth 0595 -> 0590
+  0820: up     (02) - depth 0590 -> 0588
+  0821: down   (06) - depth 0588 -> 0594
+  0822: up     (08) - depth 0594 -> 0586
+  0823: forward(05) - horiz 1681 -> 1686
+  0824: down   (08) - depth 0586 -> 0594
+  0825: down   (01) - depth 0594 -> 0595
+  0826: up     (05) - depth 0595 -> 0590
+  0827: down   (01) - depth 0590 -> 0591
+  0828: forward(04) - horiz 1686 -> 1690
+  0829: down   (06) - depth 0591 -> 0597
+  0830: down   (04) - depth 0597 -> 0601
+  0831: forward(02) - horiz 1690 -> 1692
+  0832: forward(02) - horiz 1692 -> 1694
+  0833: down   (01) - depth 0601 -> 0602
+  0834: up     (04) - depth 0602 -> 0598
+  0835: up     (08) - depth 0598 -> 0590
+  0836: down   (06) - depth 0590 -> 0596
+  0837: down   (02) - depth 0596 -> 0598
+  0838: forward(05) - horiz 1694 -> 1699
+  0839: forward(08) - horiz 1699 -> 1707
+  0840: forward(07) - horiz 1707 -> 1714
+  0841: down   (05) - depth 0598 -> 0603
+  0842: down   (07) - depth 0603 -> 0610
+  0843: down   (03) - depth 0610 -> 0613
+  0844: forward(06) - horiz 1714 -> 1720
+  0845: down   (03) - depth 0613 -> 0616
+  0846: down   (03) - depth 0616 -> 0619
+  0847: forward(06) - horiz 1720 -> 1726
+  0848: forward(06) - horiz 1726 -> 1732
+  0849: forward(06) - horiz 1732 -> 1738
+  0850: up     (07) - depth 0619 -> 0612
+  0851: forward(01) - horiz 1738 -> 1739
+  0852: down   (05) - depth 0612 -> 0617
+  0853: down   (02) - depth 0617 -> 0619
+  0854: up     (08) - depth 0619 -> 0611
+  0855: forward(06) - horiz 1739 -> 1745
+  0856: down   (07) - depth 0611 -> 0618
+  0857: down   (06) - depth 0618 -> 0624
+  0858: forward(01) - horiz 1745 -> 1746
+  0859: up     (05) - depth 0624 -> 0619
+  0860: down   (04) - depth 0619 -> 0623
+  0861: up     (09) - depth 0623 -> 0614
+  0862: forward(03) - horiz 1746 -> 1749
+  0863: up     (03) - depth 0614 -> 0611
+  0864: forward(09) - horiz 1749 -> 1758
+  0865: forward(09) - horiz 1758 -> 1767
+  0866: forward(07) - horiz 1767 -> 1774
+  0867: forward(05) - horiz 1774 -> 1779
+  0868: down   (09) - depth 0611 -> 0620
+  0869: forward(01) - horiz 1779 -> 1780
+  0870: forward(06) - horiz 1780 -> 1786
+  0871: up     (08) - depth 0620 -> 0612
+  0872: down   (07) - depth 0612 -> 0619
+  0873: forward(09) - horiz 1786 -> 1795
+  0874: forward(05) - horiz 1795 -> 1800
+  0875: up     (04) - depth 0619 -> 0615
+  0876: down   (08) - depth 0615 -> 0623
+  0877: forward(08) - horiz 1800 -> 1808
+  0878: forward(04) - horiz 1808 -> 1812
+  0879: down   (09) - depth 0623 -> 0632
+  0880: up     (02) - depth 0632 -> 0630
+  0881: forward(05) - horiz 1812 -> 1817
+  0882: forward(08) - horiz 1817 -> 1825
+  0883: down   (08) - depth 0630 -> 0638
+  0884: down   (09) - depth 0638 -> 0647
+  0885: down   (09) - depth 0647 -> 0656
+  0886: forward(04) - horiz 1825 -> 1829
+  0887: forward(08) - horiz 1829 -> 1837
+  0888: down   (05) - depth 0656 -> 0661
+  0889: down   (05) - depth 0661 -> 0666
+  0890: forward(05) - horiz 1837 -> 1842
+  0891: forward(05) - horiz 1842 -> 1847
+  0892: up     (09) - depth 0666 -> 0657
+  0893: up     (07) - depth 0657 -> 0650
+  0894: forward(03) - horiz 1847 -> 1850
+  0895: up     (04) - depth 0650 -> 0646
+  0896: down   (08) - depth 0646 -> 0654
+  0897: up     (06) - depth 0654 -> 0648
+  0898: up     (06) - depth 0648 -> 0642
+  0899: down   (04) - depth 0642 -> 0646
+  0900: down   (03) - depth 0646 -> 0649
+  0901: forward(02) - horiz 1850 -> 1852
+  0902: forward(09) - horiz 1852 -> 1861
+  0903: down   (04) - depth 0649 -> 0653
+  0904: down   (02) - depth 0653 -> 0655
+  0905: forward(04) - horiz 1861 -> 1865
+  0906: up     (09) - depth 0655 -> 0646
+  0907: forward(01) - horiz 1865 -> 1866
+  0908: down   (08) - depth 0646 -> 0654
+  0909: down   (09) - depth 0654 -> 0663
+  0910: down   (09) - depth 0663 -> 0672
+  0911: down   (03) - depth 0672 -> 0675
+  0912: forward(01) - horiz 1866 -> 1867
+  0913: down   (05) - depth 0675 -> 0680
+  0914: up     (09) - depth 0680 -> 0671
+  0915: forward(06) - horiz 1867 -> 1873
+  0916: up     (04) - depth 0671 -> 0667
+  0917: forward(02) - horiz 1873 -> 1875
+  0918: forward(02) - horiz 1875 -> 1877
+  0919: forward(04) - horiz 1877 -> 1881
+  0920: down   (09) - depth 0667 -> 0676
+  0921: up     (05) - depth 0676 -> 0671
+  0922: up     (01) - depth 0671 -> 0670
+  0923: down   (06) - depth 0670 -> 0676
+  0924: forward(07) - horiz 1881 -> 1888
+  0925: down   (08) - depth 0676 -> 0684
+  0926: forward(04) - horiz 1888 -> 1892
+  0927: forward(09) - horiz 1892 -> 1901
+  0928: up     (09) - depth 0684 -> 0675
+  0929: up     (04) - depth 0675 -> 0671
+  0930: down   (05) - depth 0671 -> 0676
+  0931: down   (03) - depth 0676 -> 0679
+  0932: forward(02) - horiz 1901 -> 1903
+  0933: down   (08) - depth 0679 -> 0687
+  0934: down   (06) - depth 0687 -> 0693
+  0935: forward(03) - horiz 1903 -> 1906
+  0936: down   (02) - depth 0693 -> 0695
+  0937: forward(06) - horiz 1906 -> 1912
+  0938: up     (02) - depth 0695 -> 0693
+  0939: forward(06) - horiz 1912 -> 1918
+  0940: down   (07) - depth 0693 -> 0700
+  0941: up     (04) - depth 0700 -> 0696
+  0942: forward(01) - horiz 1918 -> 1919
+  0943: forward(04) - horiz 1919 -> 1923
+  0944: up     (04) - depth 0696 -> 0692
+  0945: forward(06) - horiz 1923 -> 1929
+  0946: forward(08) - horiz 1929 -> 1937
+  0947: down   (07) - depth 0692 -> 0699
+  0948: down   (06) - depth 0699 -> 0705
+  0949: up     (07) - depth 0705 -> 0698
+  0950: down   (02) - depth 0698 -> 0700
+  0951: down   (04) - depth 0700 -> 0704
+  0952: down   (05) - depth 0704 -> 0709
+  0953: forward(01) - horiz 1937 -> 1938
+  0954: up     (04) - depth 0709 -> 0705
+  0955: forward(08) - horiz 1938 -> 1946
+  0956: forward(06) - horiz 1946 -> 1952
+  0957: down   (08) - depth 0705 -> 0713
+  0958: up     (05) - depth 0713 -> 0708
+  0959: up     (02) - depth 0708 -> 0706
+  0960: up     (09) - depth 0706 -> 0697
+  0961: up     (05) - depth 0697 -> 0692
+  0962: forward(06) - horiz 1952 -> 1958
+  0963: down   (04) - depth 0692 -> 0696
+  0964: up     (03) - depth 0696 -> 0693
+  0965: down   (08) - depth 0693 -> 0701
+  0966: down   (06) - depth 0701 -> 0707
+  0967: down   (02) - depth 0707 -> 0709
+  0968: up     (03) - depth 0709 -> 0706
+  0969: up     (05) - depth 0706 -> 0701
+  0970: down   (01) - depth 0701 -> 0702
+  0971: forward(09) - horiz 1958 -> 1967
+  0972: up     (08) - depth 0702 -> 0694
+  0973: up     (02) - depth 0694 -> 0692
+  0974: down   (03) - depth 0692 -> 0695
+  0975: forward(06) - horiz 1967 -> 1973
+  0976: down   (01) - depth 0695 -> 0696
+  0977: forward(05) - horiz 1973 -> 1978
+  0978: down   (03) - depth 0696 -> 0699
+  0979: up     (01) - depth 0699 -> 0698
+  0980: up     (02) - depth 0698 -> 0696
+  0981: down   (05) - depth 0696 -> 0701
+  0982: down   (07) - depth 0701 -> 0708
+  0983: forward(08) - horiz 1978 -> 1986
+  0984: down   (08) - depth 0708 -> 0716
+  0985: up     (09) - depth 0716 -> 0707
+  0986: forward(03) - horiz 1986 -> 1989
+  0987: down   (08) - depth 0707 -> 0715
+  0988: down   (08) - depth 0715 -> 0723
+  0989: forward(01) - horiz 1989 -> 1990
+  0990: down   (04) - depth 0723 -> 0727
+  0991: down   (04) - depth 0727 -> 0731
+  0992: forward(03) - horiz 1990 -> 1993
+  0993: up     (06) - depth 0731 -> 0725
+  0994: down   (03) - depth 0725 -> 0728
+  0995: down   (07) - depth 0728 -> 0735
+  0996: down   (07) - depth 0735 -> 0742
+  0997: up     (01) - depth 0742 -> 0741
+  0998: forward(03) - horiz 1993 -> 1996
+  0999: forward(02) - horiz 1996 -> 1998
+Done. Horizontal: 1998 | Depth: 741
+Solution: 1480518
