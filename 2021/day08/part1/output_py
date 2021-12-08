@@ -1,0 +1,508 @@
+Loading input data...
+Successfully read 200 data points from 200 input lines.
+
+Parsing input...
+  Checking data point   0 ecfdbg decfba aegd fdcag fagecd gd gcafb efdac cbgeafd dfg -> ['bgacf', 'afdebc', 'fceda', 'cabfg']
+  Checking data point   1 cfdabeg cda bcgad bedfac aefbgd bfgcad dfbga egabc dgfc cd -> ['gdbefac', 'fgabcd', 'dcbefag', 'aedgfb']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point   2 aedbfgc gcaf ebgfca bca edgcfb adbge gebac fbegc ac afdcbe -> ['ceafbg', 'acb', 'egbad', 'gfaebc']
+    Display1 has a simple number.
+  Checking data point   3 gaeb cafdbg aedfc ecfgdb ab cdaefgb cgbdae bdecg cba eacdb -> ['gfacdeb', 'gabdec', 'begcd', 'adbce']
+    Display0 has a simple number.
+  Checking data point   4 fcbgea fbedg bc cbefg befgcda cfgdab gbc efdgca fecag aceb -> ['faecg', 'cb', 'cb', 'fecbga']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point   5 fdebcg bag gdefa ceadgb fcab ebagfc ab fbegc fcaedbg fbeag -> ['cfegb', 'bga', 'edfga', 'fgbec']
+    Display1 has a simple number.
+  Checking data point   6 fg fcagb dfgceba edgacb fagd gfb dcgba agcfdb gecfbd ceafb -> ['facgb', 'fbdcge', 'gf', 'gfabc']
+    Display2 has a simple number.
+  Checking data point   7 eabfd dfb gbcfad ebdag fagbce gefabdc edcf aecfb cbdafe df -> ['egbcdfa', 'afdebcg', 'aecfbd', 'acefb']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point   8 fbaec bfegad bga deacbg gb fbdg acgdef deagf fgabe gabecdf -> ['fgdb', 'gefba', 'gcdafe', 'bg']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point   9 bfdea agfbc gbd faecdbg gd efgd cdgeab efadbg faebcd fabdg -> ['cdbgea', 'fged', 'cfabed', 'bgd']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point  10 gfedac cgaef gab ceba ba afcdgb gdefbac fegbd bafeg abcgfe -> ['gcbadf', 'egafb', 'ebafg', 'ab']
+    Display3 has a simple number.
+  Checking data point  11 bgda agfcdbe agfde faegb baedgf fcdaeg fdbeac ba bcegf bfa -> ['bcefg', 'eagdf', 'ab', 'bacefd']
+    Display2 has a simple number.
+  Checking data point  12 dfgbac fdcaeb cbgeda bfdea dcabf ebadcfg gfbea dbe fecd ed -> ['ebd', 'cdfe', 'bgeaf', 'cdbfea']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point  13 efdba edb eagbcd bacef bd bcfd becfagd begcaf cbaefd aefdg -> ['fdage', 'edbgac', 'cgaebd', 'bed']
+    Display3 has a simple number.
+  Checking data point  14 gfecbd gbadf fabged gbf cbdage fagcd feab edgcbaf fb aedbg -> ['agdcf', 'bgfda', 'afdgc', 'afdgb']
+  Checking data point  15 gfaedc caefb badcfge dgfe acdgbf eag eg fgacd gecfa ecbdag -> ['acdbgf', 'cbegad', 'cgdaf', 'eag']
+    Display3 has a simple number.
+  Checking data point  16 gfebda fgacd dfbag bg geab gcbdeaf eacbdf cedbgf fbg abfed -> ['aedfb', 'gb', 'eafdb', 'dbafe']
+    Display1 has a simple number.
+  Checking data point  17 ebadfc efdbga bega fdgcae dbgaefc edfab fag ag dagbf cfgbd -> ['efacgd', 'dbefag', 'fadebg', 'bgfad']
+  Checking data point  18 bf fbd cgbdaf dcfbae fgbcd gcbadef gafcde bfag cebgd dcafg -> ['afbedc', 'gcdeb', 'fbgadc', 'dbf']
+    Display3 has a simple number.
+  Checking data point  19 gfecab fageb cgb acgeb gdfeab ecbafdg gfca aecbd gc edcgbf -> ['afcg', 'cedba', 'aecdb', 'cgeba']
+    Display0 has a simple number.
+  Checking data point  20 cdge abfdge cgfeadb bdc gbacd cd cdaebf bgeda cgdaeb acfgb -> ['baecdg', 'fcbag', 'dfeagb', 'gcde']
+    Display3 has a simple number.
+  Checking data point  21 efabdgc ecafg dacgbf ecgfd dfe gbfdec ed bedc cfdgb gedafb -> ['egcaf', 'cfgae', 'efcgd', 'de']
+    Display3 has a simple number.
+  Checking data point  22 bfagdc dbagef gbedcf afdeb ab edgfb gdebfac fdeca baf eagb -> ['bfa', 'bgadfc', 'adcef', 'ab']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point  23 cfdbae dgefc fcaeg geafdc dfag fd cegbd daefbgc cfd cefbag -> ['efgcd', 'cgdfe', 'cefdg', 'cdf']
+    Display3 has a simple number.
+  Checking data point  24 cbged feabc fdgb egf ecfdbg dfgcea gabfdce ebcdag bgefc fg -> ['fbgec', 'bgdf', 'efgcbda', 'cbedg']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point  25 ebcdfa ef cfe cadbfge becfd dgbeac dafe gbdfc cefgba ceabd -> ['bfcaeg', 'gfedcab', 'acbfge', 'fe']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point  26 fbdage bf acdgb cabf gcfed gdcfbea fgbdc fbd fcbadg bgedca -> ['bcadeg', 'bf', 'facbdeg', 'gdabef']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point  27 gfacdbe fga gbdaf gadbc dfeagc fg bcgf eacgbd acdgfb debfa -> ['gdcab', 'agcbd', 'dafbecg', 'gfa']
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point  28 gadbcf badfe bae cfaed abfdg adfecbg eb bedgaf ecfagb egdb -> ['bdaef', 'egfdcab', 'eb', 'be']
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point  29 dbgecaf gacd dfbac dbaefg dba bfgced cafbdg cbfgd faecb ad -> ['degbcf', 'baegdf', 'gaedbf', 'dfegbc']
+  Checking data point  30 afgcd dabgf gedfba agc bdfgac gdefc bcaf cfeadgb ac ecdbga -> ['gfadbec', 'fgcda', 'edgbac', 'fbagd']
+    Display0 has a simple number.
+  Checking data point  31 acbegfd cgeb dagbef gbaed caebdg gc dafgec adcbg cdbfa gdc -> ['bdaeg', 'bdfac', 'bdfac', 'bcgad']
+  Checking data point  32 gfab agfbde fa edbgf cbedfa decga cdagefb degbfc egfda afd -> ['daf', 'fa', 'afd', 'efacbd']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point  33 caegdbf daefg fbgac be fgaeb cbea bge cdfagb dgecfb abecfg -> ['gebaf', 'aceb', 'gfdecb', 'befga']
+    Display1 has a simple number.
+  Checking data point  34 efcgda bd efgdcab afbec bgcd fdagc dgabef dab dafbc cfdagb -> ['dba', 'dcgb', 'ecbdfga', 'abfcd']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point  35 abdge fd fda fecd bfcage fecdba fdgbcea afbde acdbfg cfbea -> ['fedc', 'fced', 'adebf', 'fbacde']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point  36 acfdbe egcadb gfbacd acfbd bagefcd bgfa cefgd gac cdagf ag -> ['ag', 'bcadeg', 'dgcafb', 'cefdg']
+    Display0 has a simple number.
+  Checking data point  37 eabdfc fcaeg fecad bcfda dcfbge ebda de ced fdacbg dfbcega -> ['gcebfda', 'gdecfba', 'dbgfec', 'defca']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point  38 bfc gdfceb cf eafgbd edcab ebcfa gfeacb acgf adcbgef fabge -> ['bafgecd', 'fgabe', 'aegbcf', 'badec']
+    Display0 has a simple number.
+  Checking data point  39 gfbc gaced fg bfcda fgd fcgad dgefbac bcafde dgcfab edgfba -> ['bcgf', 'bdceaf', 'dbfaec', 'bdacf']
+    Display0 has a simple number.
+  Checking data point  40 acbdgf dfcgb dcfeg egbd aedfc fcebag ge gef cfegdba fgbdce -> ['gcbfea', 'fceda', 'dcfgb', 'dfgbc']
+  Checking data point  41 agcfd fga fecda gadebf dbgcfe fcbdga dcfgb ga gbac cbfgead -> ['fdeca', 'gbcdf', 'cfdgb', 'afg']
+    Display3 has a simple number.
+  Checking data point  42 eba ebdc gbefda dcbegaf fbaced afgec be dcfba ebacf dfcagb -> ['eb', 'eab', 'bea', 'be']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point  43 bfcge bfead edgfacb edcfag abegfd becdf dacb cd cde bfdcea -> ['adefgc', 'cdab', 'fbead', 'dcba']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point  44 bacegd gafcbe begfa bcfad ed gedf ebgfda bdefa ead fegdbac -> ['geafb', 'fedba', 'dbcage', 'egdf']
+    Display3 has a simple number.
+  Checking data point  45 df fbgdc fcd bfgce abfd cdfgba cgefad cgbad ecadgb egbfacd -> ['bcdgaf', 'cedfga', 'dbgafc', 'dgfbc']
+  Checking data point  46 dfabge bcfdg egfbca bdaefcg decbfg ebfgd fgdca cb cbde cbg -> ['beadcgf', 'dgacf', 'adfgc', 'bc']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point  47 fgda dafecgb egdbf gef dbgec agebcf gf edgafb fcaedb bafde -> ['fg', 'fecdab', 'bdefg', 'bgfde']
+    Display0 has a simple number.
+  Checking data point  48 abfgecd eabgf fcdabe gbdafe acebg dfecgb gf gfb fgad dafeb -> ['efdacb', 'efadcgb', 'dagf', 'dfabe']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point  49 ceafbg dfcabe gcfea gbac fgead gc cbdgef egc aecfgbd cefba -> ['badecf', 'badefgc', 'bfaec', 'cbeaf']
+    Display1 has a simple number.
+  Checking data point  50 cadfb caefbd cbfega fdbga cad dc edbc aefbc egbacfd dfgeca -> ['cefdab', 'cdfage', 'bacdf', 'dbafc']
+  Checking data point  51 gfcb cf ecafdg fcbed dfbagce fbgeda gdfbec cef eacbd ebdfg -> ['gbdaef', 'caedfg', 'cf', 'gbdefc']
+    Display2 has a simple number.
+  Checking data point  52 gd cgd ebdafgc cfbega gcbfde bcfdg badfc bgaced bcefg gedf -> ['gfed', 'fcbgd', 'cdgfbe', 'cfbeg']
+    Display0 has a simple number.
+  Checking data point  53 bfga dabge befacd agbdce fb aegfbd fcged dbegf ebf ebgdcaf -> ['bagf', 'ecfdg', 'fbe', 'bedagc']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point  54 beac ea ade gefcd ecgbad cbagd badgcfe ebfgad acgde gcfdab -> ['ea', 'gceadb', 'gcbad', 'cbdga']
+    Display0 has a simple number.
+  Checking data point  55 cadfbg bcgafed cbedf afeg abegdc adf gedca efacd acdgfe fa -> ['daecg', 'fdecga', 'edafc', 'adbgce']
+  Checking data point  56 egd ed egacd cgabfed efcd degfca dagbfc dcagf bgfdea abecg -> ['dge', 'egcad', 'ged', 'cgdfa']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point  57 cgdeaf fcbdeg fgc dgcea cadgbe abdcfeg gf cafbe gadf cfega -> ['aecgfd', 'bfaec', 'gf', 'dceabg']
+    Display2 has a simple number.
+  Checking data point  58 caegd cbfgae dafg egd gd ecafg gfabdec cafdge bacde bdfecg -> ['gedfcb', 'edcagfb', 'cdega', 'becgfd']
+    Display1 has a simple number.
+  Checking data point  59 badgfe ed dcge fgdceb cebfd cbfedga dabcf efd ecgafb cgbef -> ['dgec', 'dfe', 'ecbgfa', 'cebgaf']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point  60 dgabcef bcd cfeadb degfca bgace gcebd cegfd gbdf bd begfdc -> ['acbeg', 'dbc', 'gdfb', 'gfdb']
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point  61 edafgb bagf acedb dbg fcgdabe bcdgfe gb bgead dfaecg faged -> ['gafb', 'dgafeb', 'gbaf', 'fadegb']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point  62 bc abcegf bfcgd gdcbef dcbe gcb cafegbd aegdbf dfagc dbegf -> ['cbg', 'cbg', 'cfedgba', 'dgcfabe']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point  63 be ecgbf cbafg ebg bagedc fbae degfabc fgcdab dgfce cabfeg -> ['gfcde', 'dgfbca', 'dcabgf', 'bacegd']
+  Checking data point  64 af dbacge efa abegfdc gfdce begcfa aecfg afbced fgba ecabg -> ['ecadfb', 'gfeca', 'efa', 'gefdc']
+    Display2 has a simple number.
+  Checking data point  65 acbedg edfacbg begd cdfabe dagcb eacdb gfeabc bg gba dfgac -> ['cegbaf', 'ecfdba', 'cgbda', 'dfebca']
+  Checking data point  66 dcbgaef bca abed cbgad gdaec fecbag edgbca geadfc ab cdgfb -> ['beagcd', 'dgbca', 'eabd', 'ceabgd']
+    Display2 has a simple number.
+  Checking data point  67 cgabe gfcbe cfegba fdbgc fe fdgebca aedcbg gfea bfdcea fbe -> ['feb', 'gaef', 'badgec', 'ecgabf']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point  68 afecdg dfbc cd dcg aegcb baedgf becgd becfdg eacgbdf ebdgf -> ['gbedf', 'edgbf', 'bcdeg', 'gfadbe']
+  Checking data point  69 gfdba adbefc ebcdfag bcgaf bfdaeg dg adbfe egbacd bgd dfge -> ['gbd', 'bgd', 'bcgfa', 'fbgad']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point  70 dfaegb fe bcgde face afgbdc acgebdf agfcb cgbef fcgbea gfe -> ['acef', 'afedgb', 'bgdfcea', 'fgedab']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point  71 abdcef gdfea cbaef gaefb cagebf agfdbec agdbfc ecgb fbg bg -> ['aebfc', 'egcb', 'acfgbe', 'gebc']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point  72 bcf gbadec bf bgaf fcdea cgbda gebdfc dgefcab fcabd bdagcf -> ['edacf', 'bf', 'cfb', 'gadcb']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point  73 cdafgb bgdf gacefd cdb bd ecfadbg cdafg cdebag bfadc ecafb -> ['bcefa', 'cfdba', 'agdfc', 'fabdc']
+  Checking data point  74 egb dgbf bgdeca febag fbadge ebadf aecfg gb geacfdb fbacde -> ['fdbg', 'bg', 'caegf', 'egfab']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point  75 ac eagfbdc bgacf cbdgae gabdf acdf gdfaeb acg dbgafc gbfce -> ['gdbeaf', 'agbcf', 'dcbagf', 'fgadeb']
+  Checking data point  76 ef eagf bfegcd gbaefd fbe eafbd dagfb abced agcfbd abcefdg -> ['ef', 'ef', 'ecdgfab', 'deafb']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point  77 fdgbc efbgd aedbg dfce bcagdf fe fegcab cdgabef efg cgdfbe -> ['efgcdb', 'efg', 'agcfeb', 'dgfabc']
+    Display1 has a simple number.
+  Checking data point  78 fe dbefgac baegc eagfc ebgf acdgf aedbfc bgafce cef bcgdea -> ['agbdce', 'aecbfg', 'cdgaf', 'ef']
+    Display3 has a simple number.
+  Checking data point  79 fbgcd bdf dfbega dfcga abfdcg db dabc cfebg feadgc ecgbdaf -> ['fcbeg', 'gcdfb', 'cgbdf', 'acfdg']
+  Checking data point  80 bac cdbeagf abfd bcfea edcfba abdcge edacf gcbfe gcdefa ba -> ['cegfb', 'cafde', 'ba', 'fegdcba']
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point  81 gcabfd acdg cg gfdbcae ecbgfa cbg bfegd gdcfb cedafb fadcb -> ['cgfbd', 'cfgdb', 'fdegb', 'cg']
+    Display3 has a simple number.
+  Checking data point  82 fcdaegb gdefcb dgfacb dcgea eb dgcbf afcegb bgced bdef bec -> ['ecdag', 'eb', 'befd', 'dabcfge']
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point  83 defcb eabcf bca abfeg ac cafbge gfac dbaecg fcbegad bagedf -> ['bfgae', 'cfga', 'ecabf', 'aegbcf']
+    Display1 has a simple number.
+  Checking data point  84 gdcfea adgcf cbged bgadfc gbf gfdbc cfegdba bcfa bf dgaefb -> ['fgadc', 'bfg', 'fb', 'bf']
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point  85 bdgcaef adg egbca cdabg eadbcg eadc cgdfb efagbd ad ebfagc -> ['da', 'dace', 'dga', 'gedfab']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point  86 cade afgecd fgedc cbaegf efbgd gdfcabe ce fec cadgfb dcgaf -> ['ce', 'adefgc', 'cdea', 'fce']
+    Display0 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point  87 efgcba ged gcdbea acgeb decag cdgaf egbcafd bdae fgcbed de -> ['adeb', 'edg', 'cgadf', 'agdec']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point  88 agfce af febgc ebgadc cadeg dafg faegcd bceadf bfaecgd efa -> ['egbcf', 'fbgec', 'acedg', 'af']
+    Display3 has a simple number.
+  Checking data point  89 cbgdae debcfa becadfg agecb gcde cfgba ce begda bec fdaebg -> ['bec', 'eadgb', 'eadbg', 'badefgc']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point  90 bagedf ecf ec dbefc cbedfa edca dfbcg edbfa eabgfc aefgcdb -> ['fec', 'dafebc', 'cfe', 'aefdb']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point  91 aef bface dabefg ebfdgac caeg bgfac fcegba fcbed ae cfgbad -> ['efcba', 'baefc', 'afbcg', 'gbcfa']
+  Checking data point  92 dfeca fdagcb feagc adcbef fg gefd cabge fgdbace cegadf cgf -> ['fg', 'decfab', 'cfdbga', 'baecg']
+    Display0 has a simple number.
+  Checking data point  93 gbaefd agedbcf cagbe fb cgbeaf baefc bfgc bgeacd efb dcfae -> ['gcbaed', 'fb', 'bgfcae', 'bcfg']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point  94 cegf bcedg bgacdef gbedf fg ebadf ebgdcf dgcfba debgac bfg -> ['bdfgca', 'bgf', 'fgdbce', 'becfadg']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point  95 decafgb acgbd fegdab cefag dfcga gdf fd aecfgb dfecga cefd -> ['gcebfa', 'fgacbe', 'fgbdae', 'fcde']
+    Display3 has a simple number.
+  Checking data point  96 faebc acb bdfgca afgedcb ab daeb fcbge afcebd feacd cafedg -> ['fbgdca', 'ab', 'afedgc', 'ceafbd']
+    Display1 has a simple number.
+  Checking data point  97 gfeb ebgcdfa dfgca abfdg agebd bf abf bceafd dabgce dbfgae -> ['fgeb', 'gadbf', 'gcafd', 'bf']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point  98 ecbdfg gecdfa efcadgb ebdac deabf fbga bf dbf efagbd dfgae -> ['adfbe', 'cfdage', 'efdcga', 'gfab']
+    Display3 has a simple number.
+  Checking data point  99 fg cedbgaf feacbd dafgeb fag gfecba acgde febac cfega fcgb -> ['decbgfa', 'fg', 'ecgad', 'afdbgce']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 100 cfbgde aegcdf daefbc dgceb fcged gafdecb cbfg bc ceb gebad -> ['dafecbg', 'eagdb', 'bec', 'begdc']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point 101 cdefga fbgcade fgdca cd bafdec adc dbgeaf cafgb efgda cegd -> ['afcgb', 'ecdg', 'bcfag', 'caedfg']
+    Display1 has a simple number.
+  Checking data point 102 agfbc af deagfbc fecbg gfa fcegbd cfae bgafec edagbf bcadg -> ['agf', 'ecfa', 'becfg', 'af']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 103 bdgf afceg adcfeb egbaf afgbde afb fb cegbfda daebg adgbec -> ['fba', 'ceadgbf', 'bf', 'fb']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 104 efgb eg aecbd ecbdg daecgf dcgfb fbagdc egfadcb gce ecbgdf -> ['afbegcd', 'fegdac', 'cebad', 'bgafdc']
+    Display0 has a simple number.
+  Checking data point 105 acgbd eb dbace bdafgc fabdge bceg gecdba edcaf aeb bagcdef -> ['fdgabc', 'fegadb', 'dgbcfea', 'egabfd']
+    Display2 has a simple number.
+  Checking data point 106 cadfgb acefdg fcb fbea fb ebdfca ebcdf degcb dfaec cbdefga -> ['aefcdbg', 'cdegaf', 'gdbec', 'dcfae']
+    Display0 has a simple number.
+  Checking data point 107 fcdab edc cfeb gdfcae dcaeb ec gdcbaf fdcabe debga efbgadc -> ['fcbe', 'gbaed', 'fcaedb', 'acedgf']
+    Display0 has a simple number.
+  Checking data point 108 gb gefca acbfge bdgaecf bfcag bdfca abg aedfgb gebc agfecd -> ['cgafb', 'ebcg', 'aecfg', 'efgbac']
+    Display1 has a simple number.
+  Checking data point 109 dgabcef fbdgea fb cdbf cebfg bdaegc dgceb egcdfb bfg acgef -> ['cbgde', 'faegc', 'befgdca', 'cbdf']
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 110 cfaebdg fg fgcead agedb fge ebcdf gebdf dfeagb dbgace fgab -> ['gfba', 'eagdfcb', 'dcabeg', 'cegafd']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point 111 fbe egcba bgefdca bgdafe afdgb fdbgac dgcbfe fbega defa fe -> ['ebf', 'egafb', 'fbgdac', 'egafb']
+    Display0 has a simple number.
+  Checking data point 112 gdc acfdeg geabc dbfg dabcfe dbeafcg dg bedcf edcgb efcbdg -> ['agcefd', 'cbdfe', 'dg', 'bcedf']
+    Display2 has a simple number.
+  Checking data point 113 bafgcd febdgca abgcf bcgea be edgac aeb cbef afebgd ecgbfa -> ['bea', 'eb', 'ecfbag', 'abfcg']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point 114 cdae cbd gacbe fcbdge cefbag bagcde gcabd bdafg dc fdgebca -> ['cegdfb', 'gbeacd', 'cd', 'cabdge']
+    Display2 has a simple number.
+  Checking data point 115 dac dfgae fcdabg agbc dcfbg gfedbc fadcg bfaegcd ca eadbcf -> ['cfabged', 'ac', 'cbag', 'dfceab']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 116 egbdcf bdeagfc aegcb bafec fdceb edgafc caebfd aef fbad af -> ['efa', 'adfcbge', 'dfba', 'ebgac']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 117 ebadg fcaeb dc acdg becgfd adecgbf dbc dbeafg dbaec bedagc -> ['cdb', 'bdc', 'dc', 'aecbd']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 118 cfaegbd agbdce edca badgf edgfbc ebagd ed gde aebfgc ebcag -> ['cbeag', 'edca', 'gdbea', 'fbedgc']
+    Display1 has a simple number.
+  Checking data point 119 fgb dfagceb cabgdf gf afge ecbaf deabcf cbdeg bgefc gfceba -> ['bgecd', 'gf', 'bacef', 'fg']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 120 abd fgcdaeb gfeabc gdfacb fcbea faebcd dcbeg badce ad dafe -> ['adecb', 'gfaebc', 'fdcbga', 'aecdb']
+  Checking data point 121 fcgdeab eabgf feagd dge dg cdaefb acedbg cdfg gcaedf efadc -> ['cfade', 'cbeadg', 'bgfea', 'dg']
+    Display3 has a simple number.
+  Checking data point 122 fegcb fcedag badgce fcbdgea afg gafeb af dbgefa degba fadb -> ['fbegc', 'fabge', 'af', 'dcgabe']
+    Display2 has a simple number.
+  Checking data point 123 abcdfg dcbfea bagd cegfb bd dbf cgafde edgcbfa fgdca bcdfg -> ['fdabce', 'gbcfd', 'cbefda', 'ecabdf']
+  Checking data point 124 afgbd fbgde dcfageb ag gba gfdcab eadgcb cfag daebfc cdbfa -> ['ga', 'ag', 'bdaefc', 'ga']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 125 egf ecabfd fg ecdfb cfgb cbegadf dgbfae begcfd agcde cgdfe -> ['gbdefa', 'fedgc', 'cafedb', 'cfdge']
+  Checking data point 126 bafcdge dgbace cgbad cdafe bedcfg be abge cebad dcfabg bed -> ['dbe', 'gabfced', 'cgbedf', 'cbadg']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point 127 becagf fdec debafc afedb adbgc bgdfea dabcf cf cabegfd afc -> ['bagdc', 'decf', 'fca', 'dfbae']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 128 dcagb gfcade cgdebf fdbeag gdfeabc efdcg ecfb deb egbcd eb -> ['eb', 'edagbf', 'ebfc', 'eagdcf']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point 129 ebcdaf fgdc gbeac dgfae efadbg cd gcefda dgace fbgedac cda -> ['aegdc', 'dfabge', 'gcade', 'daceg']
+  Checking data point 130 fgdcb adceb fcgeabd acedbg af fba aebgdf efac dcabfe adbcf -> ['cdbaf', 'cgeadb', 'bdcae', 'bfgaed']
+  Checking data point 131 fcb fc fcdgb dabfg eabcfdg cbged cefg begdca gcdbfe efdacb -> ['ecfg', 'fabgcde', 'gdecbaf', 'bacged']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 132 gfdabc ad bdfgea fegbdac gbaecf bfega adg adbe afged egdcf -> ['dcfgab', 'bgcefa', 'gad', 'gafcbd']
+    Display2 has a simple number.
+  Checking data point 133 bgdcfea afb gabfcd adbfeg efdba bgdfe dfgbce eafdc bage ab -> ['ab', 'dgefb', 'baf', 'bgaedcf']
+    Display0 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 134 geabd adecfgb cg ebcdfa agfbdc fdcg dabcf dcbag faebcg cbg -> ['dagbe', 'fgdbeca', 'cbagdfe', 'fcbeda']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 135 bdfa dafbge fgedb bfceg bdg afdebgc bd bdaecg defcga gfdea -> ['bagfdce', 'dcgafe', 'fegbc', 'dbegca']
+    Display0 has a simple number.
+  Checking data point 136 aedcgb fb gdbaf dgabe acdfg fabgde fadecgb gbf edfb facegb -> ['agdcf', 'badeg', 'fb', 'fabcge']
+    Display2 has a simple number.
+  Checking data point 137 dfbce gafed ba eagb gfdbca aefdb fecdag fagbedc abf egadfb -> ['eafdb', 'edfcbag', 'dcfbe', 'ba']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 138 afdec fcegda edgabc bgdfc faebdc ba bac dcfebag fadbc fbae -> ['deafc', 'acb', 'fbgaecd', 'cfdea']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 139 gecd dgf eabdf gd gfdeb fgcadb gcbfae cefbg cedfbg cfeabdg -> ['gd', 'edfba', 'fgbce', 'fbgec']
+    Display0 has a simple number.
+  Checking data point 140 adfge bcgfde baecg dcfgaeb bafdge gdeac dagcef dc cdg acdf -> ['cgd', 'dgcae', 'gcead', 'cd']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point 141 efgac agbfedc aecbfd agbfde dcbg fdbag gacdfb bc fgbac fbc -> ['bc', 'afdegb', 'bgdc', 'edbafg']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point 142 be cbfgad acegdb agefd dabgc cebfgad gbce bdega dfbace bed -> ['bagde', 'eb', 'egcb', 'edfbac']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 143 gf fag afgbe ecbaf geadb eabgdf egdf dagbfc ecagdb cbgdeaf -> ['cbefa', 'fg', 'bdega', 'gfacbed']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 144 bag defba gcfdae cgbd gb eabgfc gcfabd dfagb gcdfa ecbgfda -> ['begacf', 'agb', 'cgfade', 'fcdga']
+    Display1 has a simple number.
+  Checking data point 145 adgfcbe egd fgadeb cgbdae acdgb cgedb deca de efcbg acbdgf -> ['cfbdag', 'dcgba', 'geabdf', 'eadc']
+    Display3 has a simple number.
+  Checking data point 146 cagdebf dgebcf edc abecfd egfadb fabed ec gadbc efca dabce -> ['dec', 'fbadec', 'debac', 'edc']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point 147 fcedg dfgbae eg deg egcb fgcebd efacd gfdcb gbfecda gdafbc -> ['efacd', 'ge', 'cfgabde', 'fagecdb']
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 148 dbag aefcbd gbc gcdbf bdcfa bg dfabcg ebadgcf cfgeba dgecf -> ['bfaced', 'gedcf', 'dbag', 'cgbdaf']
+    Display2 has a simple number.
+  Checking data point 149 cdgfbea gd bdag gebca bdcgfe dgc fcagbe gabedc afcde cdaeg -> ['abgcde', 'ebcga', 'dagb', 'bgcefa']
+    Display2 has a simple number.
+  Checking data point 150 cedgbfa ecabgd cdafeb bafcg cegdbf cae gdae gabce ae edcgb -> ['aec', 'cageb', 'ecdgfb', 'egda']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point 151 eacgbf afbdg gdecaf gafbcde gfc baefc bcge fcabg fdcbea cg -> ['agfdb', 'cgfba', 'bgafc', 'eacgdf']
+  Checking data point 152 fgebd fed bfea cbdeg decfga fe cfdgba defbgac dfgba afdbeg -> ['fgdba', 'abegdfc', 'bcadgf', 'fbegd']
+    Display1 has a simple number.
+  Checking data point 153 adbfcg fagdbe bagec dc fbaedcg bdfag gbdca fcgedb dcfa cgd -> ['fcad', 'bfdgae', 'dgc', 'eagbc']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point 154 fgbaecd fgecd cafeg feacbg fdgcb fgaecd acdbge ed adfe dge -> ['cfgdb', 'gcedf', 'deaf', 'cfdbg']
+    Display2 has a simple number.
+  Checking data point 155 gedab afdcbeg decabg bfedcg dgefab ef aedf cfgab gbaef efb -> ['abcgf', 'cabgf', 'feagdcb', 'cdbaefg']
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 156 fdb ebdgfc bd adefgcb efgad gbcd dfbge afcgeb fecgb dbeacf -> ['bfd', 'cgfdeba', 'cafdeb', 'gedfa']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point 157 abgde bdefa fagdbe fbadceg dgecab dfe ef edfgca bfdac fbge -> ['fegb', 'cagdeb', 'ecdgab', 'bdagefc']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point 158 febad bacged fge cdbeg cfebdag fgdc gf debcgf bdefg cfebga -> ['fg', 'egf', 'beafd', 'efg']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 159 agdcbf bdefcga cbgefd dcagb gbedac faedc gfc bfag gfcad gf -> ['bgfa', 'dbagc', 'bfgdca', 'bcgad']
+    Display0 has a simple number.
+  Checking data point 160 bdce gafbed gaecf bcefdag gbc dacbeg fcbgad egdab cb cegba -> ['eadbgc', 'cb', 'ebadgf', 'debc']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 161 ac afgceb eagbf befcagd abcg degcf aefbdg ceagf edbacf acf -> ['abecgf', 'bgac', 'gacb', 'ceadbf']
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 162 abcg fcaeb gfdcabe ab befdc cfage gdbfea gecdaf efcgba bfa -> ['bgac', 'bcga', 'cagb', 'efgbda']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 163 fbdeg gb fcdeb dfecbg eafgdbc edgfa eagbdc baedfc cbfg beg -> ['adbgce', 'dfcaeb', 'bgfc', 'abcged']
+    Display2 has a simple number.
+  Checking data point 164 afg afdbec cbdgaf afcgedb bedgf cdagef ga afcdb gbca gfbda -> ['cfagdb', 'edcafg', 'cbfgda', 'bgfed']
+  Checking data point 165 edgafcb fdeab dgabcf cbgf gdfeac dgfab gdeacb acgbd gfa gf -> ['gaf', 'bcgf', 'ecbagd', 'agf']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 166 dcbfa gfbace ebfca efcg bgfeadc abgce gbafde ef beadcg fbe -> ['egcf', 'fabdc', 'adebgf', 'bdcage']
+    Display0 has a simple number.
+  Checking data point 167 gc cfdbe fgcebd bcgef ceg fdagceb ecadbg fgdc fageb bedcfa -> ['adgcbe', 'aefgdcb', 'gabfe', 'gc']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 168 fgead bcdafg ba bcae edafb bcefad dbcfe cafbgde gbcdef adb -> ['dcfeb', 'gecdfb', 'caeb', 'bacdfe']
+    Display2 has a simple number.
+  Checking data point 169 gfeab abc bc ecbf gdebaf gebac gdcea gecdfba acdfbg fbgcae -> ['cbdagf', 'gbcae', 'bc', 'edgbaf']
+    Display2 has a simple number.
+  Checking data point 170 aecgf acbf cgadef fecbg bc ebc dcegba befdg aebgcf afdebgc -> ['ecb', 'bcgfe', 'bgedf', 'abcf']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point 171 fg facg efcagd eadfg cebfda feg daegb bdfcge afced cfeadgb -> ['acdfe', 'fgeda', 'fg', 'cdbegf']
+    Display2 has a simple number.
+  Checking data point 172 gefda fed edfbgc fgeab cfad cdeag fd cebgad dcefabg fagdce -> ['faegdc', 'eafdg', 'fd', 'cgbfdea']
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 173 ebfad cf befca gabedc fac cabeg dcaefg abfecg fbacged gcbf -> ['bfade', 'fcbg', 'fc', 'cgbf']
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 174 aegbf cbdfega adbfg ef cebdgf dfcbga gebca fadgbe afde gfe -> ['fdae', 'afcbgd', 'bgcedaf', 'gef']
+    Display0 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 175 cdgab cg edgbac gbedfa gebcdaf dcebfg gcd degba aceg dacfb -> ['gdc', 'cgdba', 'cdg', 'gbadc']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point 176 daebfg fcebgad db gacbf feacdg gafdb eafdbc dgaef dfb bedg -> ['cefdbag', 'gedfca', 'gafdeb', 'befcda']
+    Display0 has a simple number.
+  Checking data point 177 ecfd fcdgba cebgf fge bgafed febdcg cbfegad cabeg fe gfdbc -> ['ecgdfb', 'edfc', 'gebdaf', 'fecd']
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 178 fac gbeaf bcdga adgbcef febcda cfgba gefbda bagcfe cfge fc -> ['gcfe', 'gbcaf', 'acfbeg', 'acdgb']
+    Display0 has a simple number.
+  Checking data point 179 afegdcb fdgba bfgacd fdcg fd cbfga adf ebcagf dcfabe gbdae -> ['df', 'bcaefd', 'cfagb', 'df']
+    Display0 has a simple number.
+    Display3 has a simple number.
+  Checking data point 180 cdbgef bgef ge ged badec agfdcb adgecf cgdeb cbgdf fdbceag -> ['dcfgb', 'gcebd', 'egbf', 'dcegb']
+    Display2 has a simple number.
+  Checking data point 181 dfbea gb cfgea bag fgbc debcga acdbgef afcgbe gfeba cfdaeg -> ['beafd', 'bag', 'cbgf', 'gba']
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 182 fdgcab cd ebdaf baecdgf cda bcgaf cfebga acebgd cbdaf cfgd -> ['aegcfb', 'cdgf', 'cdgf', 'afegbdc']
+    Display1 has a simple number.
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 183 fcbga cbeagf dcabg da dfabcg bdaf begcd dca fdagce bcgfdae -> ['acgbd', 'dbceg', 'acd', 'cfbga']
+    Display2 has a simple number.
+  Checking data point 184 degacbf cf dcgfba adegbf efgab gfce acfeb dbeca caf gcebaf -> ['bacfe', 'abfecg', 'ebafc', 'debac']
+  Checking data point 185 bcaefd gbce dcegfb gcbadf dgfaecb fbdce dgcfe cg agfed fcg -> ['dbgfec', 'gc', 'acdgfb', 'efbcd']
+    Display1 has a simple number.
+  Checking data point 186 cdfag dgebacf bdfagc fba acdgef fcdab bfdg baedc gbfaec fb -> ['cedbafg', 'fb', 'dgfeac', 'cadbf']
+    Display0 has a simple number.
+    Display1 has a simple number.
+  Checking data point 187 bcdgf eafcbgd bd adfb dcabeg gebfac gcfba gfdacb fdgce bgd -> ['cfbga', 'fgcab', 'db', 'fcegd']
+    Display2 has a simple number.
+  Checking data point 188 cdgafe deg bedfc dfgb cgdbe dg dcefba efdgbc cagbefd cegab -> ['bgdf', 'abfdec', 'egd', 'gedbfc']
+    Display0 has a simple number.
+    Display2 has a simple number.
+  Checking data point 189 bg febdca edgcb cdeab gbc edgbca gdab beagcf cdegf debacfg -> ['bcaedf', 'dgcef', 'badg', 'fecadbg']
+    Display2 has a simple number.
+    Display3 has a simple number.
+  Checking data point 190 dbca cgaedb gcfbe cea fadbeg gabce ca edcafg degab abfedgc -> ['fdebag', 'beacg', 'abcd', 'adcegb']
+    Display2 has a simple number.
+  Checking data point 191 gcdfe adbfgec cbafge dgbaf ebf gfbced eb adcgfe becd fgebd -> ['ecgfba', 'gcbfde', 'dbec', 'cdafge']
+    Display2 has a simple number.
+  Checking data point 192 dbgeafc dacbg badfge abfce ed eda dcfe decba dcfeab gfbeca -> ['febcda', 'defc', 'beacf', 'fdgabe']
+    Display1 has a simple number.
+  Checking data point 193 efcd bfcadge fcdba egabf bfdcag dcefba deagbc fabed ed edb -> ['gbeacd', 'fdeab', 'ebcfad', 'fageb']
+  Checking data point 194 dcgf fegdab bcaeg dcegaf dga gd dcfbea fcdea aedcg bdefgca -> ['cbegdfa', 'eabcfd', 'adfce', 'cbefda']
+    Display0 has a simple number.
+  Checking data point 195 bf edfbgc cegbf bcadefg ebf acbfde gcedf feadgc gbcae gfbd -> ['feb', 'dfgb', 'egbcdfa', 'dfegc']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display2 has a simple number.
+  Checking data point 196 efgba eacd efadcg dcgefb gacdf dbcfgae efd bgcdaf edfga ed -> ['cfbgda', 'dgcfa', 'gcfead', 'eadfg']
+  Checking data point 197 afgdc fbg cdgaef fagbdc bgcefa cdbf bgdaf bdaeg fb dgabcfe -> ['dagfc', 'cefagb', 'egcabf', 'fcbd']
+    Display3 has a simple number.
+  Checking data point 198 cadgfe acbed cfabgde fdbcge cfga fad fdeabg fa dcaef dcfge -> ['fad', 'bafgecd', 'cfegad', 'adbfcge']
+    Display0 has a simple number.
+    Display1 has a simple number.
+    Display3 has a simple number.
+  Checking data point 199 agdefc cfad bdgecfa gadfe aefgc ad ceadgb gbafce bfedg agd -> ['dag', 'ad', 'fcage', 'cgbafe']
+    Display0 has a simple number.
+    Display1 has a simple number.
+SOLVE: Found 303 simple numbers.
