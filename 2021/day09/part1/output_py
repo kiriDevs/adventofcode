@@ -1,0 +1,692 @@
+Loading input...
+Loaded 100 lines.
+
+Searching for low points...
+  Checking line 0...
+    Detected low point at y 0|x 9
+    Detected low point at y 0|x33
+    Detected low point at y 0|x53
+    Detected low point at y 0|x99
+  Found 4 new low points
+  Checking line 1...
+    Detected low point at y 1|x47
+    Detected low point at y 1|x76
+  Found 2 new low points
+  Checking line 2...
+    Detected low point at y 2|x 1
+    Detected low point at y 2|x24
+    Detected low point at y 2|x40
+  Found 3 new low points
+  Checking line 3...
+    Detected low point at y 3|x16
+    Detected low point at y 3|x51
+    Detected low point at y 3|x60
+  Found 3 new low points
+  Checking line 4...
+    Detected low point at y 4|x91
+  Found 1 new low points
+  Checking line 5...
+    Detected low point at y 5|x33
+    Detected low point at y 5|x66
+    Detected low point at y 5|x96
+  Found 3 new low points
+  Checking line 6...
+    Detected low point at y 6|x55
+    Detected low point at y 6|x82
+  Found 2 new low points
+  Checking line 7...
+    Detected low point at y 7|x 7
+    Detected low point at y 7|x60
+  Found 2 new low points
+  Checking line 8...
+    Detected low point at y 8|x26
+    Detected low point at y 8|x64
+  Found 2 new low points
+  Checking line 9...
+    Detected low point at y 9|x14
+    Detected low point at y 9|x44
+    Detected low point at y 9|x77
+    Detected low point at y 9|x99
+  Found 4 new low points
+  Checking line 10...
+    Detected low point at y10|x39
+    Detected low point at y10|x93
+    Detected low point at y10|x95
+  Found 3 new low points
+  Checking line 11...
+    Detected low point at y11|x 3
+    Detected low point at y11|x 7
+    Detected low point at y11|x33
+    Detected low point at y11|x67
+    Detected low point at y11|x86
+  Found 5 new low points
+  Checking line 12...
+    Detected low point at y12|x49
+    Detected low point at y12|x60
+  Found 2 new low points
+  Checking line 13...
+    Detected low point at y13|x 8
+    Detected low point at y13|x22
+    Detected low point at y13|x73
+  Found 3 new low points
+  Checking line 14...
+  Found 0 new low points
+  Checking line 15...
+    Detected low point at y15|x47
+  Found 1 new low points
+  Checking line 16...
+    Detected low point at y16|x 2
+    Detected low point at y16|x41
+    Detected low point at y16|x95
+  Found 3 new low points
+  Checking line 17...
+    Detected low point at y17|x80
+  Found 1 new low points
+  Checking line 18...
+  Found 0 new low points
+  Checking line 19...
+    Detected low point at y19|x 7
+    Detected low point at y19|x17
+    Detected low point at y19|x52
+    Detected low point at y19|x59
+    Detected low point at y19|x78
+  Found 5 new low points
+  Checking line 20...
+    Detected low point at y20|x 0
+    Detected low point at y20|x68
+  Found 2 new low points
+  Checking line 21...
+    Detected low point at y21|x32
+    Detected low point at y21|x43
+    Detected low point at y21|x87
+  Found 3 new low points
+  Checking line 22...
+    Detected low point at y22|x23
+  Found 1 new low points
+  Checking line 23...
+    Detected low point at y23|x81
+  Found 1 new low points
+  Checking line 24...
+    Detected low point at y24|x39
+    Detected low point at y24|x63
+  Found 2 new low points
+  Checking line 25...
+    Detected low point at y25|x 8
+    Detected low point at y25|x99
+  Found 2 new low points
+  Checking line 26...
+    Detected low point at y26|x76
+  Found 1 new low points
+  Checking line 27...
+    Detected low point at y27|x 0
+    Detected low point at y27|x49
+    Detected low point at y27|x85
+    Detected low point at y27|x92
+  Found 4 new low points
+  Checking line 28...
+    Detected low point at y28|x14
+    Detected low point at y28|x34
+    Detected low point at y28|x69
+  Found 3 new low points
+  Checking line 29...
+    Detected low point at y29|x24
+    Detected low point at y29|x28
+    Detected low point at y29|x57
+  Found 3 new low points
+  Checking line 30...
+    Detected low point at y30|x94
+  Found 1 new low points
+  Checking line 31...
+    Detected low point at y31|x74
+    Detected low point at y31|x82
+  Found 2 new low points
+  Checking line 32...
+    Detected low point at y32|x 7
+    Detected low point at y32|x21
+    Detected low point at y32|x38
+  Found 3 new low points
+  Checking line 33...
+    Detected low point at y33|x 0
+    Detected low point at y33|x19
+    Detected low point at y33|x45
+    Detected low point at y33|x53
+    Detected low point at y33|x64
+  Found 5 new low points
+  Checking line 34...
+    Detected low point at y34|x15
+    Detected low point at y34|x89
+  Found 2 new low points
+  Checking line 35...
+    Detected low point at y35|x10
+    Detected low point at y35|x32
+  Found 2 new low points
+  Checking line 36...
+    Detected low point at y36|x40
+    Detected low point at y36|x71
+    Detected low point at y36|x78
+  Found 3 new low points
+  Checking line 37...
+    Detected low point at y37|x98
+  Found 1 new low points
+  Checking line 38...
+    Detected low point at y38|x44
+    Detected low point at y38|x56
+    Detected low point at y38|x60
+    Detected low point at y38|x93
+  Found 4 new low points
+  Checking line 39...
+    Detected low point at y39|x26
+    Detected low point at y39|x86
+  Found 2 new low points
+  Checking line 40...
+    Detected low point at y40|x 4
+    Detected low point at y40|x14
+    Detected low point at y40|x20
+    Detected low point at y40|x50
+    Detected low point at y40|x73
+  Found 5 new low points
+  Checking line 41...
+  Found 0 new low points
+  Checking line 42...
+    Detected low point at y42|x39
+  Found 1 new low points
+  Checking line 43...
+    Detected low point at y43|x64
+  Found 1 new low points
+  Checking line 44...
+    Detected low point at y44|x11
+    Detected low point at y44|x44
+    Detected low point at y44|x97
+  Found 3 new low points
+  Checking line 45...
+    Detected low point at y45|x 6
+    Detected low point at y45|x81
+  Found 2 new low points
+  Checking line 46...
+    Detected low point at y46|x36
+    Detected low point at y46|x69
+  Found 2 new low points
+  Checking line 47...
+    Detected low point at y47|x21
+    Detected low point at y47|x29
+    Detected low point at y47|x78
+  Found 3 new low points
+  Checking line 48...
+    Detected low point at y48|x 0
+    Detected low point at y48|x14
+    Detected low point at y48|x91
+  Found 3 new low points
+  Checking line 49...
+    Detected low point at y49|x56
+  Found 1 new low points
+  Checking line 50...
+    Detected low point at y50|x26
+    Detected low point at y50|x83
+  Found 2 new low points
+  Checking line 51...
+    Detected low point at y51|x 9
+    Detected low point at y51|x18
+    Detected low point at y51|x34
+    Detected low point at y51|x39
+    Detected low point at y51|x47
+  Found 5 new low points
+  Checking line 52...
+    Detected low point at y52|x 0
+    Detected low point at y52|x72
+    Detected low point at y52|x99
+  Found 3 new low points
+  Checking line 53...
+    Detected low point at y53|x29
+    Detected low point at y53|x63
+  Found 2 new low points
+  Checking line 54...
+    Detected low point at y54|x 5
+  Found 1 new low points
+  Checking line 55...
+    Detected low point at y55|x20
+    Detected low point at y55|x77
+    Detected low point at y55|x92
+  Found 3 new low points
+  Checking line 56...
+    Detected low point at y56|x54
+  Found 1 new low points
+  Checking line 57...
+    Detected low point at y57|x68
+  Found 1 new low points
+  Checking line 58...
+    Detected low point at y58|x 2
+    Detected low point at y58|x26
+    Detected low point at y58|x34
+    Detected low point at y58|x43
+  Found 4 new low points
+  Checking line 59...
+    Detected low point at y59|x58
+    Detected low point at y59|x84
+  Found 2 new low points
+  Checking line 60...
+    Detected low point at y60|x23
+  Found 1 new low points
+  Checking line 61...
+    Detected low point at y61|x13
+    Detected low point at y61|x48
+    Detected low point at y61|x96
+  Found 3 new low points
+  Checking line 62...
+    Detected low point at y62|x 7
+    Detected low point at y62|x31
+    Detected low point at y62|x47
+    Detected low point at y62|x65
+    Detected low point at y62|x83
+  Found 5 new low points
+  Checking line 63...
+    Detected low point at y63|x38
+    Detected low point at y63|x73
+    Detected low point at y63|x79
+  Found 3 new low points
+  Checking line 64...
+    Detected low point at y64|x 0
+    Detected low point at y64|x53
+  Found 2 new low points
+  Checking line 65...
+    Detected low point at y65|x66
+    Detected low point at y65|x91
+  Found 2 new low points
+  Checking line 66...
+  Found 0 new low points
+  Checking line 67...
+    Detected low point at y67|x20
+    Detected low point at y67|x27
+  Found 2 new low points
+  Checking line 68...
+    Detected low point at y68|x56
+    Detected low point at y68|x76
+    Detected low point at y68|x86
+    Detected low point at y68|x98
+  Found 4 new low points
+  Checking line 69...
+    Detected low point at y69|x 5
+    Detected low point at y69|x11
+    Detected low point at y69|x81
+  Found 3 new low points
+  Checking line 70...
+    Detected low point at y70|x32
+    Detected low point at y70|x49
+    Detected low point at y70|x64
+    Detected low point at y70|x95
+  Found 4 new low points
+  Checking line 71...
+    Detected low point at y71|x 0
+    Detected low point at y71|x42
+  Found 2 new low points
+  Checking line 72...
+    Detected low point at y72|x 6
+    Detected low point at y72|x26
+  Found 2 new low points
+  Checking line 73...
+    Detected low point at y73|x78
+    Detected low point at y73|x98
+  Found 2 new low points
+  Checking line 74...
+    Detected low point at y74|x21
+    Detected low point at y74|x33
+  Found 2 new low points
+  Checking line 75...
+    Detected low point at y75|x88
+    Detected low point at y75|x95
+  Found 2 new low points
+  Checking line 76...
+    Detected low point at y76|x11
+    Detected low point at y76|x13
+    Detected low point at y76|x59
+    Detected low point at y76|x70
+    Detected low point at y76|x82
+  Found 5 new low points
+  Checking line 77...
+    Detected low point at y77|x 3
+    Detected low point at y77|x18
+    Detected low point at y77|x40
+    Detected low point at y77|x77
+  Found 4 new low points
+  Checking line 78...
+    Detected low point at y78|x24
+    Detected low point at y78|x51
+    Detected low point at y78|x99
+  Found 3 new low points
+  Checking line 79...
+    Detected low point at y79|x14
+  Found 1 new low points
+  Checking line 80...
+    Detected low point at y80|x 9
+    Detected low point at y80|x87
+    Detected low point at y80|x94
+  Found 3 new low points
+  Checking line 81...
+    Detected low point at y81|x19
+  Found 1 new low points
+  Checking line 82...
+    Detected low point at y82|x35
+    Detected low point at y82|x55
+  Found 2 new low points
+  Checking line 83...
+    Detected low point at y83|x27
+    Detected low point at y83|x29
+    Detected low point at y83|x41
+    Detected low point at y83|x71
+    Detected low point at y83|x83
+    Detected low point at y83|x99
+  Found 6 new low points
+  Checking line 84...
+    Detected low point at y84|x47
+    Detected low point at y84|x78
+  Found 2 new low points
+  Checking line 85...
+    Detected low point at y85|x 0
+    Detected low point at y85|x16
+    Detected low point at y85|x66
+  Found 3 new low points
+  Checking line 86...
+  Found 0 new low points
+  Checking line 87...
+  Found 0 new low points
+  Checking line 88...
+    Detected low point at y88|x 5
+    Detected low point at y88|x11
+    Detected low point at y88|x20
+    Detected low point at y88|x38
+    Detected low point at y88|x59
+    Detected low point at y88|x95
+  Found 6 new low points
+  Checking line 89...
+    Detected low point at y89|x77
+    Detected low point at y89|x84
+  Found 2 new low points
+  Checking line 90...
+    Detected low point at y90|x28
+    Detected low point at y90|x52
+  Found 2 new low points
+  Checking line 91...
+    Detected low point at y91|x 2
+    Detected low point at y91|x43
+    Detected low point at y91|x71
+  Found 3 new low points
+  Checking line 92...
+  Found 0 new low points
+  Checking line 93...
+    Detected low point at y93|x65
+    Detected low point at y93|x85
+  Found 2 new low points
+  Checking line 94...
+    Detected low point at y94|x34
+    Detected low point at y94|x99
+  Found 2 new low points
+  Checking line 95...
+    Detected low point at y95|x13
+    Detected low point at y95|x47
+    Detected low point at y95|x90
+  Found 3 new low points
+  Checking line 96...
+    Detected low point at y96|x 0
+    Detected low point at y96|x 6
+    Detected low point at y96|x67
+    Detected low point at y96|x80
+  Found 4 new low points
+  Checking line 97...
+    Detected low point at y97|x61
+  Found 1 new low points
+  Checking line 98...
+  Found 0 new low points
+  Checking line 99...
+    Detected low point at y99|x 1
+    Detected low point at y99|x23
+    Detected low point at y99|x32
+    Detected low point at y99|x42
+    Detected low point at y99|x55
+    Detected low point at y99|x74
+    Detected low point at y99|x94
+  Found 7 new low points
+Found 242 low points.
+
+Calculating heat scores...
+  y 0|x 9 has a heat score of 2
+  y 0|x33 has a heat score of 3
+  y 0|x53 has a heat score of 1
+  y 0|x99 has a heat score of 2
+  y 1|x47 has a heat score of 4
+  y 1|x76 has a heat score of 1
+  y 2|x 1 has a heat score of 3
+  y 2|x24 has a heat score of 1
+  y 2|x40 has a heat score of 3
+  y 3|x16 has a heat score of 1
+  y 3|x51 has a heat score of 2
+  y 3|x60 has a heat score of 1
+  y 4|x91 has a heat score of 1
+  y 5|x33 has a heat score of 4
+  y 5|x66 has a heat score of 1
+  y 5|x96 has a heat score of 3
+  y 6|x55 has a heat score of 1
+  y 6|x82 has a heat score of 1
+  y 7|x 7 has a heat score of 5
+  y 7|x60 has a heat score of 5
+  y 8|x26 has a heat score of 3
+  y 8|x64 has a heat score of 6
+  y 9|x14 has a heat score of 1
+  y 9|x44 has a heat score of 3
+  y 9|x77 has a heat score of 1
+  y 9|x99 has a heat score of 4
+  y10|x39 has a heat score of 2
+  y10|x93 has a heat score of 1
+  y10|x95 has a heat score of 3
+  y11|x 3 has a heat score of 5
+  y11|x 7 has a heat score of 1
+  y11|x33 has a heat score of 2
+  y11|x67 has a heat score of 2
+  y11|x86 has a heat score of 2
+  y12|x49 has a heat score of 3
+  y12|x60 has a heat score of 4
+  y13|x 8 has a heat score of 1
+  y13|x22 has a heat score of 1
+  y13|x73 has a heat score of 1
+  y15|x47 has a heat score of 1
+  y16|x 2 has a heat score of 1
+  y16|x41 has a heat score of 2
+  y16|x95 has a heat score of 2
+  y17|x80 has a heat score of 2
+  y19|x 7 has a heat score of 1
+  y19|x17 has a heat score of 1
+  y19|x52 has a heat score of 2
+  y19|x59 has a heat score of 1
+  y19|x78 has a heat score of 5
+  y20|x 0 has a heat score of 1
+  y20|x68 has a heat score of 1
+  y21|x32 has a heat score of 1
+  y21|x43 has a heat score of 3
+  y21|x87 has a heat score of 2
+  y22|x23 has a heat score of 1
+  y23|x81 has a heat score of 1
+  y24|x39 has a heat score of 2
+  y24|x63 has a heat score of 2
+  y25|x 8 has a heat score of 2
+  y25|x99 has a heat score of 1
+  y26|x76 has a heat score of 2
+  y27|x 0 has a heat score of 1
+  y27|x49 has a heat score of 1
+  y27|x85 has a heat score of 3
+  y27|x92 has a heat score of 1
+  y28|x14 has a heat score of 1
+  y28|x34 has a heat score of 1
+  y28|x69 has a heat score of 1
+  y29|x24 has a heat score of 5
+  y29|x28 has a heat score of 1
+  y29|x57 has a heat score of 1
+  y30|x94 has a heat score of 1
+  y31|x74 has a heat score of 5
+  y31|x82 has a heat score of 1
+  y32|x 7 has a heat score of 1
+  y32|x21 has a heat score of 5
+  y32|x38 has a heat score of 4
+  y33|x 0 has a heat score of 1
+  y33|x19 has a heat score of 1
+  y33|x45 has a heat score of 1
+  y33|x53 has a heat score of 1
+  y33|x64 has a heat score of 2
+  y34|x15 has a heat score of 5
+  y34|x89 has a heat score of 1
+  y35|x10 has a heat score of 6
+  y35|x32 has a heat score of 1
+  y36|x40 has a heat score of 5
+  y36|x71 has a heat score of 3
+  y36|x78 has a heat score of 1
+  y37|x98 has a heat score of 1
+  y38|x44 has a heat score of 1
+  y38|x56 has a heat score of 5
+  y38|x60 has a heat score of 5
+  y38|x93 has a heat score of 3
+  y39|x26 has a heat score of 1
+  y39|x86 has a heat score of 1
+  y40|x 4 has a heat score of 2
+  y40|x14 has a heat score of 1
+  y40|x20 has a heat score of 3
+  y40|x50 has a heat score of 1
+  y40|x73 has a heat score of 1
+  y42|x39 has a heat score of 2
+  y43|x64 has a heat score of 1
+  y44|x11 has a heat score of 4
+  y44|x44 has a heat score of 2
+  y44|x97 has a heat score of 1
+  y45|x 6 has a heat score of 4
+  y45|x81 has a heat score of 4
+  y46|x36 has a heat score of 3
+  y46|x69 has a heat score of 2
+  y47|x21 has a heat score of 4
+  y47|x29 has a heat score of 1
+  y47|x78 has a heat score of 2
+  y48|x 0 has a heat score of 4
+  y48|x14 has a heat score of 2
+  y48|x91 has a heat score of 1
+  y49|x56 has a heat score of 1
+  y50|x26 has a heat score of 5
+  y50|x83 has a heat score of 1
+  y51|x 9 has a heat score of 1
+  y51|x18 has a heat score of 3
+  y51|x34 has a heat score of 3
+  y51|x39 has a heat score of 6
+  y51|x47 has a heat score of 1
+  y52|x 0 has a heat score of 3
+  y52|x72 has a heat score of 1
+  y52|x99 has a heat score of 1
+  y53|x29 has a heat score of 4
+  y53|x63 has a heat score of 1
+  y54|x 5 has a heat score of 4
+  y55|x20 has a heat score of 4
+  y55|x77 has a heat score of 2
+  y55|x92 has a heat score of 4
+  y56|x54 has a heat score of 2
+  y57|x68 has a heat score of 1
+  y58|x 2 has a heat score of 5
+  y58|x26 has a heat score of 1
+  y58|x34 has a heat score of 2
+  y58|x43 has a heat score of 3
+  y59|x58 has a heat score of 1
+  y59|x84 has a heat score of 1
+  y60|x23 has a heat score of 3
+  y61|x13 has a heat score of 1
+  y61|x48 has a heat score of 3
+  y61|x96 has a heat score of 3
+  y62|x 7 has a heat score of 3
+  y62|x31 has a heat score of 1
+  y62|x47 has a heat score of 1
+  y62|x65 has a heat score of 4
+  y62|x83 has a heat score of 4
+  y63|x38 has a heat score of 1
+  y63|x73 has a heat score of 1
+  y63|x79 has a heat score of 2
+  y64|x 0 has a heat score of 1
+  y64|x53 has a heat score of 1
+  y65|x66 has a heat score of 5
+  y65|x91 has a heat score of 3
+  y67|x20 has a heat score of 4
+  y67|x27 has a heat score of 3
+  y68|x56 has a heat score of 1
+  y68|x76 has a heat score of 4
+  y68|x86 has a heat score of 5
+  y68|x98 has a heat score of 5
+  y69|x 5 has a heat score of 2
+  y69|x11 has a heat score of 2
+  y69|x81 has a heat score of 6
+  y70|x32 has a heat score of 4
+  y70|x49 has a heat score of 1
+  y70|x64 has a heat score of 2
+  y70|x95 has a heat score of 1
+  y71|x 0 has a heat score of 3
+  y71|x42 has a heat score of 1
+  y72|x 6 has a heat score of 1
+  y72|x26 has a heat score of 2
+  y73|x78 has a heat score of 2
+  y73|x98 has a heat score of 5
+  y74|x21 has a heat score of 5
+  y74|x33 has a heat score of 1
+  y75|x88 has a heat score of 1
+  y75|x95 has a heat score of 2
+  y76|x11 has a heat score of 1
+  y76|x13 has a heat score of 1
+  y76|x59 has a heat score of 1
+  y76|x70 has a heat score of 1
+  y76|x82 has a heat score of 4
+  y77|x 3 has a heat score of 1
+  y77|x18 has a heat score of 5
+  y77|x40 has a heat score of 2
+  y77|x77 has a heat score of 1
+  y78|x24 has a heat score of 1
+  y78|x51 has a heat score of 1
+  y78|x99 has a heat score of 5
+  y79|x14 has a heat score of 4
+  y80|x 9 has a heat score of 4
+  y80|x87 has a heat score of 3
+  y80|x94 has a heat score of 2
+  y81|x19 has a heat score of 5
+  y82|x35 has a heat score of 1
+  y82|x55 has a heat score of 2
+  y83|x27 has a heat score of 5
+  y83|x29 has a heat score of 7
+  y83|x41 has a heat score of 5
+  y83|x71 has a heat score of 3
+  y83|x83 has a heat score of 5
+  y83|x99 has a heat score of 2
+  y84|x47 has a heat score of 6
+  y84|x78 has a heat score of 2
+  y85|x 0 has a heat score of 1
+  y85|x16 has a heat score of 1
+  y85|x66 has a heat score of 1
+  y88|x 5 has a heat score of 6
+  y88|x11 has a heat score of 2
+  y88|x20 has a heat score of 2
+  y88|x38 has a heat score of 1
+  y88|x59 has a heat score of 2
+  y88|x95 has a heat score of 1
+  y89|x77 has a heat score of 4
+  y89|x84 has a heat score of 4
+  y90|x28 has a heat score of 3
+  y90|x52 has a heat score of 1
+  y91|x 2 has a heat score of 4
+  y91|x43 has a heat score of 4
+  y91|x71 has a heat score of 3
+  y93|x65 has a heat score of 2
+  y93|x85 has a heat score of 1
+  y94|x34 has a heat score of 1
+  y94|x99 has a heat score of 1
+  y95|x13 has a heat score of 2
+  y95|x47 has a heat score of 2
+  y95|x90 has a heat score of 3
+  y96|x 0 has a heat score of 4
+  y96|x 6 has a heat score of 3
+  y96|x67 has a heat score of 6
+  y96|x80 has a heat score of 1
+  y97|x61 has a heat score of 2
+  y99|x 1 has a heat score of 2
+  y99|x23 has a heat score of 1
+  y99|x32 has a heat score of 1
+  y99|x42 has a heat score of 2
+  y99|x55 has a heat score of 3
+  y99|x74 has a heat score of 1
+  y99|x94 has a heat score of 2
+Added heat scores: 572
