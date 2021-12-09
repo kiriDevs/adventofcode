@@ -1,0 +1,6140 @@
+Reading input
+Successfully read 1000 numbers
+
+Counting numbers for bit  0
+     0 has a 1 at  0:   0 -->   0
+     3 has a 1 at  0:   1 -->   1
+     4 has a 1 at  0:   2 -->   2
+     6 has a 1 at  0:   3 -->   3
+     8 has a 1 at  0:   4 -->   4
+    10 has a 1 at  0:   5 -->   5
+    11 has a 1 at  0:   6 -->   6
+    12 has a 1 at  0:   7 -->   7
+    13 has a 1 at  0:   8 -->   8
+    16 has a 1 at  0:   9 -->   9
+    18 has a 1 at  0:  10 -->  10
+    19 has a 1 at  0:  11 -->  11
+    21 has a 1 at  0:  12 -->  12
+    22 has a 1 at  0:  13 -->  13
+    23 has a 1 at  0:  14 -->  14
+    24 has a 1 at  0:  15 -->  15
+    25 has a 1 at  0:  16 -->  16
+    26 has a 1 at  0:  17 -->  17
+    27 has a 1 at  0:  18 -->  18
+    31 has a 1 at  0:  19 -->  19
+    33 has a 1 at  0:  20 -->  20
+    35 has a 1 at  0:  21 -->  21
+    36 has a 1 at  0:  22 -->  22
+    37 has a 1 at  0:  23 -->  23
+    38 has a 1 at  0:  24 -->  24
+    39 has a 1 at  0:  25 -->  25
+    41 has a 1 at  0:  26 -->  26
+    42 has a 1 at  0:  27 -->  27
+    43 has a 1 at  0:  28 -->  28
+    46 has a 1 at  0:  29 -->  29
+    47 has a 1 at  0:  30 -->  30
+    48 has a 1 at  0:  31 -->  31
+    52 has a 1 at  0:  32 -->  32
+    53 has a 1 at  0:  33 -->  33
+    56 has a 1 at  0:  34 -->  34
+    57 has a 1 at  0:  35 -->  35
+    58 has a 1 at  0:  36 -->  36
+    65 has a 1 at  0:  37 -->  37
+    68 has a 1 at  0:  38 -->  38
+    69 has a 1 at  0:  39 -->  39
+    73 has a 1 at  0:  40 -->  40
+    75 has a 1 at  0:  41 -->  41
+    82 has a 1 at  0:  42 -->  42
+    83 has a 1 at  0:  43 -->  43
+    85 has a 1 at  0:  44 -->  44
+    86 has a 1 at  0:  45 -->  45
+    87 has a 1 at  0:  46 -->  46
+    88 has a 1 at  0:  47 -->  47
+    90 has a 1 at  0:  48 -->  48
+    91 has a 1 at  0:  49 -->  49
+    97 has a 1 at  0:  50 -->  50
+    99 has a 1 at  0:  51 -->  51
+   103 has a 1 at  0:  52 -->  52
+   104 has a 1 at  0:  53 -->  53
+   106 has a 1 at  0:  54 -->  54
+   108 has a 1 at  0:  55 -->  55
+   109 has a 1 at  0:  56 -->  56
+   110 has a 1 at  0:  57 -->  57
+   113 has a 1 at  0:  58 -->  58
+   114 has a 1 at  0:  59 -->  59
+   118 has a 1 at  0:  60 -->  60
+   122 has a 1 at  0:  61 -->  61
+   124 has a 1 at  0:  62 -->  62
+   125 has a 1 at  0:  63 -->  63
+   127 has a 1 at  0:  64 -->  64
+   129 has a 1 at  0:  65 -->  65
+   131 has a 1 at  0:  66 -->  66
+   132 has a 1 at  0:  67 -->  67
+   133 has a 1 at  0:  68 -->  68
+   134 has a 1 at  0:  69 -->  69
+   135 has a 1 at  0:  70 -->  70
+   138 has a 1 at  0:  71 -->  71
+   145 has a 1 at  0:  72 -->  72
+   149 has a 1 at  0:  73 -->  73
+   151 has a 1 at  0:  74 -->  74
+   152 has a 1 at  0:  75 -->  75
+   156 has a 1 at  0:  76 -->  76
+   158 has a 1 at  0:  77 -->  77
+   159 has a 1 at  0:  78 -->  78
+   164 has a 1 at  0:  79 -->  79
+   165 has a 1 at  0:  80 -->  80
+   170 has a 1 at  0:  81 -->  81
+   171 has a 1 at  0:  82 -->  82
+   172 has a 1 at  0:  83 -->  83
+   173 has a 1 at  0:  84 -->  84
+   174 has a 1 at  0:  85 -->  85
+   178 has a 1 at  0:  86 -->  86
+   180 has a 1 at  0:  87 -->  87
+   181 has a 1 at  0:  88 -->  88
+   183 has a 1 at  0:  89 -->  89
+   186 has a 1 at  0:  90 -->  90
+   189 has a 1 at  0:  91 -->  91
+   192 has a 1 at  0:  92 -->  92
+   193 has a 1 at  0:  93 -->  93
+   194 has a 1 at  0:  94 -->  94
+   195 has a 1 at  0:  95 -->  95
+   197 has a 1 at  0:  96 -->  96
+   200 has a 1 at  0:  97 -->  97
+   201 has a 1 at  0:  98 -->  98
+   204 has a 1 at  0:  99 -->  99
+   206 has a 1 at  0: 100 --> 100
+   207 has a 1 at  0: 101 --> 101
+   208 has a 1 at  0: 102 --> 102
+   209 has a 1 at  0: 103 --> 103
+   210 has a 1 at  0: 104 --> 104
+   214 has a 1 at  0: 105 --> 105
+   215 has a 1 at  0: 106 --> 106
+   216 has a 1 at  0: 107 --> 107
+   218 has a 1 at  0: 108 --> 108
+   222 has a 1 at  0: 109 --> 109
+   225 has a 1 at  0: 110 --> 110
+   226 has a 1 at  0: 111 --> 111
+   227 has a 1 at  0: 112 --> 112
+   228 has a 1 at  0: 113 --> 113
+   231 has a 1 at  0: 114 --> 114
+   232 has a 1 at  0: 115 --> 115
+   234 has a 1 at  0: 116 --> 116
+   237 has a 1 at  0: 117 --> 117
+   239 has a 1 at  0: 118 --> 118
+   240 has a 1 at  0: 119 --> 119
+   244 has a 1 at  0: 120 --> 120
+   245 has a 1 at  0: 121 --> 121
+   250 has a 1 at  0: 122 --> 122
+   253 has a 1 at  0: 123 --> 123
+   254 has a 1 at  0: 124 --> 124
+   255 has a 1 at  0: 125 --> 125
+   260 has a 1 at  0: 126 --> 126
+   261 has a 1 at  0: 127 --> 127
+   263 has a 1 at  0: 128 --> 128
+   265 has a 1 at  0: 129 --> 129
+   266 has a 1 at  0: 130 --> 130
+   269 has a 1 at  0: 131 --> 131
+   275 has a 1 at  0: 132 --> 132
+   276 has a 1 at  0: 133 --> 133
+   277 has a 1 at  0: 134 --> 134
+   278 has a 1 at  0: 135 --> 135
+   281 has a 1 at  0: 136 --> 136
+   291 has a 1 at  0: 137 --> 137
+   292 has a 1 at  0: 138 --> 138
+   295 has a 1 at  0: 139 --> 139
+   301 has a 1 at  0: 140 --> 140
+   304 has a 1 at  0: 141 --> 141
+   307 has a 1 at  0: 142 --> 142
+   311 has a 1 at  0: 143 --> 143
+   313 has a 1 at  0: 144 --> 144
+   318 has a 1 at  0: 145 --> 145
+   319 has a 1 at  0: 146 --> 146
+   323 has a 1 at  0: 147 --> 147
+   326 has a 1 at  0: 148 --> 148
+   327 has a 1 at  0: 149 --> 149
+   328 has a 1 at  0: 150 --> 150
+   329 has a 1 at  0: 151 --> 151
+   330 has a 1 at  0: 152 --> 152
+   331 has a 1 at  0: 153 --> 153
+   336 has a 1 at  0: 154 --> 154
+   338 has a 1 at  0: 155 --> 155
+   339 has a 1 at  0: 156 --> 156
+   340 has a 1 at  0: 157 --> 157
+   347 has a 1 at  0: 158 --> 158
+   348 has a 1 at  0: 159 --> 159
+   351 has a 1 at  0: 160 --> 160
+   354 has a 1 at  0: 161 --> 161
+   355 has a 1 at  0: 162 --> 162
+   356 has a 1 at  0: 163 --> 163
+   357 has a 1 at  0: 164 --> 164
+   358 has a 1 at  0: 165 --> 165
+   359 has a 1 at  0: 166 --> 166
+   363 has a 1 at  0: 167 --> 167
+   366 has a 1 at  0: 168 --> 168
+   367 has a 1 at  0: 169 --> 169
+   369 has a 1 at  0: 170 --> 170
+   371 has a 1 at  0: 171 --> 171
+   373 has a 1 at  0: 172 --> 172
+   377 has a 1 at  0: 173 --> 173
+   380 has a 1 at  0: 174 --> 174
+   381 has a 1 at  0: 175 --> 175
+   382 has a 1 at  0: 176 --> 176
+   387 has a 1 at  0: 177 --> 177
+   389 has a 1 at  0: 178 --> 178
+   395 has a 1 at  0: 179 --> 179
+   396 has a 1 at  0: 180 --> 180
+   401 has a 1 at  0: 181 --> 181
+   402 has a 1 at  0: 182 --> 182
+   404 has a 1 at  0: 183 --> 183
+   406 has a 1 at  0: 184 --> 184
+   408 has a 1 at  0: 185 --> 185
+   410 has a 1 at  0: 186 --> 186
+   413 has a 1 at  0: 187 --> 187
+   414 has a 1 at  0: 188 --> 188
+   415 has a 1 at  0: 189 --> 189
+   416 has a 1 at  0: 190 --> 190
+   417 has a 1 at  0: 191 --> 191
+   419 has a 1 at  0: 192 --> 192
+   420 has a 1 at  0: 193 --> 193
+   421 has a 1 at  0: 194 --> 194
+   422 has a 1 at  0: 195 --> 195
+   423 has a 1 at  0: 196 --> 196
+   425 has a 1 at  0: 197 --> 197
+   427 has a 1 at  0: 198 --> 198
+   432 has a 1 at  0: 199 --> 199
+   434 has a 1 at  0: 200 --> 200
+   436 has a 1 at  0: 201 --> 201
+   437 has a 1 at  0: 202 --> 202
+   439 has a 1 at  0: 203 --> 203
+   440 has a 1 at  0: 204 --> 204
+   441 has a 1 at  0: 205 --> 205
+   444 has a 1 at  0: 206 --> 206
+   446 has a 1 at  0: 207 --> 207
+   448 has a 1 at  0: 208 --> 208
+   451 has a 1 at  0: 209 --> 209
+   453 has a 1 at  0: 210 --> 210
+   455 has a 1 at  0: 211 --> 211
+   456 has a 1 at  0: 212 --> 212
+   458 has a 1 at  0: 213 --> 213
+   459 has a 1 at  0: 214 --> 214
+   460 has a 1 at  0: 215 --> 215
+   464 has a 1 at  0: 216 --> 216
+   465 has a 1 at  0: 217 --> 217
+   466 has a 1 at  0: 218 --> 218
+   468 has a 1 at  0: 219 --> 219
+   469 has a 1 at  0: 220 --> 220
+   472 has a 1 at  0: 221 --> 221
+   473 has a 1 at  0: 222 --> 222
+   475 has a 1 at  0: 223 --> 223
+   478 has a 1 at  0: 224 --> 224
+   479 has a 1 at  0: 225 --> 225
+   481 has a 1 at  0: 226 --> 226
+   482 has a 1 at  0: 227 --> 227
+   483 has a 1 at  0: 228 --> 228
+   484 has a 1 at  0: 229 --> 229
+   485 has a 1 at  0: 230 --> 230
+   487 has a 1 at  0: 231 --> 231
+   488 has a 1 at  0: 232 --> 232
+   489 has a 1 at  0: 233 --> 233
+   490 has a 1 at  0: 234 --> 234
+   491 has a 1 at  0: 235 --> 235
+   493 has a 1 at  0: 236 --> 236
+   496 has a 1 at  0: 237 --> 237
+   497 has a 1 at  0: 238 --> 238
+   503 has a 1 at  0: 239 --> 239
+   504 has a 1 at  0: 240 --> 240
+   506 has a 1 at  0: 241 --> 241
+   508 has a 1 at  0: 242 --> 242
+   509 has a 1 at  0: 243 --> 243
+   514 has a 1 at  0: 244 --> 244
+   519 has a 1 at  0: 245 --> 245
+   520 has a 1 at  0: 246 --> 246
+   522 has a 1 at  0: 247 --> 247
+   524 has a 1 at  0: 248 --> 248
+   525 has a 1 at  0: 249 --> 249
+   526 has a 1 at  0: 250 --> 250
+   529 has a 1 at  0: 251 --> 251
+   530 has a 1 at  0: 252 --> 252
+   532 has a 1 at  0: 253 --> 253
+   533 has a 1 at  0: 254 --> 254
+   534 has a 1 at  0: 255 --> 255
+   540 has a 1 at  0: 256 --> 256
+   542 has a 1 at  0: 257 --> 257
+   543 has a 1 at  0: 258 --> 258
+   544 has a 1 at  0: 259 --> 259
+   546 has a 1 at  0: 260 --> 260
+   547 has a 1 at  0: 261 --> 261
+   548 has a 1 at  0: 262 --> 262
+   549 has a 1 at  0: 263 --> 263
+   550 has a 1 at  0: 264 --> 264
+   551 has a 1 at  0: 265 --> 265
+   553 has a 1 at  0: 266 --> 266
+   555 has a 1 at  0: 267 --> 267
+   556 has a 1 at  0: 268 --> 268
+   557 has a 1 at  0: 269 --> 269
+   558 has a 1 at  0: 270 --> 270
+   559 has a 1 at  0: 271 --> 271
+   560 has a 1 at  0: 272 --> 272
+   562 has a 1 at  0: 273 --> 273
+   565 has a 1 at  0: 274 --> 274
+   566 has a 1 at  0: 275 --> 275
+   567 has a 1 at  0: 276 --> 276
+   568 has a 1 at  0: 277 --> 277
+   572 has a 1 at  0: 278 --> 278
+   575 has a 1 at  0: 279 --> 279
+   580 has a 1 at  0: 280 --> 280
+   581 has a 1 at  0: 281 --> 281
+   582 has a 1 at  0: 282 --> 282
+   585 has a 1 at  0: 283 --> 283
+   591 has a 1 at  0: 284 --> 284
+   593 has a 1 at  0: 285 --> 285
+   594 has a 1 at  0: 286 --> 286
+   598 has a 1 at  0: 287 --> 287
+   606 has a 1 at  0: 288 --> 288
+   607 has a 1 at  0: 289 --> 289
+   608 has a 1 at  0: 290 --> 290
+   609 has a 1 at  0: 291 --> 291
+   610 has a 1 at  0: 292 --> 292
+   612 has a 1 at  0: 293 --> 293
+   617 has a 1 at  0: 294 --> 294
+   618 has a 1 at  0: 295 --> 295
+   621 has a 1 at  0: 296 --> 296
+   625 has a 1 at  0: 297 --> 297
+   627 has a 1 at  0: 298 --> 298
+   630 has a 1 at  0: 299 --> 299
+   631 has a 1 at  0: 300 --> 300
+   632 has a 1 at  0: 301 --> 301
+   634 has a 1 at  0: 302 --> 302
+   637 has a 1 at  0: 303 --> 303
+   638 has a 1 at  0: 304 --> 304
+   641 has a 1 at  0: 305 --> 305
+   642 has a 1 at  0: 306 --> 306
+   645 has a 1 at  0: 307 --> 307
+   647 has a 1 at  0: 308 --> 308
+   649 has a 1 at  0: 309 --> 309
+   650 has a 1 at  0: 310 --> 310
+   651 has a 1 at  0: 311 --> 311
+   653 has a 1 at  0: 312 --> 312
+   655 has a 1 at  0: 313 --> 313
+   656 has a 1 at  0: 314 --> 314
+   657 has a 1 at  0: 315 --> 315
+   659 has a 1 at  0: 316 --> 316
+   662 has a 1 at  0: 317 --> 317
+   666 has a 1 at  0: 318 --> 318
+   667 has a 1 at  0: 319 --> 319
+   668 has a 1 at  0: 320 --> 320
+   669 has a 1 at  0: 321 --> 321
+   670 has a 1 at  0: 322 --> 322
+   673 has a 1 at  0: 323 --> 323
+   675 has a 1 at  0: 324 --> 324
+   676 has a 1 at  0: 325 --> 325
+   677 has a 1 at  0: 326 --> 326
+   682 has a 1 at  0: 327 --> 327
+   684 has a 1 at  0: 328 --> 328
+   685 has a 1 at  0: 329 --> 329
+   687 has a 1 at  0: 330 --> 330
+   688 has a 1 at  0: 331 --> 331
+   689 has a 1 at  0: 332 --> 332
+   692 has a 1 at  0: 333 --> 333
+   694 has a 1 at  0: 334 --> 334
+   695 has a 1 at  0: 335 --> 335
+   699 has a 1 at  0: 336 --> 336
+   700 has a 1 at  0: 337 --> 337
+   701 has a 1 at  0: 338 --> 338
+   702 has a 1 at  0: 339 --> 339
+   703 has a 1 at  0: 340 --> 340
+   705 has a 1 at  0: 341 --> 341
+   706 has a 1 at  0: 342 --> 342
+   709 has a 1 at  0: 343 --> 343
+   710 has a 1 at  0: 344 --> 344
+   711 has a 1 at  0: 345 --> 345
+   712 has a 1 at  0: 346 --> 346
+   714 has a 1 at  0: 347 --> 347
+   716 has a 1 at  0: 348 --> 348
+   718 has a 1 at  0: 349 --> 349
+   719 has a 1 at  0: 350 --> 350
+   720 has a 1 at  0: 351 --> 351
+   721 has a 1 at  0: 352 --> 352
+   722 has a 1 at  0: 353 --> 353
+   723 has a 1 at  0: 354 --> 354
+   727 has a 1 at  0: 355 --> 355
+   728 has a 1 at  0: 356 --> 356
+   729 has a 1 at  0: 357 --> 357
+   731 has a 1 at  0: 358 --> 358
+   733 has a 1 at  0: 359 --> 359
+   734 has a 1 at  0: 360 --> 360
+   735 has a 1 at  0: 361 --> 361
+   737 has a 1 at  0: 362 --> 362
+   738 has a 1 at  0: 363 --> 363
+   739 has a 1 at  0: 364 --> 364
+   744 has a 1 at  0: 365 --> 365
+   745 has a 1 at  0: 366 --> 366
+   747 has a 1 at  0: 367 --> 367
+   748 has a 1 at  0: 368 --> 368
+   749 has a 1 at  0: 369 --> 369
+   750 has a 1 at  0: 370 --> 370
+   751 has a 1 at  0: 371 --> 371
+   752 has a 1 at  0: 372 --> 372
+   753 has a 1 at  0: 373 --> 373
+   755 has a 1 at  0: 374 --> 374
+   759 has a 1 at  0: 375 --> 375
+   761 has a 1 at  0: 376 --> 376
+   762 has a 1 at  0: 377 --> 377
+   764 has a 1 at  0: 378 --> 378
+   765 has a 1 at  0: 379 --> 379
+   766 has a 1 at  0: 380 --> 380
+   775 has a 1 at  0: 381 --> 381
+   776 has a 1 at  0: 382 --> 382
+   777 has a 1 at  0: 383 --> 383
+   778 has a 1 at  0: 384 --> 384
+   779 has a 1 at  0: 385 --> 385
+   780 has a 1 at  0: 386 --> 386
+   781 has a 1 at  0: 387 --> 387
+   784 has a 1 at  0: 388 --> 388
+   785 has a 1 at  0: 389 --> 389
+   791 has a 1 at  0: 390 --> 390
+   793 has a 1 at  0: 391 --> 391
+   795 has a 1 at  0: 392 --> 392
+   796 has a 1 at  0: 393 --> 393
+   798 has a 1 at  0: 394 --> 394
+   799 has a 1 at  0: 395 --> 395
+   801 has a 1 at  0: 396 --> 396
+   803 has a 1 at  0: 397 --> 397
+   805 has a 1 at  0: 398 --> 398
+   806 has a 1 at  0: 399 --> 399
+   807 has a 1 at  0: 400 --> 400
+   809 has a 1 at  0: 401 --> 401
+   811 has a 1 at  0: 402 --> 402
+   812 has a 1 at  0: 403 --> 403
+   814 has a 1 at  0: 404 --> 404
+   816 has a 1 at  0: 405 --> 405
+   817 has a 1 at  0: 406 --> 406
+   819 has a 1 at  0: 407 --> 407
+   820 has a 1 at  0: 408 --> 408
+   825 has a 1 at  0: 409 --> 409
+   826 has a 1 at  0: 410 --> 410
+   827 has a 1 at  0: 411 --> 411
+   828 has a 1 at  0: 412 --> 412
+   829 has a 1 at  0: 413 --> 413
+   830 has a 1 at  0: 414 --> 414
+   831 has a 1 at  0: 415 --> 415
+   833 has a 1 at  0: 416 --> 416
+   835 has a 1 at  0: 417 --> 417
+   836 has a 1 at  0: 418 --> 418
+   840 has a 1 at  0: 419 --> 419
+   844 has a 1 at  0: 420 --> 420
+   848 has a 1 at  0: 421 --> 421
+   849 has a 1 at  0: 422 --> 422
+   850 has a 1 at  0: 423 --> 423
+   852 has a 1 at  0: 424 --> 424
+   853 has a 1 at  0: 425 --> 425
+   854 has a 1 at  0: 426 --> 426
+   855 has a 1 at  0: 427 --> 427
+   858 has a 1 at  0: 428 --> 428
+   859 has a 1 at  0: 429 --> 429
+   860 has a 1 at  0: 430 --> 430
+   861 has a 1 at  0: 431 --> 431
+   862 has a 1 at  0: 432 --> 432
+   863 has a 1 at  0: 433 --> 433
+   865 has a 1 at  0: 434 --> 434
+   866 has a 1 at  0: 435 --> 435
+   867 has a 1 at  0: 436 --> 436
+   870 has a 1 at  0: 437 --> 437
+   872 has a 1 at  0: 438 --> 438
+   873 has a 1 at  0: 439 --> 439
+   881 has a 1 at  0: 440 --> 440
+   885 has a 1 at  0: 441 --> 441
+   886 has a 1 at  0: 442 --> 442
+   887 has a 1 at  0: 443 --> 443
+   889 has a 1 at  0: 444 --> 444
+   890 has a 1 at  0: 445 --> 445
+   892 has a 1 at  0: 446 --> 446
+   894 has a 1 at  0: 447 --> 447
+   896 has a 1 at  0: 448 --> 448
+   899 has a 1 at  0: 449 --> 449
+   900 has a 1 at  0: 450 --> 450
+   901 has a 1 at  0: 451 --> 451
+   904 has a 1 at  0: 452 --> 452
+   906 has a 1 at  0: 453 --> 453
+   909 has a 1 at  0: 454 --> 454
+   911 has a 1 at  0: 455 --> 455
+   913 has a 1 at  0: 456 --> 456
+   914 has a 1 at  0: 457 --> 457
+   915 has a 1 at  0: 458 --> 458
+   916 has a 1 at  0: 459 --> 459
+   917 has a 1 at  0: 460 --> 460
+   920 has a 1 at  0: 461 --> 461
+   923 has a 1 at  0: 462 --> 462
+   927 has a 1 at  0: 463 --> 463
+   928 has a 1 at  0: 464 --> 464
+   931 has a 1 at  0: 465 --> 465
+   934 has a 1 at  0: 466 --> 466
+   937 has a 1 at  0: 467 --> 467
+   938 has a 1 at  0: 468 --> 468
+   941 has a 1 at  0: 469 --> 469
+   945 has a 1 at  0: 470 --> 470
+   948 has a 1 at  0: 471 --> 471
+   949 has a 1 at  0: 472 --> 472
+   950 has a 1 at  0: 473 --> 473
+   952 has a 1 at  0: 474 --> 474
+   953 has a 1 at  0: 475 --> 475
+   954 has a 1 at  0: 476 --> 476
+   955 has a 1 at  0: 477 --> 477
+   956 has a 1 at  0: 478 --> 478
+   959 has a 1 at  0: 479 --> 479
+   960 has a 1 at  0: 480 --> 480
+   964 has a 1 at  0: 481 --> 481
+   968 has a 1 at  0: 482 --> 482
+   970 has a 1 at  0: 483 --> 483
+   972 has a 1 at  0: 484 --> 484
+   973 has a 1 at  0: 485 --> 485
+   975 has a 1 at  0: 486 --> 486
+   977 has a 1 at  0: 487 --> 487
+   980 has a 1 at  0: 488 --> 488
+   982 has a 1 at  0: 489 --> 489
+   996 has a 1 at  0: 490 --> 490
+   997 has a 1 at  0: 491 --> 491
+   998 has a 1 at  0: 492 --> 492
+Bit  0 was set 493 times.
+Marking 1s for deletion: True
+  Marking    0 for deletion
+  Marking    3 for deletion
+  Marking    4 for deletion
+  Marking    6 for deletion
+  Marking    8 for deletion
+  Marking   10 for deletion
+  Marking   11 for deletion
+  Marking   12 for deletion
+  Marking   13 for deletion
+  Marking   16 for deletion
+  Marking   18 for deletion
+  Marking   19 for deletion
+  Marking   21 for deletion
+  Marking   22 for deletion
+  Marking   23 for deletion
+  Marking   24 for deletion
+  Marking   25 for deletion
+  Marking   26 for deletion
+  Marking   27 for deletion
+  Marking   31 for deletion
+  Marking   33 for deletion
+  Marking   35 for deletion
+  Marking   36 for deletion
+  Marking   37 for deletion
+  Marking   38 for deletion
+  Marking   39 for deletion
+  Marking   41 for deletion
+  Marking   42 for deletion
+  Marking   43 for deletion
+  Marking   46 for deletion
+  Marking   47 for deletion
+  Marking   48 for deletion
+  Marking   52 for deletion
+  Marking   53 for deletion
+  Marking   56 for deletion
+  Marking   57 for deletion
+  Marking   58 for deletion
+  Marking   65 for deletion
+  Marking   68 for deletion
+  Marking   69 for deletion
+  Marking   73 for deletion
+  Marking   75 for deletion
+  Marking   82 for deletion
+  Marking   83 for deletion
+  Marking   85 for deletion
+  Marking   86 for deletion
+  Marking   87 for deletion
+  Marking   88 for deletion
+  Marking   90 for deletion
+  Marking   91 for deletion
+  Marking   97 for deletion
+  Marking   99 for deletion
+  Marking  103 for deletion
+  Marking  104 for deletion
+  Marking  106 for deletion
+  Marking  108 for deletion
+  Marking  109 for deletion
+  Marking  110 for deletion
+  Marking  113 for deletion
+  Marking  114 for deletion
+  Marking  118 for deletion
+  Marking  122 for deletion
+  Marking  124 for deletion
+  Marking  125 for deletion
+  Marking  127 for deletion
+  Marking  129 for deletion
+  Marking  131 for deletion
+  Marking  132 for deletion
+  Marking  133 for deletion
+  Marking  134 for deletion
+  Marking  135 for deletion
+  Marking  138 for deletion
+  Marking  145 for deletion
+  Marking  149 for deletion
+  Marking  151 for deletion
+  Marking  152 for deletion
+  Marking  156 for deletion
+  Marking  158 for deletion
+  Marking  159 for deletion
+  Marking  164 for deletion
+  Marking  165 for deletion
+  Marking  170 for deletion
+  Marking  171 for deletion
+  Marking  172 for deletion
+  Marking  173 for deletion
+  Marking  174 for deletion
+  Marking  178 for deletion
+  Marking  180 for deletion
+  Marking  181 for deletion
+  Marking  183 for deletion
+  Marking  186 for deletion
+  Marking  189 for deletion
+  Marking  192 for deletion
+  Marking  193 for deletion
+  Marking  194 for deletion
+  Marking  195 for deletion
+  Marking  197 for deletion
+  Marking  200 for deletion
+  Marking  201 for deletion
+  Marking  204 for deletion
+  Marking  206 for deletion
+  Marking  207 for deletion
+  Marking  208 for deletion
+  Marking  209 for deletion
+  Marking  210 for deletion
+  Marking  214 for deletion
+  Marking  215 for deletion
+  Marking  216 for deletion
+  Marking  218 for deletion
+  Marking  222 for deletion
+  Marking  225 for deletion
+  Marking  226 for deletion
+  Marking  227 for deletion
+  Marking  228 for deletion
+  Marking  231 for deletion
+  Marking  232 for deletion
+  Marking  234 for deletion
+  Marking  237 for deletion
+  Marking  239 for deletion
+  Marking  240 for deletion
+  Marking  244 for deletion
+  Marking  245 for deletion
+  Marking  250 for deletion
+  Marking  253 for deletion
+  Marking  254 for deletion
+  Marking  255 for deletion
+  Marking  260 for deletion
+  Marking  261 for deletion
+  Marking  263 for deletion
+  Marking  265 for deletion
+  Marking  266 for deletion
+  Marking  269 for deletion
+  Marking  275 for deletion
+  Marking  276 for deletion
+  Marking  277 for deletion
+  Marking  278 for deletion
+  Marking  281 for deletion
+  Marking  291 for deletion
+  Marking  292 for deletion
+  Marking  295 for deletion
+  Marking  301 for deletion
+  Marking  304 for deletion
+  Marking  307 for deletion
+  Marking  311 for deletion
+  Marking  313 for deletion
+  Marking  318 for deletion
+  Marking  319 for deletion
+  Marking  323 for deletion
+  Marking  326 for deletion
+  Marking  327 for deletion
+  Marking  328 for deletion
+  Marking  329 for deletion
+  Marking  330 for deletion
+  Marking  331 for deletion
+  Marking  336 for deletion
+  Marking  338 for deletion
+  Marking  339 for deletion
+  Marking  340 for deletion
+  Marking  347 for deletion
+  Marking  348 for deletion
+  Marking  351 for deletion
+  Marking  354 for deletion
+  Marking  355 for deletion
+  Marking  356 for deletion
+  Marking  357 for deletion
+  Marking  358 for deletion
+  Marking  359 for deletion
+  Marking  363 for deletion
+  Marking  366 for deletion
+  Marking  367 for deletion
+  Marking  369 for deletion
+  Marking  371 for deletion
+  Marking  373 for deletion
+  Marking  377 for deletion
+  Marking  380 for deletion
+  Marking  381 for deletion
+  Marking  382 for deletion
+  Marking  387 for deletion
+  Marking  389 for deletion
+  Marking  395 for deletion
+  Marking  396 for deletion
+  Marking  401 for deletion
+  Marking  402 for deletion
+  Marking  404 for deletion
+  Marking  406 for deletion
+  Marking  408 for deletion
+  Marking  410 for deletion
+  Marking  413 for deletion
+  Marking  414 for deletion
+  Marking  415 for deletion
+  Marking  416 for deletion
+  Marking  417 for deletion
+  Marking  419 for deletion
+  Marking  420 for deletion
+  Marking  421 for deletion
+  Marking  422 for deletion
+  Marking  423 for deletion
+  Marking  425 for deletion
+  Marking  427 for deletion
+  Marking  432 for deletion
+  Marking  434 for deletion
+  Marking  436 for deletion
+  Marking  437 for deletion
+  Marking  439 for deletion
+  Marking  440 for deletion
+  Marking  441 for deletion
+  Marking  444 for deletion
+  Marking  446 for deletion
+  Marking  448 for deletion
+  Marking  451 for deletion
+  Marking  453 for deletion
+  Marking  455 for deletion
+  Marking  456 for deletion
+  Marking  458 for deletion
+  Marking  459 for deletion
+  Marking  460 for deletion
+  Marking  464 for deletion
+  Marking  465 for deletion
+  Marking  466 for deletion
+  Marking  468 for deletion
+  Marking  469 for deletion
+  Marking  472 for deletion
+  Marking  473 for deletion
+  Marking  475 for deletion
+  Marking  478 for deletion
+  Marking  479 for deletion
+  Marking  481 for deletion
+  Marking  482 for deletion
+  Marking  483 for deletion
+  Marking  484 for deletion
+  Marking  485 for deletion
+  Marking  487 for deletion
+  Marking  488 for deletion
+  Marking  489 for deletion
+  Marking  490 for deletion
+  Marking  491 for deletion
+  Marking  493 for deletion
+  Marking  496 for deletion
+  Marking  497 for deletion
+  Marking  503 for deletion
+  Marking  504 for deletion
+  Marking  506 for deletion
+  Marking  508 for deletion
+  Marking  509 for deletion
+  Marking  514 for deletion
+  Marking  519 for deletion
+  Marking  520 for deletion
+  Marking  522 for deletion
+  Marking  524 for deletion
+  Marking  525 for deletion
+  Marking  526 for deletion
+  Marking  529 for deletion
+  Marking  530 for deletion
+  Marking  532 for deletion
+  Marking  533 for deletion
+  Marking  534 for deletion
+  Marking  540 for deletion
+  Marking  542 for deletion
+  Marking  543 for deletion
+  Marking  544 for deletion
+  Marking  546 for deletion
+  Marking  547 for deletion
+  Marking  548 for deletion
+  Marking  549 for deletion
+  Marking  550 for deletion
+  Marking  551 for deletion
+  Marking  553 for deletion
+  Marking  555 for deletion
+  Marking  556 for deletion
+  Marking  557 for deletion
+  Marking  558 for deletion
+  Marking  559 for deletion
+  Marking  560 for deletion
+  Marking  562 for deletion
+  Marking  565 for deletion
+  Marking  566 for deletion
+  Marking  567 for deletion
+  Marking  568 for deletion
+  Marking  572 for deletion
+  Marking  575 for deletion
+  Marking  580 for deletion
+  Marking  581 for deletion
+  Marking  582 for deletion
+  Marking  585 for deletion
+  Marking  591 for deletion
+  Marking  593 for deletion
+  Marking  594 for deletion
+  Marking  598 for deletion
+  Marking  606 for deletion
+  Marking  607 for deletion
+  Marking  608 for deletion
+  Marking  609 for deletion
+  Marking  610 for deletion
+  Marking  612 for deletion
+  Marking  617 for deletion
+  Marking  618 for deletion
+  Marking  621 for deletion
+  Marking  625 for deletion
+  Marking  627 for deletion
+  Marking  630 for deletion
+  Marking  631 for deletion
+  Marking  632 for deletion
+  Marking  634 for deletion
+  Marking  637 for deletion
+  Marking  638 for deletion
+  Marking  641 for deletion
+  Marking  642 for deletion
+  Marking  645 for deletion
+  Marking  647 for deletion
+  Marking  649 for deletion
+  Marking  650 for deletion
+  Marking  651 for deletion
+  Marking  653 for deletion
+  Marking  655 for deletion
+  Marking  656 for deletion
+  Marking  657 for deletion
+  Marking  659 for deletion
+  Marking  662 for deletion
+  Marking  666 for deletion
+  Marking  667 for deletion
+  Marking  668 for deletion
+  Marking  669 for deletion
+  Marking  670 for deletion
+  Marking  673 for deletion
+  Marking  675 for deletion
+  Marking  676 for deletion
+  Marking  677 for deletion
+  Marking  682 for deletion
+  Marking  684 for deletion
+  Marking  685 for deletion
+  Marking  687 for deletion
+  Marking  688 for deletion
+  Marking  689 for deletion
+  Marking  692 for deletion
+  Marking  694 for deletion
+  Marking  695 for deletion
+  Marking  699 for deletion
+  Marking  700 for deletion
+  Marking  701 for deletion
+  Marking  702 for deletion
+  Marking  703 for deletion
+  Marking  705 for deletion
+  Marking  706 for deletion
+  Marking  709 for deletion
+  Marking  710 for deletion
+  Marking  711 for deletion
+  Marking  712 for deletion
+  Marking  714 for deletion
+  Marking  716 for deletion
+  Marking  718 for deletion
+  Marking  719 for deletion
+  Marking  720 for deletion
+  Marking  721 for deletion
+  Marking  722 for deletion
+  Marking  723 for deletion
+  Marking  727 for deletion
+  Marking  728 for deletion
+  Marking  729 for deletion
+  Marking  731 for deletion
+  Marking  733 for deletion
+  Marking  734 for deletion
+  Marking  735 for deletion
+  Marking  737 for deletion
+  Marking  738 for deletion
+  Marking  739 for deletion
+  Marking  744 for deletion
+  Marking  745 for deletion
+  Marking  747 for deletion
+  Marking  748 for deletion
+  Marking  749 for deletion
+  Marking  750 for deletion
+  Marking  751 for deletion
+  Marking  752 for deletion
+  Marking  753 for deletion
+  Marking  755 for deletion
+  Marking  759 for deletion
+  Marking  761 for deletion
+  Marking  762 for deletion
+  Marking  764 for deletion
+  Marking  765 for deletion
+  Marking  766 for deletion
+  Marking  775 for deletion
+  Marking  776 for deletion
+  Marking  777 for deletion
+  Marking  778 for deletion
+  Marking  779 for deletion
+  Marking  780 for deletion
+  Marking  781 for deletion
+  Marking  784 for deletion
+  Marking  785 for deletion
+  Marking  791 for deletion
+  Marking  793 for deletion
+  Marking  795 for deletion
+  Marking  796 for deletion
+  Marking  798 for deletion
+  Marking  799 for deletion
+  Marking  801 for deletion
+  Marking  803 for deletion
+  Marking  805 for deletion
+  Marking  806 for deletion
+  Marking  807 for deletion
+  Marking  809 for deletion
+  Marking  811 for deletion
+  Marking  812 for deletion
+  Marking  814 for deletion
+  Marking  816 for deletion
+  Marking  817 for deletion
+  Marking  819 for deletion
+  Marking  820 for deletion
+  Marking  825 for deletion
+  Marking  826 for deletion
+  Marking  827 for deletion
+  Marking  828 for deletion
+  Marking  829 for deletion
+  Marking  830 for deletion
+  Marking  831 for deletion
+  Marking  833 for deletion
+  Marking  835 for deletion
+  Marking  836 for deletion
+  Marking  840 for deletion
+  Marking  844 for deletion
+  Marking  848 for deletion
+  Marking  849 for deletion
+  Marking  850 for deletion
+  Marking  852 for deletion
+  Marking  853 for deletion
+  Marking  854 for deletion
+  Marking  855 for deletion
+  Marking  858 for deletion
+  Marking  859 for deletion
+  Marking  860 for deletion
+  Marking  861 for deletion
+  Marking  862 for deletion
+  Marking  863 for deletion
+  Marking  865 for deletion
+  Marking  866 for deletion
+  Marking  867 for deletion
+  Marking  870 for deletion
+  Marking  872 for deletion
+  Marking  873 for deletion
+  Marking  881 for deletion
+  Marking  885 for deletion
+  Marking  886 for deletion
+  Marking  887 for deletion
+  Marking  889 for deletion
+  Marking  890 for deletion
+  Marking  892 for deletion
+  Marking  894 for deletion
+  Marking  896 for deletion
+  Marking  899 for deletion
+  Marking  900 for deletion
+  Marking  901 for deletion
+  Marking  904 for deletion
+  Marking  906 for deletion
+  Marking  909 for deletion
+  Marking  911 for deletion
+  Marking  913 for deletion
+  Marking  914 for deletion
+  Marking  915 for deletion
+  Marking  916 for deletion
+  Marking  917 for deletion
+  Marking  920 for deletion
+  Marking  923 for deletion
+  Marking  927 for deletion
+  Marking  928 for deletion
+  Marking  931 for deletion
+  Marking  934 for deletion
+  Marking  937 for deletion
+  Marking  938 for deletion
+  Marking  941 for deletion
+  Marking  945 for deletion
+  Marking  948 for deletion
+  Marking  949 for deletion
+  Marking  950 for deletion
+  Marking  952 for deletion
+  Marking  953 for deletion
+  Marking  954 for deletion
+  Marking  955 for deletion
+  Marking  956 for deletion
+  Marking  959 for deletion
+  Marking  960 for deletion
+  Marking  964 for deletion
+  Marking  968 for deletion
+  Marking  970 for deletion
+  Marking  972 for deletion
+  Marking  973 for deletion
+  Marking  975 for deletion
+  Marking  977 for deletion
+  Marking  980 for deletion
+  Marking  982 for deletion
+  Marking  996 for deletion
+  Marking  997 for deletion
+  Marking  998 for deletion
+Marked 493 numbers for deletion.
+Deleting marked numbers...
+  Deleting number  998
+  Deleting number  997
+  Deleting number  996
+  Deleting number  982
+  Deleting number  980
+  Deleting number  977
+  Deleting number  975
+  Deleting number  973
+  Deleting number  972
+  Deleting number  970
+  Deleting number  968
+  Deleting number  964
+  Deleting number  960
+  Deleting number  959
+  Deleting number  956
+  Deleting number  955
+  Deleting number  954
+  Deleting number  953
+  Deleting number  952
+  Deleting number  950
+  Deleting number  949
+  Deleting number  948
+  Deleting number  945
+  Deleting number  941
+  Deleting number  938
+  Deleting number  937
+  Deleting number  934
+  Deleting number  931
+  Deleting number  928
+  Deleting number  927
+  Deleting number  923
+  Deleting number  920
+  Deleting number  917
+  Deleting number  916
+  Deleting number  915
+  Deleting number  914
+  Deleting number  913
+  Deleting number  911
+  Deleting number  909
+  Deleting number  906
+  Deleting number  904
+  Deleting number  901
+  Deleting number  900
+  Deleting number  899
+  Deleting number  896
+  Deleting number  894
+  Deleting number  892
+  Deleting number  890
+  Deleting number  889
+  Deleting number  887
+  Deleting number  886
+  Deleting number  885
+  Deleting number  881
+  Deleting number  873
+  Deleting number  872
+  Deleting number  870
+  Deleting number  867
+  Deleting number  866
+  Deleting number  865
+  Deleting number  863
+  Deleting number  862
+  Deleting number  861
+  Deleting number  860
+  Deleting number  859
+  Deleting number  858
+  Deleting number  855
+  Deleting number  854
+  Deleting number  853
+  Deleting number  852
+  Deleting number  850
+  Deleting number  849
+  Deleting number  848
+  Deleting number  844
+  Deleting number  840
+  Deleting number  836
+  Deleting number  835
+  Deleting number  833
+  Deleting number  831
+  Deleting number  830
+  Deleting number  829
+  Deleting number  828
+  Deleting number  827
+  Deleting number  826
+  Deleting number  825
+  Deleting number  820
+  Deleting number  819
+  Deleting number  817
+  Deleting number  816
+  Deleting number  814
+  Deleting number  812
+  Deleting number  811
+  Deleting number  809
+  Deleting number  807
+  Deleting number  806
+  Deleting number  805
+  Deleting number  803
+  Deleting number  801
+  Deleting number  799
+  Deleting number  798
+  Deleting number  796
+  Deleting number  795
+  Deleting number  793
+  Deleting number  791
+  Deleting number  785
+  Deleting number  784
+  Deleting number  781
+  Deleting number  780
+  Deleting number  779
+  Deleting number  778
+  Deleting number  777
+  Deleting number  776
+  Deleting number  775
+  Deleting number  766
+  Deleting number  765
+  Deleting number  764
+  Deleting number  762
+  Deleting number  761
+  Deleting number  759
+  Deleting number  755
+  Deleting number  753
+  Deleting number  752
+  Deleting number  751
+  Deleting number  750
+  Deleting number  749
+  Deleting number  748
+  Deleting number  747
+  Deleting number  745
+  Deleting number  744
+  Deleting number  739
+  Deleting number  738
+  Deleting number  737
+  Deleting number  735
+  Deleting number  734
+  Deleting number  733
+  Deleting number  731
+  Deleting number  729
+  Deleting number  728
+  Deleting number  727
+  Deleting number  723
+  Deleting number  722
+  Deleting number  721
+  Deleting number  720
+  Deleting number  719
+  Deleting number  718
+  Deleting number  716
+  Deleting number  714
+  Deleting number  712
+  Deleting number  711
+  Deleting number  710
+  Deleting number  709
+  Deleting number  706
+  Deleting number  705
+  Deleting number  703
+  Deleting number  702
+  Deleting number  701
+  Deleting number  700
+  Deleting number  699
+  Deleting number  695
+  Deleting number  694
+  Deleting number  692
+  Deleting number  689
+  Deleting number  688
+  Deleting number  687
+  Deleting number  685
+  Deleting number  684
+  Deleting number  682
+  Deleting number  677
+  Deleting number  676
+  Deleting number  675
+  Deleting number  673
+  Deleting number  670
+  Deleting number  669
+  Deleting number  668
+  Deleting number  667
+  Deleting number  666
+  Deleting number  662
+  Deleting number  659
+  Deleting number  657
+  Deleting number  656
+  Deleting number  655
+  Deleting number  653
+  Deleting number  651
+  Deleting number  650
+  Deleting number  649
+  Deleting number  647
+  Deleting number  645
+  Deleting number  642
+  Deleting number  641
+  Deleting number  638
+  Deleting number  637
+  Deleting number  634
+  Deleting number  632
+  Deleting number  631
+  Deleting number  630
+  Deleting number  627
+  Deleting number  625
+  Deleting number  621
+  Deleting number  618
+  Deleting number  617
+  Deleting number  612
+  Deleting number  610
+  Deleting number  609
+  Deleting number  608
+  Deleting number  607
+  Deleting number  606
+  Deleting number  598
+  Deleting number  594
+  Deleting number  593
+  Deleting number  591
+  Deleting number  585
+  Deleting number  582
+  Deleting number  581
+  Deleting number  580
+  Deleting number  575
+  Deleting number  572
+  Deleting number  568
+  Deleting number  567
+  Deleting number  566
+  Deleting number  565
+  Deleting number  562
+  Deleting number  560
+  Deleting number  559
+  Deleting number  558
+  Deleting number  557
+  Deleting number  556
+  Deleting number  555
+  Deleting number  553
+  Deleting number  551
+  Deleting number  550
+  Deleting number  549
+  Deleting number  548
+  Deleting number  547
+  Deleting number  546
+  Deleting number  544
+  Deleting number  543
+  Deleting number  542
+  Deleting number  540
+  Deleting number  534
+  Deleting number  533
+  Deleting number  532
+  Deleting number  530
+  Deleting number  529
+  Deleting number  526
+  Deleting number  525
+  Deleting number  524
+  Deleting number  522
+  Deleting number  520
+  Deleting number  519
+  Deleting number  514
+  Deleting number  509
+  Deleting number  508
+  Deleting number  506
+  Deleting number  504
+  Deleting number  503
+  Deleting number  497
+  Deleting number  496
+  Deleting number  493
+  Deleting number  491
+  Deleting number  490
+  Deleting number  489
+  Deleting number  488
+  Deleting number  487
+  Deleting number  485
+  Deleting number  484
+  Deleting number  483
+  Deleting number  482
+  Deleting number  481
+  Deleting number  479
+  Deleting number  478
+  Deleting number  475
+  Deleting number  473
+  Deleting number  472
+  Deleting number  469
+  Deleting number  468
+  Deleting number  466
+  Deleting number  465
+  Deleting number  464
+  Deleting number  460
+  Deleting number  459
+  Deleting number  458
+  Deleting number  456
+  Deleting number  455
+  Deleting number  453
+  Deleting number  451
+  Deleting number  448
+  Deleting number  446
+  Deleting number  444
+  Deleting number  441
+  Deleting number  440
+  Deleting number  439
+  Deleting number  437
+  Deleting number  436
+  Deleting number  434
+  Deleting number  432
+  Deleting number  427
+  Deleting number  425
+  Deleting number  423
+  Deleting number  422
+  Deleting number  421
+  Deleting number  420
+  Deleting number  419
+  Deleting number  417
+  Deleting number  416
+  Deleting number  415
+  Deleting number  414
+  Deleting number  413
+  Deleting number  410
+  Deleting number  408
+  Deleting number  406
+  Deleting number  404
+  Deleting number  402
+  Deleting number  401
+  Deleting number  396
+  Deleting number  395
+  Deleting number  389
+  Deleting number  387
+  Deleting number  382
+  Deleting number  381
+  Deleting number  380
+  Deleting number  377
+  Deleting number  373
+  Deleting number  371
+  Deleting number  369
+  Deleting number  367
+  Deleting number  366
+  Deleting number  363
+  Deleting number  359
+  Deleting number  358
+  Deleting number  357
+  Deleting number  356
+  Deleting number  355
+  Deleting number  354
+  Deleting number  351
+  Deleting number  348
+  Deleting number  347
+  Deleting number  340
+  Deleting number  339
+  Deleting number  338
+  Deleting number  336
+  Deleting number  331
+  Deleting number  330
+  Deleting number  329
+  Deleting number  328
+  Deleting number  327
+  Deleting number  326
+  Deleting number  323
+  Deleting number  319
+  Deleting number  318
+  Deleting number  313
+  Deleting number  311
+  Deleting number  307
+  Deleting number  304
+  Deleting number  301
+  Deleting number  295
+  Deleting number  292
+  Deleting number  291
+  Deleting number  281
+  Deleting number  278
+  Deleting number  277
+  Deleting number  276
+  Deleting number  275
+  Deleting number  269
+  Deleting number  266
+  Deleting number  265
+  Deleting number  263
+  Deleting number  261
+  Deleting number  260
+  Deleting number  255
+  Deleting number  254
+  Deleting number  253
+  Deleting number  250
+  Deleting number  245
+  Deleting number  244
+  Deleting number  240
+  Deleting number  239
+  Deleting number  237
+  Deleting number  234
+  Deleting number  232
+  Deleting number  231
+  Deleting number  228
+  Deleting number  227
+  Deleting number  226
+  Deleting number  225
+  Deleting number  222
+  Deleting number  218
+  Deleting number  216
+  Deleting number  215
+  Deleting number  214
+  Deleting number  210
+  Deleting number  209
+  Deleting number  208
+  Deleting number  207
+  Deleting number  206
+  Deleting number  204
+  Deleting number  201
+  Deleting number  200
+  Deleting number  197
+  Deleting number  195
+  Deleting number  194
+  Deleting number  193
+  Deleting number  192
+  Deleting number  189
+  Deleting number  186
+  Deleting number  183
+  Deleting number  181
+  Deleting number  180
+  Deleting number  178
+  Deleting number  174
+  Deleting number  173
+  Deleting number  172
+  Deleting number  171
+  Deleting number  170
+  Deleting number  165
+  Deleting number  164
+  Deleting number  159
+  Deleting number  158
+  Deleting number  156
+  Deleting number  152
+  Deleting number  151
+  Deleting number  149
+  Deleting number  145
+  Deleting number  138
+  Deleting number  135
+  Deleting number  134
+  Deleting number  133
+  Deleting number  132
+  Deleting number  131
+  Deleting number  129
+  Deleting number  127
+  Deleting number  125
+  Deleting number  124
+  Deleting number  122
+  Deleting number  118
+  Deleting number  114
+  Deleting number  113
+  Deleting number  110
+  Deleting number  109
+  Deleting number  108
+  Deleting number  106
+  Deleting number  104
+  Deleting number  103
+  Deleting number   99
+  Deleting number   97
+  Deleting number   91
+  Deleting number   90
+  Deleting number   88
+  Deleting number   87
+  Deleting number   86
+  Deleting number   85
+  Deleting number   83
+  Deleting number   82
+  Deleting number   75
+  Deleting number   73
+  Deleting number   69
+  Deleting number   68
+  Deleting number   65
+  Deleting number   58
+  Deleting number   57
+  Deleting number   56
+  Deleting number   53
+  Deleting number   52
+  Deleting number   48
+  Deleting number   47
+  Deleting number   46
+  Deleting number   43
+  Deleting number   42
+  Deleting number   41
+  Deleting number   39
+  Deleting number   38
+  Deleting number   37
+  Deleting number   36
+  Deleting number   35
+  Deleting number   33
+  Deleting number   31
+  Deleting number   27
+  Deleting number   26
+  Deleting number   25
+  Deleting number   24
+  Deleting number   23
+  Deleting number   22
+  Deleting number   21
+  Deleting number   19
+  Deleting number   18
+  Deleting number   16
+  Deleting number   13
+  Deleting number   12
+  Deleting number   11
+  Deleting number   10
+  Deleting number    8
+  Deleting number    6
+  Deleting number    4
+  Deleting number    3
+  Deleting number    0
+507 numbers remain.
+
+Counting numbers for bit  1
+     0 has a 1 at  1:   0 -->   0
+     2 has a 1 at  1:   1 -->   1
+     3 has a 1 at  1:   2 -->   2
+     4 has a 1 at  1:   3 -->   3
+     7 has a 1 at  1:   4 -->   4
+     8 has a 1 at  1:   5 -->   5
+     9 has a 1 at  1:   6 -->   6
+    11 has a 1 at  1:   7 -->   7
+    14 has a 1 at  1:   8 -->   8
+    15 has a 1 at  1:   9 -->   9
+    16 has a 1 at  1:  10 -->  10
+    18 has a 1 at  1:  11 -->  11
+    19 has a 1 at  1:  12 -->  12
+    21 has a 1 at  1:  13 -->  13
+    23 has a 1 at  1:  14 -->  14
+    30 has a 1 at  1:  15 -->  15
+    33 has a 1 at  1:  16 -->  16
+    34 has a 1 at  1:  17 -->  17
+    35 has a 1 at  1:  18 -->  18
+    36 has a 1 at  1:  19 -->  19
+    39 has a 1 at  1:  20 -->  20
+    40 has a 1 at  1:  21 -->  21
+    41 has a 1 at  1:  22 -->  22
+    44 has a 1 at  1:  23 -->  23
+    45 has a 1 at  1:  24 -->  24
+    47 has a 1 at  1:  25 -->  25
+    48 has a 1 at  1:  26 -->  26
+    54 has a 1 at  1:  27 -->  27
+    56 has a 1 at  1:  28 -->  28
+    57 has a 1 at  1:  29 -->  29
+    58 has a 1 at  1:  30 -->  30
+    59 has a 1 at  1:  31 -->  31
+    62 has a 1 at  1:  32 -->  32
+    64 has a 1 at  1:  33 -->  33
+    65 has a 1 at  1:  34 -->  34
+    68 has a 1 at  1:  35 -->  35
+    71 has a 1 at  1:  36 -->  36
+    72 has a 1 at  1:  37 -->  37
+    74 has a 1 at  1:  38 -->  38
+    75 has a 1 at  1:  39 -->  39
+    78 has a 1 at  1:  40 -->  40
+    79 has a 1 at  1:  41 -->  41
+    87 has a 1 at  1:  42 -->  42
+    88 has a 1 at  1:  43 -->  43
+    90 has a 1 at  1:  44 -->  44
+    91 has a 1 at  1:  45 -->  45
+    93 has a 1 at  1:  46 -->  46
+    94 has a 1 at  1:  47 -->  47
+    99 has a 1 at  1:  48 -->  48
+   100 has a 1 at  1:  49 -->  49
+   104 has a 1 at  1:  50 -->  50
+   105 has a 1 at  1:  51 -->  51
+   107 has a 1 at  1:  52 -->  52
+   108 has a 1 at  1:  53 -->  53
+   110 has a 1 at  1:  54 -->  54
+   111 has a 1 at  1:  55 -->  55
+   112 has a 1 at  1:  56 -->  56
+   114 has a 1 at  1:  57 -->  57
+   116 has a 1 at  1:  58 -->  58
+   117 has a 1 at  1:  59 -->  59
+   118 has a 1 at  1:  60 -->  60
+   120 has a 1 at  1:  61 -->  61
+   124 has a 1 at  1:  62 -->  62
+   125 has a 1 at  1:  63 -->  63
+   126 has a 1 at  1:  64 -->  64
+   127 has a 1 at  1:  65 -->  65
+   129 has a 1 at  1:  66 -->  66
+   131 has a 1 at  1:  67 -->  67
+   138 has a 1 at  1:  68 -->  68
+   139 has a 1 at  1:  69 -->  69
+   140 has a 1 at  1:  70 -->  70
+   143 has a 1 at  1:  71 -->  71
+   147 has a 1 at  1:  72 -->  72
+   150 has a 1 at  1:  73 -->  73
+   154 has a 1 at  1:  74 -->  74
+   155 has a 1 at  1:  75 -->  75
+   156 has a 1 at  1:  76 -->  76
+   157 has a 1 at  1:  77 -->  77
+   158 has a 1 at  1:  78 -->  78
+   159 has a 1 at  1:  79 -->  79
+   163 has a 1 at  1:  80 -->  80
+   164 has a 1 at  1:  81 -->  81
+   171 has a 1 at  1:  82 -->  82
+   172 has a 1 at  1:  83 -->  83
+   173 has a 1 at  1:  84 -->  84
+   175 has a 1 at  1:  85 -->  85
+   176 has a 1 at  1:  86 -->  86
+   181 has a 1 at  1:  87 -->  87
+   183 has a 1 at  1:  88 -->  88
+   186 has a 1 at  1:  89 -->  89
+   187 has a 1 at  1:  90 -->  90
+   189 has a 1 at  1:  91 -->  91
+   190 has a 1 at  1:  92 -->  92
+   193 has a 1 at  1:  93 -->  93
+   195 has a 1 at  1:  94 -->  94
+   196 has a 1 at  1:  95 -->  95
+   197 has a 1 at  1:  96 -->  96
+   198 has a 1 at  1:  97 -->  97
+   200 has a 1 at  1:  98 -->  98
+   201 has a 1 at  1:  99 -->  99
+   206 has a 1 at  1: 100 --> 100
+   207 has a 1 at  1: 101 --> 101
+   210 has a 1 at  1: 102 --> 102
+   211 has a 1 at  1: 103 --> 103
+   213 has a 1 at  1: 104 --> 104
+   214 has a 1 at  1: 105 --> 105
+   215 has a 1 at  1: 106 --> 106
+   216 has a 1 at  1: 107 --> 107
+   217 has a 1 at  1: 108 --> 108
+   218 has a 1 at  1: 109 --> 109
+   219 has a 1 at  1: 110 --> 110
+   221 has a 1 at  1: 111 --> 111
+   224 has a 1 at  1: 112 --> 112
+   225 has a 1 at  1: 113 --> 113
+   226 has a 1 at  1: 114 --> 114
+   230 has a 1 at  1: 115 --> 115
+   232 has a 1 at  1: 116 --> 116
+   235 has a 1 at  1: 117 --> 117
+   239 has a 1 at  1: 118 --> 118
+   240 has a 1 at  1: 119 --> 119
+   243 has a 1 at  1: 120 --> 120
+   248 has a 1 at  1: 121 --> 121
+   249 has a 1 at  1: 122 --> 122
+   250 has a 1 at  1: 123 --> 123
+   251 has a 1 at  1: 124 --> 124
+   252 has a 1 at  1: 125 --> 125
+   254 has a 1 at  1: 126 --> 126
+   255 has a 1 at  1: 127 --> 127
+   257 has a 1 at  1: 128 --> 128
+   258 has a 1 at  1: 129 --> 129
+   260 has a 1 at  1: 130 --> 130
+   261 has a 1 at  1: 131 --> 131
+   262 has a 1 at  1: 132 --> 132
+   265 has a 1 at  1: 133 --> 133
+   266 has a 1 at  1: 134 --> 134
+   268 has a 1 at  1: 135 --> 135
+   270 has a 1 at  1: 136 --> 136
+   271 has a 1 at  1: 137 --> 137
+   273 has a 1 at  1: 138 --> 138
+   274 has a 1 at  1: 139 --> 139
+   275 has a 1 at  1: 140 --> 140
+   278 has a 1 at  1: 141 --> 141
+   283 has a 1 at  1: 142 --> 142
+   284 has a 1 at  1: 143 --> 143
+   285 has a 1 at  1: 144 --> 144
+   287 has a 1 at  1: 145 --> 145
+   288 has a 1 at  1: 146 --> 146
+   291 has a 1 at  1: 147 --> 147
+   294 has a 1 at  1: 148 --> 148
+   300 has a 1 at  1: 149 --> 149
+   303 has a 1 at  1: 150 --> 150
+   304 has a 1 at  1: 151 --> 151
+   305 has a 1 at  1: 152 --> 152
+   306 has a 1 at  1: 153 --> 153
+   307 has a 1 at  1: 154 --> 154
+   309 has a 1 at  1: 155 --> 155
+   311 has a 1 at  1: 156 --> 156
+   312 has a 1 at  1: 157 --> 157
+   317 has a 1 at  1: 158 --> 158
+   318 has a 1 at  1: 159 --> 159
+   320 has a 1 at  1: 160 --> 160
+   324 has a 1 at  1: 161 --> 161
+   325 has a 1 at  1: 162 --> 162
+   326 has a 1 at  1: 163 --> 163
+   330 has a 1 at  1: 164 --> 164
+   331 has a 1 at  1: 165 --> 165
+   334 has a 1 at  1: 166 --> 166
+   335 has a 1 at  1: 167 --> 167
+   337 has a 1 at  1: 168 --> 168
+   338 has a 1 at  1: 169 --> 169
+   340 has a 1 at  1: 170 --> 170
+   341 has a 1 at  1: 171 --> 171
+   342 has a 1 at  1: 172 --> 172
+   344 has a 1 at  1: 173 --> 173
+   349 has a 1 at  1: 174 --> 174
+   350 has a 1 at  1: 175 --> 175
+   351 has a 1 at  1: 176 --> 176
+   353 has a 1 at  1: 177 --> 177
+   355 has a 1 at  1: 178 --> 178
+   356 has a 1 at  1: 179 --> 179
+   358 has a 1 at  1: 180 --> 180
+   362 has a 1 at  1: 181 --> 181
+   363 has a 1 at  1: 182 --> 182
+   364 has a 1 at  1: 183 --> 183
+   365 has a 1 at  1: 184 --> 184
+   367 has a 1 at  1: 185 --> 185
+   368 has a 1 at  1: 186 --> 186
+   369 has a 1 at  1: 187 --> 187
+   370 has a 1 at  1: 188 --> 188
+   371 has a 1 at  1: 189 --> 189
+   373 has a 1 at  1: 190 --> 190
+   374 has a 1 at  1: 191 --> 191
+   376 has a 1 at  1: 192 --> 192
+   377 has a 1 at  1: 193 --> 193
+   378 has a 1 at  1: 194 --> 194
+   380 has a 1 at  1: 195 --> 195
+   381 has a 1 at  1: 196 --> 196
+   387 has a 1 at  1: 197 --> 197
+   388 has a 1 at  1: 198 --> 198
+   389 has a 1 at  1: 199 --> 199
+   392 has a 1 at  1: 200 --> 200
+   393 has a 1 at  1: 201 --> 201
+   394 has a 1 at  1: 202 --> 202
+   396 has a 1 at  1: 203 --> 203
+   399 has a 1 at  1: 204 --> 204
+   401 has a 1 at  1: 205 --> 205
+   403 has a 1 at  1: 206 --> 206
+   404 has a 1 at  1: 207 --> 207
+   406 has a 1 at  1: 208 --> 208
+   408 has a 1 at  1: 209 --> 209
+   410 has a 1 at  1: 210 --> 210
+   413 has a 1 at  1: 211 --> 211
+   415 has a 1 at  1: 212 --> 212
+   416 has a 1 at  1: 213 --> 213
+   417 has a 1 at  1: 214 --> 214
+   418 has a 1 at  1: 215 --> 215
+   419 has a 1 at  1: 216 --> 216
+   420 has a 1 at  1: 217 --> 217
+   421 has a 1 at  1: 218 --> 218
+   422 has a 1 at  1: 219 --> 219
+   424 has a 1 at  1: 220 --> 220
+   428 has a 1 at  1: 221 --> 221
+   431 has a 1 at  1: 222 --> 222
+   434 has a 1 at  1: 223 --> 223
+   435 has a 1 at  1: 224 --> 224
+   436 has a 1 at  1: 225 --> 225
+   438 has a 1 at  1: 226 --> 226
+   446 has a 1 at  1: 227 --> 227
+   447 has a 1 at  1: 228 --> 228
+   449 has a 1 at  1: 229 --> 229
+   452 has a 1 at  1: 230 --> 230
+   453 has a 1 at  1: 231 --> 231
+   454 has a 1 at  1: 232 --> 232
+   457 has a 1 at  1: 233 --> 233
+   458 has a 1 at  1: 234 --> 234
+   461 has a 1 at  1: 235 --> 235
+   467 has a 1 at  1: 236 --> 236
+   468 has a 1 at  1: 237 --> 237
+   469 has a 1 at  1: 238 --> 238
+   470 has a 1 at  1: 239 --> 239
+   472 has a 1 at  1: 240 --> 240
+   473 has a 1 at  1: 241 --> 241
+   474 has a 1 at  1: 242 --> 242
+   478 has a 1 at  1: 243 --> 243
+   480 has a 1 at  1: 244 --> 244
+   482 has a 1 at  1: 245 --> 245
+   484 has a 1 at  1: 246 --> 246
+   486 has a 1 at  1: 247 --> 247
+   487 has a 1 at  1: 248 --> 248
+   488 has a 1 at  1: 249 --> 249
+   490 has a 1 at  1: 250 --> 250
+   493 has a 1 at  1: 251 --> 251
+   494 has a 1 at  1: 252 --> 252
+   495 has a 1 at  1: 253 --> 253
+   496 has a 1 at  1: 254 --> 254
+   498 has a 1 at  1: 255 --> 255
+   499 has a 1 at  1: 256 --> 256
+   500 has a 1 at  1: 257 --> 257
+   503 has a 1 at  1: 258 --> 258
+   504 has a 1 at  1: 259 --> 259
+   505 has a 1 at  1: 260 --> 260
+   506 has a 1 at  1: 261 --> 261
+Bit  1 was set 262 times.
+Marking 1s for deletion: False
+  Marking    1 for deletion
+  Marking    5 for deletion
+  Marking    6 for deletion
+  Marking   10 for deletion
+  Marking   12 for deletion
+  Marking   13 for deletion
+  Marking   17 for deletion
+  Marking   20 for deletion
+  Marking   22 for deletion
+  Marking   24 for deletion
+  Marking   25 for deletion
+  Marking   26 for deletion
+  Marking   27 for deletion
+  Marking   28 for deletion
+  Marking   29 for deletion
+  Marking   31 for deletion
+  Marking   32 for deletion
+  Marking   37 for deletion
+  Marking   38 for deletion
+  Marking   42 for deletion
+  Marking   43 for deletion
+  Marking   46 for deletion
+  Marking   49 for deletion
+  Marking   50 for deletion
+  Marking   51 for deletion
+  Marking   52 for deletion
+  Marking   53 for deletion
+  Marking   55 for deletion
+  Marking   60 for deletion
+  Marking   61 for deletion
+  Marking   63 for deletion
+  Marking   66 for deletion
+  Marking   67 for deletion
+  Marking   69 for deletion
+  Marking   70 for deletion
+  Marking   73 for deletion
+  Marking   76 for deletion
+  Marking   77 for deletion
+  Marking   80 for deletion
+  Marking   81 for deletion
+  Marking   82 for deletion
+  Marking   83 for deletion
+  Marking   84 for deletion
+  Marking   85 for deletion
+  Marking   86 for deletion
+  Marking   89 for deletion
+  Marking   92 for deletion
+  Marking   95 for deletion
+  Marking   96 for deletion
+  Marking   97 for deletion
+  Marking   98 for deletion
+  Marking  101 for deletion
+  Marking  102 for deletion
+  Marking  103 for deletion
+  Marking  106 for deletion
+  Marking  109 for deletion
+  Marking  113 for deletion
+  Marking  115 for deletion
+  Marking  119 for deletion
+  Marking  121 for deletion
+  Marking  122 for deletion
+  Marking  123 for deletion
+  Marking  128 for deletion
+  Marking  130 for deletion
+  Marking  132 for deletion
+  Marking  133 for deletion
+  Marking  134 for deletion
+  Marking  135 for deletion
+  Marking  136 for deletion
+  Marking  137 for deletion
+  Marking  141 for deletion
+  Marking  142 for deletion
+  Marking  144 for deletion
+  Marking  145 for deletion
+  Marking  146 for deletion
+  Marking  148 for deletion
+  Marking  149 for deletion
+  Marking  151 for deletion
+  Marking  152 for deletion
+  Marking  153 for deletion
+  Marking  160 for deletion
+  Marking  161 for deletion
+  Marking  162 for deletion
+  Marking  165 for deletion
+  Marking  166 for deletion
+  Marking  167 for deletion
+  Marking  168 for deletion
+  Marking  169 for deletion
+  Marking  170 for deletion
+  Marking  174 for deletion
+  Marking  177 for deletion
+  Marking  178 for deletion
+  Marking  179 for deletion
+  Marking  180 for deletion
+  Marking  182 for deletion
+  Marking  184 for deletion
+  Marking  185 for deletion
+  Marking  188 for deletion
+  Marking  191 for deletion
+  Marking  192 for deletion
+  Marking  194 for deletion
+  Marking  199 for deletion
+  Marking  202 for deletion
+  Marking  203 for deletion
+  Marking  204 for deletion
+  Marking  205 for deletion
+  Marking  208 for deletion
+  Marking  209 for deletion
+  Marking  212 for deletion
+  Marking  220 for deletion
+  Marking  222 for deletion
+  Marking  223 for deletion
+  Marking  227 for deletion
+  Marking  228 for deletion
+  Marking  229 for deletion
+  Marking  231 for deletion
+  Marking  233 for deletion
+  Marking  234 for deletion
+  Marking  236 for deletion
+  Marking  237 for deletion
+  Marking  238 for deletion
+  Marking  241 for deletion
+  Marking  242 for deletion
+  Marking  244 for deletion
+  Marking  245 for deletion
+  Marking  246 for deletion
+  Marking  247 for deletion
+  Marking  253 for deletion
+  Marking  256 for deletion
+  Marking  259 for deletion
+  Marking  263 for deletion
+  Marking  264 for deletion
+  Marking  267 for deletion
+  Marking  269 for deletion
+  Marking  272 for deletion
+  Marking  276 for deletion
+  Marking  277 for deletion
+  Marking  279 for deletion
+  Marking  280 for deletion
+  Marking  281 for deletion
+  Marking  282 for deletion
+  Marking  286 for deletion
+  Marking  289 for deletion
+  Marking  290 for deletion
+  Marking  292 for deletion
+  Marking  293 for deletion
+  Marking  295 for deletion
+  Marking  296 for deletion
+  Marking  297 for deletion
+  Marking  298 for deletion
+  Marking  299 for deletion
+  Marking  301 for deletion
+  Marking  302 for deletion
+  Marking  308 for deletion
+  Marking  310 for deletion
+  Marking  313 for deletion
+  Marking  314 for deletion
+  Marking  315 for deletion
+  Marking  316 for deletion
+  Marking  319 for deletion
+  Marking  321 for deletion
+  Marking  322 for deletion
+  Marking  323 for deletion
+  Marking  327 for deletion
+  Marking  328 for deletion
+  Marking  329 for deletion
+  Marking  332 for deletion
+  Marking  333 for deletion
+  Marking  336 for deletion
+  Marking  339 for deletion
+  Marking  343 for deletion
+  Marking  345 for deletion
+  Marking  346 for deletion
+  Marking  347 for deletion
+  Marking  348 for deletion
+  Marking  352 for deletion
+  Marking  354 for deletion
+  Marking  357 for deletion
+  Marking  359 for deletion
+  Marking  360 for deletion
+  Marking  361 for deletion
+  Marking  366 for deletion
+  Marking  372 for deletion
+  Marking  375 for deletion
+  Marking  379 for deletion
+  Marking  382 for deletion
+  Marking  383 for deletion
+  Marking  384 for deletion
+  Marking  385 for deletion
+  Marking  386 for deletion
+  Marking  390 for deletion
+  Marking  391 for deletion
+  Marking  395 for deletion
+  Marking  397 for deletion
+  Marking  398 for deletion
+  Marking  400 for deletion
+  Marking  402 for deletion
+  Marking  405 for deletion
+  Marking  407 for deletion
+  Marking  409 for deletion
+  Marking  411 for deletion
+  Marking  412 for deletion
+  Marking  414 for deletion
+  Marking  423 for deletion
+  Marking  425 for deletion
+  Marking  426 for deletion
+  Marking  427 for deletion
+  Marking  429 for deletion
+  Marking  430 for deletion
+  Marking  432 for deletion
+  Marking  433 for deletion
+  Marking  437 for deletion
+  Marking  439 for deletion
+  Marking  440 for deletion
+  Marking  441 for deletion
+  Marking  442 for deletion
+  Marking  443 for deletion
+  Marking  444 for deletion
+  Marking  445 for deletion
+  Marking  448 for deletion
+  Marking  450 for deletion
+  Marking  451 for deletion
+  Marking  455 for deletion
+  Marking  456 for deletion
+  Marking  459 for deletion
+  Marking  460 for deletion
+  Marking  462 for deletion
+  Marking  463 for deletion
+  Marking  464 for deletion
+  Marking  465 for deletion
+  Marking  466 for deletion
+  Marking  471 for deletion
+  Marking  475 for deletion
+  Marking  476 for deletion
+  Marking  477 for deletion
+  Marking  479 for deletion
+  Marking  481 for deletion
+  Marking  483 for deletion
+  Marking  485 for deletion
+  Marking  489 for deletion
+  Marking  491 for deletion
+  Marking  492 for deletion
+  Marking  497 for deletion
+  Marking  501 for deletion
+  Marking  502 for deletion
+Marked 245 numbers for deletion.
+Deleting marked numbers...
+  Deleting number  502
+  Deleting number  501
+  Deleting number  497
+  Deleting number  492
+  Deleting number  491
+  Deleting number  489
+  Deleting number  485
+  Deleting number  483
+  Deleting number  481
+  Deleting number  479
+  Deleting number  477
+  Deleting number  476
+  Deleting number  475
+  Deleting number  471
+  Deleting number  466
+  Deleting number  465
+  Deleting number  464
+  Deleting number  463
+  Deleting number  462
+  Deleting number  460
+  Deleting number  459
+  Deleting number  456
+  Deleting number  455
+  Deleting number  451
+  Deleting number  450
+  Deleting number  448
+  Deleting number  445
+  Deleting number  444
+  Deleting number  443
+  Deleting number  442
+  Deleting number  441
+  Deleting number  440
+  Deleting number  439
+  Deleting number  437
+  Deleting number  433
+  Deleting number  432
+  Deleting number  430
+  Deleting number  429
+  Deleting number  427
+  Deleting number  426
+  Deleting number  425
+  Deleting number  423
+  Deleting number  414
+  Deleting number  412
+  Deleting number  411
+  Deleting number  409
+  Deleting number  407
+  Deleting number  405
+  Deleting number  402
+  Deleting number  400
+  Deleting number  398
+  Deleting number  397
+  Deleting number  395
+  Deleting number  391
+  Deleting number  390
+  Deleting number  386
+  Deleting number  385
+  Deleting number  384
+  Deleting number  383
+  Deleting number  382
+  Deleting number  379
+  Deleting number  375
+  Deleting number  372
+  Deleting number  366
+  Deleting number  361
+  Deleting number  360
+  Deleting number  359
+  Deleting number  357
+  Deleting number  354
+  Deleting number  352
+  Deleting number  348
+  Deleting number  347
+  Deleting number  346
+  Deleting number  345
+  Deleting number  343
+  Deleting number  339
+  Deleting number  336
+  Deleting number  333
+  Deleting number  332
+  Deleting number  329
+  Deleting number  328
+  Deleting number  327
+  Deleting number  323
+  Deleting number  322
+  Deleting number  321
+  Deleting number  319
+  Deleting number  316
+  Deleting number  315
+  Deleting number  314
+  Deleting number  313
+  Deleting number  310
+  Deleting number  308
+  Deleting number  302
+  Deleting number  301
+  Deleting number  299
+  Deleting number  298
+  Deleting number  297
+  Deleting number  296
+  Deleting number  295
+  Deleting number  293
+  Deleting number  292
+  Deleting number  290
+  Deleting number  289
+  Deleting number  286
+  Deleting number  282
+  Deleting number  281
+  Deleting number  280
+  Deleting number  279
+  Deleting number  277
+  Deleting number  276
+  Deleting number  272
+  Deleting number  269
+  Deleting number  267
+  Deleting number  264
+  Deleting number  263
+  Deleting number  259
+  Deleting number  256
+  Deleting number  253
+  Deleting number  247
+  Deleting number  246
+  Deleting number  245
+  Deleting number  244
+  Deleting number  242
+  Deleting number  241
+  Deleting number  238
+  Deleting number  237
+  Deleting number  236
+  Deleting number  234
+  Deleting number  233
+  Deleting number  231
+  Deleting number  229
+  Deleting number  228
+  Deleting number  227
+  Deleting number  223
+  Deleting number  222
+  Deleting number  220
+  Deleting number  212
+  Deleting number  209
+  Deleting number  208
+  Deleting number  205
+  Deleting number  204
+  Deleting number  203
+  Deleting number  202
+  Deleting number  199
+  Deleting number  194
+  Deleting number  192
+  Deleting number  191
+  Deleting number  188
+  Deleting number  185
+  Deleting number  184
+  Deleting number  182
+  Deleting number  180
+  Deleting number  179
+  Deleting number  178
+  Deleting number  177
+  Deleting number  174
+  Deleting number  170
+  Deleting number  169
+  Deleting number  168
+  Deleting number  167
+  Deleting number  166
+  Deleting number  165
+  Deleting number  162
+  Deleting number  161
+  Deleting number  160
+  Deleting number  153
+  Deleting number  152
+  Deleting number  151
+  Deleting number  149
+  Deleting number  148
+  Deleting number  146
+  Deleting number  145
+  Deleting number  144
+  Deleting number  142
+  Deleting number  141
+  Deleting number  137
+  Deleting number  136
+  Deleting number  135
+  Deleting number  134
+  Deleting number  133
+  Deleting number  132
+  Deleting number  130
+  Deleting number  128
+  Deleting number  123
+  Deleting number  122
+  Deleting number  121
+  Deleting number  119
+  Deleting number  115
+  Deleting number  113
+  Deleting number  109
+  Deleting number  106
+  Deleting number  103
+  Deleting number  102
+  Deleting number  101
+  Deleting number   98
+  Deleting number   97
+  Deleting number   96
+  Deleting number   95
+  Deleting number   92
+  Deleting number   89
+  Deleting number   86
+  Deleting number   85
+  Deleting number   84
+  Deleting number   83
+  Deleting number   82
+  Deleting number   81
+  Deleting number   80
+  Deleting number   77
+  Deleting number   76
+  Deleting number   73
+  Deleting number   70
+  Deleting number   69
+  Deleting number   67
+  Deleting number   66
+  Deleting number   63
+  Deleting number   61
+  Deleting number   60
+  Deleting number   55
+  Deleting number   53
+  Deleting number   52
+  Deleting number   51
+  Deleting number   50
+  Deleting number   49
+  Deleting number   46
+  Deleting number   43
+  Deleting number   42
+  Deleting number   38
+  Deleting number   37
+  Deleting number   32
+  Deleting number   31
+  Deleting number   29
+  Deleting number   28
+  Deleting number   27
+  Deleting number   26
+  Deleting number   25
+  Deleting number   24
+  Deleting number   22
+  Deleting number   20
+  Deleting number   17
+  Deleting number   13
+  Deleting number   12
+  Deleting number   10
+  Deleting number    6
+  Deleting number    5
+  Deleting number    1
+262 numbers remain.
+
+Counting numbers for bit  2
+     0 has a 1 at  2:   0 -->   0
+     5 has a 1 at  2:   1 -->   1
+    11 has a 1 at  2:   2 -->   2
+    13 has a 1 at  2:   3 -->   3
+    14 has a 1 at  2:   4 -->   4
+    15 has a 1 at  2:   5 -->   5
+    18 has a 1 at  2:   6 -->   6
+    19 has a 1 at  2:   7 -->   7
+    27 has a 1 at  2:   8 -->   8
+    30 has a 1 at  2:   9 -->   9
+    31 has a 1 at  2:  10 -->  10
+    33 has a 1 at  2:  11 -->  11
+    34 has a 1 at  2:  12 -->  12
+    35 has a 1 at  2:  13 -->  13
+    37 has a 1 at  2:  14 -->  14
+    39 has a 1 at  2:  15 -->  15
+    40 has a 1 at  2:  16 -->  16
+    41 has a 1 at  2:  17 -->  17
+    42 has a 1 at  2:  18 -->  18
+    43 has a 1 at  2:  19 -->  19
+    47 has a 1 at  2:  20 -->  20
+    48 has a 1 at  2:  21 -->  21
+    49 has a 1 at  2:  22 -->  22
+    51 has a 1 at  2:  23 -->  23
+    54 has a 1 at  2:  24 -->  24
+    55 has a 1 at  2:  25 -->  25
+    58 has a 1 at  2:  26 -->  26
+    61 has a 1 at  2:  27 -->  27
+    62 has a 1 at  2:  28 -->  28
+    68 has a 1 at  2:  29 -->  29
+    72 has a 1 at  2:  30 -->  30
+    73 has a 1 at  2:  31 -->  31
+    75 has a 1 at  2:  32 -->  32
+    76 has a 1 at  2:  33 -->  33
+    77 has a 1 at  2:  34 -->  34
+    79 has a 1 at  2:  35 -->  35
+    82 has a 1 at  2:  36 -->  36
+    83 has a 1 at  2:  37 -->  37
+    84 has a 1 at  2:  38 -->  38
+    85 has a 1 at  2:  39 -->  39
+    87 has a 1 at  2:  40 -->  40
+    88 has a 1 at  2:  41 -->  41
+    89 has a 1 at  2:  42 -->  42
+    90 has a 1 at  2:  43 -->  43
+    92 has a 1 at  2:  44 -->  44
+    93 has a 1 at  2:  45 -->  45
+    96 has a 1 at  2:  46 -->  46
+    97 has a 1 at  2:  47 -->  47
+    98 has a 1 at  2:  48 -->  48
+   100 has a 1 at  2:  49 -->  49
+   102 has a 1 at  2:  50 -->  50
+   103 has a 1 at  2:  51 -->  51
+   104 has a 1 at  2:  52 -->  52
+   108 has a 1 at  2:  53 -->  53
+   110 has a 1 at  2:  54 -->  54
+   117 has a 1 at  2:  55 -->  55
+   118 has a 1 at  2:  56 -->  56
+   124 has a 1 at  2:  57 -->  57
+   125 has a 1 at  2:  58 -->  58
+   126 has a 1 at  2:  59 -->  59
+   128 has a 1 at  2:  60 -->  60
+   129 has a 1 at  2:  61 -->  61
+   130 has a 1 at  2:  62 -->  62
+   131 has a 1 at  2:  63 -->  63
+   133 has a 1 at  2:  64 -->  64
+   135 has a 1 at  2:  65 -->  65
+   136 has a 1 at  2:  66 -->  66
+   137 has a 1 at  2:  67 -->  67
+   139 has a 1 at  2:  68 -->  68
+   141 has a 1 at  2:  69 -->  69
+   142 has a 1 at  2:  70 -->  70
+   145 has a 1 at  2:  71 -->  71
+   146 has a 1 at  2:  72 -->  72
+   153 has a 1 at  2:  73 -->  73
+   154 has a 1 at  2:  74 -->  74
+   156 has a 1 at  2:  75 -->  75
+   158 has a 1 at  2:  76 -->  76
+   160 has a 1 at  2:  77 -->  77
+   162 has a 1 at  2:  78 -->  78
+   166 has a 1 at  2:  79 -->  79
+   167 has a 1 at  2:  80 -->  80
+   169 has a 1 at  2:  81 -->  81
+   174 has a 1 at  2:  82 -->  82
+   175 has a 1 at  2:  83 -->  83
+   176 has a 1 at  2:  84 -->  84
+   177 has a 1 at  2:  85 -->  85
+   178 has a 1 at  2:  86 -->  86
+   180 has a 1 at  2:  87 -->  87
+   181 has a 1 at  2:  88 -->  88
+   182 has a 1 at  2:  89 -->  89
+   184 has a 1 at  2:  90 -->  90
+   191 has a 1 at  2:  91 -->  91
+   194 has a 1 at  2:  92 -->  92
+   196 has a 1 at  2:  93 -->  93
+   198 has a 1 at  2:  94 -->  94
+   200 has a 1 at  2:  95 -->  95
+   201 has a 1 at  2:  96 -->  96
+   202 has a 1 at  2:  97 -->  97
+   205 has a 1 at  2:  98 -->  98
+   206 has a 1 at  2:  99 -->  99
+   208 has a 1 at  2: 100 --> 100
+   209 has a 1 at  2: 101 --> 101
+   210 has a 1 at  2: 102 --> 102
+   212 has a 1 at  2: 103 --> 103
+   213 has a 1 at  2: 104 --> 104
+   214 has a 1 at  2: 105 --> 105
+   215 has a 1 at  2: 106 --> 106
+   216 has a 1 at  2: 107 --> 107
+   220 has a 1 at  2: 108 --> 108
+   221 has a 1 at  2: 109 --> 109
+   223 has a 1 at  2: 110 --> 110
+   226 has a 1 at  2: 111 --> 111
+   227 has a 1 at  2: 112 --> 112
+   231 has a 1 at  2: 113 --> 113
+   232 has a 1 at  2: 114 --> 114
+   233 has a 1 at  2: 115 --> 115
+   239 has a 1 at  2: 116 --> 116
+   241 has a 1 at  2: 117 --> 117
+   242 has a 1 at  2: 118 --> 118
+   244 has a 1 at  2: 119 --> 119
+   245 has a 1 at  2: 120 --> 120
+   248 has a 1 at  2: 121 --> 121
+   249 has a 1 at  2: 122 --> 122
+   250 has a 1 at  2: 123 --> 123
+   251 has a 1 at  2: 124 --> 124
+   252 has a 1 at  2: 125 --> 125
+   253 has a 1 at  2: 126 --> 126
+   255 has a 1 at  2: 127 --> 127
+   256 has a 1 at  2: 128 --> 128
+   258 has a 1 at  2: 129 --> 129
+   259 has a 1 at  2: 130 --> 130
+   260 has a 1 at  2: 131 --> 131
+   261 has a 1 at  2: 132 --> 132
+Bit  2 was set 133 times.
+Marking 1s for deletion: False
+  Marking    1 for deletion
+  Marking    2 for deletion
+  Marking    3 for deletion
+  Marking    4 for deletion
+  Marking    6 for deletion
+  Marking    7 for deletion
+  Marking    8 for deletion
+  Marking    9 for deletion
+  Marking   10 for deletion
+  Marking   12 for deletion
+  Marking   16 for deletion
+  Marking   17 for deletion
+  Marking   20 for deletion
+  Marking   21 for deletion
+  Marking   22 for deletion
+  Marking   23 for deletion
+  Marking   24 for deletion
+  Marking   25 for deletion
+  Marking   26 for deletion
+  Marking   28 for deletion
+  Marking   29 for deletion
+  Marking   32 for deletion
+  Marking   36 for deletion
+  Marking   38 for deletion
+  Marking   44 for deletion
+  Marking   45 for deletion
+  Marking   46 for deletion
+  Marking   50 for deletion
+  Marking   52 for deletion
+  Marking   53 for deletion
+  Marking   56 for deletion
+  Marking   57 for deletion
+  Marking   59 for deletion
+  Marking   60 for deletion
+  Marking   63 for deletion
+  Marking   64 for deletion
+  Marking   65 for deletion
+  Marking   66 for deletion
+  Marking   67 for deletion
+  Marking   69 for deletion
+  Marking   70 for deletion
+  Marking   71 for deletion
+  Marking   74 for deletion
+  Marking   78 for deletion
+  Marking   80 for deletion
+  Marking   81 for deletion
+  Marking   86 for deletion
+  Marking   91 for deletion
+  Marking   94 for deletion
+  Marking   95 for deletion
+  Marking   99 for deletion
+  Marking  101 for deletion
+  Marking  105 for deletion
+  Marking  106 for deletion
+  Marking  107 for deletion
+  Marking  109 for deletion
+  Marking  111 for deletion
+  Marking  112 for deletion
+  Marking  113 for deletion
+  Marking  114 for deletion
+  Marking  115 for deletion
+  Marking  116 for deletion
+  Marking  119 for deletion
+  Marking  120 for deletion
+  Marking  121 for deletion
+  Marking  122 for deletion
+  Marking  123 for deletion
+  Marking  127 for deletion
+  Marking  132 for deletion
+  Marking  134 for deletion
+  Marking  138 for deletion
+  Marking  140 for deletion
+  Marking  143 for deletion
+  Marking  144 for deletion
+  Marking  147 for deletion
+  Marking  148 for deletion
+  Marking  149 for deletion
+  Marking  150 for deletion
+  Marking  151 for deletion
+  Marking  152 for deletion
+  Marking  155 for deletion
+  Marking  157 for deletion
+  Marking  159 for deletion
+  Marking  161 for deletion
+  Marking  163 for deletion
+  Marking  164 for deletion
+  Marking  165 for deletion
+  Marking  168 for deletion
+  Marking  170 for deletion
+  Marking  171 for deletion
+  Marking  172 for deletion
+  Marking  173 for deletion
+  Marking  179 for deletion
+  Marking  183 for deletion
+  Marking  185 for deletion
+  Marking  186 for deletion
+  Marking  187 for deletion
+  Marking  188 for deletion
+  Marking  189 for deletion
+  Marking  190 for deletion
+  Marking  192 for deletion
+  Marking  193 for deletion
+  Marking  195 for deletion
+  Marking  197 for deletion
+  Marking  199 for deletion
+  Marking  203 for deletion
+  Marking  204 for deletion
+  Marking  207 for deletion
+  Marking  211 for deletion
+  Marking  217 for deletion
+  Marking  218 for deletion
+  Marking  219 for deletion
+  Marking  222 for deletion
+  Marking  224 for deletion
+  Marking  225 for deletion
+  Marking  228 for deletion
+  Marking  229 for deletion
+  Marking  230 for deletion
+  Marking  234 for deletion
+  Marking  235 for deletion
+  Marking  236 for deletion
+  Marking  237 for deletion
+  Marking  238 for deletion
+  Marking  240 for deletion
+  Marking  243 for deletion
+  Marking  246 for deletion
+  Marking  247 for deletion
+  Marking  254 for deletion
+  Marking  257 for deletion
+Marked 129 numbers for deletion.
+Deleting marked numbers...
+  Deleting number  257
+  Deleting number  254
+  Deleting number  247
+  Deleting number  246
+  Deleting number  243
+  Deleting number  240
+  Deleting number  238
+  Deleting number  237
+  Deleting number  236
+  Deleting number  235
+  Deleting number  234
+  Deleting number  230
+  Deleting number  229
+  Deleting number  228
+  Deleting number  225
+  Deleting number  224
+  Deleting number  222
+  Deleting number  219
+  Deleting number  218
+  Deleting number  217
+  Deleting number  211
+  Deleting number  207
+  Deleting number  204
+  Deleting number  203
+  Deleting number  199
+  Deleting number  197
+  Deleting number  195
+  Deleting number  193
+  Deleting number  192
+  Deleting number  190
+  Deleting number  189
+  Deleting number  188
+  Deleting number  187
+  Deleting number  186
+  Deleting number  185
+  Deleting number  183
+  Deleting number  179
+  Deleting number  173
+  Deleting number  172
+  Deleting number  171
+  Deleting number  170
+  Deleting number  168
+  Deleting number  165
+  Deleting number  164
+  Deleting number  163
+  Deleting number  161
+  Deleting number  159
+  Deleting number  157
+  Deleting number  155
+  Deleting number  152
+  Deleting number  151
+  Deleting number  150
+  Deleting number  149
+  Deleting number  148
+  Deleting number  147
+  Deleting number  144
+  Deleting number  143
+  Deleting number  140
+  Deleting number  138
+  Deleting number  134
+  Deleting number  132
+  Deleting number  127
+  Deleting number  123
+  Deleting number  122
+  Deleting number  121
+  Deleting number  120
+  Deleting number  119
+  Deleting number  116
+  Deleting number  115
+  Deleting number  114
+  Deleting number  113
+  Deleting number  112
+  Deleting number  111
+  Deleting number  109
+  Deleting number  107
+  Deleting number  106
+  Deleting number  105
+  Deleting number  101
+  Deleting number   99
+  Deleting number   95
+  Deleting number   94
+  Deleting number   91
+  Deleting number   86
+  Deleting number   81
+  Deleting number   80
+  Deleting number   78
+  Deleting number   74
+  Deleting number   71
+  Deleting number   70
+  Deleting number   69
+  Deleting number   67
+  Deleting number   66
+  Deleting number   65
+  Deleting number   64
+  Deleting number   63
+  Deleting number   60
+  Deleting number   59
+  Deleting number   57
+  Deleting number   56
+  Deleting number   53
+  Deleting number   52
+  Deleting number   50
+  Deleting number   46
+  Deleting number   45
+  Deleting number   44
+  Deleting number   38
+  Deleting number   36
+  Deleting number   32
+  Deleting number   29
+  Deleting number   28
+  Deleting number   26
+  Deleting number   25
+  Deleting number   24
+  Deleting number   23
+  Deleting number   22
+  Deleting number   21
+  Deleting number   20
+  Deleting number   17
+  Deleting number   16
+  Deleting number   12
+  Deleting number   10
+  Deleting number    9
+  Deleting number    8
+  Deleting number    7
+  Deleting number    6
+  Deleting number    4
+  Deleting number    3
+  Deleting number    2
+  Deleting number    1
+133 numbers remain.
+
+Counting numbers for bit  3
+     6 has a 1 at  3:   0 -->   0
+     7 has a 1 at  3:   1 -->   1
+    10 has a 1 at  3:   2 -->   2
+    11 has a 1 at  3:   3 -->   3
+    12 has a 1 at  3:   4 -->   4
+    13 has a 1 at  3:   5 -->   5
+    15 has a 1 at  3:   6 -->   6
+    18 has a 1 at  3:   7 -->   7
+    21 has a 1 at  3:   8 -->   8
+    22 has a 1 at  3:   9 -->   9
+    23 has a 1 at  3:  10 -->  10
+    24 has a 1 at  3:  11 -->  11
+    27 has a 1 at  3:  12 -->  12
+    29 has a 1 at  3:  13 -->  13
+    31 has a 1 at  3:  14 -->  14
+    32 has a 1 at  3:  15 -->  15
+    36 has a 1 at  3:  16 -->  16
+    39 has a 1 at  3:  17 -->  17
+    42 has a 1 at  3:  18 -->  18
+    45 has a 1 at  3:  19 -->  19
+    46 has a 1 at  3:  20 -->  20
+    49 has a 1 at  3:  21 -->  21
+    52 has a 1 at  3:  22 -->  22
+    54 has a 1 at  3:  23 -->  23
+    55 has a 1 at  3:  24 -->  24
+    56 has a 1 at  3:  25 -->  25
+    58 has a 1 at  3:  26 -->  26
+    59 has a 1 at  3:  27 -->  27
+    65 has a 1 at  3:  28 -->  28
+    66 has a 1 at  3:  29 -->  29
+    67 has a 1 at  3:  30 -->  30
+    69 has a 1 at  3:  31 -->  31
+    72 has a 1 at  3:  32 -->  32
+    74 has a 1 at  3:  33 -->  33
+    75 has a 1 at  3:  34 -->  34
+    77 has a 1 at  3:  35 -->  35
+    80 has a 1 at  3:  36 -->  36
+    81 has a 1 at  3:  37 -->  37
+    82 has a 1 at  3:  38 -->  38
+    83 has a 1 at  3:  39 -->  39
+    84 has a 1 at  3:  40 -->  40
+    85 has a 1 at  3:  41 -->  41
+    86 has a 1 at  3:  42 -->  42
+    90 has a 1 at  3:  43 -->  43
+    94 has a 1 at  3:  44 -->  44
+    95 has a 1 at  3:  45 -->  45
+    96 has a 1 at  3:  46 -->  46
+    98 has a 1 at  3:  47 -->  47
+   100 has a 1 at  3:  48 -->  48
+   101 has a 1 at  3:  49 -->  49
+   106 has a 1 at  3:  50 -->  50
+   107 has a 1 at  3:  51 -->  51
+   109 has a 1 at  3:  52 -->  52
+   110 has a 1 at  3:  53 -->  53
+   111 has a 1 at  3:  54 -->  54
+   112 has a 1 at  3:  55 -->  55
+   114 has a 1 at  3:  56 -->  56
+   116 has a 1 at  3:  57 -->  57
+   117 has a 1 at  3:  58 -->  58
+   120 has a 1 at  3:  59 -->  59
+   125 has a 1 at  3:  60 -->  60
+   126 has a 1 at  3:  61 -->  61
+   127 has a 1 at  3:  62 -->  62
+   128 has a 1 at  3:  63 -->  63
+   129 has a 1 at  3:  64 -->  64
+   132 has a 1 at  3:  65 -->  65
+Bit  3 was set 66 times.
+Marking 1s for deletion: True
+  Marking    6 for deletion
+  Marking    7 for deletion
+  Marking   10 for deletion
+  Marking   11 for deletion
+  Marking   12 for deletion
+  Marking   13 for deletion
+  Marking   15 for deletion
+  Marking   18 for deletion
+  Marking   21 for deletion
+  Marking   22 for deletion
+  Marking   23 for deletion
+  Marking   24 for deletion
+  Marking   27 for deletion
+  Marking   29 for deletion
+  Marking   31 for deletion
+  Marking   32 for deletion
+  Marking   36 for deletion
+  Marking   39 for deletion
+  Marking   42 for deletion
+  Marking   45 for deletion
+  Marking   46 for deletion
+  Marking   49 for deletion
+  Marking   52 for deletion
+  Marking   54 for deletion
+  Marking   55 for deletion
+  Marking   56 for deletion
+  Marking   58 for deletion
+  Marking   59 for deletion
+  Marking   65 for deletion
+  Marking   66 for deletion
+  Marking   67 for deletion
+  Marking   69 for deletion
+  Marking   72 for deletion
+  Marking   74 for deletion
+  Marking   75 for deletion
+  Marking   77 for deletion
+  Marking   80 for deletion
+  Marking   81 for deletion
+  Marking   82 for deletion
+  Marking   83 for deletion
+  Marking   84 for deletion
+  Marking   85 for deletion
+  Marking   86 for deletion
+  Marking   90 for deletion
+  Marking   94 for deletion
+  Marking   95 for deletion
+  Marking   96 for deletion
+  Marking   98 for deletion
+  Marking  100 for deletion
+  Marking  101 for deletion
+  Marking  106 for deletion
+  Marking  107 for deletion
+  Marking  109 for deletion
+  Marking  110 for deletion
+  Marking  111 for deletion
+  Marking  112 for deletion
+  Marking  114 for deletion
+  Marking  116 for deletion
+  Marking  117 for deletion
+  Marking  120 for deletion
+  Marking  125 for deletion
+  Marking  126 for deletion
+  Marking  127 for deletion
+  Marking  128 for deletion
+  Marking  129 for deletion
+  Marking  132 for deletion
+Marked 66 numbers for deletion.
+Deleting marked numbers...
+  Deleting number  132
+  Deleting number  129
+  Deleting number  128
+  Deleting number  127
+  Deleting number  126
+  Deleting number  125
+  Deleting number  120
+  Deleting number  117
+  Deleting number  116
+  Deleting number  114
+  Deleting number  112
+  Deleting number  111
+  Deleting number  110
+  Deleting number  109
+  Deleting number  107
+  Deleting number  106
+  Deleting number  101
+  Deleting number  100
+  Deleting number   98
+  Deleting number   96
+  Deleting number   95
+  Deleting number   94
+  Deleting number   90
+  Deleting number   86
+  Deleting number   85
+  Deleting number   84
+  Deleting number   83
+  Deleting number   82
+  Deleting number   81
+  Deleting number   80
+  Deleting number   77
+  Deleting number   75
+  Deleting number   74
+  Deleting number   72
+  Deleting number   69
+  Deleting number   67
+  Deleting number   66
+  Deleting number   65
+  Deleting number   59
+  Deleting number   58
+  Deleting number   56
+  Deleting number   55
+  Deleting number   54
+  Deleting number   52
+  Deleting number   49
+  Deleting number   46
+  Deleting number   45
+  Deleting number   42
+  Deleting number   39
+  Deleting number   36
+  Deleting number   32
+  Deleting number   31
+  Deleting number   29
+  Deleting number   27
+  Deleting number   24
+  Deleting number   23
+  Deleting number   22
+  Deleting number   21
+  Deleting number   18
+  Deleting number   15
+  Deleting number   13
+  Deleting number   12
+  Deleting number   11
+  Deleting number   10
+  Deleting number    7
+  Deleting number    6
+67 numbers remain.
+
+Counting numbers for bit  4
+     0 has a 1 at  4:   0 -->   0
+     1 has a 1 at  4:   1 -->   1
+     4 has a 1 at  4:   2 -->   2
+     7 has a 1 at  4:   3 -->   3
+     8 has a 1 at  4:   4 -->   4
+    10 has a 1 at  4:   5 -->   5
+    14 has a 1 at  4:   6 -->   6
+    16 has a 1 at  4:   7 -->   7
+    21 has a 1 at  4:   8 -->   8
+    23 has a 1 at  4:   9 -->   9
+    24 has a 1 at  4:  10 -->  10
+    26 has a 1 at  4:  11 -->  11
+    29 has a 1 at  4:  12 -->  12
+    31 has a 1 at  4:  13 -->  13
+    32 has a 1 at  4:  14 -->  14
+    33 has a 1 at  4:  15 -->  15
+    34 has a 1 at  4:  16 -->  16
+    35 has a 1 at  4:  17 -->  17
+    39 has a 1 at  4:  18 -->  18
+    40 has a 1 at  4:  19 -->  19
+    41 has a 1 at  4:  20 -->  20
+    42 has a 1 at  4:  21 -->  21
+    43 has a 1 at  4:  22 -->  22
+    44 has a 1 at  4:  23 -->  23
+    49 has a 1 at  4:  24 -->  24
+    50 has a 1 at  4:  25 -->  25
+    53 has a 1 at  4:  26 -->  26
+    56 has a 1 at  4:  27 -->  27
+    60 has a 1 at  4:  28 -->  28
+    62 has a 1 at  4:  29 -->  29
+    63 has a 1 at  4:  30 -->  30
+Bit  4 was set 31 times.
+Marking 1s for deletion: True
+  Marking    0 for deletion
+  Marking    1 for deletion
+  Marking    4 for deletion
+  Marking    7 for deletion
+  Marking    8 for deletion
+  Marking   10 for deletion
+  Marking   14 for deletion
+  Marking   16 for deletion
+  Marking   21 for deletion
+  Marking   23 for deletion
+  Marking   24 for deletion
+  Marking   26 for deletion
+  Marking   29 for deletion
+  Marking   31 for deletion
+  Marking   32 for deletion
+  Marking   33 for deletion
+  Marking   34 for deletion
+  Marking   35 for deletion
+  Marking   39 for deletion
+  Marking   40 for deletion
+  Marking   41 for deletion
+  Marking   42 for deletion
+  Marking   43 for deletion
+  Marking   44 for deletion
+  Marking   49 for deletion
+  Marking   50 for deletion
+  Marking   53 for deletion
+  Marking   56 for deletion
+  Marking   60 for deletion
+  Marking   62 for deletion
+  Marking   63 for deletion
+Marked 31 numbers for deletion.
+Deleting marked numbers...
+  Deleting number   63
+  Deleting number   62
+  Deleting number   60
+  Deleting number   56
+  Deleting number   53
+  Deleting number   50
+  Deleting number   49
+  Deleting number   44
+  Deleting number   43
+  Deleting number   42
+  Deleting number   41
+  Deleting number   40
+  Deleting number   39
+  Deleting number   35
+  Deleting number   34
+  Deleting number   33
+  Deleting number   32
+  Deleting number   31
+  Deleting number   29
+  Deleting number   26
+  Deleting number   24
+  Deleting number   23
+  Deleting number   21
+  Deleting number   16
+  Deleting number   14
+  Deleting number   10
+  Deleting number    8
+  Deleting number    7
+  Deleting number    4
+  Deleting number    1
+  Deleting number    0
+36 numbers remain.
+
+Counting numbers for bit  5
+     1 has a 1 at  5:   0 -->   0
+     5 has a 1 at  5:   1 -->   1
+     9 has a 1 at  5:   2 -->   2
+    12 has a 1 at  5:   3 -->   3
+    13 has a 1 at  5:   4 -->   4
+    15 has a 1 at  5:   5 -->   5
+    16 has a 1 at  5:   6 -->   6
+    17 has a 1 at  5:   7 -->   7
+    20 has a 1 at  5:   8 -->   8
+    22 has a 1 at  5:   9 -->   9
+    23 has a 1 at  5:  10 -->  10
+    24 has a 1 at  5:  11 -->  11
+    26 has a 1 at  5:  12 -->  12
+    27 has a 1 at  5:  13 -->  13
+    28 has a 1 at  5:  14 -->  14
+    31 has a 1 at  5:  15 -->  15
+    34 has a 1 at  5:  16 -->  16
+Bit  5 was set 17 times.
+Marking 1s for deletion: True
+  Marking    1 for deletion
+  Marking    5 for deletion
+  Marking    9 for deletion
+  Marking   12 for deletion
+  Marking   13 for deletion
+  Marking   15 for deletion
+  Marking   16 for deletion
+  Marking   17 for deletion
+  Marking   20 for deletion
+  Marking   22 for deletion
+  Marking   23 for deletion
+  Marking   24 for deletion
+  Marking   26 for deletion
+  Marking   27 for deletion
+  Marking   28 for deletion
+  Marking   31 for deletion
+  Marking   34 for deletion
+Marked 17 numbers for deletion.
+Deleting marked numbers...
+  Deleting number   34
+  Deleting number   31
+  Deleting number   28
+  Deleting number   27
+  Deleting number   26
+  Deleting number   24
+  Deleting number   23
+  Deleting number   22
+  Deleting number   20
+  Deleting number   17
+  Deleting number   16
+  Deleting number   15
+  Deleting number   13
+  Deleting number   12
+  Deleting number    9
+  Deleting number    5
+  Deleting number    1
+19 numbers remain.
+
+Counting numbers for bit  6
+     3 has a 1 at  6:   0 -->   0
+     4 has a 1 at  6:   1 -->   1
+     5 has a 1 at  6:   2 -->   2
+     6 has a 1 at  6:   3 -->   3
+     7 has a 1 at  6:   4 -->   4
+     8 has a 1 at  6:   5 -->   5
+    10 has a 1 at  6:   6 -->   6
+    11 has a 1 at  6:   7 -->   7
+    12 has a 1 at  6:   8 -->   8
+    14 has a 1 at  6:   9 -->   9
+    15 has a 1 at  6:  10 -->  10
+    17 has a 1 at  6:  11 -->  11
+Bit  6 was set 12 times.
+Marking 1s for deletion: False
+  Marking    0 for deletion
+  Marking    1 for deletion
+  Marking    2 for deletion
+  Marking    9 for deletion
+  Marking   13 for deletion
+  Marking   16 for deletion
+  Marking   18 for deletion
+Marked 7 numbers for deletion.
+Deleting marked numbers...
+  Deleting number   18
+  Deleting number   16
+  Deleting number   13
+  Deleting number    9
+  Deleting number    2
+  Deleting number    1
+  Deleting number    0
+12 numbers remain.
+
+Counting numbers for bit  7
+     2 has a 1 at  7:   0 -->   0
+     3 has a 1 at  7:   1 -->   1
+     4 has a 1 at  7:   2 -->   2
+     5 has a 1 at  7:   3 -->   3
+     7 has a 1 at  7:   4 -->   4
+     8 has a 1 at  7:   5 -->   5
+Bit  7 was set 6 times.
+Marking 1s for deletion: False
+  Marking    0 for deletion
+  Marking    1 for deletion
+  Marking    6 for deletion
+  Marking    9 for deletion
+  Marking   10 for deletion
+  Marking   11 for deletion
+Marked 6 numbers for deletion.
+Deleting marked numbers...
+  Deleting number   11
+  Deleting number   10
+  Deleting number    9
+  Deleting number    6
+  Deleting number    1
+  Deleting number    0
+6 numbers remain.
+
+Counting numbers for bit  8
+     0 has a 1 at  8:   0 -->   0
+     1 has a 1 at  8:   1 -->   1
+     2 has a 1 at  8:   2 -->   2
+     3 has a 1 at  8:   3 -->   3
+Bit  8 was set 4 times.
+Marking 1s for deletion: False
+  Marking    4 for deletion
+  Marking    5 for deletion
+Marked 2 numbers for deletion.
+Deleting marked numbers...
+  Deleting number    5
+  Deleting number    4
+4 numbers remain.
+
+Counting numbers for bit  9
+     0 has a 1 at  9:   0 -->   0
+     2 has a 1 at  9:   1 -->   1
+Bit  9 was set 2 times.
+Marking 1s for deletion: False
+  Marking    1 for deletion
+  Marking    3 for deletion
+Marked 2 numbers for deletion.
+Deleting marked numbers...
+  Deleting number    3
+  Deleting number    1
+2 numbers remain.
+
+Counting numbers for bit 10
+     0 has a 1 at 10:   0 -->   0
+     1 has a 1 at 10:   1 -->   1
+Bit 10 was set 2 times.
+Marking 1s for deletion: False
+Marked 0 numbers for deletion.
+Deleting marked numbers...
+2 numbers remain.
+
+Counting numbers for bit 11
+     0 has a 1 at 11:   0 -->   0
+Bit 11 was set 1 times.
+Marking 1s for deletion: False
+  Marking    1 for deletion
+Marked 1 numbers for deletion.
+Deleting marked numbers...
+  Deleting number    1
+1 numbers remain.
+
+Your Oxygen-Rating is 011000111111 (1599)
+Counting numbers for bit  0
+     0 has a 1 at  0:   0 -->   0
+     3 has a 1 at  0:   1 -->   1
+     4 has a 1 at  0:   2 -->   2
+     6 has a 1 at  0:   3 -->   3
+     8 has a 1 at  0:   4 -->   4
+    10 has a 1 at  0:   5 -->   5
+    11 has a 1 at  0:   6 -->   6
+    12 has a 1 at  0:   7 -->   7
+    13 has a 1 at  0:   8 -->   8
+    16 has a 1 at  0:   9 -->   9
+    18 has a 1 at  0:  10 -->  10
+    19 has a 1 at  0:  11 -->  11
+    21 has a 1 at  0:  12 -->  12
+    22 has a 1 at  0:  13 -->  13
+    23 has a 1 at  0:  14 -->  14
+    24 has a 1 at  0:  15 -->  15
+    25 has a 1 at  0:  16 -->  16
+    26 has a 1 at  0:  17 -->  17
+    27 has a 1 at  0:  18 -->  18
+    31 has a 1 at  0:  19 -->  19
+    33 has a 1 at  0:  20 -->  20
+    35 has a 1 at  0:  21 -->  21
+    36 has a 1 at  0:  22 -->  22
+    37 has a 1 at  0:  23 -->  23
+    38 has a 1 at  0:  24 -->  24
+    39 has a 1 at  0:  25 -->  25
+    41 has a 1 at  0:  26 -->  26
+    42 has a 1 at  0:  27 -->  27
+    43 has a 1 at  0:  28 -->  28
+    46 has a 1 at  0:  29 -->  29
+    47 has a 1 at  0:  30 -->  30
+    48 has a 1 at  0:  31 -->  31
+    52 has a 1 at  0:  32 -->  32
+    53 has a 1 at  0:  33 -->  33
+    56 has a 1 at  0:  34 -->  34
+    57 has a 1 at  0:  35 -->  35
+    58 has a 1 at  0:  36 -->  36
+    65 has a 1 at  0:  37 -->  37
+    68 has a 1 at  0:  38 -->  38
+    69 has a 1 at  0:  39 -->  39
+    73 has a 1 at  0:  40 -->  40
+    75 has a 1 at  0:  41 -->  41
+    82 has a 1 at  0:  42 -->  42
+    83 has a 1 at  0:  43 -->  43
+    85 has a 1 at  0:  44 -->  44
+    86 has a 1 at  0:  45 -->  45
+    87 has a 1 at  0:  46 -->  46
+    88 has a 1 at  0:  47 -->  47
+    90 has a 1 at  0:  48 -->  48
+    91 has a 1 at  0:  49 -->  49
+    97 has a 1 at  0:  50 -->  50
+    99 has a 1 at  0:  51 -->  51
+   103 has a 1 at  0:  52 -->  52
+   104 has a 1 at  0:  53 -->  53
+   106 has a 1 at  0:  54 -->  54
+   108 has a 1 at  0:  55 -->  55
+   109 has a 1 at  0:  56 -->  56
+   110 has a 1 at  0:  57 -->  57
+   113 has a 1 at  0:  58 -->  58
+   114 has a 1 at  0:  59 -->  59
+   118 has a 1 at  0:  60 -->  60
+   122 has a 1 at  0:  61 -->  61
+   124 has a 1 at  0:  62 -->  62
+   125 has a 1 at  0:  63 -->  63
+   127 has a 1 at  0:  64 -->  64
+   129 has a 1 at  0:  65 -->  65
+   131 has a 1 at  0:  66 -->  66
+   132 has a 1 at  0:  67 -->  67
+   133 has a 1 at  0:  68 -->  68
+   134 has a 1 at  0:  69 -->  69
+   135 has a 1 at  0:  70 -->  70
+   138 has a 1 at  0:  71 -->  71
+   145 has a 1 at  0:  72 -->  72
+   149 has a 1 at  0:  73 -->  73
+   151 has a 1 at  0:  74 -->  74
+   152 has a 1 at  0:  75 -->  75
+   156 has a 1 at  0:  76 -->  76
+   158 has a 1 at  0:  77 -->  77
+   159 has a 1 at  0:  78 -->  78
+   164 has a 1 at  0:  79 -->  79
+   165 has a 1 at  0:  80 -->  80
+   170 has a 1 at  0:  81 -->  81
+   171 has a 1 at  0:  82 -->  82
+   172 has a 1 at  0:  83 -->  83
+   173 has a 1 at  0:  84 -->  84
+   174 has a 1 at  0:  85 -->  85
+   178 has a 1 at  0:  86 -->  86
+   180 has a 1 at  0:  87 -->  87
+   181 has a 1 at  0:  88 -->  88
+   183 has a 1 at  0:  89 -->  89
+   186 has a 1 at  0:  90 -->  90
+   189 has a 1 at  0:  91 -->  91
+   192 has a 1 at  0:  92 -->  92
+   193 has a 1 at  0:  93 -->  93
+   194 has a 1 at  0:  94 -->  94
+   195 has a 1 at  0:  95 -->  95
+   197 has a 1 at  0:  96 -->  96
+   200 has a 1 at  0:  97 -->  97
+   201 has a 1 at  0:  98 -->  98
+   204 has a 1 at  0:  99 -->  99
+   206 has a 1 at  0: 100 --> 100
+   207 has a 1 at  0: 101 --> 101
+   208 has a 1 at  0: 102 --> 102
+   209 has a 1 at  0: 103 --> 103
+   210 has a 1 at  0: 104 --> 104
+   214 has a 1 at  0: 105 --> 105
+   215 has a 1 at  0: 106 --> 106
+   216 has a 1 at  0: 107 --> 107
+   218 has a 1 at  0: 108 --> 108
+   222 has a 1 at  0: 109 --> 109
+   225 has a 1 at  0: 110 --> 110
+   226 has a 1 at  0: 111 --> 111
+   227 has a 1 at  0: 112 --> 112
+   228 has a 1 at  0: 113 --> 113
+   231 has a 1 at  0: 114 --> 114
+   232 has a 1 at  0: 115 --> 115
+   234 has a 1 at  0: 116 --> 116
+   237 has a 1 at  0: 117 --> 117
+   239 has a 1 at  0: 118 --> 118
+   240 has a 1 at  0: 119 --> 119
+   244 has a 1 at  0: 120 --> 120
+   245 has a 1 at  0: 121 --> 121
+   250 has a 1 at  0: 122 --> 122
+   253 has a 1 at  0: 123 --> 123
+   254 has a 1 at  0: 124 --> 124
+   255 has a 1 at  0: 125 --> 125
+   260 has a 1 at  0: 126 --> 126
+   261 has a 1 at  0: 127 --> 127
+   263 has a 1 at  0: 128 --> 128
+   265 has a 1 at  0: 129 --> 129
+   266 has a 1 at  0: 130 --> 130
+   269 has a 1 at  0: 131 --> 131
+   275 has a 1 at  0: 132 --> 132
+   276 has a 1 at  0: 133 --> 133
+   277 has a 1 at  0: 134 --> 134
+   278 has a 1 at  0: 135 --> 135
+   281 has a 1 at  0: 136 --> 136
+   291 has a 1 at  0: 137 --> 137
+   292 has a 1 at  0: 138 --> 138
+   295 has a 1 at  0: 139 --> 139
+   301 has a 1 at  0: 140 --> 140
+   304 has a 1 at  0: 141 --> 141
+   307 has a 1 at  0: 142 --> 142
+   311 has a 1 at  0: 143 --> 143
+   313 has a 1 at  0: 144 --> 144
+   318 has a 1 at  0: 145 --> 145
+   319 has a 1 at  0: 146 --> 146
+   323 has a 1 at  0: 147 --> 147
+   326 has a 1 at  0: 148 --> 148
+   327 has a 1 at  0: 149 --> 149
+   328 has a 1 at  0: 150 --> 150
+   329 has a 1 at  0: 151 --> 151
+   330 has a 1 at  0: 152 --> 152
+   331 has a 1 at  0: 153 --> 153
+   336 has a 1 at  0: 154 --> 154
+   338 has a 1 at  0: 155 --> 155
+   339 has a 1 at  0: 156 --> 156
+   340 has a 1 at  0: 157 --> 157
+   347 has a 1 at  0: 158 --> 158
+   348 has a 1 at  0: 159 --> 159
+   351 has a 1 at  0: 160 --> 160
+   354 has a 1 at  0: 161 --> 161
+   355 has a 1 at  0: 162 --> 162
+   356 has a 1 at  0: 163 --> 163
+   357 has a 1 at  0: 164 --> 164
+   358 has a 1 at  0: 165 --> 165
+   359 has a 1 at  0: 166 --> 166
+   363 has a 1 at  0: 167 --> 167
+   366 has a 1 at  0: 168 --> 168
+   367 has a 1 at  0: 169 --> 169
+   369 has a 1 at  0: 170 --> 170
+   371 has a 1 at  0: 171 --> 171
+   373 has a 1 at  0: 172 --> 172
+   377 has a 1 at  0: 173 --> 173
+   380 has a 1 at  0: 174 --> 174
+   381 has a 1 at  0: 175 --> 175
+   382 has a 1 at  0: 176 --> 176
+   387 has a 1 at  0: 177 --> 177
+   389 has a 1 at  0: 178 --> 178
+   395 has a 1 at  0: 179 --> 179
+   396 has a 1 at  0: 180 --> 180
+   401 has a 1 at  0: 181 --> 181
+   402 has a 1 at  0: 182 --> 182
+   404 has a 1 at  0: 183 --> 183
+   406 has a 1 at  0: 184 --> 184
+   408 has a 1 at  0: 185 --> 185
+   410 has a 1 at  0: 186 --> 186
+   413 has a 1 at  0: 187 --> 187
+   414 has a 1 at  0: 188 --> 188
+   415 has a 1 at  0: 189 --> 189
+   416 has a 1 at  0: 190 --> 190
+   417 has a 1 at  0: 191 --> 191
+   419 has a 1 at  0: 192 --> 192
+   420 has a 1 at  0: 193 --> 193
+   421 has a 1 at  0: 194 --> 194
+   422 has a 1 at  0: 195 --> 195
+   423 has a 1 at  0: 196 --> 196
+   425 has a 1 at  0: 197 --> 197
+   427 has a 1 at  0: 198 --> 198
+   432 has a 1 at  0: 199 --> 199
+   434 has a 1 at  0: 200 --> 200
+   436 has a 1 at  0: 201 --> 201
+   437 has a 1 at  0: 202 --> 202
+   439 has a 1 at  0: 203 --> 203
+   440 has a 1 at  0: 204 --> 204
+   441 has a 1 at  0: 205 --> 205
+   444 has a 1 at  0: 206 --> 206
+   446 has a 1 at  0: 207 --> 207
+   448 has a 1 at  0: 208 --> 208
+   451 has a 1 at  0: 209 --> 209
+   453 has a 1 at  0: 210 --> 210
+   455 has a 1 at  0: 211 --> 211
+   456 has a 1 at  0: 212 --> 212
+   458 has a 1 at  0: 213 --> 213
+   459 has a 1 at  0: 214 --> 214
+   460 has a 1 at  0: 215 --> 215
+   464 has a 1 at  0: 216 --> 216
+   465 has a 1 at  0: 217 --> 217
+   466 has a 1 at  0: 218 --> 218
+   468 has a 1 at  0: 219 --> 219
+   469 has a 1 at  0: 220 --> 220
+   472 has a 1 at  0: 221 --> 221
+   473 has a 1 at  0: 222 --> 222
+   475 has a 1 at  0: 223 --> 223
+   478 has a 1 at  0: 224 --> 224
+   479 has a 1 at  0: 225 --> 225
+   481 has a 1 at  0: 226 --> 226
+   482 has a 1 at  0: 227 --> 227
+   483 has a 1 at  0: 228 --> 228
+   484 has a 1 at  0: 229 --> 229
+   485 has a 1 at  0: 230 --> 230
+   487 has a 1 at  0: 231 --> 231
+   488 has a 1 at  0: 232 --> 232
+   489 has a 1 at  0: 233 --> 233
+   490 has a 1 at  0: 234 --> 234
+   491 has a 1 at  0: 235 --> 235
+   493 has a 1 at  0: 236 --> 236
+   496 has a 1 at  0: 237 --> 237
+   497 has a 1 at  0: 238 --> 238
+   503 has a 1 at  0: 239 --> 239
+   504 has a 1 at  0: 240 --> 240
+   506 has a 1 at  0: 241 --> 241
+   508 has a 1 at  0: 242 --> 242
+   509 has a 1 at  0: 243 --> 243
+   514 has a 1 at  0: 244 --> 244
+   519 has a 1 at  0: 245 --> 245
+   520 has a 1 at  0: 246 --> 246
+   522 has a 1 at  0: 247 --> 247
+   524 has a 1 at  0: 248 --> 248
+   525 has a 1 at  0: 249 --> 249
+   526 has a 1 at  0: 250 --> 250
+   529 has a 1 at  0: 251 --> 251
+   530 has a 1 at  0: 252 --> 252
+   532 has a 1 at  0: 253 --> 253
+   533 has a 1 at  0: 254 --> 254
+   534 has a 1 at  0: 255 --> 255
+   540 has a 1 at  0: 256 --> 256
+   542 has a 1 at  0: 257 --> 257
+   543 has a 1 at  0: 258 --> 258
+   544 has a 1 at  0: 259 --> 259
+   546 has a 1 at  0: 260 --> 260
+   547 has a 1 at  0: 261 --> 261
+   548 has a 1 at  0: 262 --> 262
+   549 has a 1 at  0: 263 --> 263
+   550 has a 1 at  0: 264 --> 264
+   551 has a 1 at  0: 265 --> 265
+   553 has a 1 at  0: 266 --> 266
+   555 has a 1 at  0: 267 --> 267
+   556 has a 1 at  0: 268 --> 268
+   557 has a 1 at  0: 269 --> 269
+   558 has a 1 at  0: 270 --> 270
+   559 has a 1 at  0: 271 --> 271
+   560 has a 1 at  0: 272 --> 272
+   562 has a 1 at  0: 273 --> 273
+   565 has a 1 at  0: 274 --> 274
+   566 has a 1 at  0: 275 --> 275
+   567 has a 1 at  0: 276 --> 276
+   568 has a 1 at  0: 277 --> 277
+   572 has a 1 at  0: 278 --> 278
+   575 has a 1 at  0: 279 --> 279
+   580 has a 1 at  0: 280 --> 280
+   581 has a 1 at  0: 281 --> 281
+   582 has a 1 at  0: 282 --> 282
+   585 has a 1 at  0: 283 --> 283
+   591 has a 1 at  0: 284 --> 284
+   593 has a 1 at  0: 285 --> 285
+   594 has a 1 at  0: 286 --> 286
+   598 has a 1 at  0: 287 --> 287
+   606 has a 1 at  0: 288 --> 288
+   607 has a 1 at  0: 289 --> 289
+   608 has a 1 at  0: 290 --> 290
+   609 has a 1 at  0: 291 --> 291
+   610 has a 1 at  0: 292 --> 292
+   612 has a 1 at  0: 293 --> 293
+   617 has a 1 at  0: 294 --> 294
+   618 has a 1 at  0: 295 --> 295
+   621 has a 1 at  0: 296 --> 296
+   625 has a 1 at  0: 297 --> 297
+   627 has a 1 at  0: 298 --> 298
+   630 has a 1 at  0: 299 --> 299
+   631 has a 1 at  0: 300 --> 300
+   632 has a 1 at  0: 301 --> 301
+   634 has a 1 at  0: 302 --> 302
+   637 has a 1 at  0: 303 --> 303
+   638 has a 1 at  0: 304 --> 304
+   641 has a 1 at  0: 305 --> 305
+   642 has a 1 at  0: 306 --> 306
+   645 has a 1 at  0: 307 --> 307
+   647 has a 1 at  0: 308 --> 308
+   649 has a 1 at  0: 309 --> 309
+   650 has a 1 at  0: 310 --> 310
+   651 has a 1 at  0: 311 --> 311
+   653 has a 1 at  0: 312 --> 312
+   655 has a 1 at  0: 313 --> 313
+   656 has a 1 at  0: 314 --> 314
+   657 has a 1 at  0: 315 --> 315
+   659 has a 1 at  0: 316 --> 316
+   662 has a 1 at  0: 317 --> 317
+   666 has a 1 at  0: 318 --> 318
+   667 has a 1 at  0: 319 --> 319
+   668 has a 1 at  0: 320 --> 320
+   669 has a 1 at  0: 321 --> 321
+   670 has a 1 at  0: 322 --> 322
+   673 has a 1 at  0: 323 --> 323
+   675 has a 1 at  0: 324 --> 324
+   676 has a 1 at  0: 325 --> 325
+   677 has a 1 at  0: 326 --> 326
+   682 has a 1 at  0: 327 --> 327
+   684 has a 1 at  0: 328 --> 328
+   685 has a 1 at  0: 329 --> 329
+   687 has a 1 at  0: 330 --> 330
+   688 has a 1 at  0: 331 --> 331
+   689 has a 1 at  0: 332 --> 332
+   692 has a 1 at  0: 333 --> 333
+   694 has a 1 at  0: 334 --> 334
+   695 has a 1 at  0: 335 --> 335
+   699 has a 1 at  0: 336 --> 336
+   700 has a 1 at  0: 337 --> 337
+   701 has a 1 at  0: 338 --> 338
+   702 has a 1 at  0: 339 --> 339
+   703 has a 1 at  0: 340 --> 340
+   705 has a 1 at  0: 341 --> 341
+   706 has a 1 at  0: 342 --> 342
+   709 has a 1 at  0: 343 --> 343
+   710 has a 1 at  0: 344 --> 344
+   711 has a 1 at  0: 345 --> 345
+   712 has a 1 at  0: 346 --> 346
+   714 has a 1 at  0: 347 --> 347
+   716 has a 1 at  0: 348 --> 348
+   718 has a 1 at  0: 349 --> 349
+   719 has a 1 at  0: 350 --> 350
+   720 has a 1 at  0: 351 --> 351
+   721 has a 1 at  0: 352 --> 352
+   722 has a 1 at  0: 353 --> 353
+   723 has a 1 at  0: 354 --> 354
+   727 has a 1 at  0: 355 --> 355
+   728 has a 1 at  0: 356 --> 356
+   729 has a 1 at  0: 357 --> 357
+   731 has a 1 at  0: 358 --> 358
+   733 has a 1 at  0: 359 --> 359
+   734 has a 1 at  0: 360 --> 360
+   735 has a 1 at  0: 361 --> 361
+   737 has a 1 at  0: 362 --> 362
+   738 has a 1 at  0: 363 --> 363
+   739 has a 1 at  0: 364 --> 364
+   744 has a 1 at  0: 365 --> 365
+   745 has a 1 at  0: 366 --> 366
+   747 has a 1 at  0: 367 --> 367
+   748 has a 1 at  0: 368 --> 368
+   749 has a 1 at  0: 369 --> 369
+   750 has a 1 at  0: 370 --> 370
+   751 has a 1 at  0: 371 --> 371
+   752 has a 1 at  0: 372 --> 372
+   753 has a 1 at  0: 373 --> 373
+   755 has a 1 at  0: 374 --> 374
+   759 has a 1 at  0: 375 --> 375
+   761 has a 1 at  0: 376 --> 376
+   762 has a 1 at  0: 377 --> 377
+   764 has a 1 at  0: 378 --> 378
+   765 has a 1 at  0: 379 --> 379
+   766 has a 1 at  0: 380 --> 380
+   775 has a 1 at  0: 381 --> 381
+   776 has a 1 at  0: 382 --> 382
+   777 has a 1 at  0: 383 --> 383
+   778 has a 1 at  0: 384 --> 384
+   779 has a 1 at  0: 385 --> 385
+   780 has a 1 at  0: 386 --> 386
+   781 has a 1 at  0: 387 --> 387
+   784 has a 1 at  0: 388 --> 388
+   785 has a 1 at  0: 389 --> 389
+   791 has a 1 at  0: 390 --> 390
+   793 has a 1 at  0: 391 --> 391
+   795 has a 1 at  0: 392 --> 392
+   796 has a 1 at  0: 393 --> 393
+   798 has a 1 at  0: 394 --> 394
+   799 has a 1 at  0: 395 --> 395
+   801 has a 1 at  0: 396 --> 396
+   803 has a 1 at  0: 397 --> 397
+   805 has a 1 at  0: 398 --> 398
+   806 has a 1 at  0: 399 --> 399
+   807 has a 1 at  0: 400 --> 400
+   809 has a 1 at  0: 401 --> 401
+   811 has a 1 at  0: 402 --> 402
+   812 has a 1 at  0: 403 --> 403
+   814 has a 1 at  0: 404 --> 404
+   816 has a 1 at  0: 405 --> 405
+   817 has a 1 at  0: 406 --> 406
+   819 has a 1 at  0: 407 --> 407
+   820 has a 1 at  0: 408 --> 408
+   825 has a 1 at  0: 409 --> 409
+   826 has a 1 at  0: 410 --> 410
+   827 has a 1 at  0: 411 --> 411
+   828 has a 1 at  0: 412 --> 412
+   829 has a 1 at  0: 413 --> 413
+   830 has a 1 at  0: 414 --> 414
+   831 has a 1 at  0: 415 --> 415
+   833 has a 1 at  0: 416 --> 416
+   835 has a 1 at  0: 417 --> 417
+   836 has a 1 at  0: 418 --> 418
+   840 has a 1 at  0: 419 --> 419
+   844 has a 1 at  0: 420 --> 420
+   848 has a 1 at  0: 421 --> 421
+   849 has a 1 at  0: 422 --> 422
+   850 has a 1 at  0: 423 --> 423
+   852 has a 1 at  0: 424 --> 424
+   853 has a 1 at  0: 425 --> 425
+   854 has a 1 at  0: 426 --> 426
+   855 has a 1 at  0: 427 --> 427
+   858 has a 1 at  0: 428 --> 428
+   859 has a 1 at  0: 429 --> 429
+   860 has a 1 at  0: 430 --> 430
+   861 has a 1 at  0: 431 --> 431
+   862 has a 1 at  0: 432 --> 432
+   863 has a 1 at  0: 433 --> 433
+   865 has a 1 at  0: 434 --> 434
+   866 has a 1 at  0: 435 --> 435
+   867 has a 1 at  0: 436 --> 436
+   870 has a 1 at  0: 437 --> 437
+   872 has a 1 at  0: 438 --> 438
+   873 has a 1 at  0: 439 --> 439
+   881 has a 1 at  0: 440 --> 440
+   885 has a 1 at  0: 441 --> 441
+   886 has a 1 at  0: 442 --> 442
+   887 has a 1 at  0: 443 --> 443
+   889 has a 1 at  0: 444 --> 444
+   890 has a 1 at  0: 445 --> 445
+   892 has a 1 at  0: 446 --> 446
+   894 has a 1 at  0: 447 --> 447
+   896 has a 1 at  0: 448 --> 448
+   899 has a 1 at  0: 449 --> 449
+   900 has a 1 at  0: 450 --> 450
+   901 has a 1 at  0: 451 --> 451
+   904 has a 1 at  0: 452 --> 452
+   906 has a 1 at  0: 453 --> 453
+   909 has a 1 at  0: 454 --> 454
+   911 has a 1 at  0: 455 --> 455
+   913 has a 1 at  0: 456 --> 456
+   914 has a 1 at  0: 457 --> 457
+   915 has a 1 at  0: 458 --> 458
+   916 has a 1 at  0: 459 --> 459
+   917 has a 1 at  0: 460 --> 460
+   920 has a 1 at  0: 461 --> 461
+   923 has a 1 at  0: 462 --> 462
+   927 has a 1 at  0: 463 --> 463
+   928 has a 1 at  0: 464 --> 464
+   931 has a 1 at  0: 465 --> 465
+   934 has a 1 at  0: 466 --> 466
+   937 has a 1 at  0: 467 --> 467
+   938 has a 1 at  0: 468 --> 468
+   941 has a 1 at  0: 469 --> 469
+   945 has a 1 at  0: 470 --> 470
+   948 has a 1 at  0: 471 --> 471
+   949 has a 1 at  0: 472 --> 472
+   950 has a 1 at  0: 473 --> 473
+   952 has a 1 at  0: 474 --> 474
+   953 has a 1 at  0: 475 --> 475
+   954 has a 1 at  0: 476 --> 476
+   955 has a 1 at  0: 477 --> 477
+   956 has a 1 at  0: 478 --> 478
+   959 has a 1 at  0: 479 --> 479
+   960 has a 1 at  0: 480 --> 480
+   964 has a 1 at  0: 481 --> 481
+   968 has a 1 at  0: 482 --> 482
+   970 has a 1 at  0: 483 --> 483
+   972 has a 1 at  0: 484 --> 484
+   973 has a 1 at  0: 485 --> 485
+   975 has a 1 at  0: 486 --> 486
+   977 has a 1 at  0: 487 --> 487
+   980 has a 1 at  0: 488 --> 488
+   982 has a 1 at  0: 489 --> 489
+   996 has a 1 at  0: 490 --> 490
+   997 has a 1 at  0: 491 --> 491
+   998 has a 1 at  0: 492 --> 492
+Bit  0 was set 493 times.
+Marking 1s for deletion: False
+  Marking    1 for deletion
+  Marking    2 for deletion
+  Marking    5 for deletion
+  Marking    7 for deletion
+  Marking    9 for deletion
+  Marking   14 for deletion
+  Marking   15 for deletion
+  Marking   17 for deletion
+  Marking   20 for deletion
+  Marking   28 for deletion
+  Marking   29 for deletion
+  Marking   30 for deletion
+  Marking   32 for deletion
+  Marking   34 for deletion
+  Marking   40 for deletion
+  Marking   44 for deletion
+  Marking   45 for deletion
+  Marking   49 for deletion
+  Marking   50 for deletion
+  Marking   51 for deletion
+  Marking   54 for deletion
+  Marking   55 for deletion
+  Marking   59 for deletion
+  Marking   60 for deletion
+  Marking   61 for deletion
+  Marking   62 for deletion
+  Marking   63 for deletion
+  Marking   64 for deletion
+  Marking   66 for deletion
+  Marking   67 for deletion
+  Marking   70 for deletion
+  Marking   71 for deletion
+  Marking   72 for deletion
+  Marking   74 for deletion
+  Marking   76 for deletion
+  Marking   77 for deletion
+  Marking   78 for deletion
+  Marking   79 for deletion
+  Marking   80 for deletion
+  Marking   81 for deletion
+  Marking   84 for deletion
+  Marking   89 for deletion
+  Marking   92 for deletion
+  Marking   93 for deletion
+  Marking   94 for deletion
+  Marking   95 for deletion
+  Marking   96 for deletion
+  Marking   98 for deletion
+  Marking  100 for deletion
+  Marking  101 for deletion
+  Marking  102 for deletion
+  Marking  105 for deletion
+  Marking  107 for deletion
+  Marking  111 for deletion
+  Marking  112 for deletion
+  Marking  115 for deletion
+  Marking  116 for deletion
+  Marking  117 for deletion
+  Marking  119 for deletion
+  Marking  120 for deletion
+  Marking  121 for deletion
+  Marking  123 for deletion
+  Marking  126 for deletion
+  Marking  128 for deletion
+  Marking  130 for deletion
+  Marking  136 for deletion
+  Marking  137 for deletion
+  Marking  139 for deletion
+  Marking  140 for deletion
+  Marking  141 for deletion
+  Marking  142 for deletion
+  Marking  143 for deletion
+  Marking  144 for deletion
+  Marking  146 for deletion
+  Marking  147 for deletion
+  Marking  148 for deletion
+  Marking  150 for deletion
+  Marking  153 for deletion
+  Marking  154 for deletion
+  Marking  155 for deletion
+  Marking  157 for deletion
+  Marking  160 for deletion
+  Marking  161 for deletion
+  Marking  162 for deletion
+  Marking  163 for deletion
+  Marking  166 for deletion
+  Marking  167 for deletion
+  Marking  168 for deletion
+  Marking  169 for deletion
+  Marking  175 for deletion
+  Marking  176 for deletion
+  Marking  177 for deletion
+  Marking  179 for deletion
+  Marking  182 for deletion
+  Marking  184 for deletion
+  Marking  185 for deletion
+  Marking  187 for deletion
+  Marking  188 for deletion
+  Marking  190 for deletion
+  Marking  191 for deletion
+  Marking  196 for deletion
+  Marking  198 for deletion
+  Marking  199 for deletion
+  Marking  202 for deletion
+  Marking  203 for deletion
+  Marking  205 for deletion
+  Marking  211 for deletion
+  Marking  212 for deletion
+  Marking  213 for deletion
+  Marking  217 for deletion
+  Marking  219 for deletion
+  Marking  220 for deletion
+  Marking  221 for deletion
+  Marking  223 for deletion
+  Marking  224 for deletion
+  Marking  229 for deletion
+  Marking  230 for deletion
+  Marking  233 for deletion
+  Marking  235 for deletion
+  Marking  236 for deletion
+  Marking  238 for deletion
+  Marking  241 for deletion
+  Marking  242 for deletion
+  Marking  243 for deletion
+  Marking  246 for deletion
+  Marking  247 for deletion
+  Marking  248 for deletion
+  Marking  249 for deletion
+  Marking  251 for deletion
+  Marking  252 for deletion
+  Marking  256 for deletion
+  Marking  257 for deletion
+  Marking  258 for deletion
+  Marking  259 for deletion
+  Marking  262 for deletion
+  Marking  264 for deletion
+  Marking  267 for deletion
+  Marking  268 for deletion
+  Marking  270 for deletion
+  Marking  271 for deletion
+  Marking  272 for deletion
+  Marking  273 for deletion
+  Marking  274 for deletion
+  Marking  279 for deletion
+  Marking  280 for deletion
+  Marking  282 for deletion
+  Marking  283 for deletion
+  Marking  284 for deletion
+  Marking  285 for deletion
+  Marking  286 for deletion
+  Marking  287 for deletion
+  Marking  288 for deletion
+  Marking  289 for deletion
+  Marking  290 for deletion
+  Marking  293 for deletion
+  Marking  294 for deletion
+  Marking  296 for deletion
+  Marking  297 for deletion
+  Marking  298 for deletion
+  Marking  299 for deletion
+  Marking  300 for deletion
+  Marking  302 for deletion
+  Marking  303 for deletion
+  Marking  305 for deletion
+  Marking  306 for deletion
+  Marking  308 for deletion
+  Marking  309 for deletion
+  Marking  310 for deletion
+  Marking  312 for deletion
+  Marking  314 for deletion
+  Marking  315 for deletion
+  Marking  316 for deletion
+  Marking  317 for deletion
+  Marking  320 for deletion
+  Marking  321 for deletion
+  Marking  322 for deletion
+  Marking  324 for deletion
+  Marking  325 for deletion
+  Marking  332 for deletion
+  Marking  333 for deletion
+  Marking  334 for deletion
+  Marking  335 for deletion
+  Marking  337 for deletion
+  Marking  341 for deletion
+  Marking  342 for deletion
+  Marking  343 for deletion
+  Marking  344 for deletion
+  Marking  345 for deletion
+  Marking  346 for deletion
+  Marking  349 for deletion
+  Marking  350 for deletion
+  Marking  352 for deletion
+  Marking  353 for deletion
+  Marking  360 for deletion
+  Marking  361 for deletion
+  Marking  362 for deletion
+  Marking  364 for deletion
+  Marking  365 for deletion
+  Marking  368 for deletion
+  Marking  370 for deletion
+  Marking  372 for deletion
+  Marking  374 for deletion
+  Marking  375 for deletion
+  Marking  376 for deletion
+  Marking  378 for deletion
+  Marking  379 for deletion
+  Marking  383 for deletion
+  Marking  384 for deletion
+  Marking  385 for deletion
+  Marking  386 for deletion
+  Marking  388 for deletion
+  Marking  390 for deletion
+  Marking  391 for deletion
+  Marking  392 for deletion
+  Marking  393 for deletion
+  Marking  394 for deletion
+  Marking  397 for deletion
+  Marking  398 for deletion
+  Marking  399 for deletion
+  Marking  400 for deletion
+  Marking  403 for deletion
+  Marking  405 for deletion
+  Marking  407 for deletion
+  Marking  409 for deletion
+  Marking  411 for deletion
+  Marking  412 for deletion
+  Marking  418 for deletion
+  Marking  424 for deletion
+  Marking  426 for deletion
+  Marking  428 for deletion
+  Marking  429 for deletion
+  Marking  430 for deletion
+  Marking  431 for deletion
+  Marking  433 for deletion
+  Marking  435 for deletion
+  Marking  438 for deletion
+  Marking  442 for deletion
+  Marking  443 for deletion
+  Marking  445 for deletion
+  Marking  447 for deletion
+  Marking  449 for deletion
+  Marking  450 for deletion
+  Marking  452 for deletion
+  Marking  454 for deletion
+  Marking  457 for deletion
+  Marking  461 for deletion
+  Marking  462 for deletion
+  Marking  463 for deletion
+  Marking  467 for deletion
+  Marking  470 for deletion
+  Marking  471 for deletion
+  Marking  474 for deletion
+  Marking  476 for deletion
+  Marking  477 for deletion
+  Marking  480 for deletion
+  Marking  486 for deletion
+  Marking  492 for deletion
+  Marking  494 for deletion
+  Marking  495 for deletion
+  Marking  498 for deletion
+  Marking  499 for deletion
+  Marking  500 for deletion
+  Marking  501 for deletion
+  Marking  502 for deletion
+  Marking  505 for deletion
+  Marking  507 for deletion
+  Marking  510 for deletion
+  Marking  511 for deletion
+  Marking  512 for deletion
+  Marking  513 for deletion
+  Marking  515 for deletion
+  Marking  516 for deletion
+  Marking  517 for deletion
+  Marking  518 for deletion
+  Marking  521 for deletion
+  Marking  523 for deletion
+  Marking  527 for deletion
+  Marking  528 for deletion
+  Marking  531 for deletion
+  Marking  535 for deletion
+  Marking  536 for deletion
+  Marking  537 for deletion
+  Marking  538 for deletion
+  Marking  539 for deletion
+  Marking  541 for deletion
+  Marking  545 for deletion
+  Marking  552 for deletion
+  Marking  554 for deletion
+  Marking  561 for deletion
+  Marking  563 for deletion
+  Marking  564 for deletion
+  Marking  569 for deletion
+  Marking  570 for deletion
+  Marking  571 for deletion
+  Marking  573 for deletion
+  Marking  574 for deletion
+  Marking  576 for deletion
+  Marking  577 for deletion
+  Marking  578 for deletion
+  Marking  579 for deletion
+  Marking  583 for deletion
+  Marking  584 for deletion
+  Marking  586 for deletion
+  Marking  587 for deletion
+  Marking  588 for deletion
+  Marking  589 for deletion
+  Marking  590 for deletion
+  Marking  592 for deletion
+  Marking  595 for deletion
+  Marking  596 for deletion
+  Marking  597 for deletion
+  Marking  599 for deletion
+  Marking  600 for deletion
+  Marking  601 for deletion
+  Marking  602 for deletion
+  Marking  603 for deletion
+  Marking  604 for deletion
+  Marking  605 for deletion
+  Marking  611 for deletion
+  Marking  613 for deletion
+  Marking  614 for deletion
+  Marking  615 for deletion
+  Marking  616 for deletion
+  Marking  619 for deletion
+  Marking  620 for deletion
+  Marking  622 for deletion
+  Marking  623 for deletion
+  Marking  624 for deletion
+  Marking  626 for deletion
+  Marking  628 for deletion
+  Marking  629 for deletion
+  Marking  633 for deletion
+  Marking  635 for deletion
+  Marking  636 for deletion
+  Marking  639 for deletion
+  Marking  640 for deletion
+  Marking  643 for deletion
+  Marking  644 for deletion
+  Marking  646 for deletion
+  Marking  648 for deletion
+  Marking  652 for deletion
+  Marking  654 for deletion
+  Marking  658 for deletion
+  Marking  660 for deletion
+  Marking  661 for deletion
+  Marking  663 for deletion
+  Marking  664 for deletion
+  Marking  665 for deletion
+  Marking  671 for deletion
+  Marking  672 for deletion
+  Marking  674 for deletion
+  Marking  678 for deletion
+  Marking  679 for deletion
+  Marking  680 for deletion
+  Marking  681 for deletion
+  Marking  683 for deletion
+  Marking  686 for deletion
+  Marking  690 for deletion
+  Marking  691 for deletion
+  Marking  693 for deletion
+  Marking  696 for deletion
+  Marking  697 for deletion
+  Marking  698 for deletion
+  Marking  704 for deletion
+  Marking  707 for deletion
+  Marking  708 for deletion
+  Marking  713 for deletion
+  Marking  715 for deletion
+  Marking  717 for deletion
+  Marking  724 for deletion
+  Marking  725 for deletion
+  Marking  726 for deletion
+  Marking  730 for deletion
+  Marking  732 for deletion
+  Marking  736 for deletion
+  Marking  740 for deletion
+  Marking  741 for deletion
+  Marking  742 for deletion
+  Marking  743 for deletion
+  Marking  746 for deletion
+  Marking  754 for deletion
+  Marking  756 for deletion
+  Marking  757 for deletion
+  Marking  758 for deletion
+  Marking  760 for deletion
+  Marking  763 for deletion
+  Marking  767 for deletion
+  Marking  768 for deletion
+  Marking  769 for deletion
+  Marking  770 for deletion
+  Marking  771 for deletion
+  Marking  772 for deletion
+  Marking  773 for deletion
+  Marking  774 for deletion
+  Marking  782 for deletion
+  Marking  783 for deletion
+  Marking  786 for deletion
+  Marking  787 for deletion
+  Marking  788 for deletion
+  Marking  789 for deletion
+  Marking  790 for deletion
+  Marking  792 for deletion
+  Marking  794 for deletion
+  Marking  797 for deletion
+  Marking  800 for deletion
+  Marking  802 for deletion
+  Marking  804 for deletion
+  Marking  808 for deletion
+  Marking  810 for deletion
+  Marking  813 for deletion
+  Marking  815 for deletion
+  Marking  818 for deletion
+  Marking  821 for deletion
+  Marking  822 for deletion
+  Marking  823 for deletion
+  Marking  824 for deletion
+  Marking  832 for deletion
+  Marking  834 for deletion
+  Marking  837 for deletion
+  Marking  838 for deletion
+  Marking  839 for deletion
+  Marking  841 for deletion
+  Marking  842 for deletion
+  Marking  843 for deletion
+  Marking  845 for deletion
+  Marking  846 for deletion
+  Marking  847 for deletion
+  Marking  851 for deletion
+  Marking  856 for deletion
+  Marking  857 for deletion
+  Marking  864 for deletion
+  Marking  868 for deletion
+  Marking  869 for deletion
+  Marking  871 for deletion
+  Marking  874 for deletion
+  Marking  875 for deletion
+  Marking  876 for deletion
+  Marking  877 for deletion
+  Marking  878 for deletion
+  Marking  879 for deletion
+  Marking  880 for deletion
+  Marking  882 for deletion
+  Marking  883 for deletion
+  Marking  884 for deletion
+  Marking  888 for deletion
+  Marking  891 for deletion
+  Marking  893 for deletion
+  Marking  895 for deletion
+  Marking  897 for deletion
+  Marking  898 for deletion
+  Marking  902 for deletion
+  Marking  903 for deletion
+  Marking  905 for deletion
+  Marking  907 for deletion
+  Marking  908 for deletion
+  Marking  910 for deletion
+  Marking  912 for deletion
+  Marking  918 for deletion
+  Marking  919 for deletion
+  Marking  921 for deletion
+  Marking  922 for deletion
+  Marking  924 for deletion
+  Marking  925 for deletion
+  Marking  926 for deletion
+  Marking  929 for deletion
+  Marking  930 for deletion
+  Marking  932 for deletion
+  Marking  933 for deletion
+  Marking  935 for deletion
+  Marking  936 for deletion
+  Marking  939 for deletion
+  Marking  940 for deletion
+  Marking  942 for deletion
+  Marking  943 for deletion
+  Marking  944 for deletion
+  Marking  946 for deletion
+  Marking  947 for deletion
+  Marking  951 for deletion
+  Marking  957 for deletion
+  Marking  958 for deletion
+  Marking  961 for deletion
+  Marking  962 for deletion
+  Marking  963 for deletion
+  Marking  965 for deletion
+  Marking  966 for deletion
+  Marking  967 for deletion
+  Marking  969 for deletion
+  Marking  971 for deletion
+  Marking  974 for deletion
+  Marking  976 for deletion
+  Marking  978 for deletion
+  Marking  979 for deletion
+  Marking  981 for deletion
+  Marking  983 for deletion
+  Marking  984 for deletion
+  Marking  985 for deletion
+  Marking  986 for deletion
+  Marking  987 for deletion
+  Marking  988 for deletion
+  Marking  989 for deletion
+  Marking  990 for deletion
+  Marking  991 for deletion
+  Marking  992 for deletion
+  Marking  993 for deletion
+  Marking  994 for deletion
+  Marking  995 for deletion
+  Marking  999 for deletion
+Marked 507 numbers for deletion.
+Deleting marked numbers...
+  Deleting number  999
+  Deleting number  995
+  Deleting number  994
+  Deleting number  993
+  Deleting number  992
+  Deleting number  991
+  Deleting number  990
+  Deleting number  989
+  Deleting number  988
+  Deleting number  987
+  Deleting number  986
+  Deleting number  985
+  Deleting number  984
+  Deleting number  983
+  Deleting number  981
+  Deleting number  979
+  Deleting number  978
+  Deleting number  976
+  Deleting number  974
+  Deleting number  971
+  Deleting number  969
+  Deleting number  967
+  Deleting number  966
+  Deleting number  965
+  Deleting number  963
+  Deleting number  962
+  Deleting number  961
+  Deleting number  958
+  Deleting number  957
+  Deleting number  951
+  Deleting number  947
+  Deleting number  946
+  Deleting number  944
+  Deleting number  943
+  Deleting number  942
+  Deleting number  940
+  Deleting number  939
+  Deleting number  936
+  Deleting number  935
+  Deleting number  933
+  Deleting number  932
+  Deleting number  930
+  Deleting number  929
+  Deleting number  926
+  Deleting number  925
+  Deleting number  924
+  Deleting number  922
+  Deleting number  921
+  Deleting number  919
+  Deleting number  918
+  Deleting number  912
+  Deleting number  910
+  Deleting number  908
+  Deleting number  907
+  Deleting number  905
+  Deleting number  903
+  Deleting number  902
+  Deleting number  898
+  Deleting number  897
+  Deleting number  895
+  Deleting number  893
+  Deleting number  891
+  Deleting number  888
+  Deleting number  884
+  Deleting number  883
+  Deleting number  882
+  Deleting number  880
+  Deleting number  879
+  Deleting number  878
+  Deleting number  877
+  Deleting number  876
+  Deleting number  875
+  Deleting number  874
+  Deleting number  871
+  Deleting number  869
+  Deleting number  868
+  Deleting number  864
+  Deleting number  857
+  Deleting number  856
+  Deleting number  851
+  Deleting number  847
+  Deleting number  846
+  Deleting number  845
+  Deleting number  843
+  Deleting number  842
+  Deleting number  841
+  Deleting number  839
+  Deleting number  838
+  Deleting number  837
+  Deleting number  834
+  Deleting number  832
+  Deleting number  824
+  Deleting number  823
+  Deleting number  822
+  Deleting number  821
+  Deleting number  818
+  Deleting number  815
+  Deleting number  813
+  Deleting number  810
+  Deleting number  808
+  Deleting number  804
+  Deleting number  802
+  Deleting number  800
+  Deleting number  797
+  Deleting number  794
+  Deleting number  792
+  Deleting number  790
+  Deleting number  789
+  Deleting number  788
+  Deleting number  787
+  Deleting number  786
+  Deleting number  783
+  Deleting number  782
+  Deleting number  774
+  Deleting number  773
+  Deleting number  772
+  Deleting number  771
+  Deleting number  770
+  Deleting number  769
+  Deleting number  768
+  Deleting number  767
+  Deleting number  763
+  Deleting number  760
+  Deleting number  758
+  Deleting number  757
+  Deleting number  756
+  Deleting number  754
+  Deleting number  746
+  Deleting number  743
+  Deleting number  742
+  Deleting number  741
+  Deleting number  740
+  Deleting number  736
+  Deleting number  732
+  Deleting number  730
+  Deleting number  726
+  Deleting number  725
+  Deleting number  724
+  Deleting number  717
+  Deleting number  715
+  Deleting number  713
+  Deleting number  708
+  Deleting number  707
+  Deleting number  704
+  Deleting number  698
+  Deleting number  697
+  Deleting number  696
+  Deleting number  693
+  Deleting number  691
+  Deleting number  690
+  Deleting number  686
+  Deleting number  683
+  Deleting number  681
+  Deleting number  680
+  Deleting number  679
+  Deleting number  678
+  Deleting number  674
+  Deleting number  672
+  Deleting number  671
+  Deleting number  665
+  Deleting number  664
+  Deleting number  663
+  Deleting number  661
+  Deleting number  660
+  Deleting number  658
+  Deleting number  654
+  Deleting number  652
+  Deleting number  648
+  Deleting number  646
+  Deleting number  644
+  Deleting number  643
+  Deleting number  640
+  Deleting number  639
+  Deleting number  636
+  Deleting number  635
+  Deleting number  633
+  Deleting number  629
+  Deleting number  628
+  Deleting number  626
+  Deleting number  624
+  Deleting number  623
+  Deleting number  622
+  Deleting number  620
+  Deleting number  619
+  Deleting number  616
+  Deleting number  615
+  Deleting number  614
+  Deleting number  613
+  Deleting number  611
+  Deleting number  605
+  Deleting number  604
+  Deleting number  603
+  Deleting number  602
+  Deleting number  601
+  Deleting number  600
+  Deleting number  599
+  Deleting number  597
+  Deleting number  596
+  Deleting number  595
+  Deleting number  592
+  Deleting number  590
+  Deleting number  589
+  Deleting number  588
+  Deleting number  587
+  Deleting number  586
+  Deleting number  584
+  Deleting number  583
+  Deleting number  579
+  Deleting number  578
+  Deleting number  577
+  Deleting number  576
+  Deleting number  574
+  Deleting number  573
+  Deleting number  571
+  Deleting number  570
+  Deleting number  569
+  Deleting number  564
+  Deleting number  563
+  Deleting number  561
+  Deleting number  554
+  Deleting number  552
+  Deleting number  545
+  Deleting number  541
+  Deleting number  539
+  Deleting number  538
+  Deleting number  537
+  Deleting number  536
+  Deleting number  535
+  Deleting number  531
+  Deleting number  528
+  Deleting number  527
+  Deleting number  523
+  Deleting number  521
+  Deleting number  518
+  Deleting number  517
+  Deleting number  516
+  Deleting number  515
+  Deleting number  513
+  Deleting number  512
+  Deleting number  511
+  Deleting number  510
+  Deleting number  507
+  Deleting number  505
+  Deleting number  502
+  Deleting number  501
+  Deleting number  500
+  Deleting number  499
+  Deleting number  498
+  Deleting number  495
+  Deleting number  494
+  Deleting number  492
+  Deleting number  486
+  Deleting number  480
+  Deleting number  477
+  Deleting number  476
+  Deleting number  474
+  Deleting number  471
+  Deleting number  470
+  Deleting number  467
+  Deleting number  463
+  Deleting number  462
+  Deleting number  461
+  Deleting number  457
+  Deleting number  454
+  Deleting number  452
+  Deleting number  450
+  Deleting number  449
+  Deleting number  447
+  Deleting number  445
+  Deleting number  443
+  Deleting number  442
+  Deleting number  438
+  Deleting number  435
+  Deleting number  433
+  Deleting number  431
+  Deleting number  430
+  Deleting number  429
+  Deleting number  428
+  Deleting number  426
+  Deleting number  424
+  Deleting number  418
+  Deleting number  412
+  Deleting number  411
+  Deleting number  409
+  Deleting number  407
+  Deleting number  405
+  Deleting number  403
+  Deleting number  400
+  Deleting number  399
+  Deleting number  398
+  Deleting number  397
+  Deleting number  394
+  Deleting number  393
+  Deleting number  392
+  Deleting number  391
+  Deleting number  390
+  Deleting number  388
+  Deleting number  386
+  Deleting number  385
+  Deleting number  384
+  Deleting number  383
+  Deleting number  379
+  Deleting number  378
+  Deleting number  376
+  Deleting number  375
+  Deleting number  374
+  Deleting number  372
+  Deleting number  370
+  Deleting number  368
+  Deleting number  365
+  Deleting number  364
+  Deleting number  362
+  Deleting number  361
+  Deleting number  360
+  Deleting number  353
+  Deleting number  352
+  Deleting number  350
+  Deleting number  349
+  Deleting number  346
+  Deleting number  345
+  Deleting number  344
+  Deleting number  343
+  Deleting number  342
+  Deleting number  341
+  Deleting number  337
+  Deleting number  335
+  Deleting number  334
+  Deleting number  333
+  Deleting number  332
+  Deleting number  325
+  Deleting number  324
+  Deleting number  322
+  Deleting number  321
+  Deleting number  320
+  Deleting number  317
+  Deleting number  316
+  Deleting number  315
+  Deleting number  314
+  Deleting number  312
+  Deleting number  310
+  Deleting number  309
+  Deleting number  308
+  Deleting number  306
+  Deleting number  305
+  Deleting number  303
+  Deleting number  302
+  Deleting number  300
+  Deleting number  299
+  Deleting number  298
+  Deleting number  297
+  Deleting number  296
+  Deleting number  294
+  Deleting number  293
+  Deleting number  290
+  Deleting number  289
+  Deleting number  288
+  Deleting number  287
+  Deleting number  286
+  Deleting number  285
+  Deleting number  284
+  Deleting number  283
+  Deleting number  282
+  Deleting number  280
+  Deleting number  279
+  Deleting number  274
+  Deleting number  273
+  Deleting number  272
+  Deleting number  271
+  Deleting number  270
+  Deleting number  268
+  Deleting number  267
+  Deleting number  264
+  Deleting number  262
+  Deleting number  259
+  Deleting number  258
+  Deleting number  257
+  Deleting number  256
+  Deleting number  252
+  Deleting number  251
+  Deleting number  249
+  Deleting number  248
+  Deleting number  247
+  Deleting number  246
+  Deleting number  243
+  Deleting number  242
+  Deleting number  241
+  Deleting number  238
+  Deleting number  236
+  Deleting number  235
+  Deleting number  233
+  Deleting number  230
+  Deleting number  229
+  Deleting number  224
+  Deleting number  223
+  Deleting number  221
+  Deleting number  220
+  Deleting number  219
+  Deleting number  217
+  Deleting number  213
+  Deleting number  212
+  Deleting number  211
+  Deleting number  205
+  Deleting number  203
+  Deleting number  202
+  Deleting number  199
+  Deleting number  198
+  Deleting number  196
+  Deleting number  191
+  Deleting number  190
+  Deleting number  188
+  Deleting number  187
+  Deleting number  185
+  Deleting number  184
+  Deleting number  182
+  Deleting number  179
+  Deleting number  177
+  Deleting number  176
+  Deleting number  175
+  Deleting number  169
+  Deleting number  168
+  Deleting number  167
+  Deleting number  166
+  Deleting number  163
+  Deleting number  162
+  Deleting number  161
+  Deleting number  160
+  Deleting number  157
+  Deleting number  155
+  Deleting number  154
+  Deleting number  153
+  Deleting number  150
+  Deleting number  148
+  Deleting number  147
+  Deleting number  146
+  Deleting number  144
+  Deleting number  143
+  Deleting number  142
+  Deleting number  141
+  Deleting number  140
+  Deleting number  139
+  Deleting number  137
+  Deleting number  136
+  Deleting number  130
+  Deleting number  128
+  Deleting number  126
+  Deleting number  123
+  Deleting number  121
+  Deleting number  120
+  Deleting number  119
+  Deleting number  117
+  Deleting number  116
+  Deleting number  115
+  Deleting number  112
+  Deleting number  111
+  Deleting number  107
+  Deleting number  105
+  Deleting number  102
+  Deleting number  101
+  Deleting number  100
+  Deleting number   98
+  Deleting number   96
+  Deleting number   95
+  Deleting number   94
+  Deleting number   93
+  Deleting number   92
+  Deleting number   89
+  Deleting number   84
+  Deleting number   81
+  Deleting number   80
+  Deleting number   79
+  Deleting number   78
+  Deleting number   77
+  Deleting number   76
+  Deleting number   74
+  Deleting number   72
+  Deleting number   71
+  Deleting number   70
+  Deleting number   67
+  Deleting number   66
+  Deleting number   64
+  Deleting number   63
+  Deleting number   62
+  Deleting number   61
+  Deleting number   60
+  Deleting number   59
+  Deleting number   55
+  Deleting number   54
+  Deleting number   51
+  Deleting number   50
+  Deleting number   49
+  Deleting number   45
+  Deleting number   44
+  Deleting number   40
+  Deleting number   34
+  Deleting number   32
+  Deleting number   30
+  Deleting number   29
+  Deleting number   28
+  Deleting number   20
+  Deleting number   17
+  Deleting number   15
+  Deleting number   14
+  Deleting number    9
+  Deleting number    7
+  Deleting number    5
+  Deleting number    2
+  Deleting number    1
+493 numbers remain.
+
+Counting numbers for bit  1
+     1 has a 1 at  1:   0 -->   0
+     2 has a 1 at  1:   1 -->   1
+     4 has a 1 at  1:   2 -->   2
+    10 has a 1 at  1:   3 -->   3
+    11 has a 1 at  1:   4 -->   4
+    17 has a 1 at  1:   5 -->   5
+    18 has a 1 at  1:   6 -->   6
+    20 has a 1 at  1:   7 -->   7
+    21 has a 1 at  1:   8 -->   8
+    23 has a 1 at  1:   9 -->   9
+    26 has a 1 at  1:  10 -->  10
+    28 has a 1 at  1:  11 -->  11
+    29 has a 1 at  1:  12 -->  12
+    30 has a 1 at  1:  13 -->  13
+    31 has a 1 at  1:  14 -->  14
+    32 has a 1 at  1:  15 -->  15
+    33 has a 1 at  1:  16 -->  16
+    34 has a 1 at  1:  17 -->  17
+    38 has a 1 at  1:  18 -->  18
+    41 has a 1 at  1:  19 -->  19
+    42 has a 1 at  1:  20 -->  20
+    43 has a 1 at  1:  21 -->  21
+    49 has a 1 at  1:  22 -->  22
+    51 has a 1 at  1:  23 -->  23
+    53 has a 1 at  1:  24 -->  24
+    54 has a 1 at  1:  25 -->  25
+    55 has a 1 at  1:  26 -->  26
+    57 has a 1 at  1:  27 -->  27
+    59 has a 1 at  1:  28 -->  28
+    60 has a 1 at  1:  29 -->  29
+    61 has a 1 at  1:  30 -->  30
+    68 has a 1 at  1:  31 -->  31
+    72 has a 1 at  1:  32 -->  32
+    73 has a 1 at  1:  33 -->  33
+    76 has a 1 at  1:  34 -->  34
+    77 has a 1 at  1:  35 -->  35
+    79 has a 1 at  1:  36 -->  36
+    80 has a 1 at  1:  37 -->  37
+    82 has a 1 at  1:  38 -->  38
+    83 has a 1 at  1:  39 -->  39
+    85 has a 1 at  1:  40 -->  40
+    90 has a 1 at  1:  41 -->  41
+    92 has a 1 at  1:  42 -->  42
+   101 has a 1 at  1:  43 -->  43
+   102 has a 1 at  1:  44 -->  44
+   103 has a 1 at  1:  45 -->  45
+   104 has a 1 at  1:  46 -->  46
+   105 has a 1 at  1:  47 -->  47
+   107 has a 1 at  1:  48 -->  48
+   108 has a 1 at  1:  49 -->  49
+   110 has a 1 at  1:  50 -->  50
+   112 has a 1 at  1:  51 -->  51
+   116 has a 1 at  1:  52 -->  52
+   118 has a 1 at  1:  53 -->  53
+   121 has a 1 at  1:  54 -->  54
+   122 has a 1 at  1:  55 -->  55
+   123 has a 1 at  1:  56 -->  56
+   129 has a 1 at  1:  57 -->  57
+   130 has a 1 at  1:  58 -->  58
+   131 has a 1 at  1:  59 -->  59
+   134 has a 1 at  1:  60 -->  60
+   135 has a 1 at  1:  61 -->  61
+   136 has a 1 at  1:  62 -->  62
+   139 has a 1 at  1:  63 -->  63
+   140 has a 1 at  1:  64 -->  64
+   141 has a 1 at  1:  65 -->  65
+   143 has a 1 at  1:  66 -->  66
+   144 has a 1 at  1:  67 -->  67
+   147 has a 1 at  1:  68 -->  68
+   152 has a 1 at  1:  69 -->  69
+   153 has a 1 at  1:  70 -->  70
+   154 has a 1 at  1:  71 -->  71
+   156 has a 1 at  1:  72 -->  72
+   158 has a 1 at  1:  73 -->  73
+   159 has a 1 at  1:  74 -->  74
+   160 has a 1 at  1:  75 -->  75
+   161 has a 1 at  1:  76 -->  76
+   163 has a 1 at  1:  77 -->  77
+   165 has a 1 at  1:  78 -->  78
+   167 has a 1 at  1:  79 -->  79
+   168 has a 1 at  1:  80 -->  80
+   169 has a 1 at  1:  81 -->  81
+   171 has a 1 at  1:  82 -->  82
+   173 has a 1 at  1:  83 -->  83
+   174 has a 1 at  1:  84 -->  84
+   175 has a 1 at  1:  85 -->  85
+   176 has a 1 at  1:  86 -->  86
+   177 has a 1 at  1:  87 -->  87
+   181 has a 1 at  1:  88 -->  88
+   182 has a 1 at  1:  89 -->  89
+   183 has a 1 at  1:  90 -->  90
+   184 has a 1 at  1:  91 -->  91
+   185 has a 1 at  1:  92 -->  92
+   187 has a 1 at  1:  93 -->  93
+   188 has a 1 at  1:  94 -->  94
+   190 has a 1 at  1:  95 -->  95
+   191 has a 1 at  1:  96 -->  96
+   192 has a 1 at  1:  97 -->  97
+   193 has a 1 at  1:  98 -->  98
+   194 has a 1 at  1:  99 -->  99
+   195 has a 1 at  1: 100 --> 100
+   199 has a 1 at  1: 101 --> 101
+   200 has a 1 at  1: 102 --> 102
+   201 has a 1 at  1: 103 --> 103
+   205 has a 1 at  1: 104 --> 104
+   207 has a 1 at  1: 105 --> 105
+   209 has a 1 at  1: 106 --> 106
+   210 has a 1 at  1: 107 --> 107
+   211 has a 1 at  1: 108 --> 108
+   214 has a 1 at  1: 109 --> 109
+   218 has a 1 at  1: 110 --> 110
+   219 has a 1 at  1: 111 --> 111
+   221 has a 1 at  1: 112 --> 112
+   222 has a 1 at  1: 113 --> 113
+   224 has a 1 at  1: 114 --> 114
+   226 has a 1 at  1: 115 --> 115
+   227 has a 1 at  1: 116 --> 116
+   228 has a 1 at  1: 117 --> 117
+   238 has a 1 at  1: 118 --> 118
+   239 has a 1 at  1: 119 --> 119
+   244 has a 1 at  1: 120 --> 120
+   250 has a 1 at  1: 121 --> 121
+   251 has a 1 at  1: 122 --> 122
+   252 has a 1 at  1: 123 --> 123
+   258 has a 1 at  1: 124 --> 124
+   261 has a 1 at  1: 125 --> 125
+   263 has a 1 at  1: 126 --> 126
+   264 has a 1 at  1: 127 --> 127
+   266 has a 1 at  1: 128 --> 128
+   268 has a 1 at  1: 129 --> 129
+   269 has a 1 at  1: 130 --> 130
+   274 has a 1 at  1: 131 --> 131
+   276 has a 1 at  1: 132 --> 132
+   277 has a 1 at  1: 133 --> 133
+   278 has a 1 at  1: 134 --> 134
+   282 has a 1 at  1: 135 --> 135
+   283 has a 1 at  1: 136 --> 136
+   284 has a 1 at  1: 137 --> 137
+   286 has a 1 at  1: 138 --> 138
+   287 has a 1 at  1: 139 --> 139
+   290 has a 1 at  1: 140 --> 140
+   293 has a 1 at  1: 141 --> 141
+   298 has a 1 at  1: 142 --> 142
+   300 has a 1 at  1: 143 --> 143
+   304 has a 1 at  1: 144 --> 144
+   308 has a 1 at  1: 145 --> 145
+   309 has a 1 at  1: 146 --> 146
+   311 has a 1 at  1: 147 --> 147
+   313 has a 1 at  1: 148 --> 148
+   314 has a 1 at  1: 149 --> 149
+   315 has a 1 at  1: 150 --> 150
+   318 has a 1 at  1: 151 --> 151
+   321 has a 1 at  1: 152 --> 152
+   322 has a 1 at  1: 153 --> 153
+   323 has a 1 at  1: 154 --> 154
+   324 has a 1 at  1: 155 --> 155
+   325 has a 1 at  1: 156 --> 156
+   326 has a 1 at  1: 157 --> 157
+   327 has a 1 at  1: 158 --> 158
+   328 has a 1 at  1: 159 --> 159
+   329 has a 1 at  1: 160 --> 160
+   330 has a 1 at  1: 161 --> 161
+   332 has a 1 at  1: 162 --> 162
+   334 has a 1 at  1: 163 --> 163
+   337 has a 1 at  1: 164 --> 164
+   344 has a 1 at  1: 165 --> 165
+   345 has a 1 at  1: 166 --> 166
+   346 has a 1 at  1: 167 --> 167
+   349 has a 1 at  1: 168 --> 168
+   350 has a 1 at  1: 169 --> 169
+   351 has a 1 at  1: 170 --> 170
+   353 has a 1 at  1: 171 --> 171
+   354 has a 1 at  1: 172 --> 172
+   355 has a 1 at  1: 173 --> 173
+   356 has a 1 at  1: 174 --> 174
+   358 has a 1 at  1: 175 --> 175
+   359 has a 1 at  1: 176 --> 176
+   360 has a 1 at  1: 177 --> 177
+   363 has a 1 at  1: 178 --> 178
+   366 has a 1 at  1: 179 --> 179
+   367 has a 1 at  1: 180 --> 180
+   368 has a 1 at  1: 181 --> 181
+   369 has a 1 at  1: 182 --> 182
+   370 has a 1 at  1: 183 --> 183
+   371 has a 1 at  1: 184 --> 184
+   372 has a 1 at  1: 185 --> 185
+   373 has a 1 at  1: 186 --> 186
+   375 has a 1 at  1: 187 --> 187
+   376 has a 1 at  1: 188 --> 188
+   377 has a 1 at  1: 189 --> 189
+   379 has a 1 at  1: 190 --> 190
+   380 has a 1 at  1: 191 --> 191
+   381 has a 1 at  1: 192 --> 192
+   382 has a 1 at  1: 193 --> 193
+   383 has a 1 at  1: 194 --> 194
+   385 has a 1 at  1: 195 --> 195
+   386 has a 1 at  1: 196 --> 196
+   388 has a 1 at  1: 197 --> 197
+   389 has a 1 at  1: 198 --> 198
+   390 has a 1 at  1: 199 --> 199
+   392 has a 1 at  1: 200 --> 200
+   395 has a 1 at  1: 201 --> 201
+   397 has a 1 at  1: 202 --> 202
+   398 has a 1 at  1: 203 --> 203
+   401 has a 1 at  1: 204 --> 204
+   404 has a 1 at  1: 205 --> 205
+   407 has a 1 at  1: 206 --> 206
+   408 has a 1 at  1: 207 --> 207
+   409 has a 1 at  1: 208 --> 208
+   416 has a 1 at  1: 209 --> 209
+   418 has a 1 at  1: 210 --> 210
+   419 has a 1 at  1: 211 --> 211
+   421 has a 1 at  1: 212 --> 212
+   422 has a 1 at  1: 213 --> 213
+   423 has a 1 at  1: 214 --> 214
+   426 has a 1 at  1: 215 --> 215
+   430 has a 1 at  1: 216 --> 216
+   431 has a 1 at  1: 217 --> 217
+   432 has a 1 at  1: 218 --> 218
+   435 has a 1 at  1: 219 --> 219
+   436 has a 1 at  1: 220 --> 220
+   439 has a 1 at  1: 221 --> 221
+   440 has a 1 at  1: 222 --> 222
+   442 has a 1 at  1: 223 --> 223
+   443 has a 1 at  1: 224 --> 224
+   444 has a 1 at  1: 225 --> 225
+   445 has a 1 at  1: 226 --> 226
+   449 has a 1 at  1: 227 --> 227
+   451 has a 1 at  1: 228 --> 228
+   452 has a 1 at  1: 229 --> 229
+   454 has a 1 at  1: 230 --> 230
+   455 has a 1 at  1: 231 --> 231
+   457 has a 1 at  1: 232 --> 232
+   460 has a 1 at  1: 233 --> 233
+   461 has a 1 at  1: 234 --> 234
+   462 has a 1 at  1: 235 --> 235
+   463 has a 1 at  1: 236 --> 236
+   470 has a 1 at  1: 237 --> 237
+   471 has a 1 at  1: 238 --> 238
+   473 has a 1 at  1: 239 --> 239
+   475 has a 1 at  1: 240 --> 240
+   476 has a 1 at  1: 241 --> 241
+   481 has a 1 at  1: 242 --> 242
+   482 has a 1 at  1: 243 --> 243
+   483 has a 1 at  1: 244 --> 244
+   484 has a 1 at  1: 245 --> 245
+   491 has a 1 at  1: 246 --> 246
+Bit  1 was set 247 times.
+Marking 1s for deletion: True
+  Marking    1 for deletion
+  Marking    2 for deletion
+  Marking    4 for deletion
+  Marking   10 for deletion
+  Marking   11 for deletion
+  Marking   17 for deletion
+  Marking   18 for deletion
+  Marking   20 for deletion
+  Marking   21 for deletion
+  Marking   23 for deletion
+  Marking   26 for deletion
+  Marking   28 for deletion
+  Marking   29 for deletion
+  Marking   30 for deletion
+  Marking   31 for deletion
+  Marking   32 for deletion
+  Marking   33 for deletion
+  Marking   34 for deletion
+  Marking   38 for deletion
+  Marking   41 for deletion
+  Marking   42 for deletion
+  Marking   43 for deletion
+  Marking   49 for deletion
+  Marking   51 for deletion
+  Marking   53 for deletion
+  Marking   54 for deletion
+  Marking   55 for deletion
+  Marking   57 for deletion
+  Marking   59 for deletion
+  Marking   60 for deletion
+  Marking   61 for deletion
+  Marking   68 for deletion
+  Marking   72 for deletion
+  Marking   73 for deletion
+  Marking   76 for deletion
+  Marking   77 for deletion
+  Marking   79 for deletion
+  Marking   80 for deletion
+  Marking   82 for deletion
+  Marking   83 for deletion
+  Marking   85 for deletion
+  Marking   90 for deletion
+  Marking   92 for deletion
+  Marking  101 for deletion
+  Marking  102 for deletion
+  Marking  103 for deletion
+  Marking  104 for deletion
+  Marking  105 for deletion
+  Marking  107 for deletion
+  Marking  108 for deletion
+  Marking  110 for deletion
+  Marking  112 for deletion
+  Marking  116 for deletion
+  Marking  118 for deletion
+  Marking  121 for deletion
+  Marking  122 for deletion
+  Marking  123 for deletion
+  Marking  129 for deletion
+  Marking  130 for deletion
+  Marking  131 for deletion
+  Marking  134 for deletion
+  Marking  135 for deletion
+  Marking  136 for deletion
+  Marking  139 for deletion
+  Marking  140 for deletion
+  Marking  141 for deletion
+  Marking  143 for deletion
+  Marking  144 for deletion
+  Marking  147 for deletion
+  Marking  152 for deletion
+  Marking  153 for deletion
+  Marking  154 for deletion
+  Marking  156 for deletion
+  Marking  158 for deletion
+  Marking  159 for deletion
+  Marking  160 for deletion
+  Marking  161 for deletion
+  Marking  163 for deletion
+  Marking  165 for deletion
+  Marking  167 for deletion
+  Marking  168 for deletion
+  Marking  169 for deletion
+  Marking  171 for deletion
+  Marking  173 for deletion
+  Marking  174 for deletion
+  Marking  175 for deletion
+  Marking  176 for deletion
+  Marking  177 for deletion
+  Marking  181 for deletion
+  Marking  182 for deletion
+  Marking  183 for deletion
+  Marking  184 for deletion
+  Marking  185 for deletion
+  Marking  187 for deletion
+  Marking  188 for deletion
+  Marking  190 for deletion
+  Marking  191 for deletion
+  Marking  192 for deletion
+  Marking  193 for deletion
+  Marking  194 for deletion
+  Marking  195 for deletion
+  Marking  199 for deletion
+  Marking  200 for deletion
+  Marking  201 for deletion
+  Marking  205 for deletion
+  Marking  207 for deletion
+  Marking  209 for deletion
+  Marking  210 for deletion
+  Marking  211 for deletion
+  Marking  214 for deletion
+  Marking  218 for deletion
+  Marking  219 for deletion
+  Marking  221 for deletion
+  Marking  222 for deletion
+  Marking  224 for deletion
+  Marking  226 for deletion
+  Marking  227 for deletion
+  Marking  228 for deletion
+  Marking  238 for deletion
+  Marking  239 for deletion
+  Marking  244 for deletion
+  Marking  250 for deletion
+  Marking  251 for deletion
+  Marking  252 for deletion
+  Marking  258 for deletion
+  Marking  261 for deletion
+  Marking  263 for deletion
+  Marking  264 for deletion
+  Marking  266 for deletion
+  Marking  268 for deletion
+  Marking  269 for deletion
+  Marking  274 for deletion
+  Marking  276 for deletion
+  Marking  277 for deletion
+  Marking  278 for deletion
+  Marking  282 for deletion
+  Marking  283 for deletion
+  Marking  284 for deletion
+  Marking  286 for deletion
+  Marking  287 for deletion
+  Marking  290 for deletion
+  Marking  293 for deletion
+  Marking  298 for deletion
+  Marking  300 for deletion
+  Marking  304 for deletion
+  Marking  308 for deletion
+  Marking  309 for deletion
+  Marking  311 for deletion
+  Marking  313 for deletion
+  Marking  314 for deletion
+  Marking  315 for deletion
+  Marking  318 for deletion
+  Marking  321 for deletion
+  Marking  322 for deletion
+  Marking  323 for deletion
+  Marking  324 for deletion
+  Marking  325 for deletion
+  Marking  326 for deletion
+  Marking  327 for deletion
+  Marking  328 for deletion
+  Marking  329 for deletion
+  Marking  330 for deletion
+  Marking  332 for deletion
+  Marking  334 for deletion
+  Marking  337 for deletion
+  Marking  344 for deletion
+  Marking  345 for deletion
+  Marking  346 for deletion
+  Marking  349 for deletion
+  Marking  350 for deletion
+  Marking  351 for deletion
+  Marking  353 for deletion
+  Marking  354 for deletion
+  Marking  355 for deletion
+  Marking  356 for deletion
+  Marking  358 for deletion
+  Marking  359 for deletion
+  Marking  360 for deletion
+  Marking  363 for deletion
+  Marking  366 for deletion
+  Marking  367 for deletion
+  Marking  368 for deletion
+  Marking  369 for deletion
+  Marking  370 for deletion
+  Marking  371 for deletion
+  Marking  372 for deletion
+  Marking  373 for deletion
+  Marking  375 for deletion
+  Marking  376 for deletion
+  Marking  377 for deletion
+  Marking  379 for deletion
+  Marking  380 for deletion
+  Marking  381 for deletion
+  Marking  382 for deletion
+  Marking  383 for deletion
+  Marking  385 for deletion
+  Marking  386 for deletion
+  Marking  388 for deletion
+  Marking  389 for deletion
+  Marking  390 for deletion
+  Marking  392 for deletion
+  Marking  395 for deletion
+  Marking  397 for deletion
+  Marking  398 for deletion
+  Marking  401 for deletion
+  Marking  404 for deletion
+  Marking  407 for deletion
+  Marking  408 for deletion
+  Marking  409 for deletion
+  Marking  416 for deletion
+  Marking  418 for deletion
+  Marking  419 for deletion
+  Marking  421 for deletion
+  Marking  422 for deletion
+  Marking  423 for deletion
+  Marking  426 for deletion
+  Marking  430 for deletion
+  Marking  431 for deletion
+  Marking  432 for deletion
+  Marking  435 for deletion
+  Marking  436 for deletion
+  Marking  439 for deletion
+  Marking  440 for deletion
+  Marking  442 for deletion
+  Marking  443 for deletion
+  Marking  444 for deletion
+  Marking  445 for deletion
+  Marking  449 for deletion
+  Marking  451 for deletion
+  Marking  452 for deletion
+  Marking  454 for deletion
+  Marking  455 for deletion
+  Marking  457 for deletion
+  Marking  460 for deletion
+  Marking  461 for deletion
+  Marking  462 for deletion
+  Marking  463 for deletion
+  Marking  470 for deletion
+  Marking  471 for deletion
+  Marking  473 for deletion
+  Marking  475 for deletion
+  Marking  476 for deletion
+  Marking  481 for deletion
+  Marking  482 for deletion
+  Marking  483 for deletion
+  Marking  484 for deletion
+  Marking  491 for deletion
+Marked 247 numbers for deletion.
+Deleting marked numbers...
+  Deleting number  491
+  Deleting number  484
+  Deleting number  483
+  Deleting number  482
+  Deleting number  481
+  Deleting number  476
+  Deleting number  475
+  Deleting number  473
+  Deleting number  471
+  Deleting number  470
+  Deleting number  463
+  Deleting number  462
+  Deleting number  461
+  Deleting number  460
+  Deleting number  457
+  Deleting number  455
+  Deleting number  454
+  Deleting number  452
+  Deleting number  451
+  Deleting number  449
+  Deleting number  445
+  Deleting number  444
+  Deleting number  443
+  Deleting number  442
+  Deleting number  440
+  Deleting number  439
+  Deleting number  436
+  Deleting number  435
+  Deleting number  432
+  Deleting number  431
+  Deleting number  430
+  Deleting number  426
+  Deleting number  423
+  Deleting number  422
+  Deleting number  421
+  Deleting number  419
+  Deleting number  418
+  Deleting number  416
+  Deleting number  409
+  Deleting number  408
+  Deleting number  407
+  Deleting number  404
+  Deleting number  401
+  Deleting number  398
+  Deleting number  397
+  Deleting number  395
+  Deleting number  392
+  Deleting number  390
+  Deleting number  389
+  Deleting number  388
+  Deleting number  386
+  Deleting number  385
+  Deleting number  383
+  Deleting number  382
+  Deleting number  381
+  Deleting number  380
+  Deleting number  379
+  Deleting number  377
+  Deleting number  376
+  Deleting number  375
+  Deleting number  373
+  Deleting number  372
+  Deleting number  371
+  Deleting number  370
+  Deleting number  369
+  Deleting number  368
+  Deleting number  367
+  Deleting number  366
+  Deleting number  363
+  Deleting number  360
+  Deleting number  359
+  Deleting number  358
+  Deleting number  356
+  Deleting number  355
+  Deleting number  354
+  Deleting number  353
+  Deleting number  351
+  Deleting number  350
+  Deleting number  349
+  Deleting number  346
+  Deleting number  345
+  Deleting number  344
+  Deleting number  337
+  Deleting number  334
+  Deleting number  332
+  Deleting number  330
+  Deleting number  329
+  Deleting number  328
+  Deleting number  327
+  Deleting number  326
+  Deleting number  325
+  Deleting number  324
+  Deleting number  323
+  Deleting number  322
+  Deleting number  321
+  Deleting number  318
+  Deleting number  315
+  Deleting number  314
+  Deleting number  313
+  Deleting number  311
+  Deleting number  309
+  Deleting number  308
+  Deleting number  304
+  Deleting number  300
+  Deleting number  298
+  Deleting number  293
+  Deleting number  290
+  Deleting number  287
+  Deleting number  286
+  Deleting number  284
+  Deleting number  283
+  Deleting number  282
+  Deleting number  278
+  Deleting number  277
+  Deleting number  276
+  Deleting number  274
+  Deleting number  269
+  Deleting number  268
+  Deleting number  266
+  Deleting number  264
+  Deleting number  263
+  Deleting number  261
+  Deleting number  258
+  Deleting number  252
+  Deleting number  251
+  Deleting number  250
+  Deleting number  244
+  Deleting number  239
+  Deleting number  238
+  Deleting number  228
+  Deleting number  227
+  Deleting number  226
+  Deleting number  224
+  Deleting number  222
+  Deleting number  221
+  Deleting number  219
+  Deleting number  218
+  Deleting number  214
+  Deleting number  211
+  Deleting number  210
+  Deleting number  209
+  Deleting number  207
+  Deleting number  205
+  Deleting number  201
+  Deleting number  200
+  Deleting number  199
+  Deleting number  195
+  Deleting number  194
+  Deleting number  193
+  Deleting number  192
+  Deleting number  191
+  Deleting number  190
+  Deleting number  188
+  Deleting number  187
+  Deleting number  185
+  Deleting number  184
+  Deleting number  183
+  Deleting number  182
+  Deleting number  181
+  Deleting number  177
+  Deleting number  176
+  Deleting number  175
+  Deleting number  174
+  Deleting number  173
+  Deleting number  171
+  Deleting number  169
+  Deleting number  168
+  Deleting number  167
+  Deleting number  165
+  Deleting number  163
+  Deleting number  161
+  Deleting number  160
+  Deleting number  159
+  Deleting number  158
+  Deleting number  156
+  Deleting number  154
+  Deleting number  153
+  Deleting number  152
+  Deleting number  147
+  Deleting number  144
+  Deleting number  143
+  Deleting number  141
+  Deleting number  140
+  Deleting number  139
+  Deleting number  136
+  Deleting number  135
+  Deleting number  134
+  Deleting number  131
+  Deleting number  130
+  Deleting number  129
+  Deleting number  123
+  Deleting number  122
+  Deleting number  121
+  Deleting number  118
+  Deleting number  116
+  Deleting number  112
+  Deleting number  110
+  Deleting number  108
+  Deleting number  107
+  Deleting number  105
+  Deleting number  104
+  Deleting number  103
+  Deleting number  102
+  Deleting number  101
+  Deleting number   92
+  Deleting number   90
+  Deleting number   85
+  Deleting number   83
+  Deleting number   82
+  Deleting number   80
+  Deleting number   79
+  Deleting number   77
+  Deleting number   76
+  Deleting number   73
+  Deleting number   72
+  Deleting number   68
+  Deleting number   61
+  Deleting number   60
+  Deleting number   59
+  Deleting number   57
+  Deleting number   55
+  Deleting number   54
+  Deleting number   53
+  Deleting number   51
+  Deleting number   49
+  Deleting number   43
+  Deleting number   42
+  Deleting number   41
+  Deleting number   38
+  Deleting number   34
+  Deleting number   33
+  Deleting number   32
+  Deleting number   31
+  Deleting number   30
+  Deleting number   29
+  Deleting number   28
+  Deleting number   26
+  Deleting number   23
+  Deleting number   21
+  Deleting number   20
+  Deleting number   18
+  Deleting number   17
+  Deleting number   11
+  Deleting number   10
+  Deleting number    4
+  Deleting number    2
+  Deleting number    1
+246 numbers remain.
+
+Counting numbers for bit  2
+     4 has a 1 at  2:   0 -->   0
+     6 has a 1 at  2:   1 -->   1
+     7 has a 1 at  2:   2 -->   2
+     8 has a 1 at  2:   3 -->   3
+    10 has a 1 at  2:   4 -->   4
+    13 has a 1 at  2:   5 -->   5
+    14 has a 1 at  2:   6 -->   6
+    15 has a 1 at  2:   7 -->   7
+    18 has a 1 at  2:   8 -->   8
+    22 has a 1 at  2:   9 -->   9
+    23 has a 1 at  2:  10 -->  10
+    26 has a 1 at  2:  11 -->  11
+    28 has a 1 at  2:  12 -->  12
+    29 has a 1 at  2:  13 -->  13
+    30 has a 1 at  2:  14 -->  14
+    34 has a 1 at  2:  15 -->  15
+    35 has a 1 at  2:  16 -->  16
+    39 has a 1 at  2:  17 -->  17
+    40 has a 1 at  2:  18 -->  18
+    41 has a 1 at  2:  19 -->  19
+    44 has a 1 at  2:  20 -->  20
+    45 has a 1 at  2:  21 -->  21
+    46 has a 1 at  2:  22 -->  22
+    48 has a 1 at  2:  23 -->  23
+    51 has a 1 at  2:  24 -->  24
+    53 has a 1 at  2:  25 -->  25
+    55 has a 1 at  2:  26 -->  26
+    57 has a 1 at  2:  27 -->  27
+    58 has a 1 at  2:  28 -->  28
+    60 has a 1 at  2:  29 -->  29
+    64 has a 1 at  2:  30 -->  30
+    65 has a 1 at  2:  31 -->  31
+    67 has a 1 at  2:  32 -->  32
+    70 has a 1 at  2:  33 -->  33
+    71 has a 1 at  2:  34 -->  34
+    73 has a 1 at  2:  35 -->  35
+    76 has a 1 at  2:  36 -->  36
+    79 has a 1 at  2:  37 -->  37
+    81 has a 1 at  2:  38 -->  38
+    83 has a 1 at  2:  39 -->  39
+    86 has a 1 at  2:  40 -->  40
+    87 has a 1 at  2:  41 -->  41
+    88 has a 1 at  2:  42 -->  42
+    90 has a 1 at  2:  43 -->  43
+    94 has a 1 at  2:  44 -->  44
+    95 has a 1 at  2:  45 -->  45
+    96 has a 1 at  2:  46 -->  46
+    98 has a 1 at  2:  47 -->  47
+    99 has a 1 at  2:  48 -->  48
+   102 has a 1 at  2:  49 -->  49
+   104 has a 1 at  2:  50 -->  50
+   106 has a 1 at  2:  51 -->  51
+   107 has a 1 at  2:  52 -->  52
+   108 has a 1 at  2:  53 -->  53
+   115 has a 1 at  2:  54 -->  54
+   117 has a 1 at  2:  55 -->  55
+   125 has a 1 at  2:  56 -->  56
+   129 has a 1 at  2:  57 -->  57
+   133 has a 1 at  2:  58 -->  58
+   135 has a 1 at  2:  59 -->  59
+   136 has a 1 at  2:  60 -->  60
+   140 has a 1 at  2:  61 -->  61
+   142 has a 1 at  2:  62 -->  62
+   147 has a 1 at  2:  63 -->  63
+   148 has a 1 at  2:  64 -->  64
+   151 has a 1 at  2:  65 -->  65
+   152 has a 1 at  2:  66 -->  66
+   153 has a 1 at  2:  67 -->  67
+   158 has a 1 at  2:  68 -->  68
+   159 has a 1 at  2:  69 -->  69
+   161 has a 1 at  2:  70 -->  70
+   163 has a 1 at  2:  71 -->  71
+   165 has a 1 at  2:  72 -->  72
+   166 has a 1 at  2:  73 -->  73
+   167 has a 1 at  2:  74 -->  74
+   168 has a 1 at  2:  75 -->  75
+   169 has a 1 at  2:  76 -->  76
+   173 has a 1 at  2:  77 -->  77
+   174 has a 1 at  2:  78 -->  78
+   175 has a 1 at  2:  79 -->  79
+   177 has a 1 at  2:  80 -->  80
+   179 has a 1 at  2:  81 -->  81
+   182 has a 1 at  2:  82 -->  82
+   185 has a 1 at  2:  83 -->  83
+   188 has a 1 at  2:  84 -->  84
+   189 has a 1 at  2:  85 -->  85
+   190 has a 1 at  2:  86 -->  86
+   192 has a 1 at  2:  87 -->  87
+   196 has a 1 at  2:  88 -->  88
+   199 has a 1 at  2:  89 -->  89
+   200 has a 1 at  2:  90 -->  90
+   201 has a 1 at  2:  91 -->  91
+   202 has a 1 at  2:  92 -->  92
+   204 has a 1 at  2:  93 -->  93
+   206 has a 1 at  2:  94 -->  94
+   207 has a 1 at  2:  95 -->  95
+   208 has a 1 at  2:  96 -->  96
+   210 has a 1 at  2:  97 -->  97
+   215 has a 1 at  2:  98 -->  98
+   216 has a 1 at  2:  99 -->  99
+   217 has a 1 at  2: 100 --> 100
+   218 has a 1 at  2: 101 --> 101
+   221 has a 1 at  2: 102 --> 102
+   222 has a 1 at  2: 103 --> 103
+   223 has a 1 at  2: 104 --> 104
+   224 has a 1 at  2: 105 --> 105
+   227 has a 1 at  2: 106 --> 106
+   228 has a 1 at  2: 107 --> 107
+   229 has a 1 at  2: 108 --> 108
+   230 has a 1 at  2: 109 --> 109
+   231 has a 1 at  2: 110 --> 110
+   235 has a 1 at  2: 111 --> 111
+   237 has a 1 at  2: 112 --> 112
+   239 has a 1 at  2: 113 --> 113
+   243 has a 1 at  2: 114 --> 114
+   244 has a 1 at  2: 115 --> 115
+   245 has a 1 at  2: 116 --> 116
+Bit  2 was set 117 times.
+Marking 1s for deletion: False
+  Marking    0 for deletion
+  Marking    1 for deletion
+  Marking    2 for deletion
+  Marking    3 for deletion
+  Marking    5 for deletion
+  Marking    9 for deletion
+  Marking   11 for deletion
+  Marking   12 for deletion
+  Marking   16 for deletion
+  Marking   17 for deletion
+  Marking   19 for deletion
+  Marking   20 for deletion
+  Marking   21 for deletion
+  Marking   24 for deletion
+  Marking   25 for deletion
+  Marking   27 for deletion
+  Marking   31 for deletion
+  Marking   32 for deletion
+  Marking   33 for deletion
+  Marking   36 for deletion
+  Marking   37 for deletion
+  Marking   38 for deletion
+  Marking   42 for deletion
+  Marking   43 for deletion
+  Marking   47 for deletion
+  Marking   49 for deletion
+  Marking   50 for deletion
+  Marking   52 for deletion
+  Marking   54 for deletion
+  Marking   56 for deletion
+  Marking   59 for deletion
+  Marking   61 for deletion
+  Marking   62 for deletion
+  Marking   63 for deletion
+  Marking   66 for deletion
+  Marking   68 for deletion
+  Marking   69 for deletion
+  Marking   72 for deletion
+  Marking   74 for deletion
+  Marking   75 for deletion
+  Marking   77 for deletion
+  Marking   78 for deletion
+  Marking   80 for deletion
+  Marking   82 for deletion
+  Marking   84 for deletion
+  Marking   85 for deletion
+  Marking   89 for deletion
+  Marking   91 for deletion
+  Marking   92 for deletion
+  Marking   93 for deletion
+  Marking   97 for deletion
+  Marking  100 for deletion
+  Marking  101 for deletion
+  Marking  103 for deletion
+  Marking  105 for deletion
+  Marking  109 for deletion
+  Marking  110 for deletion
+  Marking  111 for deletion
+  Marking  112 for deletion
+  Marking  113 for deletion
+  Marking  114 for deletion
+  Marking  116 for deletion
+  Marking  118 for deletion
+  Marking  119 for deletion
+  Marking  120 for deletion
+  Marking  121 for deletion
+  Marking  122 for deletion
+  Marking  123 for deletion
+  Marking  124 for deletion
+  Marking  126 for deletion
+  Marking  127 for deletion
+  Marking  128 for deletion
+  Marking  130 for deletion
+  Marking  131 for deletion
+  Marking  132 for deletion
+  Marking  134 for deletion
+  Marking  137 for deletion
+  Marking  138 for deletion
+  Marking  139 for deletion
+  Marking  141 for deletion
+  Marking  143 for deletion
+  Marking  144 for deletion
+  Marking  145 for deletion
+  Marking  146 for deletion
+  Marking  149 for deletion
+  Marking  150 for deletion
+  Marking  154 for deletion
+  Marking  155 for deletion
+  Marking  156 for deletion
+  Marking  157 for deletion
+  Marking  160 for deletion
+  Marking  162 for deletion
+  Marking  164 for deletion
+  Marking  170 for deletion
+  Marking  171 for deletion
+  Marking  172 for deletion
+  Marking  176 for deletion
+  Marking  178 for deletion
+  Marking  180 for deletion
+  Marking  181 for deletion
+  Marking  183 for deletion
+  Marking  184 for deletion
+  Marking  186 for deletion
+  Marking  187 for deletion
+  Marking  191 for deletion
+  Marking  193 for deletion
+  Marking  194 for deletion
+  Marking  195 for deletion
+  Marking  197 for deletion
+  Marking  198 for deletion
+  Marking  203 for deletion
+  Marking  205 for deletion
+  Marking  209 for deletion
+  Marking  211 for deletion
+  Marking  212 for deletion
+  Marking  213 for deletion
+  Marking  214 for deletion
+  Marking  219 for deletion
+  Marking  220 for deletion
+  Marking  225 for deletion
+  Marking  226 for deletion
+  Marking  232 for deletion
+  Marking  233 for deletion
+  Marking  234 for deletion
+  Marking  236 for deletion
+  Marking  238 for deletion
+  Marking  240 for deletion
+  Marking  241 for deletion
+  Marking  242 for deletion
+Marked 129 numbers for deletion.
+Deleting marked numbers...
+  Deleting number  242
+  Deleting number  241
+  Deleting number  240
+  Deleting number  238
+  Deleting number  236
+  Deleting number  234
+  Deleting number  233
+  Deleting number  232
+  Deleting number  226
+  Deleting number  225
+  Deleting number  220
+  Deleting number  219
+  Deleting number  214
+  Deleting number  213
+  Deleting number  212
+  Deleting number  211
+  Deleting number  209
+  Deleting number  205
+  Deleting number  203
+  Deleting number  198
+  Deleting number  197
+  Deleting number  195
+  Deleting number  194
+  Deleting number  193
+  Deleting number  191
+  Deleting number  187
+  Deleting number  186
+  Deleting number  184
+  Deleting number  183
+  Deleting number  181
+  Deleting number  180
+  Deleting number  178
+  Deleting number  176
+  Deleting number  172
+  Deleting number  171
+  Deleting number  170
+  Deleting number  164
+  Deleting number  162
+  Deleting number  160
+  Deleting number  157
+  Deleting number  156
+  Deleting number  155
+  Deleting number  154
+  Deleting number  150
+  Deleting number  149
+  Deleting number  146
+  Deleting number  145
+  Deleting number  144
+  Deleting number  143
+  Deleting number  141
+  Deleting number  139
+  Deleting number  138
+  Deleting number  137
+  Deleting number  134
+  Deleting number  132
+  Deleting number  131
+  Deleting number  130
+  Deleting number  128
+  Deleting number  127
+  Deleting number  126
+  Deleting number  124
+  Deleting number  123
+  Deleting number  122
+  Deleting number  121
+  Deleting number  120
+  Deleting number  119
+  Deleting number  118
+  Deleting number  116
+  Deleting number  114
+  Deleting number  113
+  Deleting number  112
+  Deleting number  111
+  Deleting number  110
+  Deleting number  109
+  Deleting number  105
+  Deleting number  103
+  Deleting number  101
+  Deleting number  100
+  Deleting number   97
+  Deleting number   93
+  Deleting number   92
+  Deleting number   91
+  Deleting number   89
+  Deleting number   85
+  Deleting number   84
+  Deleting number   82
+  Deleting number   80
+  Deleting number   78
+  Deleting number   77
+  Deleting number   75
+  Deleting number   74
+  Deleting number   72
+  Deleting number   69
+  Deleting number   68
+  Deleting number   66
+  Deleting number   63
+  Deleting number   62
+  Deleting number   61
+  Deleting number   59
+  Deleting number   56
+  Deleting number   54
+  Deleting number   52
+  Deleting number   50
+  Deleting number   49
+  Deleting number   47
+  Deleting number   43
+  Deleting number   42
+  Deleting number   38
+  Deleting number   37
+  Deleting number   36
+  Deleting number   33
+  Deleting number   32
+  Deleting number   31
+  Deleting number   27
+  Deleting number   25
+  Deleting number   24
+  Deleting number   21
+  Deleting number   20
+  Deleting number   19
+  Deleting number   17
+  Deleting number   16
+  Deleting number   12
+  Deleting number   11
+  Deleting number    9
+  Deleting number    5
+  Deleting number    3
+  Deleting number    2
+  Deleting number    1
+  Deleting number    0
+117 numbers remain.
+
+Counting numbers for bit  3
+     0 has a 1 at  3:   0 -->   0
+     2 has a 1 at  3:   1 -->   1
+     8 has a 1 at  3:   2 -->   2
+     9 has a 1 at  3:   3 -->   3
+    10 has a 1 at  3:   4 -->   4
+    11 has a 1 at  3:   5 -->   5
+    12 has a 1 at  3:   6 -->   6
+    14 has a 1 at  3:   7 -->   7
+    15 has a 1 at  3:   8 -->   8
+    16 has a 1 at  3:   9 -->   9
+    19 has a 1 at  3:  10 -->  10
+    21 has a 1 at  3:  11 -->  11
+    23 has a 1 at  3:  12 -->  12
+    27 has a 1 at  3:  13 -->  13
+    28 has a 1 at  3:  14 -->  14
+    29 has a 1 at  3:  15 -->  15
+    30 has a 1 at  3:  16 -->  16
+    32 has a 1 at  3:  17 -->  17
+    34 has a 1 at  3:  18 -->  18
+    35 has a 1 at  3:  19 -->  19
+    36 has a 1 at  3:  20 -->  20
+    38 has a 1 at  3:  21 -->  21
+    41 has a 1 at  3:  22 -->  22
+    44 has a 1 at  3:  23 -->  23
+    45 has a 1 at  3:  24 -->  24
+    46 has a 1 at  3:  25 -->  25
+    47 has a 1 at  3:  26 -->  26
+    48 has a 1 at  3:  27 -->  27
+    49 has a 1 at  3:  28 -->  28
+    50 has a 1 at  3:  29 -->  29
+    51 has a 1 at  3:  30 -->  30
+    52 has a 1 at  3:  31 -->  31
+    53 has a 1 at  3:  32 -->  32
+    54 has a 1 at  3:  33 -->  33
+    59 has a 1 at  3:  34 -->  34
+    60 has a 1 at  3:  35 -->  35
+    61 has a 1 at  3:  36 -->  36
+    63 has a 1 at  3:  37 -->  37
+    68 has a 1 at  3:  38 -->  38
+    72 has a 1 at  3:  39 -->  39
+    74 has a 1 at  3:  40 -->  40
+    77 has a 1 at  3:  41 -->  41
+    78 has a 1 at  3:  42 -->  42
+    79 has a 1 at  3:  43 -->  43
+    80 has a 1 at  3:  44 -->  44
+    82 has a 1 at  3:  45 -->  45
+    83 has a 1 at  3:  46 -->  46
+    85 has a 1 at  3:  47 -->  47
+    87 has a 1 at  3:  48 -->  48
+    89 has a 1 at  3:  49 -->  49
+    91 has a 1 at  3:  50 -->  50
+    93 has a 1 at  3:  51 -->  51
+    94 has a 1 at  3:  52 -->  52
+    96 has a 1 at  3:  53 -->  53
+    97 has a 1 at  3:  54 -->  54
+    98 has a 1 at  3:  55 -->  55
+   100 has a 1 at  3:  56 -->  56
+   101 has a 1 at  3:  57 -->  57
+   102 has a 1 at  3:  58 -->  58
+   108 has a 1 at  3:  59 -->  59
+   109 has a 1 at  3:  60 -->  60
+   114 has a 1 at  3:  61 -->  61
+   116 has a 1 at  3:  62 -->  62
+Bit  3 was set 63 times.
+Marking 1s for deletion: True
+  Marking    0 for deletion
+  Marking    2 for deletion
+  Marking    8 for deletion
+  Marking    9 for deletion
+  Marking   10 for deletion
+  Marking   11 for deletion
+  Marking   12 for deletion
+  Marking   14 for deletion
+  Marking   15 for deletion
+  Marking   16 for deletion
+  Marking   19 for deletion
+  Marking   21 for deletion
+  Marking   23 for deletion
+  Marking   27 for deletion
+  Marking   28 for deletion
+  Marking   29 for deletion
+  Marking   30 for deletion
+  Marking   32 for deletion
+  Marking   34 for deletion
+  Marking   35 for deletion
+  Marking   36 for deletion
+  Marking   38 for deletion
+  Marking   41 for deletion
+  Marking   44 for deletion
+  Marking   45 for deletion
+  Marking   46 for deletion
+  Marking   47 for deletion
+  Marking   48 for deletion
+  Marking   49 for deletion
+  Marking   50 for deletion
+  Marking   51 for deletion
+  Marking   52 for deletion
+  Marking   53 for deletion
+  Marking   54 for deletion
+  Marking   59 for deletion
+  Marking   60 for deletion
+  Marking   61 for deletion
+  Marking   63 for deletion
+  Marking   68 for deletion
+  Marking   72 for deletion
+  Marking   74 for deletion
+  Marking   77 for deletion
+  Marking   78 for deletion
+  Marking   79 for deletion
+  Marking   80 for deletion
+  Marking   82 for deletion
+  Marking   83 for deletion
+  Marking   85 for deletion
+  Marking   87 for deletion
+  Marking   89 for deletion
+  Marking   91 for deletion
+  Marking   93 for deletion
+  Marking   94 for deletion
+  Marking   96 for deletion
+  Marking   97 for deletion
+  Marking   98 for deletion
+  Marking  100 for deletion
+  Marking  101 for deletion
+  Marking  102 for deletion
+  Marking  108 for deletion
+  Marking  109 for deletion
+  Marking  114 for deletion
+  Marking  116 for deletion
+Marked 63 numbers for deletion.
+Deleting marked numbers...
+  Deleting number  116
+  Deleting number  114
+  Deleting number  109
+  Deleting number  108
+  Deleting number  102
+  Deleting number  101
+  Deleting number  100
+  Deleting number   98
+  Deleting number   97
+  Deleting number   96
+  Deleting number   94
+  Deleting number   93
+  Deleting number   91
+  Deleting number   89
+  Deleting number   87
+  Deleting number   85
+  Deleting number   83
+  Deleting number   82
+  Deleting number   80
+  Deleting number   79
+  Deleting number   78
+  Deleting number   77
+  Deleting number   74
+  Deleting number   72
+  Deleting number   68
+  Deleting number   63
+  Deleting number   61
+  Deleting number   60
+  Deleting number   59
+  Deleting number   54
+  Deleting number   53
+  Deleting number   52
+  Deleting number   51
+  Deleting number   50
+  Deleting number   49
+  Deleting number   48
+  Deleting number   47
+  Deleting number   46
+  Deleting number   45
+  Deleting number   44
+  Deleting number   41
+  Deleting number   38
+  Deleting number   36
+  Deleting number   35
+  Deleting number   34
+  Deleting number   32
+  Deleting number   30
+  Deleting number   29
+  Deleting number   28
+  Deleting number   27
+  Deleting number   23
+  Deleting number   21
+  Deleting number   19
+  Deleting number   16
+  Deleting number   15
+  Deleting number   14
+  Deleting number   12
+  Deleting number   11
+  Deleting number   10
+  Deleting number    9
+  Deleting number    8
+  Deleting number    2
+  Deleting number    0
+54 numbers remain.
+
+Counting numbers for bit  4
+     3 has a 1 at  4:   0 -->   0
+    11 has a 1 at  4:   1 -->   1
+    12 has a 1 at  4:   2 -->   2
+    14 has a 1 at  4:   3 -->   3
+    15 has a 1 at  4:   4 -->   4
+    16 has a 1 at  4:   5 -->   5
+    18 has a 1 at  4:   6 -->   6
+    20 has a 1 at  4:   7 -->   7
+    24 has a 1 at  4:   8 -->   8
+    25 has a 1 at  4:   9 -->   9
+    26 has a 1 at  4:  10 -->  10
+    31 has a 1 at  4:  11 -->  11
+    36 has a 1 at  4:  12 -->  12
+    38 has a 1 at  4:  13 -->  13
+    43 has a 1 at  4:  14 -->  14
+    44 has a 1 at  4:  15 -->  15
+    46 has a 1 at  4:  16 -->  16
+    47 has a 1 at  4:  17 -->  17
+    48 has a 1 at  4:  18 -->  18
+    49 has a 1 at  4:  19 -->  19
+    50 has a 1 at  4:  20 -->  20
+    51 has a 1 at  4:  21 -->  21
+Bit  4 was set 22 times.
+Marking 1s for deletion: False
+  Marking    0 for deletion
+  Marking    1 for deletion
+  Marking    2 for deletion
+  Marking    4 for deletion
+  Marking    5 for deletion
+  Marking    6 for deletion
+  Marking    7 for deletion
+  Marking    8 for deletion
+  Marking    9 for deletion
+  Marking   10 for deletion
+  Marking   13 for deletion
+  Marking   17 for deletion
+  Marking   19 for deletion
+  Marking   21 for deletion
+  Marking   22 for deletion
+  Marking   23 for deletion
+  Marking   27 for deletion
+  Marking   28 for deletion
+  Marking   29 for deletion
+  Marking   30 for deletion
+  Marking   32 for deletion
+  Marking   33 for deletion
+  Marking   34 for deletion
+  Marking   35 for deletion
+  Marking   37 for deletion
+  Marking   39 for deletion
+  Marking   40 for deletion
+  Marking   41 for deletion
+  Marking   42 for deletion
+  Marking   45 for deletion
+  Marking   52 for deletion
+  Marking   53 for deletion
+Marked 32 numbers for deletion.
+Deleting marked numbers...
+  Deleting number   53
+  Deleting number   52
+  Deleting number   45
+  Deleting number   42
+  Deleting number   41
+  Deleting number   40
+  Deleting number   39
+  Deleting number   37
+  Deleting number   35
+  Deleting number   34
+  Deleting number   33
+  Deleting number   32
+  Deleting number   30
+  Deleting number   29
+  Deleting number   28
+  Deleting number   27
+  Deleting number   23
+  Deleting number   22
+  Deleting number   21
+  Deleting number   19
+  Deleting number   17
+  Deleting number   13
+  Deleting number   10
+  Deleting number    9
+  Deleting number    8
+  Deleting number    7
+  Deleting number    6
+  Deleting number    5
+  Deleting number    4
+  Deleting number    2
+  Deleting number    1
+  Deleting number    0
+22 numbers remain.
+
+Counting numbers for bit  5
+     0 has a 1 at  5:   0 -->   0
+     2 has a 1 at  5:   1 -->   1
+     3 has a 1 at  5:   2 -->   2
+     4 has a 1 at  5:   3 -->   3
+     5 has a 1 at  5:   4 -->   4
+     6 has a 1 at  5:   5 -->   5
+     7 has a 1 at  5:   6 -->   6
+     8 has a 1 at  5:   7 -->   7
+    10 has a 1 at  5:   8 -->   8
+    18 has a 1 at  5:   9 -->   9
+Bit  5 was set 10 times.
+Marking 1s for deletion: False
+  Marking    1 for deletion
+  Marking    9 for deletion
+  Marking   11 for deletion
+  Marking   12 for deletion
+  Marking   13 for deletion
+  Marking   14 for deletion
+  Marking   15 for deletion
+  Marking   16 for deletion
+  Marking   17 for deletion
+  Marking   19 for deletion
+  Marking   20 for deletion
+  Marking   21 for deletion
+Marked 12 numbers for deletion.
+Deleting marked numbers...
+  Deleting number   21
+  Deleting number   20
+  Deleting number   19
+  Deleting number   17
+  Deleting number   16
+  Deleting number   15
+  Deleting number   14
+  Deleting number   13
+  Deleting number   12
+  Deleting number   11
+  Deleting number    9
+  Deleting number    1
+10 numbers remain.
+
+Counting numbers for bit  6
+     1 has a 1 at  6:   0 -->   0
+     3 has a 1 at  6:   1 -->   1
+     5 has a 1 at  6:   2 -->   2
+     6 has a 1 at  6:   3 -->   3
+     7 has a 1 at  6:   4 -->   4
+     8 has a 1 at  6:   5 -->   5
+Bit  6 was set 6 times.
+Marking 1s for deletion: True
+  Marking    1 for deletion
+  Marking    3 for deletion
+  Marking    5 for deletion
+  Marking    6 for deletion
+  Marking    7 for deletion
+  Marking    8 for deletion
+Marked 6 numbers for deletion.
+Deleting marked numbers...
+  Deleting number    8
+  Deleting number    7
+  Deleting number    6
+  Deleting number    5
+  Deleting number    3
+  Deleting number    1
+4 numbers remain.
+
+Counting numbers for bit  7
+     2 has a 1 at  7:   0 -->   0
+     3 has a 1 at  7:   1 -->   1
+Bit  7 was set 2 times.
+Marking 1s for deletion: True
+  Marking    2 for deletion
+  Marking    3 for deletion
+Marked 2 numbers for deletion.
+Deleting marked numbers...
+  Deleting number    3
+  Deleting number    2
+2 numbers remain.
+
+Counting numbers for bit  8
+     1 has a 1 at  8:   0 -->   0
+Bit  8 was set 1 times.
+Marking 1s for deletion: True
+  Marking    1 for deletion
+Marked 1 numbers for deletion.
+Deleting marked numbers...
+  Deleting number    1
+1 numbers remain.
+
+Your CO2-Rating is 101011000100 (2756)
+
+Your result is 1599*2756=4406844
