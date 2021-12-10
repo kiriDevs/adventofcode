@@ -1,0 +1,2009 @@
+Loading input...
+Successfully loaded 94 lines of input.
+
+Parsing input...
+  Processing line 0
+    Removing pairs...
+    Removed  80 characters
+    Remainder: {[<<([{((([[[{
+  No closer remains -> line incomplete.
+  Processing line 1
+    Removing pairs...
+    Removed  94 characters
+    Remainder: ({[{({<[{<{<{
+  No closer remains -> line incomplete.
+  Processing line 2
+    Removing pairs...
+    Removed  82 characters
+    Remainder: [{[{{{[<({[{[[
+  No closer remains -> line incomplete.
+  Processing line 3
+    Removing pairs...
+    Removed  76 characters
+    Remainder: {([<(<{({[<{([
+  No closer remains -> line incomplete.
+  Processing line 4
+    Removing pairs...
+    Removed  80 characters
+    Remainder: <[{({{(({<(<((>
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 5
+    Removing pairs...
+    Removed  82 characters
+    Remainder: ({[{[[[{{{{<{
+  No closer remains -> line incomplete.
+  Processing line 6
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {((<<<<(([([<<
+  No closer remains -> line incomplete.
+  Processing line 7
+    Removing pairs...
+    Removed  70 characters
+    Remainder: (({([{{{{([<[{>]>][(({(
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 8
+    Removing pairs...
+    Removed  92 characters
+    Remainder: {([<{{{{({{{
+  No closer remains -> line incomplete.
+  Processing line 9
+    Removing pairs...
+    Removed  68 characters
+    Remainder: (<<(<<{[<{((({))))}(({([{
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 10
+    Removing pairs...
+    Removed  88 characters
+    Remainder: ({<[({[<{<({[(
+  No closer remains -> line incomplete.
+  Processing line 11
+    Removing pairs...
+    Removed  86 characters
+    Remainder: <<<{{<([([<{(
+  No closer remains -> line incomplete.
+  Processing line 12
+    Removing pairs...
+    Removed  90 characters
+    Remainder: <[[{{<(<[[{<
+  No closer remains -> line incomplete.
+  Processing line 13
+    Removing pairs...
+    Removed  80 characters
+    Remainder: [<{([<[<<<)<<{{<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 14
+    Removing pairs...
+    Removed  72 characters
+    Remainder: [([(({([({{<)}}{({
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 15
+    Removing pairs...
+    Removed  90 characters
+    Remainder: {{<<(({{[<<[<(<
+  No closer remains -> line incomplete.
+  Processing line 16
+    Removing pairs...
+    Removed  78 characters
+    Remainder: <{(<<([<[{{[([
+  No closer remains -> line incomplete.
+  Processing line 17
+    Removing pairs...
+    Removed  90 characters
+    Remainder: <{({(<{<<(<[<)
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 18
+    Removing pairs...
+    Removed  84 characters
+    Remainder: <<([{((<({[[{(]}][
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 19
+    Removing pairs...
+    Removed  68 characters
+    Remainder: [{<[<(<[([[[{[>}]]])]>(<{<<[<(
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 20
+    Removing pairs...
+    Removed  82 characters
+    Remainder: [[(<<<{[(([[(<
+  No closer remains -> line incomplete.
+  Processing line 21
+    Removing pairs...
+    Removed  74 characters
+    Remainder: <<<[<<[<[{<(}><({<<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 22
+    Removing pairs...
+    Removed  66 characters
+    Remainder: [({<[<(((<({<<}>})>))({<[<(<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 23
+    Removing pairs...
+    Removed  94 characters
+    Remainder: <(({[<[<{{(<({(
+  No closer remains -> line incomplete.
+  Processing line 24
+    Removing pairs...
+    Removed  80 characters
+    Remainder: <<<([(<(<(<<{>>>[[(<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 25
+    Removing pairs...
+    Removed  90 characters
+    Remainder: (([[(<{[([<{[(
+  No closer remains -> line incomplete.
+  Processing line 26
+    Removing pairs...
+    Removed  86 characters
+    Remainder: [{{<<{<({(<(<
+  No closer remains -> line incomplete.
+  Processing line 27
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {(<{<[<[<<<{{<
+  No closer remains -> line incomplete.
+  Processing line 28
+    Removing pairs...
+    Removed  82 characters
+    Remainder: {[{((<<<<({{[
+  No closer remains -> line incomplete.
+  Processing line 29
+    Removing pairs...
+    Removed  68 characters
+    Remainder: (([[<<({{{[<)]}}})([(((
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 30
+    Removing pairs...
+    Removed  76 characters
+    Remainder: <<<{<<[[<[[{([>)}<[<{
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 31
+    Removing pairs...
+    Removed  86 characters
+    Remainder: {<{{{<[([<{[{]]{([{
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 32
+    Removing pairs...
+    Removed  78 characters
+    Remainder: <({({<<(({({({))})}<{
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 33
+    Removing pairs...
+    Removed  74 characters
+    Remainder: {{{[(((<{{)}{<<[<[{
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 34
+    Removing pairs...
+    Removed  88 characters
+    Remainder: [({<{(([<<[[
+  No closer remains -> line incomplete.
+  Processing line 35
+    Removing pairs...
+    Removed  94 characters
+    Remainder: {<(<{[{[{((<({{
+  No closer remains -> line incomplete.
+  Processing line 36
+    Removing pairs...
+    Removed  72 characters
+    Remainder: {{{([[{<<{[<<[)>>]
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 37
+    Removing pairs...
+    Removed  78 characters
+    Remainder: {[<{{<[[<[({<<
+  No closer remains -> line incomplete.
+  Processing line 38
+    Removing pairs...
+    Removed  86 characters
+    Remainder: [<(((({[{((<])
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 39
+    Removing pairs...
+    Removed  76 characters
+    Remainder: ({(<<(({{([{><[
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 40
+    Removing pairs...
+    Removed  78 characters
+    Remainder: ({(<<[({({[<]]})[[[[[[
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 41
+    Removing pairs...
+    Removed  88 characters
+    Remainder: {<([<{[<{[<[[[
+  No closer remains -> line incomplete.
+  Processing line 42
+    Removing pairs...
+    Removed  90 characters
+    Remainder: {<({{<{<(<([[<
+  No closer remains -> line incomplete.
+  Processing line 43
+    Removing pairs...
+    Removed  82 characters
+    Remainder: {[[{(<[{<[<<{<<
+  No closer remains -> line incomplete.
+  Processing line 44
+    Removing pairs...
+    Removed  92 characters
+    Remainder: {<[[<[<<{[([[
+  No closer remains -> line incomplete.
+  Processing line 45
+    Removing pairs...
+    Removed  90 characters
+    Remainder: ({(<{[[{<([<([
+  No closer remains -> line incomplete.
+  Processing line 46
+    Removing pairs...
+    Removed  86 characters
+    Remainder: <{<(([[<<([({<
+  No closer remains -> line incomplete.
+  Processing line 47
+    Removing pairs...
+    Removed  86 characters
+    Remainder: [(({{{(<{{[<[{]]><(([
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 48
+    Removing pairs...
+    Removed  82 characters
+    Remainder: [[(<<<{{<{(<[{
+  No closer remains -> line incomplete.
+  Processing line 49
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {{{(<[(<{<[{)]<[<<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 50
+    Removing pairs...
+    Removed  72 characters
+    Remainder: <[[(([(<<[{({(]}({[
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 51
+    Removing pairs...
+    Removed  78 characters
+    Remainder: <[<{{<([<{(((({
+  No closer remains -> line incomplete.
+  Processing line 52
+    Removing pairs...
+    Removed  80 characters
+    Remainder: ([<{<{[<[<({[<<
+  No closer remains -> line incomplete.
+  Processing line 53
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {{(([({({))}){{<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 54
+    Removing pairs...
+    Removed  84 characters
+    Remainder: [{{<{{<<{(<<{(}}
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 55
+    Removing pairs...
+    Removed  78 characters
+    Remainder: {[<({<[[[[({(
+  No closer remains -> line incomplete.
+  Processing line 56
+    Removing pairs...
+    Removed  80 characters
+    Remainder: [((((({{<[<{((
+  No closer remains -> line incomplete.
+  Processing line 57
+    Removing pairs...
+    Removed  92 characters
+    Remainder: {[(((([[[((
+  No closer remains -> line incomplete.
+  Processing line 58
+    Removing pairs...
+    Removed  64 characters
+    Remainder: [(<([{{[(<(]>)]}}<{(([{({(
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 59
+    Removing pairs...
+    Removed  74 characters
+    Remainder: (<([([<([<{{{(]}}}>]([{{[<(
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 60
+    Removing pairs...
+    Removed  84 characters
+    Remainder: [{<({{([(<<{<(}>}<<(
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 61
+    Removing pairs...
+    Removed  88 characters
+    Remainder: [<<(([<{<({{([
+  No closer remains -> line incomplete.
+  Processing line 62
+    Removing pairs...
+    Removed  80 characters
+    Remainder: {{{([{{[<{[[[[>]]]}[
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 63
+    Removing pairs...
+    Removed  72 characters
+    Remainder: ({<(({<<(<))>(<[<[[{
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 64
+    Removing pairs...
+    Removed  72 characters
+    Remainder: [{{<[<<({([[<(>>]{
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 65
+    Removing pairs...
+    Removed  82 characters
+    Remainder: ({([<[((([([<[{
+  No closer remains -> line incomplete.
+  Processing line 66
+    Removing pairs...
+    Removed  76 characters
+    Remainder: {[{(<[[[{<((<{
+  No closer remains -> line incomplete.
+  Processing line 67
+    Removing pairs...
+    Removed  90 characters
+    Remainder: {<<(<<{<<{({((
+  No closer remains -> line incomplete.
+  Processing line 68
+    Removing pairs...
+    Removed  74 characters
+    Remainder: (([[{{[[{{{<(<})>}[{{(
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 69
+    Removing pairs...
+    Removed  96 characters
+    Remainder: [<([(<<{{<{((
+  No closer remains -> line incomplete.
+  Processing line 70
+    Removing pairs...
+    Removed  72 characters
+    Remainder: ((<<({({({[{[(>]}]}[[[
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 71
+    Removing pairs...
+    Removed  82 characters
+    Remainder: (((<<{{([{{[{[)}]}}[{
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 72
+    Removing pairs...
+    Removed  80 characters
+    Remainder: ([([<<<[[({[{
+  No closer remains -> line incomplete.
+  Processing line 73
+    Removing pairs...
+    Removed  76 characters
+    Remainder: {[<(({(([{([))[{<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 74
+    Removing pairs...
+    Removed  66 characters
+    Remainder: <[[<{[<[{{{[<}]}}}({(<{(<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 75
+    Removing pairs...
+    Removed  84 characters
+    Remainder: [(({({[([[{{<[>>}}[[
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 76
+    Removing pairs...
+    Removed  80 characters
+    Remainder: {<[({([[(({[)}(([
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 77
+    Removing pairs...
+    Removed  90 characters
+    Remainder: [{<{<{{(([((
+  No closer remains -> line incomplete.
+  Processing line 78
+    Removing pairs...
+    Removed  94 characters
+    Remainder: <(<{({{((((({<
+  No closer remains -> line incomplete.
+  Processing line 79
+    Removing pairs...
+    Removed  96 characters
+    Remainder: <{(<<(<(<{({[
+  No closer remains -> line incomplete.
+  Processing line 80
+    Removing pairs...
+    Removed  92 characters
+    Remainder: [(({([({[[[([[(
+  No closer remains -> line incomplete.
+  Processing line 81
+    Removing pairs...
+    Removed  76 characters
+    Remainder: ({[[(<<]>[<{{<{[[({
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 82
+    Removing pairs...
+    Removed  72 characters
+    Remainder: ((<[{[{{[<([(<))[{[
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 83
+    Removing pairs...
+    Removed  76 characters
+    Remainder: ([{{[{[{[(({<{]>}))]}][<(<{<<<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 84
+    Removing pairs...
+    Removed  78 characters
+    Remainder: {{<{([{<[(<(<[
+  No closer remains -> line incomplete.
+  Processing line 85
+    Removing pairs...
+    Removed  86 characters
+    Remainder: {{{{({<[{]]>}){[<[[([{<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 86
+    Removing pairs...
+    Removed  78 characters
+    Remainder: {(((((({(({<<{{
+  No closer remains -> line incomplete.
+  Processing line 87
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {[[{<{(([{[[(<))]]}<{{([
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 88
+    Removing pairs...
+    Removed  84 characters
+    Remainder: <<[<{<[[({[[{
+  No closer remains -> line incomplete.
+  Processing line 89
+    Removing pairs...
+    Removed  80 characters
+    Remainder: ([([{{[[([<}<({
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 90
+    Removing pairs...
+    Removed  76 characters
+    Remainder: [[[[([<<{[{{(<
+  No closer remains -> line incomplete.
+  Processing line 91
+    Removing pairs...
+    Removed  76 characters
+    Remainder: [(<[([<<({[[{(>}<<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 92
+    Removing pairs...
+    Removed  76 characters
+    Remainder: [{[<<({([{>]<[(<
+  Remaining has a closer -> corrupted -> discarding...
+  Processing line 93
+    Removing pairs...
+    Removed  78 characters
+    Remainder: <[(({<[({<[{{<}}}]>})]>}))({
+  Remaining has a closer -> corrupted -> discarding...
+There are 47 incomplete lines remaining.
+
+Auto-Completing 47 lines...
+  Completing line 0
+    { is matched by }
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+  Completion: }]]])))}])>>]}
+  Completing line 1
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+    ( is matched by )
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+  Completion: }>}>}]>})}]})
+  Completing line 2
+    [ is matched by ]
+    [ is matched by ]
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+    { is matched by }
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+    [ is matched by ]
+  Completion: ]]}]})>]}}}]}]
+  Completing line 3
+    [ is matched by ]
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    { is matched by }
+  Completion: ])}>]})}>)>])}
+  Completing line 4
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    { is matched by }
+    { is matched by }
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+  Completion: }>}}}}]]]}]})
+  Completing line 5
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+    < is matched by >
+    < is matched by >
+    < is matched by >
+    < is matched by >
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+  Completion: >>])]))>>>>))}
+  Completing line 6
+    { is matched by }
+    { is matched by }
+    { is matched by }
+    ( is matched by )
+    { is matched by }
+    { is matched by }
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    { is matched by }
+  Completion: }}})}}}}>])}
+  Completing line 7
+    ( is matched by )
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+    ( is matched by )
+  Completion: )]})>}>]})]>})
+  Completing line 8
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    < is matched by >
+  Completion: )}>])])>}}>>>
+  Completing line 9
+    < is matched by >
+    { is matched by }
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+  Completion: >}]]>)>}}]]>
+  Completing line 10
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+    { is matched by }
+    ( is matched by )
+    ( is matched by )
+    < is matched by >
+    < is matched by >
+    { is matched by }
+    { is matched by }
+  Completion: >)>]>>]}}))>>}}
+  Completing line 11
+    [ is matched by ]
+    ( is matched by )
+    [ is matched by ]
+    { is matched by }
+    { is matched by }
+    [ is matched by ]
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+  Completion: ])]}}]>])>>)}>
+  Completing line 12
+    < is matched by >
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    < is matched by >
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+  Completion: >)]]))]}>>>)]]
+  Completing line 13
+    ( is matched by )
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    ( is matched by )
+    < is matched by >
+  Completion: )})>)}}>]>]}))>
+  Completing line 14
+    ( is matched by )
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+  Completion: )]}>])]}>)]]))
+  Completing line 15
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    [ is matched by ]
+  Completion: >)>)})>}>>}}]
+  Completing line 16
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+  Completion: >}}>>>]>]>}>)}
+  Completing line 17
+    [ is matched by ]
+    { is matched by }
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    < is matched by >
+    < is matched by >
+    < is matched by >
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+  Completion: ]}})>>>>))}]}
+  Completing line 18
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    ( is matched by )
+    [ is matched by ]
+  Completion: ]]>>]))}>})]
+  Completing line 19
+    { is matched by }
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+  Completion: }})>))}]}]}>)>}
+  Completing line 20
+    < is matched by >
+    < is matched by >
+    { is matched by }
+    ( is matched by )
+    [ is matched by ]
+    < is matched by >
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+  Completion: >>})]>]]>}}>]}
+  Completing line 21
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+  Completion: ]]]>]}>]}>])>}
+  Completing line 22
+    < is matched by >
+    [ is matched by ]
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+  Completion: >]])>)>}>}})>}
+  Completing line 23
+    < is matched by >
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+    [ is matched by ]
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+    [ is matched by ]
+    [ is matched by ]
+    { is matched by }
+  Completion: >>}>>]>}]>)}]]}
+  Completing line 24
+    [ is matched by ]
+    [ is matched by ]
+    ( is matched by )
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+  Completion: ]])]}>>]>]]>}
+  Completing line 25
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    [ is matched by ]
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+    ( is matched by )
+  Completion: ])>])>}]]}>)})
+  Completing line 26
+    < is matched by >
+    { is matched by }
+    ( is matched by )
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    < is matched by >
+  Completion: >})])>>]]))>}>
+  Completing line 27
+    { is matched by }
+    [ is matched by ]
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    < is matched by >
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+  Completion: }]>)}>}}>>>)]]
+  Completing line 28
+    { is matched by }
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+  Completion: }))))}>])>}}>]>
+  Completing line 29
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+  Completion: >>]})>]>]}>}>])
+  Completing line 30
+    ( is matched by )
+    { is matched by }
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    [ is matched by ]
+    { is matched by }
+  Completion: )})]]]]>})>]}
+  Completing line 31
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    [ is matched by ]
+  Completion: ))}>]>}})))))]
+  Completing line 32
+    ( is matched by )
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    [ is matched by ]
+    { is matched by }
+  Completion: ))]]]))))]}
+  Completing line 33
+    [ is matched by ]
+    ( is matched by )
+    { is matched by }
+    { is matched by }
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+  Completion: ])}})>}>]))>>]
+  Completing line 34
+    { is matched by }
+    [ is matched by ]
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    [ is matched by ]
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    { is matched by }
+    ( is matched by )
+  Completion: }]>])])))]>])})
+  Completing line 35
+    { is matched by }
+    < is matched by >
+    ( is matched by )
+    ( is matched by )
+    < is matched by >
+    { is matched by }
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+  Completion: }>))>}]]]>)}]}
+  Completing line 36
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    < is matched by >
+    { is matched by }
+  Completion: ))})}>>}>>)>>}
+  Completing line 37
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    ( is matched by )
+    [ is matched by ]
+    ( is matched by )
+    < is matched by >
+    [ is matched by ]
+  Completion: ))}>}}>>)])>]
+  Completing line 38
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    [ is matched by ]
+    ( is matched by )
+  Completion: }]})]]>>>])])
+  Completing line 39
+    ( is matched by )
+    ( is matched by )
+    [ is matched by ]
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    [ is matched by ]
+  Completion: ))]))}}>}>}]
+  Completing line 40
+    < is matched by >
+    { is matched by }
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    { is matched by }
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+  Completion: >})))))}})}>)>
+  Completing line 41
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+  Completion: ]})}>)>)>>)}>
+  Completing line 42
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    [ is matched by ]
+    ( is matched by )
+    { is matched by }
+    ( is matched by )
+    ( is matched by )
+    [ is matched by ]
+  Completion: )]])]]]})])}))]
+  Completing line 43
+    [ is matched by ]
+    < is matched by >
+    ( is matched by )
+    < is matched by >
+    ( is matched by )
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+    [ is matched by ]
+    ( is matched by )
+    { is matched by }
+    < is matched by >
+    { is matched by }
+    { is matched by }
+  Completion: ]>)>)]>}])}>}}
+  Completing line 44
+    { is matched by }
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    { is matched by }
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    ( is matched by )
+    { is matched by }
+  Completion: }}>>}))}))))))}
+  Completing line 45
+    { is matched by }
+    [ is matched by ]
+    [ is matched by ]
+    { is matched by }
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+    < is matched by >
+    { is matched by }
+    < is matched by >
+    [ is matched by ]
+    < is matched by >
+    < is matched by >
+  Completion: }]]})]]>}>]>>
+  Completing line 46
+    < is matched by >
+    ( is matched by )
+    { is matched by }
+    { is matched by }
+    [ is matched by ]
+    { is matched by }
+    < is matched by >
+    < is matched by >
+    [ is matched by ]
+    ( is matched by )
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+    [ is matched by ]
+  Completion: >)}}]}>>])]]]]
+Produced 47 completions.
+
+Scoring 47 lines
+  Scoring line 0...
+    }]]])))}])>>]}
+    }: 0 -> 3 (diff=3)
+    ]: 3 -> 17 (diff=2)
+    ]: 17 -> 87 (diff=2)
+    ]: 87 -> 437 (diff=2)
+    ): 437 -> 2186 (diff=1)
+    ): 2186 -> 10931 (diff=1)
+    ): 10931 -> 54656 (diff=1)
+    }: 54656 -> 273283 (diff=3)
+    ]: 273283 -> 1366417 (diff=2)
+    ): 1366417 -> 6832086 (diff=1)
+    >: 6832086 -> 34160434 (diff=4)
+    >: 34160434 -> 170802174 (diff=4)
+    ]: 170802174 -> 854010872 (diff=2)
+    }: 854010872 -> 4270054363 (diff=3)
+  Line 0 has a score of 4270054363
+  Scoring line 1...
+    }>}>}]>})}]})
+    }: 0 -> 3 (diff=3)
+    >: 3 -> 19 (diff=4)
+    }: 19 -> 98 (diff=3)
+    >: 98 -> 494 (diff=4)
+    }: 494 -> 2473 (diff=3)
+    ]: 2473 -> 12367 (diff=2)
+    >: 12367 -> 61839 (diff=4)
+    }: 61839 -> 309198 (diff=3)
+    ): 309198 -> 1545991 (diff=1)
+    }: 1545991 -> 7729958 (diff=3)
+    ]: 7729958 -> 38649792 (diff=2)
+    }: 38649792 -> 193248963 (diff=3)
+    ): 193248963 -> 966244816 (diff=1)
+  Line 1 has a score of 966244816
+  Scoring line 2...
+    ]]}]})>]}}}]}]
+    ]: 0 -> 2 (diff=2)
+    ]: 2 -> 12 (diff=2)
+    }: 12 -> 63 (diff=3)
+    ]: 63 -> 317 (diff=2)
+    }: 317 -> 1588 (diff=3)
+    ): 1588 -> 7941 (diff=1)
+    >: 7941 -> 39709 (diff=4)
+    ]: 39709 -> 198547 (diff=2)
+    }: 198547 -> 992738 (diff=3)
+    }: 992738 -> 4963693 (diff=3)
+    }: 4963693 -> 24818468 (diff=3)
+    ]: 24818468 -> 124092342 (diff=2)
+    }: 124092342 -> 620461713 (diff=3)
+    ]: 620461713 -> 3102308567 (diff=2)
+  Line 2 has a score of 3102308567
+  Scoring line 3...
+    ])}>]})}>)>])}
+    ]: 0 -> 2 (diff=2)
+    ): 2 -> 11 (diff=1)
+    }: 11 -> 58 (diff=3)
+    >: 58 -> 294 (diff=4)
+    ]: 294 -> 1472 (diff=2)
+    }: 1472 -> 7363 (diff=3)
+    ): 7363 -> 36816 (diff=1)
+    }: 36816 -> 184083 (diff=3)
+    >: 184083 -> 920419 (diff=4)
+    ): 920419 -> 4602096 (diff=1)
+    >: 4602096 -> 23010484 (diff=4)
+    ]: 23010484 -> 115052422 (diff=2)
+    ): 115052422 -> 575262111 (diff=1)
+    }: 575262111 -> 2876310558 (diff=3)
+  Line 3 has a score of 2876310558
+  Scoring line 4...
+    }>}}}}]]]}]})
+    }: 0 -> 3 (diff=3)
+    >: 3 -> 19 (diff=4)
+    }: 19 -> 98 (diff=3)
+    }: 98 -> 493 (diff=3)
+    }: 493 -> 2468 (diff=3)
+    }: 2468 -> 12343 (diff=3)
+    ]: 12343 -> 61717 (diff=2)
+    ]: 61717 -> 308587 (diff=2)
+    ]: 308587 -> 1542937 (diff=2)
+    }: 1542937 -> 7714688 (diff=3)
+    ]: 7714688 -> 38573442 (diff=2)
+    }: 38573442 -> 192867213 (diff=3)
+    ): 192867213 -> 964336066 (diff=1)
+  Line 4 has a score of 964336066
+  Scoring line 5...
+    >>])]))>>>>))}
+    >: 0 -> 4 (diff=4)
+    >: 4 -> 24 (diff=4)
+    ]: 24 -> 122 (diff=2)
+    ): 122 -> 611 (diff=1)
+    ]: 611 -> 3057 (diff=2)
+    ): 3057 -> 15286 (diff=1)
+    ): 15286 -> 76431 (diff=1)
+    >: 76431 -> 382159 (diff=4)
+    >: 382159 -> 1910799 (diff=4)
+    >: 1910799 -> 9553999 (diff=4)
+    >: 9553999 -> 47769999 (diff=4)
+    ): 47769999 -> 238849996 (diff=1)
+    ): 238849996 -> 1194249981 (diff=1)
+    }: 1194249981 -> 5971249908 (diff=3)
+  Line 5 has a score of 5971249908
+  Scoring line 6...
+    }}})}}}}>])}
+    }: 0 -> 3 (diff=3)
+    }: 3 -> 18 (diff=3)
+    }: 18 -> 93 (diff=3)
+    ): 93 -> 466 (diff=1)
+    }: 466 -> 2333 (diff=3)
+    }: 2333 -> 11668 (diff=3)
+    }: 11668 -> 58343 (diff=3)
+    }: 58343 -> 291718 (diff=3)
+    >: 291718 -> 1458594 (diff=4)
+    ]: 1458594 -> 7292972 (diff=2)
+    ): 7292972 -> 36464861 (diff=1)
+    }: 36464861 -> 182324308 (diff=3)
+  Line 6 has a score of 182324308
+  Scoring line 7...
+    )]})>}>]})]>})
+    ): 0 -> 1 (diff=1)
+    ]: 1 -> 7 (diff=2)
+    }: 7 -> 38 (diff=3)
+    ): 38 -> 191 (diff=1)
+    >: 191 -> 959 (diff=4)
+    }: 959 -> 4798 (diff=3)
+    >: 4798 -> 23994 (diff=4)
+    ]: 23994 -> 119972 (diff=2)
+    }: 119972 -> 599863 (diff=3)
+    ): 599863 -> 2999316 (diff=1)
+    ]: 2999316 -> 14996582 (diff=2)
+    >: 14996582 -> 74982914 (diff=4)
+    }: 74982914 -> 374914573 (diff=3)
+    ): 374914573 -> 1874572866 (diff=1)
+  Line 7 has a score of 1874572866
+  Scoring line 8...
+    )}>])])>}}>>>
+    ): 0 -> 1 (diff=1)
+    }: 1 -> 8 (diff=3)
+    >: 8 -> 44 (diff=4)
+    ]: 44 -> 222 (diff=2)
+    ): 222 -> 1111 (diff=1)
+    ]: 1111 -> 5557 (diff=2)
+    ): 5557 -> 27786 (diff=1)
+    >: 27786 -> 138934 (diff=4)
+    }: 138934 -> 694673 (diff=3)
+    }: 694673 -> 3473368 (diff=3)
+    >: 3473368 -> 17366844 (diff=4)
+    >: 17366844 -> 86834224 (diff=4)
+    >: 86834224 -> 434171124 (diff=4)
+  Line 8 has a score of 434171124
+  Scoring line 9...
+    >}]]>)>}}]]>
+    >: 0 -> 4 (diff=4)
+    }: 4 -> 23 (diff=3)
+    ]: 23 -> 117 (diff=2)
+    ]: 117 -> 587 (diff=2)
+    >: 587 -> 2939 (diff=4)
+    ): 2939 -> 14696 (diff=1)
+    >: 14696 -> 73484 (diff=4)
+    }: 73484 -> 367423 (diff=3)
+    }: 367423 -> 1837118 (diff=3)
+    ]: 1837118 -> 9185592 (diff=2)
+    ]: 9185592 -> 45927962 (diff=2)
+    >: 45927962 -> 229639814 (diff=4)
+  Line 9 has a score of 229639814
+  Scoring line 10...
+    >)>]>>]}}))>>}}
+    >: 0 -> 4 (diff=4)
+    ): 4 -> 21 (diff=1)
+    >: 21 -> 109 (diff=4)
+    ]: 109 -> 547 (diff=2)
+    >: 547 -> 2739 (diff=4)
+    >: 2739 -> 13699 (diff=4)
+    ]: 13699 -> 68497 (diff=2)
+    }: 68497 -> 342488 (diff=3)
+    }: 342488 -> 1712443 (diff=3)
+    ): 1712443 -> 8562216 (diff=1)
+    ): 8562216 -> 42811081 (diff=1)
+    >: 42811081 -> 214055409 (diff=4)
+    >: 214055409 -> 1070277049 (diff=4)
+    }: 1070277049 -> 5351385248 (diff=3)
+    }: 5351385248 -> 26756926243 (diff=3)
+  Line 10 has a score of 26756926243
+  Scoring line 11...
+    ])]}}]>])>>)}>
+    ]: 0 -> 2 (diff=2)
+    ): 2 -> 11 (diff=1)
+    ]: 11 -> 57 (diff=2)
+    }: 57 -> 288 (diff=3)
+    }: 288 -> 1443 (diff=3)
+    ]: 1443 -> 7217 (diff=2)
+    >: 7217 -> 36089 (diff=4)
+    ]: 36089 -> 180447 (diff=2)
+    ): 180447 -> 902236 (diff=1)
+    >: 902236 -> 4511184 (diff=4)
+    >: 4511184 -> 22555924 (diff=4)
+    ): 22555924 -> 112779621 (diff=1)
+    }: 112779621 -> 563898108 (diff=3)
+    >: 563898108 -> 2819490544 (diff=4)
+  Line 11 has a score of 2819490544
+  Scoring line 12...
+    >)]]))]}>>>)]]
+    >: 0 -> 4 (diff=4)
+    ): 4 -> 21 (diff=1)
+    ]: 21 -> 107 (diff=2)
+    ]: 107 -> 537 (diff=2)
+    ): 537 -> 2686 (diff=1)
+    ): 2686 -> 13431 (diff=1)
+    ]: 13431 -> 67157 (diff=2)
+    }: 67157 -> 335788 (diff=3)
+    >: 335788 -> 1678944 (diff=4)
+    >: 1678944 -> 8394724 (diff=4)
+    >: 8394724 -> 41973624 (diff=4)
+    ): 41973624 -> 209868121 (diff=1)
+    ]: 209868121 -> 1049340607 (diff=2)
+    ]: 1049340607 -> 5246703037 (diff=2)
+  Line 12 has a score of 5246703037
+  Scoring line 13...
+    )})>)}}>]>]}))>
+    ): 0 -> 1 (diff=1)
+    }: 1 -> 8 (diff=3)
+    ): 8 -> 41 (diff=1)
+    >: 41 -> 209 (diff=4)
+    ): 209 -> 1046 (diff=1)
+    }: 1046 -> 5233 (diff=3)
+    }: 5233 -> 26168 (diff=3)
+    >: 26168 -> 130844 (diff=4)
+    ]: 130844 -> 654222 (diff=2)
+    >: 654222 -> 3271114 (diff=4)
+    ]: 3271114 -> 16355572 (diff=2)
+    }: 16355572 -> 81777863 (diff=3)
+    ): 81777863 -> 408889316 (diff=1)
+    ): 408889316 -> 2044446581 (diff=1)
+    >: 2044446581 -> 10222232909 (diff=4)
+  Line 13 has a score of 10222232909
+  Scoring line 14...
+    )]}>])]}>)]]))
+    ): 0 -> 1 (diff=1)
+    ]: 1 -> 7 (diff=2)
+    }: 7 -> 38 (diff=3)
+    >: 38 -> 194 (diff=4)
+    ]: 194 -> 972 (diff=2)
+    ): 972 -> 4861 (diff=1)
+    ]: 4861 -> 24307 (diff=2)
+    }: 24307 -> 121538 (diff=3)
+    >: 121538 -> 607694 (diff=4)
+    ): 607694 -> 3038471 (diff=1)
+    ]: 3038471 -> 15192357 (diff=2)
+    ]: 15192357 -> 75961787 (diff=2)
+    ): 75961787 -> 379808936 (diff=1)
+    ): 379808936 -> 1899044681 (diff=1)
+  Line 14 has a score of 1899044681
+  Scoring line 15...
+    >)>)})>}>>}}]
+    >: 0 -> 4 (diff=4)
+    ): 4 -> 21 (diff=1)
+    >: 21 -> 109 (diff=4)
+    ): 109 -> 546 (diff=1)
+    }: 546 -> 2733 (diff=3)
+    ): 2733 -> 13666 (diff=1)
+    >: 13666 -> 68334 (diff=4)
+    }: 68334 -> 341673 (diff=3)
+    >: 341673 -> 1708369 (diff=4)
+    >: 1708369 -> 8541849 (diff=4)
+    }: 8541849 -> 42709248 (diff=3)
+    }: 42709248 -> 213546243 (diff=3)
+    ]: 213546243 -> 1067731217 (diff=2)
+  Line 15 has a score of 1067731217
+  Scoring line 16...
+    >}}>>>]>]>}>)}
+    >: 0 -> 4 (diff=4)
+    }: 4 -> 23 (diff=3)
+    }: 23 -> 118 (diff=3)
+    >: 118 -> 594 (diff=4)
+    >: 594 -> 2974 (diff=4)
+    >: 2974 -> 14874 (diff=4)
+    ]: 14874 -> 74372 (diff=2)
+    >: 74372 -> 371864 (diff=4)
+    ]: 371864 -> 1859322 (diff=2)
+    >: 1859322 -> 9296614 (diff=4)
+    }: 9296614 -> 46483073 (diff=3)
+    >: 46483073 -> 232415369 (diff=4)
+    ): 232415369 -> 1162076846 (diff=1)
+    }: 1162076846 -> 5810384233 (diff=3)
+  Line 16 has a score of 5810384233
+  Scoring line 17...
+    ]}})>>>>))}]}
+    ]: 0 -> 2 (diff=2)
+    }: 2 -> 13 (diff=3)
+    }: 13 -> 68 (diff=3)
+    ): 68 -> 341 (diff=1)
+    >: 341 -> 1709 (diff=4)
+    >: 1709 -> 8549 (diff=4)
+    >: 8549 -> 42749 (diff=4)
+    >: 42749 -> 213749 (diff=4)
+    ): 213749 -> 1068746 (diff=1)
+    ): 1068746 -> 5343731 (diff=1)
+    }: 5343731 -> 26718658 (diff=3)
+    ]: 26718658 -> 133593292 (diff=2)
+    }: 133593292 -> 667966463 (diff=3)
+  Line 17 has a score of 667966463
+  Scoring line 18...
+    ]]>>]))}>})]
+    ]: 0 -> 2 (diff=2)
+    ]: 2 -> 12 (diff=2)
+    >: 12 -> 64 (diff=4)
+    >: 64 -> 324 (diff=4)
+    ]: 324 -> 1622 (diff=2)
+    ): 1622 -> 8111 (diff=1)
+    ): 8111 -> 40556 (diff=1)
+    }: 40556 -> 202783 (diff=3)
+    >: 202783 -> 1013919 (diff=4)
+    }: 1013919 -> 5069598 (diff=3)
+    ): 5069598 -> 25347991 (diff=1)
+    ]: 25347991 -> 126739957 (diff=2)
+  Line 18 has a score of 126739957
+  Scoring line 19...
+    }})>))}]}]}>)>}
+    }: 0 -> 3 (diff=3)
+    }: 3 -> 18 (diff=3)
+    ): 18 -> 91 (diff=1)
+    >: 91 -> 459 (diff=4)
+    ): 459 -> 2296 (diff=1)
+    ): 2296 -> 11481 (diff=1)
+    }: 11481 -> 57408 (diff=3)
+    ]: 57408 -> 287042 (diff=2)
+    }: 287042 -> 1435213 (diff=3)
+    ]: 1435213 -> 7176067 (diff=2)
+    }: 7176067 -> 35880338 (diff=3)
+    >: 35880338 -> 179401694 (diff=4)
+    ): 179401694 -> 897008471 (diff=1)
+    >: 897008471 -> 4485042359 (diff=4)
+    }: 4485042359 -> 22425211798 (diff=3)
+  Line 19 has a score of 22425211798
+  Scoring line 20...
+    >>})]>]]>}}>]}
+    >: 0 -> 4 (diff=4)
+    >: 4 -> 24 (diff=4)
+    }: 24 -> 123 (diff=3)
+    ): 123 -> 616 (diff=1)
+    ]: 616 -> 3082 (diff=2)
+    >: 3082 -> 15414 (diff=4)
+    ]: 15414 -> 77072 (diff=2)
+    ]: 77072 -> 385362 (diff=2)
+    >: 385362 -> 1926814 (diff=4)
+    }: 1926814 -> 9634073 (diff=3)
+    }: 9634073 -> 48170368 (diff=3)
+    >: 48170368 -> 240851844 (diff=4)
+    ]: 240851844 -> 1204259222 (diff=2)
+    }: 1204259222 -> 6021296113 (diff=3)
+  Line 20 has a score of 6021296113
+  Scoring line 21...
+    ]]]>]}>]}>])>}
+    ]: 0 -> 2 (diff=2)
+    ]: 2 -> 12 (diff=2)
+    ]: 12 -> 62 (diff=2)
+    >: 62 -> 314 (diff=4)
+    ]: 314 -> 1572 (diff=2)
+    }: 1572 -> 7863 (diff=3)
+    >: 7863 -> 39319 (diff=4)
+    ]: 39319 -> 196597 (diff=2)
+    }: 196597 -> 982988 (diff=3)
+    >: 982988 -> 4914944 (diff=4)
+    ]: 4914944 -> 24574722 (diff=2)
+    ): 24574722 -> 122873611 (diff=1)
+    >: 122873611 -> 614368059 (diff=4)
+    }: 614368059 -> 3071840298 (diff=3)
+  Line 21 has a score of 3071840298
+  Scoring line 22...
+    >]])>)>}>}})>}
+    >: 0 -> 4 (diff=4)
+    ]: 4 -> 22 (diff=2)
+    ]: 22 -> 112 (diff=2)
+    ): 112 -> 561 (diff=1)
+    >: 561 -> 2809 (diff=4)
+    ): 2809 -> 14046 (diff=1)
+    >: 14046 -> 70234 (diff=4)
+    }: 70234 -> 351173 (diff=3)
+    >: 351173 -> 1755869 (diff=4)
+    }: 1755869 -> 8779348 (diff=3)
+    }: 8779348 -> 43896743 (diff=3)
+    ): 43896743 -> 219483716 (diff=1)
+    >: 219483716 -> 1097418584 (diff=4)
+    }: 1097418584 -> 5487092923 (diff=3)
+  Line 22 has a score of 5487092923
+  Scoring line 23...
+    >>}>>]>}]>)}]]}
+    >: 0 -> 4 (diff=4)
+    >: 4 -> 24 (diff=4)
+    }: 24 -> 123 (diff=3)
+    >: 123 -> 619 (diff=4)
+    >: 619 -> 3099 (diff=4)
+    ]: 3099 -> 15497 (diff=2)
+    >: 15497 -> 77489 (diff=4)
+    }: 77489 -> 387448 (diff=3)
+    ]: 387448 -> 1937242 (diff=2)
+    >: 1937242 -> 9686214 (diff=4)
+    ): 9686214 -> 48431071 (diff=1)
+    }: 48431071 -> 242155358 (diff=3)
+    ]: 242155358 -> 1210776792 (diff=2)
+    ]: 1210776792 -> 6053883962 (diff=2)
+    }: 6053883962 -> 30269419813 (diff=3)
+  Line 23 has a score of 30269419813
+  Scoring line 24...
+    ]])]}>>]>]]>}
+    ]: 0 -> 2 (diff=2)
+    ]: 2 -> 12 (diff=2)
+    ): 12 -> 61 (diff=1)
+    ]: 61 -> 307 (diff=2)
+    }: 307 -> 1538 (diff=3)
+    >: 1538 -> 7694 (diff=4)
+    >: 7694 -> 38474 (diff=4)
+    ]: 38474 -> 192372 (diff=2)
+    >: 192372 -> 961864 (diff=4)
+    ]: 961864 -> 4809322 (diff=2)
+    ]: 4809322 -> 24046612 (diff=2)
+    >: 24046612 -> 120233064 (diff=4)
+    }: 120233064 -> 601165323 (diff=3)
+  Line 24 has a score of 601165323
+  Scoring line 25...
+    ])>])>}]]}>)})
+    ]: 0 -> 2 (diff=2)
+    ): 2 -> 11 (diff=1)
+    >: 11 -> 59 (diff=4)
+    ]: 59 -> 297 (diff=2)
+    ): 297 -> 1486 (diff=1)
+    >: 1486 -> 7434 (diff=4)
+    }: 7434 -> 37173 (diff=3)
+    ]: 37173 -> 185867 (diff=2)
+    ]: 185867 -> 929337 (diff=2)
+    }: 929337 -> 4646688 (diff=3)
+    >: 4646688 -> 23233444 (diff=4)
+    ): 23233444 -> 116167221 (diff=1)
+    }: 116167221 -> 580836108 (diff=3)
+    ): 580836108 -> 2904180541 (diff=1)
+  Line 25 has a score of 2904180541
+  Scoring line 26...
+    >})])>>]]))>}>
+    >: 0 -> 4 (diff=4)
+    }: 4 -> 23 (diff=3)
+    ): 23 -> 116 (diff=1)
+    ]: 116 -> 582 (diff=2)
+    ): 582 -> 2911 (diff=1)
+    >: 2911 -> 14559 (diff=4)
+    >: 14559 -> 72799 (diff=4)
+    ]: 72799 -> 363997 (diff=2)
+    ]: 363997 -> 1819987 (diff=2)
+    ): 1819987 -> 9099936 (diff=1)
+    ): 9099936 -> 45499681 (diff=1)
+    >: 45499681 -> 227498409 (diff=4)
+    }: 227498409 -> 1137492048 (diff=3)
+    >: 1137492048 -> 5687460244 (diff=4)
+  Line 26 has a score of 5687460244
+  Scoring line 27...
+    }]>)}>}}>>>)]]
+    }: 0 -> 3 (diff=3)
+    ]: 3 -> 17 (diff=2)
+    >: 17 -> 89 (diff=4)
+    ): 89 -> 446 (diff=1)
+    }: 446 -> 2233 (diff=3)
+    >: 2233 -> 11169 (diff=4)
+    }: 11169 -> 55848 (diff=3)
+    }: 55848 -> 279243 (diff=3)
+    >: 279243 -> 1396219 (diff=4)
+    >: 1396219 -> 6981099 (diff=4)
+    >: 6981099 -> 34905499 (diff=4)
+    ): 34905499 -> 174527496 (diff=1)
+    ]: 174527496 -> 872637482 (diff=2)
+    ]: 872637482 -> 4363187412 (diff=2)
+  Line 27 has a score of 4363187412
+  Scoring line 28...
+    }))))}>])>}}>]>
+    }: 0 -> 3 (diff=3)
+    ): 3 -> 16 (diff=1)
+    ): 16 -> 81 (diff=1)
+    ): 81 -> 406 (diff=1)
+    ): 406 -> 2031 (diff=1)
+    }: 2031 -> 10158 (diff=3)
+    >: 10158 -> 50794 (diff=4)
+    ]: 50794 -> 253972 (diff=2)
+    ): 253972 -> 1269861 (diff=1)
+    >: 1269861 -> 6349309 (diff=4)
+    }: 6349309 -> 31746548 (diff=3)
+    }: 31746548 -> 158732743 (diff=3)
+    >: 158732743 -> 793663719 (diff=4)
+    ]: 793663719 -> 3968318597 (diff=2)
+    >: 3968318597 -> 19841592989 (diff=4)
+  Line 28 has a score of 19841592989
+  Scoring line 29...
+    >>]})>]>]}>}>])
+    >: 0 -> 4 (diff=4)
+    >: 4 -> 24 (diff=4)
+    ]: 24 -> 122 (diff=2)
+    }: 122 -> 613 (diff=3)
+    ): 613 -> 3066 (diff=1)
+    >: 3066 -> 15334 (diff=4)
+    ]: 15334 -> 76672 (diff=2)
+    >: 76672 -> 383364 (diff=4)
+    ]: 383364 -> 1916822 (diff=2)
+    }: 1916822 -> 9584113 (diff=3)
+    >: 9584113 -> 47920569 (diff=4)
+    }: 47920569 -> 239602848 (diff=3)
+    >: 239602848 -> 1198014244 (diff=4)
+    ]: 1198014244 -> 5990071222 (diff=2)
+    ): 5990071222 -> 29950356111 (diff=1)
+  Line 29 has a score of 29950356111
+  Scoring line 30...
+    )})]]]]>})>]}
+    ): 0 -> 1 (diff=1)
+    }: 1 -> 8 (diff=3)
+    ): 8 -> 41 (diff=1)
+    ]: 41 -> 207 (diff=2)
+    ]: 207 -> 1037 (diff=2)
+    ]: 1037 -> 5187 (diff=2)
+    ]: 5187 -> 25937 (diff=2)
+    >: 25937 -> 129689 (diff=4)
+    }: 129689 -> 648448 (diff=3)
+    ): 648448 -> 3242241 (diff=1)
+    >: 3242241 -> 16211209 (diff=4)
+    ]: 16211209 -> 81056047 (diff=2)
+    }: 81056047 -> 405280238 (diff=3)
+  Line 30 has a score of 405280238
+  Scoring line 31...
+    ))}>]>}})))))]
+    ): 0 -> 1 (diff=1)
+    ): 1 -> 6 (diff=1)
+    }: 6 -> 33 (diff=3)
+    >: 33 -> 169 (diff=4)
+    ]: 169 -> 847 (diff=2)
+    >: 847 -> 4239 (diff=4)
+    }: 4239 -> 21198 (diff=3)
+    }: 21198 -> 105993 (diff=3)
+    ): 105993 -> 529966 (diff=1)
+    ): 529966 -> 2649831 (diff=1)
+    ): 2649831 -> 13249156 (diff=1)
+    ): 13249156 -> 66245781 (diff=1)
+    ): 66245781 -> 331228906 (diff=1)
+    ]: 331228906 -> 1656144532 (diff=2)
+  Line 31 has a score of 1656144532
+  Scoring line 32...
+    ))]]]))))]}
+    ): 0 -> 1 (diff=1)
+    ): 1 -> 6 (diff=1)
+    ]: 6 -> 32 (diff=2)
+    ]: 32 -> 162 (diff=2)
+    ]: 162 -> 812 (diff=2)
+    ): 812 -> 4061 (diff=1)
+    ): 4061 -> 20306 (diff=1)
+    ): 20306 -> 101531 (diff=1)
+    ): 101531 -> 507656 (diff=1)
+    ]: 507656 -> 2538282 (diff=2)
+    }: 2538282 -> 12691413 (diff=3)
+  Line 32 has a score of 12691413
+  Scoring line 33...
+    ])}})>}>]))>>]
+    ]: 0 -> 2 (diff=2)
+    ): 2 -> 11 (diff=1)
+    }: 11 -> 58 (diff=3)
+    }: 58 -> 293 (diff=3)
+    ): 293 -> 1466 (diff=1)
+    >: 1466 -> 7334 (diff=4)
+    }: 7334 -> 36673 (diff=3)
+    >: 36673 -> 183369 (diff=4)
+    ]: 183369 -> 916847 (diff=2)
+    ): 916847 -> 4584236 (diff=1)
+    ): 4584236 -> 22921181 (diff=1)
+    >: 22921181 -> 114605909 (diff=4)
+    >: 114605909 -> 573029549 (diff=4)
+    ]: 573029549 -> 2865147747 (diff=2)
+  Line 33 has a score of 2865147747
+  Scoring line 34...
+    }]>])])))]>])})
+    }: 0 -> 3 (diff=3)
+    ]: 3 -> 17 (diff=2)
+    >: 17 -> 89 (diff=4)
+    ]: 89 -> 447 (diff=2)
+    ): 447 -> 2236 (diff=1)
+    ]: 2236 -> 11182 (diff=2)
+    ): 11182 -> 55911 (diff=1)
+    ): 55911 -> 279556 (diff=1)
+    ): 279556 -> 1397781 (diff=1)
+    ]: 1397781 -> 6988907 (diff=2)
+    >: 6988907 -> 34944539 (diff=4)
+    ]: 34944539 -> 174722697 (diff=2)
+    ): 174722697 -> 873613486 (diff=1)
+    }: 873613486 -> 4368067433 (diff=3)
+    ): 4368067433 -> 21840337166 (diff=1)
+  Line 34 has a score of 21840337166
+  Scoring line 35...
+    }>))>}]]]>)}]}
+    }: 0 -> 3 (diff=3)
+    >: 3 -> 19 (diff=4)
+    ): 19 -> 96 (diff=1)
+    ): 96 -> 481 (diff=1)
+    >: 481 -> 2409 (diff=4)
+    }: 2409 -> 12048 (diff=3)
+    ]: 12048 -> 60242 (diff=2)
+    ]: 60242 -> 301212 (diff=2)
+    ]: 301212 -> 1506062 (diff=2)
+    >: 1506062 -> 7530314 (diff=4)
+    ): 7530314 -> 37651571 (diff=1)
+    }: 37651571 -> 188257858 (diff=3)
+    ]: 188257858 -> 941289292 (diff=2)
+    }: 941289292 -> 4706446463 (diff=3)
+  Line 35 has a score of 4706446463
+  Scoring line 36...
+    ))})}>>}>>)>>}
+    ): 0 -> 1 (diff=1)
+    ): 1 -> 6 (diff=1)
+    }: 6 -> 33 (diff=3)
+    ): 33 -> 166 (diff=1)
+    }: 166 -> 833 (diff=3)
+    >: 833 -> 4169 (diff=4)
+    >: 4169 -> 20849 (diff=4)
+    }: 20849 -> 104248 (diff=3)
+    >: 104248 -> 521244 (diff=4)
+    >: 521244 -> 2606224 (diff=4)
+    ): 2606224 -> 13031121 (diff=1)
+    >: 13031121 -> 65155609 (diff=4)
+    >: 65155609 -> 325778049 (diff=4)
+    }: 325778049 -> 1628890248 (diff=3)
+  Line 36 has a score of 1628890248
+  Scoring line 37...
+    ))}>}}>>)])>]
+    ): 0 -> 1 (diff=1)
+    ): 1 -> 6 (diff=1)
+    }: 6 -> 33 (diff=3)
+    >: 33 -> 169 (diff=4)
+    }: 169 -> 848 (diff=3)
+    }: 848 -> 4243 (diff=3)
+    >: 4243 -> 21219 (diff=4)
+    >: 21219 -> 106099 (diff=4)
+    ): 106099 -> 530496 (diff=1)
+    ]: 530496 -> 2652482 (diff=2)
+    ): 2652482 -> 13262411 (diff=1)
+    >: 13262411 -> 66312059 (diff=4)
+    ]: 66312059 -> 331560297 (diff=2)
+  Line 37 has a score of 331560297
+  Scoring line 38...
+    }]})]]>>>])])
+    }: 0 -> 3 (diff=3)
+    ]: 3 -> 17 (diff=2)
+    }: 17 -> 88 (diff=3)
+    ): 88 -> 441 (diff=1)
+    ]: 441 -> 2207 (diff=2)
+    ]: 2207 -> 11037 (diff=2)
+    >: 11037 -> 55189 (diff=4)
+    >: 55189 -> 275949 (diff=4)
+    >: 275949 -> 1379749 (diff=4)
+    ]: 1379749 -> 6898747 (diff=2)
+    ): 6898747 -> 34493736 (diff=1)
+    ]: 34493736 -> 172468682 (diff=2)
+    ): 172468682 -> 862343411 (diff=1)
+  Line 38 has a score of 862343411
+  Scoring line 39...
+    ))]))}}>}>}]
+    ): 0 -> 1 (diff=1)
+    ): 1 -> 6 (diff=1)
+    ]: 6 -> 32 (diff=2)
+    ): 32 -> 161 (diff=1)
+    ): 161 -> 806 (diff=1)
+    }: 806 -> 4033 (diff=3)
+    }: 4033 -> 20168 (diff=3)
+    >: 20168 -> 100844 (diff=4)
+    }: 100844 -> 504223 (diff=3)
+    >: 504223 -> 2521119 (diff=4)
+    }: 2521119 -> 12605598 (diff=3)
+    ]: 12605598 -> 63027992 (diff=2)
+  Line 39 has a score of 63027992
+  Scoring line 40...
+    >})))))}})}>)>
+    >: 0 -> 4 (diff=4)
+    }: 4 -> 23 (diff=3)
+    ): 23 -> 116 (diff=1)
+    ): 116 -> 581 (diff=1)
+    ): 581 -> 2906 (diff=1)
+    ): 2906 -> 14531 (diff=1)
+    ): 14531 -> 72656 (diff=1)
+    }: 72656 -> 363283 (diff=3)
+    }: 363283 -> 1816418 (diff=3)
+    ): 1816418 -> 9082091 (diff=1)
+    }: 9082091 -> 45410458 (diff=3)
+    >: 45410458 -> 227052294 (diff=4)
+    ): 227052294 -> 1135261471 (diff=1)
+    >: 1135261471 -> 5676307359 (diff=4)
+  Line 40 has a score of 5676307359
+  Scoring line 41...
+    ]})}>)>)>>)}>
+    ]: 0 -> 2 (diff=2)
+    }: 2 -> 13 (diff=3)
+    ): 13 -> 66 (diff=1)
+    }: 66 -> 333 (diff=3)
+    >: 333 -> 1669 (diff=4)
+    ): 1669 -> 8346 (diff=1)
+    >: 8346 -> 41734 (diff=4)
+    ): 41734 -> 208671 (diff=1)
+    >: 208671 -> 1043359 (diff=4)
+    >: 1043359 -> 5216799 (diff=4)
+    ): 5216799 -> 26083996 (diff=1)
+    }: 26083996 -> 130419983 (diff=3)
+    >: 130419983 -> 652099919 (diff=4)
+  Line 41 has a score of 652099919
+  Scoring line 42...
+    )]])]]]})])}))]
+    ): 0 -> 1 (diff=1)
+    ]: 1 -> 7 (diff=2)
+    ]: 7 -> 37 (diff=2)
+    ): 37 -> 186 (diff=1)
+    ]: 186 -> 932 (diff=2)
+    ]: 932 -> 4662 (diff=2)
+    ]: 4662 -> 23312 (diff=2)
+    }: 23312 -> 116563 (diff=3)
+    ): 116563 -> 582816 (diff=1)
+    ]: 582816 -> 2914082 (diff=2)
+    ): 2914082 -> 14570411 (diff=1)
+    }: 14570411 -> 72852058 (diff=3)
+    ): 72852058 -> 364260291 (diff=1)
+    ): 364260291 -> 1821301456 (diff=1)
+    ]: 1821301456 -> 9106507282 (diff=2)
+  Line 42 has a score of 9106507282
+  Scoring line 43...
+    ]>)>)]>}])}>}}
+    ]: 0 -> 2 (diff=2)
+    >: 2 -> 14 (diff=4)
+    ): 14 -> 71 (diff=1)
+    >: 71 -> 359 (diff=4)
+    ): 359 -> 1796 (diff=1)
+    ]: 1796 -> 8982 (diff=2)
+    >: 8982 -> 44914 (diff=4)
+    }: 44914 -> 224573 (diff=3)
+    ]: 224573 -> 1122867 (diff=2)
+    ): 1122867 -> 5614336 (diff=1)
+    }: 5614336 -> 28071683 (diff=3)
+    >: 28071683 -> 140358419 (diff=4)
+    }: 140358419 -> 701792098 (diff=3)
+    }: 701792098 -> 3508960493 (diff=3)
+  Line 43 has a score of 3508960493
+  Scoring line 44...
+    }}>>}))}))))))}
+    }: 0 -> 3 (diff=3)
+    }: 3 -> 18 (diff=3)
+    >: 18 -> 94 (diff=4)
+    >: 94 -> 474 (diff=4)
+    }: 474 -> 2373 (diff=3)
+    ): 2373 -> 11866 (diff=1)
+    ): 11866 -> 59331 (diff=1)
+    }: 59331 -> 296658 (diff=3)
+    ): 296658 -> 1483291 (diff=1)
+    ): 1483291 -> 7416456 (diff=1)
+    ): 7416456 -> 37082281 (diff=1)
+    ): 37082281 -> 185411406 (diff=1)
+    ): 185411406 -> 927057031 (diff=1)
+    ): 927057031 -> 4635285156 (diff=1)
+    }: 4635285156 -> 23176425783 (diff=3)
+  Line 44 has a score of 23176425783
+  Scoring line 45...
+    }]]})]]>}>]>>
+    }: 0 -> 3 (diff=3)
+    ]: 3 -> 17 (diff=2)
+    ]: 17 -> 87 (diff=2)
+    }: 87 -> 438 (diff=3)
+    ): 438 -> 2191 (diff=1)
+    ]: 2191 -> 10957 (diff=2)
+    ]: 10957 -> 54787 (diff=2)
+    >: 54787 -> 273939 (diff=4)
+    }: 273939 -> 1369698 (diff=3)
+    >: 1369698 -> 6848494 (diff=4)
+    ]: 6848494 -> 34242472 (diff=2)
+    >: 34242472 -> 171212364 (diff=4)
+    >: 171212364 -> 856061824 (diff=4)
+  Line 45 has a score of 856061824
+  Scoring line 46...
+    >)}}]}>>])]]]]
+    >: 0 -> 4 (diff=4)
+    ): 4 -> 21 (diff=1)
+    }: 21 -> 108 (diff=3)
+    }: 108 -> 543 (diff=3)
+    ]: 543 -> 2717 (diff=2)
+    }: 2717 -> 13588 (diff=3)
+    >: 13588 -> 67944 (diff=4)
+    >: 67944 -> 339724 (diff=4)
+    ]: 339724 -> 1698622 (diff=2)
+    ): 1698622 -> 8493111 (diff=1)
+    ]: 8493111 -> 42465557 (diff=2)
+    ]: 42465557 -> 212327787 (diff=2)
+    ]: 212327787 -> 1061638937 (diff=2)
+    ]: 1061638937 -> 5308194687 (diff=2)
+  Line 46 has a score of 5308194687
+Successfully scored 47 lines
+
+Determining solution...
+SOLVE: Your solution is 2904180541!
