@@ -1,0 +1,805 @@
+Loading input...
+Successfully loaded 94 lines of input.
+
+Parsing input...
+  Processing line 0
+    Removing pairs...
+    Removed  80 characters
+    Remainder: {[<<([{((([[[{
+    No closer remains, line is just incomplete.
+  Score changed: 0 -> 0
+  Processing line 1
+    Removing pairs...
+    Removed  94 characters
+    Remainder: ({[{({<[{<{<{
+    No closer remains, line is just incomplete.
+  Score changed: 0 -> 0
+  Processing line 2
+    Removing pairs...
+    Removed  82 characters
+    Remainder: [{[{{{[<({[{[[
+    No closer remains, line is just incomplete.
+  Score changed: 0 -> 0
+  Processing line 3
+    Removing pairs...
+    Removed  76 characters
+    Remainder: {([<(<{({[<{([
+    No closer remains, line is just incomplete.
+  Score changed: 0 -> 0
+  Processing line 4
+    Removing pairs...
+    Removed  80 characters
+    Remainder: <[{({{(({<(<((>
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      No ] was found. Line is just incomplete.
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i14
+    First bad closer: > at 14
+  Score changed: 0 -> 25137
+  Processing line 5
+    Removing pairs...
+    Removed  82 characters
+    Remainder: ({[{[[[{{{{<{
+    No closer remains, line is just incomplete.
+  Score changed: 25137 -> 25137
+  Processing line 6
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {((<<<<(([([<<
+    No closer remains, line is just incomplete.
+  Score changed: 25137 -> 25137
+  Processing line 7
+    Removing pairs...
+    Removed  70 characters
+    Remainder: (({([{{{{([<[{>]>][(({(
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i15
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i14
+    First bad closer: > at 14
+  Score changed: 25137 -> 50274
+  Processing line 8
+    Removing pairs...
+    Removed  92 characters
+    Remainder: {([<{{{{({{{
+    No closer remains, line is just incomplete.
+  Score changed: 50274 -> 50274
+  Processing line 9
+    Removing pairs...
+    Removed  68 characters
+    Remainder: (<<(<<{[<{((({))))}(({([{
+    Searching for first incorrect closer...
+      ) occurs for the first time at i14
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i18
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 14
+  Score changed: 50274 -> 50277
+  Processing line 10
+    Removing pairs...
+    Removed  88 characters
+    Remainder: ({<[({[<{<({[(
+    No closer remains, line is just incomplete.
+  Score changed: 50277 -> 50277
+  Processing line 11
+    Removing pairs...
+    Removed  86 characters
+    Remainder: <<<{{<([([<{(
+    No closer remains, line is just incomplete.
+  Score changed: 50277 -> 50277
+  Processing line 12
+    Removing pairs...
+    Removed  90 characters
+    Remainder: <[[{{<(<[[{<
+    No closer remains, line is just incomplete.
+  Score changed: 50277 -> 50277
+  Processing line 13
+    Removing pairs...
+    Removed  80 characters
+    Remainder: [<{([<[<<<)<<{{<
+    Searching for first incorrect closer...
+      ) occurs for the first time at i10
+      No ] was found. Line is just incomplete.
+      No } was found. Line is just incomplete.
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 10
+  Score changed: 50277 -> 50280
+  Processing line 14
+    Removing pairs...
+    Removed  72 characters
+    Remainder: [([(({([({{<)}}{({
+    Searching for first incorrect closer...
+      ) occurs for the first time at i12
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i13
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 12
+  Score changed: 50280 -> 50283
+  Processing line 15
+    Removing pairs...
+    Removed  90 characters
+    Remainder: {{<<(({{[<<[<(<
+    No closer remains, line is just incomplete.
+  Score changed: 50283 -> 50283
+  Processing line 16
+    Removing pairs...
+    Removed  78 characters
+    Remainder: <{(<<([<[{{[([
+    No closer remains, line is just incomplete.
+  Score changed: 50283 -> 50283
+  Processing line 17
+    Removing pairs...
+    Removed  90 characters
+    Remainder: <{({(<{<<(<[<)
+    Searching for first incorrect closer...
+      ) occurs for the first time at i13
+      No ] was found. Line is just incomplete.
+      No } was found. Line is just incomplete.
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 13
+  Score changed: 50283 -> 50286
+  Processing line 18
+    Removing pairs...
+    Removed  84 characters
+    Remainder: <<([{((<({[[{(]}][
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i14
+      } occurs for the first time at i15
+      No > was found. Line is just incomplete.
+    First bad closer: ] at 14
+  Score changed: 50286 -> 50343
+  Processing line 19
+    Removing pairs...
+    Removed  68 characters
+    Remainder: [{<[<(<[([[[{[>}]]])]>(<{<<[<(
+    Searching for first incorrect closer...
+      ) occurs for the first time at i19
+      ] occurs for the first time at i16
+      } occurs for the first time at i15
+      > occurs for the first time at i14
+    First bad closer: > at 14
+  Score changed: 50343 -> 75480
+  Processing line 20
+    Removing pairs...
+    Removed  82 characters
+    Remainder: [[(<<<{[(([[(<
+    No closer remains, line is just incomplete.
+  Score changed: 75480 -> 75480
+  Processing line 21
+    Removing pairs...
+    Removed  74 characters
+    Remainder: <<<[<<[<[{<(}><({<<
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i12
+      > occurs for the first time at i13
+    First bad closer: } at 12
+  Score changed: 75480 -> 76677
+  Processing line 22
+    Removing pairs...
+    Removed  66 characters
+    Remainder: [({<[<(((<({<<}>})>))({<[<(<
+    Searching for first incorrect closer...
+      ) occurs for the first time at i17
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i14
+      > occurs for the first time at i15
+    First bad closer: } at 14
+  Score changed: 76677 -> 77874
+  Processing line 23
+    Removing pairs...
+    Removed  94 characters
+    Remainder: <(({[<[<{{(<({(
+    No closer remains, line is just incomplete.
+  Score changed: 77874 -> 77874
+  Processing line 24
+    Removing pairs...
+    Removed  80 characters
+    Remainder: <<<([(<(<(<<{>>>[[(<
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      No ] was found. Line is just incomplete.
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i13
+    First bad closer: > at 13
+  Score changed: 77874 -> 103011
+  Processing line 25
+    Removing pairs...
+    Removed  90 characters
+    Remainder: (([[(<{[([<{[(
+    No closer remains, line is just incomplete.
+  Score changed: 103011 -> 103011
+  Processing line 26
+    Removing pairs...
+    Removed  86 characters
+    Remainder: [{{<<{<({(<(<
+    No closer remains, line is just incomplete.
+  Score changed: 103011 -> 103011
+  Processing line 27
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {(<{<[<[<<<{{<
+    No closer remains, line is just incomplete.
+  Score changed: 103011 -> 103011
+  Processing line 28
+    Removing pairs...
+    Removed  82 characters
+    Remainder: {[{((<<<<({{[
+    No closer remains, line is just incomplete.
+  Score changed: 103011 -> 103011
+  Processing line 29
+    Removing pairs...
+    Removed  68 characters
+    Remainder: (([[<<({{{[<)]}}})([(((
+    Searching for first incorrect closer...
+      ) occurs for the first time at i12
+      ] occurs for the first time at i13
+      } occurs for the first time at i14
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 12
+  Score changed: 103011 -> 103014
+  Processing line 30
+    Removing pairs...
+    Removed  76 characters
+    Remainder: <<<{<<[[<[[{([>)}<[<{
+    Searching for first incorrect closer...
+      ) occurs for the first time at i15
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i16
+      > occurs for the first time at i14
+    First bad closer: > at 14
+  Score changed: 103014 -> 128151
+  Processing line 31
+    Removing pairs...
+    Removed  86 characters
+    Remainder: {<{{{<[([<{[{]]{([{
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i13
+      No } was found. Line is just incomplete.
+      No > was found. Line is just incomplete.
+    First bad closer: ] at 13
+  Score changed: 128151 -> 128208
+  Processing line 32
+    Removing pairs...
+    Removed  78 characters
+    Remainder: <({({<<(({({({))})}<{
+    Searching for first incorrect closer...
+      ) occurs for the first time at i14
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i16
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 14
+  Score changed: 128208 -> 128211
+  Processing line 33
+    Removing pairs...
+    Removed  74 characters
+    Remainder: {{{[(((<{{)}{<<[<[{
+    Searching for first incorrect closer...
+      ) occurs for the first time at i10
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i11
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 10
+  Score changed: 128211 -> 128214
+  Processing line 34
+    Removing pairs...
+    Removed  88 characters
+    Remainder: [({<{(([<<[[
+    No closer remains, line is just incomplete.
+  Score changed: 128214 -> 128214
+  Processing line 35
+    Removing pairs...
+    Removed  94 characters
+    Remainder: {<(<{[{[{((<({{
+    No closer remains, line is just incomplete.
+  Score changed: 128214 -> 128214
+  Processing line 36
+    Removing pairs...
+    Removed  72 characters
+    Remainder: {{{([[{<<{[<<[)>>]
+    Searching for first incorrect closer...
+      ) occurs for the first time at i14
+      ] occurs for the first time at i17
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i15
+    First bad closer: ) at 14
+  Score changed: 128214 -> 128217
+  Processing line 37
+    Removing pairs...
+    Removed  78 characters
+    Remainder: {[<{{<[[<[({<<
+    No closer remains, line is just incomplete.
+  Score changed: 128217 -> 128217
+  Processing line 38
+    Removing pairs...
+    Removed  86 characters
+    Remainder: [<(((({[{((<])
+    Searching for first incorrect closer...
+      ) occurs for the first time at i13
+      ] occurs for the first time at i12
+      No } was found. Line is just incomplete.
+      No > was found. Line is just incomplete.
+    First bad closer: ] at 12
+  Score changed: 128217 -> 128274
+  Processing line 39
+    Removing pairs...
+    Removed  76 characters
+    Remainder: ({(<<(({{([{><[
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      No ] was found. Line is just incomplete.
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i12
+    First bad closer: > at 12
+  Score changed: 128274 -> 153411
+  Processing line 40
+    Removing pairs...
+    Removed  78 characters
+    Remainder: ({(<<[({({[<]]})[[[[[[
+    Searching for first incorrect closer...
+      ) occurs for the first time at i15
+      ] occurs for the first time at i12
+      } occurs for the first time at i14
+      No > was found. Line is just incomplete.
+    First bad closer: ] at 12
+  Score changed: 153411 -> 153468
+  Processing line 41
+    Removing pairs...
+    Removed  88 characters
+    Remainder: {<([<{[<{[<[[[
+    No closer remains, line is just incomplete.
+  Score changed: 153468 -> 153468
+  Processing line 42
+    Removing pairs...
+    Removed  90 characters
+    Remainder: {<({{<{<(<([[<
+    No closer remains, line is just incomplete.
+  Score changed: 153468 -> 153468
+  Processing line 43
+    Removing pairs...
+    Removed  82 characters
+    Remainder: {[[{(<[{<[<<{<<
+    No closer remains, line is just incomplete.
+  Score changed: 153468 -> 153468
+  Processing line 44
+    Removing pairs...
+    Removed  92 characters
+    Remainder: {<[[<[<<{[([[
+    No closer remains, line is just incomplete.
+  Score changed: 153468 -> 153468
+  Processing line 45
+    Removing pairs...
+    Removed  90 characters
+    Remainder: ({(<{[[{<([<([
+    No closer remains, line is just incomplete.
+  Score changed: 153468 -> 153468
+  Processing line 46
+    Removing pairs...
+    Removed  86 characters
+    Remainder: <{<(([[<<([({<
+    No closer remains, line is just incomplete.
+  Score changed: 153468 -> 153468
+  Processing line 47
+    Removing pairs...
+    Removed  86 characters
+    Remainder: [(({{{(<{{[<[{]]><(([
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i14
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i16
+    First bad closer: ] at 14
+  Score changed: 153468 -> 153525
+  Processing line 48
+    Removing pairs...
+    Removed  82 characters
+    Remainder: [[(<<<{{<{(<[{
+    No closer remains, line is just incomplete.
+  Score changed: 153525 -> 153525
+  Processing line 49
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {{{(<[(<{<[{)]<[<<
+    Searching for first incorrect closer...
+      ) occurs for the first time at i12
+      ] occurs for the first time at i13
+      No } was found. Line is just incomplete.
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 12
+  Score changed: 153525 -> 153528
+  Processing line 50
+    Removing pairs...
+    Removed  72 characters
+    Remainder: <[[(([(<<[{({(]}({[
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i14
+      } occurs for the first time at i15
+      No > was found. Line is just incomplete.
+    First bad closer: ] at 14
+  Score changed: 153528 -> 153585
+  Processing line 51
+    Removing pairs...
+    Removed  78 characters
+    Remainder: <[<{{<([<{(((({
+    No closer remains, line is just incomplete.
+  Score changed: 153585 -> 153585
+  Processing line 52
+    Removing pairs...
+    Removed  80 characters
+    Remainder: ([<{<{[<[<({[<<
+    No closer remains, line is just incomplete.
+  Score changed: 153585 -> 153585
+  Processing line 53
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {{(([({({))}){{<
+    Searching for first incorrect closer...
+      ) occurs for the first time at i 9
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i11
+      No > was found. Line is just incomplete.
+    First bad closer: ) at  9
+  Score changed: 153585 -> 153588
+  Processing line 54
+    Removing pairs...
+    Removed  84 characters
+    Remainder: [{{<{{<<{(<<{(}}
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i14
+      No > was found. Line is just incomplete.
+    First bad closer: } at 14
+  Score changed: 153588 -> 154785
+  Processing line 55
+    Removing pairs...
+    Removed  78 characters
+    Remainder: {[<({<[[[[({(
+    No closer remains, line is just incomplete.
+  Score changed: 154785 -> 154785
+  Processing line 56
+    Removing pairs...
+    Removed  80 characters
+    Remainder: [((((({{<[<{((
+    No closer remains, line is just incomplete.
+  Score changed: 154785 -> 154785
+  Processing line 57
+    Removing pairs...
+    Removed  92 characters
+    Remainder: {[(((([[[((
+    No closer remains, line is just incomplete.
+  Score changed: 154785 -> 154785
+  Processing line 58
+    Removing pairs...
+    Removed  64 characters
+    Remainder: [(<([{{[(<(]>)]}}<{(([{({(
+    Searching for first incorrect closer...
+      ) occurs for the first time at i13
+      ] occurs for the first time at i11
+      } occurs for the first time at i15
+      > occurs for the first time at i12
+    First bad closer: ] at 11
+  Score changed: 154785 -> 154842
+  Processing line 59
+    Removing pairs...
+    Removed  74 characters
+    Remainder: (<([([<([<{{{(]}}}>]([{{[<(
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i14
+      } occurs for the first time at i15
+      > occurs for the first time at i18
+    First bad closer: ] at 14
+  Score changed: 154842 -> 154899
+  Processing line 60
+    Removing pairs...
+    Removed  84 characters
+    Remainder: [{<({{([(<<{<(}>}<<(
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i14
+      > occurs for the first time at i15
+    First bad closer: } at 14
+  Score changed: 154899 -> 156096
+  Processing line 61
+    Removing pairs...
+    Removed  88 characters
+    Remainder: [<<(([<{<({{([
+    No closer remains, line is just incomplete.
+  Score changed: 156096 -> 156096
+  Processing line 62
+    Removing pairs...
+    Removed  80 characters
+    Remainder: {{{([{{[<{[[[[>]]]}[
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i15
+      } occurs for the first time at i18
+      > occurs for the first time at i14
+    First bad closer: > at 14
+  Score changed: 156096 -> 181233
+  Processing line 63
+    Removing pairs...
+    Removed  72 characters
+    Remainder: ({<(({<<(<))>(<[<[[{
+    Searching for first incorrect closer...
+      ) occurs for the first time at i10
+      No ] was found. Line is just incomplete.
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i12
+    First bad closer: ) at 10
+  Score changed: 181233 -> 181236
+  Processing line 64
+    Removing pairs...
+    Removed  72 characters
+    Remainder: [{{<[<<({([[<(>>]{
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i16
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i14
+    First bad closer: > at 14
+  Score changed: 181236 -> 206373
+  Processing line 65
+    Removing pairs...
+    Removed  82 characters
+    Remainder: ({([<[((([([<[{
+    No closer remains, line is just incomplete.
+  Score changed: 206373 -> 206373
+  Processing line 66
+    Removing pairs...
+    Removed  76 characters
+    Remainder: {[{(<[[[{<((<{
+    No closer remains, line is just incomplete.
+  Score changed: 206373 -> 206373
+  Processing line 67
+    Removing pairs...
+    Removed  90 characters
+    Remainder: {<<(<<{<<{({((
+    No closer remains, line is just incomplete.
+  Score changed: 206373 -> 206373
+  Processing line 68
+    Removing pairs...
+    Removed  74 characters
+    Remainder: (([[{{[[{{{<(<})>}[{{(
+    Searching for first incorrect closer...
+      ) occurs for the first time at i15
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i14
+      > occurs for the first time at i16
+    First bad closer: } at 14
+  Score changed: 206373 -> 207570
+  Processing line 69
+    Removing pairs...
+    Removed  96 characters
+    Remainder: [<([(<<{{<{((
+    No closer remains, line is just incomplete.
+  Score changed: 207570 -> 207570
+  Processing line 70
+    Removing pairs...
+    Removed  72 characters
+    Remainder: ((<<({({({[{[(>]}]}[[[
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i15
+      } occurs for the first time at i16
+      > occurs for the first time at i14
+    First bad closer: > at 14
+  Score changed: 207570 -> 232707
+  Processing line 71
+    Removing pairs...
+    Removed  82 characters
+    Remainder: (((<<{{([{{[{[)}]}}[{
+    Searching for first incorrect closer...
+      ) occurs for the first time at i14
+      ] occurs for the first time at i16
+      } occurs for the first time at i15
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 14
+  Score changed: 232707 -> 232710
+  Processing line 72
+    Removing pairs...
+    Removed  80 characters
+    Remainder: ([([<<<[[({[{
+    No closer remains, line is just incomplete.
+  Score changed: 232710 -> 232710
+  Processing line 73
+    Removing pairs...
+    Removed  76 characters
+    Remainder: {[<(({(([{([))[{<
+    Searching for first incorrect closer...
+      ) occurs for the first time at i12
+      No ] was found. Line is just incomplete.
+      No } was found. Line is just incomplete.
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 12
+  Score changed: 232710 -> 232713
+  Processing line 74
+    Removing pairs...
+    Removed  66 characters
+    Remainder: <[[<{[<[{{{[<}]}}}({(<{(<
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i14
+      } occurs for the first time at i13
+      No > was found. Line is just incomplete.
+    First bad closer: } at 13
+  Score changed: 232713 -> 233910
+  Processing line 75
+    Removing pairs...
+    Removed  84 characters
+    Remainder: [(({({[([[{{<[>>}}[[
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i16
+      > occurs for the first time at i14
+    First bad closer: > at 14
+  Score changed: 233910 -> 259047
+  Processing line 76
+    Removing pairs...
+    Removed  80 characters
+    Remainder: {<[({([[(({[)}(([
+    Searching for first incorrect closer...
+      ) occurs for the first time at i12
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i13
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 12
+  Score changed: 259047 -> 259050
+  Processing line 77
+    Removing pairs...
+    Removed  90 characters
+    Remainder: [{<{<{{(([((
+    No closer remains, line is just incomplete.
+  Score changed: 259050 -> 259050
+  Processing line 78
+    Removing pairs...
+    Removed  94 characters
+    Remainder: <(<{({{((((({<
+    No closer remains, line is just incomplete.
+  Score changed: 259050 -> 259050
+  Processing line 79
+    Removing pairs...
+    Removed  96 characters
+    Remainder: <{(<<(<(<{({[
+    No closer remains, line is just incomplete.
+  Score changed: 259050 -> 259050
+  Processing line 80
+    Removing pairs...
+    Removed  92 characters
+    Remainder: [(({([({[[[([[(
+    No closer remains, line is just incomplete.
+  Score changed: 259050 -> 259050
+  Processing line 81
+    Removing pairs...
+    Removed  76 characters
+    Remainder: ({[[(<<]>[<{{<{[[({
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i 7
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i 8
+    First bad closer: ] at  7
+  Score changed: 259050 -> 259107
+  Processing line 82
+    Removing pairs...
+    Removed  72 characters
+    Remainder: ((<[{[{{[<([(<))[{[
+    Searching for first incorrect closer...
+      ) occurs for the first time at i14
+      No ] was found. Line is just incomplete.
+      No } was found. Line is just incomplete.
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 14
+  Score changed: 259107 -> 259110
+  Processing line 83
+    Removing pairs...
+    Removed  76 characters
+    Remainder: ([{{[{[{[(({<{]>}))]}][<(<{<<<
+    Searching for first incorrect closer...
+      ) occurs for the first time at i17
+      ] occurs for the first time at i14
+      } occurs for the first time at i16
+      > occurs for the first time at i15
+    First bad closer: ] at 14
+  Score changed: 259110 -> 259167
+  Processing line 84
+    Removing pairs...
+    Removed  78 characters
+    Remainder: {{<{([{<[(<(<[
+    No closer remains, line is just incomplete.
+  Score changed: 259167 -> 259167
+  Processing line 85
+    Removing pairs...
+    Removed  86 characters
+    Remainder: {{{{({<[{]]>}){[<[[([{<
+    Searching for first incorrect closer...
+      ) occurs for the first time at i13
+      ] occurs for the first time at i 9
+      } occurs for the first time at i12
+      > occurs for the first time at i11
+    First bad closer: ] at  9
+  Score changed: 259167 -> 259224
+  Processing line 86
+    Removing pairs...
+    Removed  78 characters
+    Remainder: {(((((({(({<<{{
+    No closer remains, line is just incomplete.
+  Score changed: 259224 -> 259224
+  Processing line 87
+    Removing pairs...
+    Removed  84 characters
+    Remainder: {[[{<{(([{[[(<))]]}<{{([
+    Searching for first incorrect closer...
+      ) occurs for the first time at i14
+      ] occurs for the first time at i16
+      } occurs for the first time at i18
+      No > was found. Line is just incomplete.
+    First bad closer: ) at 14
+  Score changed: 259224 -> 259227
+  Processing line 88
+    Removing pairs...
+    Removed  84 characters
+    Remainder: <<[<{<[[({[[{
+    No closer remains, line is just incomplete.
+  Score changed: 259227 -> 259227
+  Processing line 89
+    Removing pairs...
+    Removed  80 characters
+    Remainder: ([([{{[[([<}<({
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i11
+      No > was found. Line is just incomplete.
+    First bad closer: } at 11
+  Score changed: 259227 -> 260424
+  Processing line 90
+    Removing pairs...
+    Removed  76 characters
+    Remainder: [[[[([<<{[{{(<
+    No closer remains, line is just incomplete.
+  Score changed: 260424 -> 260424
+  Processing line 91
+    Removing pairs...
+    Removed  76 characters
+    Remainder: [(<[([<<({[[{(>}<<
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      No ] was found. Line is just incomplete.
+      } occurs for the first time at i15
+      > occurs for the first time at i14
+    First bad closer: > at 14
+  Score changed: 260424 -> 285561
+  Processing line 92
+    Removing pairs...
+    Removed  76 characters
+    Remainder: [{[<<({([{>]<[(<
+    Searching for first incorrect closer...
+      No ) was found. Line is just incomplete.
+      ] occurs for the first time at i11
+      No } was found. Line is just incomplete.
+      > occurs for the first time at i10
+    First bad closer: > at 10
+  Score changed: 285561 -> 310698
+  Processing line 93
+    Removing pairs...
+    Removed  78 characters
+    Remainder: <[(({<[({<[{{<}}}]>})]>}))({
+    Searching for first incorrect closer...
+      ) occurs for the first time at i20
+      ] occurs for the first time at i17
+      } occurs for the first time at i14
+      > occurs for the first time at i18
+    First bad closer: } at 14
+  Score changed: 310698 -> 311895
+
+SOLVE: Your solution is 311895.
