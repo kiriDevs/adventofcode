@@ -1,0 +1,5 @@
+# Ignore JetBrains workspace configuration
+/.idea/**
+
+# Ignore compilation outputs
+**/*.cpp.exe
