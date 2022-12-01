@@ -1,0 +1,2 @@
+print(max([sum([int(a) for a in b.split("\n")]) for b in open("input", "r").read().strip().split("\n\n")]))
+print(sum(sorted([sum([int(a) for a in b.split("\n")]) for b in open("input", "r").read().strip().split("\n\n")], reverse=True)[0:3]))
