@@ -1,0 +1,834 @@
+addx 1
+tick
+#
+tick
+#
+Adding 1
+1 -> 2
+addx 4
+tick
+#
+tick
+.
+Adding 4
+2 -> 6
+noop
+tick
+#
+noop
+tick
+#
+noop
+tick
+#
+noop
+tick
+.
+addx 6
+tick
+.
+tick
+.
+Adding 6
+6 -> 12
+addx -1
+tick
+#
+tick
+#
+Adding -1
+12 -> 11
+noop
+tick
+.
+addx 5
+tick
+.
+tick
+.
+Adding 5
+11 -> 16
+noop
+tick
+#
+addx 5
+tick
+#
+tick
+.
+Adding 5
+16 -> 21
+noop
+tick
+.
+noop
+tick
+#
+Recording signal strength @20 with x=21
+420
+noop
+tick
+#
+addx 1
+tick
+#
+tick
+.
+Adding 1
+21 -> 22
+addx 3
+tick
+.
+tick
+.
+Adding 3
+22 -> 25
+addx 1
+tick
+#
+tick
+.
+Adding 1
+25 -> 26
+addx 6
+tick
+.
+tick
+.
+Adding 6
+26 -> 32
+addx -1
+tick
+.
+tick
+#
+Adding -1
+32 -> 31
+noop
+tick
+#
+noop
+tick
+.
+noop
+tick
+.
+addx 7
+tick
+.
+tick
+.
+Adding 7
+31 -> 38
+noop
+tick
+#
+addx -39
+tick
+#
+tick
+#
+Adding -39
+38 -> -1
+noop
+tick
+.
+
+noop
+tick
+.
+noop
+tick
+.
+addx 7
+tick
+.
+tick
+.
+Adding 7
+-1 -> 6
+addx 3
+tick
+.
+tick
+.
+Adding 3
+6 -> 9
+addx -2
+tick
+.
+tick
+.
+Adding -2
+9 -> 7
+addx 2
+tick
+.
+tick
+.
+Adding 2
+7 -> 9
+noop
+tick
+.
+addx 3
+tick
+.
+tick
+.
+Adding 3
+9 -> 12
+addx 2
+tick
+.
+tick
+.
+Adding 2
+12 -> 14
+addx 5
+tick
+.
+tick
+.
+Adding 5
+14 -> 19
+addx 2
+tick
+.
+tick
+.
+Adding 2
+19 -> 21
+addx -8
+tick
+.
+Recording signal strength @60 with x=21
+1260
+tick
+.
+Adding -8
+21 -> 13
+addx 13
+tick
+.
+tick
+.
+Adding 13
+13 -> 26
+noop
+tick
+.
+addx 3
+tick
+.
+tick
+.
+Adding 3
+26 -> 29
+addx -2
+tick
+.
+tick
+.
+Adding -2
+29 -> 27
+addx 2
+tick
+.
+tick
+.
+Adding 2
+27 -> 29
+addx 5
+tick
+.
+tick
+.
+Adding 5
+29 -> 34
+addx -31
+tick
+.
+tick
+.
+Adding -31
+34 -> 3
+addx 36
+tick
+.
+tick
+.
+Adding 36
+3 -> 39
+addx -2
+tick
+.
+tick
+.
+Adding -2
+39 -> 37
+addx -36
+tick
+.
+tick
+.
+
+Adding -36
+37 -> 1
+noop
+tick
+.
+noop
+tick
+.
+noop
+tick
+.
+addx 3
+tick
+.
+tick
+.
+Adding 3
+1 -> 4
+addx 5
+tick
+.
+tick
+.
+Adding 5
+4 -> 9
+addx 2
+tick
+.
+tick
+.
+Adding 2
+9 -> 11
+addx -7
+tick
+.
+tick
+.
+Adding -7
+11 -> 4
+addx 15
+tick
+.
+tick
+.
+Adding 15
+4 -> 19
+addx -5
+tick
+.
+tick
+.
+Adding -5
+19 -> 14
+addx 5
+tick
+.
+tick
+.
+Adding 5
+14 -> 19
+addx 2
+tick
+.
+tick
+.
+Adding 2
+19 -> 21
+addx 1
+tick
+.
+Recording signal strength @100 with x=21
+2100
+tick
+.
+Adding 1
+21 -> 22
+addx 4
+tick
+.
+tick
+.
+Adding 4
+22 -> 26
+noop
+tick
+.
+addx 3
+tick
+.
+tick
+.
+Adding 3
+26 -> 29
+noop
+tick
+.
+addx 2
+tick
+.
+tick
+.
+Adding 2
+29 -> 31
+addx -13
+tick
+.
+tick
+.
+Adding -13
+31 -> 18
+addx -16
+tick
+.
+tick
+.
+Adding -16
+18 -> 2
+addx 2
+tick
+.
+tick
+.
+Adding 2
+2 -> 4
+addx 35
+tick
+.
+tick
+.
+Adding 35
+4 -> 39
+addx -40
+tick
+.
+tick
+.
+Adding -40
+39 -> -1
+noop
+tick
+.
+
+noop
+tick
+.
+addx 7
+tick
+.
+tick
+.
+Adding 7
+-1 -> 6
+noop
+tick
+.
+noop
+tick
+.
+noop
+tick
+.
+addx 5
+tick
+.
+tick
+.
+Adding 5
+6 -> 11
+noop
+tick
+.
+addx 5
+tick
+.
+tick
+.
+Adding 5
+11 -> 16
+addx 10
+tick
+.
+tick
+.
+Adding 10
+16 -> 26
+addx -10
+tick
+.
+tick
+.
+Adding -10
+26 -> 16
+noop
+tick
+.
+noop
+tick
+.
+noop
+tick
+.
+addx 3
+tick
+.
+tick
+.
+Recording signal strength @140 with x=16
+2240
+Adding 3
+16 -> 19
+noop
+tick
+.
+addx 16
+tick
+.
+tick
+.
+Adding 16
+19 -> 35
+addx -9
+tick
+.
+tick
+.
+Adding -9
+35 -> 26
+noop
+tick
+.
+noop
+tick
+.
+noop
+tick
+.
+addx 3
+tick
+.
+tick
+.
+Adding 3
+26 -> 29
+noop
+tick
+.
+addx 7
+tick
+.
+tick
+.
+Adding 7
+29 -> 36
+addx -32
+tick
+.
+tick
+.
+Adding -32
+36 -> 4
+addx 35
+tick
+.
+tick
+.
+Adding 35
+4 -> 39
+addx -38
+tick
+.
+tick
+.
+Adding -38
+39 -> 1
+addx 22
+tick
+.
+
+tick
+.
+Adding 22
+1 -> 23
+addx 10
+tick
+.
+tick
+.
+Adding 10
+23 -> 33
+addx -29
+tick
+.
+tick
+.
+Adding -29
+33 -> 4
+addx 2
+tick
+.
+tick
+.
+Adding 2
+4 -> 6
+noop
+tick
+.
+addx 3
+tick
+.
+tick
+.
+Adding 3
+6 -> 9
+addx 5
+tick
+.
+tick
+.
+Adding 5
+9 -> 14
+addx 2
+tick
+.
+tick
+.
+Adding 2
+14 -> 16
+addx 2
+tick
+.
+tick
+.
+Adding 2
+16 -> 18
+addx -12
+tick
+.
+tick
+.
+Adding -12
+18 -> 6
+addx 13
+tick
+.
+tick
+.
+Recording signal strength @180 with x=6
+1080
+Adding 13
+6 -> 19
+noop
+tick
+.
+noop
+tick
+.
+addx 7
+tick
+.
+tick
+.
+Adding 7
+19 -> 26
+addx 5
+tick
+.
+tick
+.
+Adding 5
+26 -> 31
+noop
+tick
+.
+noop
+tick
+.
+noop
+tick
+.
+addx 7
+tick
+.
+tick
+.
+Adding 7
+31 -> 38
+addx -6
+tick
+.
+tick
+.
+Adding -6
+38 -> 32
+addx 2
+tick
+.
+tick
+.
+Adding 2
+32 -> 34
+addx 5
+tick
+.
+tick
+.
+Adding 5
+34 -> 39
+addx -38
+tick
+.
+tick
+.
+Adding -38
+39 -> 1
+addx 1
+tick
+.
+
+tick
+.
+Adding 1
+1 -> 2
+noop
+tick
+.
+noop
+tick
+.
+addx 2
+tick
+.
+tick
+.
+Adding 2
+2 -> 4
+noop
+tick
+.
+addx 3
+tick
+.
+tick
+.
+Adding 3
+4 -> 7
+addx 5
+tick
+.
+tick
+.
+Adding 5
+7 -> 12
+noop
+tick
+.
+addx 4
+tick
+.
+tick
+.
+Adding 4
+12 -> 16
+addx -2
+tick
+.
+tick
+.
+Adding -2
+16 -> 14
+addx 5
+tick
+.
+tick
+.
+Adding 5
+14 -> 19
+addx 2
+tick
+.
+tick
+.
+Adding 2
+19 -> 21
+addx 1
+tick
+.
+Recording signal strength @220 with x=21
+4620
+tick
+.
+Adding 1
+21 -> 22
+noop
+tick
+.
+addx 4
+tick
+.
+tick
+.
+Adding 4
+22 -> 26
+addx 4
+tick
+.
+tick
+.
+Adding 4
+26 -> 30
+addx -14
+tick
+.
+tick
+.
+Adding -14
+30 -> 16
+addx 16
+tick
+.
+tick
+.
+Adding 16
+16 -> 32
+noop
+tick
+.
+addx -13
+tick
+.
+tick
+.
+Adding -13
+32 -> 19
+addx 18
+tick
+.
+tick
+.
+Adding 18
+19 -> 37
+addx -1
+tick
+.
+tick
+.
+Adding -1
+37 -> 36
+noop
+tick
+.
+noop
+tick
+.
+noop
+tick
+.
+
+[420, 1260, 2100, 2240, 1080, 4620]
+11720
