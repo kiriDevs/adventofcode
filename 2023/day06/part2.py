@@ -25,9 +25,22 @@ def calculate_distance(windup: int, total: int):
 time: int = int("".join([str(t) for t in get_values("time")]))
 dist: int = int("".join([str(d) for d in get_values("distance")]))
 
-winning_windups: int = 0
-for windup in tqdm(range(time)):
-    reached_dist: int = calculate_distance(windup, time)
-    if reached_dist > dist:
-        winning_windups += 1
-print(f"SOLVE: {winning_windups}")
+
+def is_winning(windup: int) -> bool:
+    global time
+    global dist
+    return calculate_distance(windup, time) > dist
+
+
+lowest: int = 0
+while not is_winning(lowest):
+    lowest += 1
+print(f"Lowest: {lowest}")
+
+highest: int = time
+while not is_winning(highest):
+    highest -= 1
+print(f"Highest: {highest}")
+
+solution: int = highest - lowest + 1
+print(f"SOLVE: {solution}")
