@@ -1,5 +1,9 @@
-# Ignore JetBrains workspace configuration
+# Ignore workspace configurations
 /.idea/**
 
 # Ignore compilation outputs
-**/*.cpp.exe
+**/*.exe
+**/*.elf
+
+# Ignore puzzle inputs
+**/input
