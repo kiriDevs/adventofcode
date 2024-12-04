@@ -4,31 +4,34 @@ import { EOL } from "node:os";
 const inputLines = (await Bun.file("input").text()).trim().split(EOL);
 
 type Grid = Array<Array<string>>;
-type Vector = [number, number]; // [x, y]
 
-const STRAIGHT_DIRECTIONS: Array<Vector> = [[-1, 0], [1, 0], [0, -1], [0, 1]]
-const DIAGONAL_DIRECTIONS: Array<Vector> = [[-1, -1], [1, -1], [-1, 1], [1, 1]]
+class Vector {
+    x: number;
+    y: number;
+
+    constructor(x: number, y: number) {
+        this.x = x;
+        this.y = y;
+    }
+
+    add(other: Vector): Vector { return new Vector(this.x + other.x, this.y + other.y); }
+    neg(): Vector { return new Vector(this.x * -1, this.y * -1); }
+}
+const vec = (x: number, y: number) => new Vector(x, y);
+
+const STRAIGHT_DIRECTIONS: Array<Vector> = [vec(-1, 0), vec(1, 0), vec(0, -1), vec(0, 1)];
+const DIAGONAL_DIRECTIONS: Array<Vector> = [vec(-1, -1), vec(1, -1), vec(-1, 1), vec(1, 1)];
 
 function VALID_DIRECTIONS(part2: boolean): Array<Vector> {
     return part2 ? DIAGONAL_DIRECTIONS : STRAIGHT_DIRECTIONS.concat(DIAGONAL_DIRECTIONS);
 }
 
-function vecAdd(one: Vector, two: Vector): Vector {
-    return [one[0] + two[0], one[1] + two[1]];
-}
-
-function vecNeg(vec: Vector): Vector {
-    return [vec[0] * -1, vec[1] * -1];
-}
-
-function getFromGrid(point: Vector, grid: Grid): String {
-    return grid[point[1]][point[0]];
-}
+const getFromGrid = (point: Vector, grid: Grid): String => grid[point.y][point.x];
 
 function isInBounds(point: Vector, grid: Grid) {
     return (
-        point[1] >= 0 && point[1] < grid.length
-        && point[0] >= 0 && point[0] < grid[0].length
+        point.y >= 0 && point.y < grid.length
+        && point.x >= 0 && point.x < grid[0].length
     )
 }
 
@@ -37,7 +40,7 @@ function locateHints(grid: Grid, hintSymbol: String): Array<Vector> {
     for (let y: number = 0; y < grid.length; y++) {
         const line = grid[y];
         for (let x: number = 0; x < line.length; x++) {
-            if (line[x] == hintSymbol) hints.push([x, y]);
+            if (line[x] == hintSymbol) hints.push(new Vector(x, y));
         }
     }
     return hints;
@@ -48,7 +51,7 @@ function investigateHint(hint: Vector, searchString: String, part2: boolean = fa
     for (let searchDirection of VALID_DIRECTIONS(part2)) {
         const directionString: Array<String> = [];
 
-        let searchLocation = part2 ? vecAdd(hint, vecNeg(searchDirection)) : hint;
+        let searchLocation = part2 ? hint.add(searchDirection.neg()) : hint;
         let searchStringIndex = 0;
         while (
             isInBounds(searchLocation, inputGrid)
@@ -57,7 +60,7 @@ function investigateHint(hint: Vector, searchString: String, part2: boolean = fa
             // TODO: Maybe fail the direction on first wrong letter?
             
             directionString.push(getFromGrid(searchLocation, inputGrid));
-            searchLocation = vecAdd(searchLocation, searchDirection);
+            searchLocation = searchLocation.add(searchDirection);
             searchStringIndex += 1;
         }
         if (directionString.join("") == searchString) hitCount += 1;
