@@ -21,9 +21,12 @@ Array.prototype.biFilter = function<T>(this: Array<T>, filter: (subj: T) => bool
     return [matches, unmatches];
 }
 Array.prototype.getMiddle = function<T>(this: Array<T>) {
-    const middleInx = (this.length - 1) / 2;
+    if (this.length == 0) return 0; // For skipping unfixable updates in part2
+
+    let middleInx = Math.floor((this.length - 1) / 2);
     if (middleInx % 1 != 0) {
-        console.error("Invalid middle index", middleInx, "for Array", this);
+        console.warn("Unclear middle index", middleInx, "for", this, "(rounding down)");
+        middleInx = Math.floor(middleInx);
     }
     return this[middleInx];
 }
@@ -38,19 +41,18 @@ Array.prototype.remove = function<T>(this: Array<T>, candidate: T) {
 const rules: Array<[number, number]> = inputSections[0]
     .split(EOL)
     .map((ruleLine: string) => (
-        ruleLine.split("|").map((rulePart) => parseInt(rulePart))
+        ruleLine.split("|").map((pageNumStr) => parseInt(pageNumStr))
     ));
 const updates: Array<Array<number>> = inputSections[1]
     .split(EOL)
     .map((updateLine: string) => (
-        updateLine.split(",").map((updatePart) => parseInt(updatePart))
+        updateLine.split(",").map((pageNumStr) => parseInt(pageNumStr))
     ));
 
 const dependencyMap: Map<number, Array<number>> = new Map();
 for (let [earlier, later] of rules) {
-    // Push to existing array
+    // Push to potentially existing array, else create new one
     dependencyMap.get(later)?.push(earlier)
-    // or set new array if none exists
     ?? dependencyMap.set(later, [earlier]);
 }
 
@@ -65,6 +67,39 @@ function isValidUpdate(update: Array<number>): boolean {
     return true;
 }
 
+function reconstructUpdate(update: Array<number>): Array<number> {
+        // Enumerate relevant dependencies
+        const missingDependencies: Map<number, Array<number>> = new Map();
+        for (const page of update) {
+            const pageDependencies = dependencyMap.get(page)
+                ?.filter((dependencyPage) => update.includes(dependencyPage))
+                ?? [];
+            missingDependencies.set(page, pageDependencies);
+        }
+
+        // Re-construct the update in a valid order
+        const fixedUpdate: Array<number> = [];
+        while (missingDependencies.size > 0) {
+            let loopc = 0;
+            for (let [page, dependencies] of missingDependencies.entries()) {
+                if (loopc > missingDependencies.size) {
+                    console.warn("Skipping unfixable update:", update);
+                    return [];
+                }
+                if (dependencies.length > 0) continue;
+
+                loopc = 0;
+                fixedUpdate.push(page);
+                missingDependencies.delete(page);
+                for (let [_, otherPageDependencies] of missingDependencies) {
+                    otherPageDependencies.remove(page);
+                }
+            }
+        }
+
+        return fixedUpdate;
+}
+
 
 const [validUpdates, invalidUpdates] = updates.biFilter(isValidUpdate);
 
@@ -73,45 +108,7 @@ const solution1 = validUpdates
     .reduce((acc, middleNum) => acc + middleNum);
 
 const solution2 = invalidUpdates
-    .map((invalidUpdate) => {
-        // Enumerate relevant dependencies
-        const missingDependencies: Map<number, Array<number>> = new Map();
-        for (let page of invalidUpdate) {
-            let pageDependencies = dependencyMap.get(page);
-            pageDependencies = pageDependencies
-                ? [...pageDependencies].filter((n) => invalidUpdate.includes(n))
-                : [];
-            missingDependencies.set(page, pageDependencies);
-        }
-
-        console.log("update:", invalidUpdate);
-
-        // Re-construct the update in a valid order
-        invalidUpdate = [];
-        while (missingDependencies.size > 0) {
-            let loopc = 0;
-            for (let [page, dependencies] of missingDependencies.entries()) {
-                if (loopc > missingDependencies.size) {
-                    console.error("Infinite loop!");
-                    // @ts-ignore - tl_ls is missing @types/node
-                    process.exit();
-                }
-
-                if (dependencies.length > 0) {
-                    continue;
-                }
-
-                loopc = 0;
-                invalidUpdate.push(page);
-                missingDependencies.delete(page);
-                for (let [otherPage, _] of missingDependencies) {
-                    missingDependencies.get(otherPage)!.remove(page);
-                }
-            }
-        }
-
-        return invalidUpdate;
-    }).map((validUpdate) => validUpdate.getMiddle())
+    .map((invalidUpdate) => reconstructUpdate(invalidUpdate).getMiddle())
     .reduce((acc, middleNum) => acc + middleNum);
 
 console.log("Part 1:", solution1);
